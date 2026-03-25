@@ -124,6 +124,8 @@
 | Blitzumfrage | „Wer hat gestern Abend noch aufs Handy geschaut? Wie war der Schlaf?" | Plenum | – |
 | Einstiegsfrage | „Was könnte das eine mit dem anderen zu tun haben?" | Plenum | – |
 
+**Gesundheitsbezug:** Nach der Blitzumfrage direkte Anschlussfrage: „Wie habt ihr euch heute Morgen gefühlt – erholt oder noch müde?" Stellt von Beginn an die Verbindung zwischen Bildschirmnutzung, Schlafqualität und persönlichem Wohlbefinden als Gesundheitsthema her.
+
 **Differenzierung Sek I/II:**
 - Sek I: Fokus auf eigene Erfahrungen und Alltagsbeispiele
 - Sek II: Zusätzlich: Hypothesenbildung zu möglichen Ursachen
@@ -155,6 +157,8 @@
 | Station B | „Es ist nicht nur das Licht" – Inhalte, Aufregung, FOMO | Gruppe | AB 2b |
 | Station C | „Warum ist Schlaf so wichtig?" – Körper und Gehirn im Schlaf | Gruppe | AB 2c |
 | Station D | „Mein Schlafprofil" – Kurzfragebogen zur Selbsteinschätzung | Einzeln/Gruppe | AB 2d |
+
+**Soziale Gesundheitsdimension (Station B):** In „Es ist nicht nur das Licht" explizit aufnehmen, dass soziale Erwartungen – ständige Erreichbarkeit in Chatgruppen, Gruppendruck zu nächtlicher Online-Aktivität – den Schlaf beeinflussen. Soziale Beziehungen und digitale Verfügbarkeit als soziale Gesundheitskomponente benennen.
 
 **Differenzierung Sek I/II:**
 - Sek I: Fokus auf konkrete Alltagsbeispiele und einfache Sprache

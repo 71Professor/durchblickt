@@ -45,9 +45,9 @@
 | Phase | Status | Datum | Notiz |
 |-------|--------|-------|-------|
 | Grobkonzept (Phase 1–4) | ✅ fertig (intern) | Jan 2026 | Grobkonzept_LH3_2026_Mythen.md |
-| Leitlinien-Check (Phase 4a) | ⬜ offen | – | Vor Einreichung durchführen |
-| Phase 4b – BARMER-Genehmigungsvorlage | ⬜ offen | – | Schlankes Freigabe-DOCX erstellen → an BARMER |
-| ⏳ Warte auf BARMER-Freigabe | ⬜ offen | – | Erst nach Freigabe weiter |
+| Leitlinien-Check (Phase 4a) | ✅ fertig | März 2026 | LH3_Leitlinien-Check_2026-03.md – alle 5 Leitlinien erfüllt, einreichungsreif |
+| Phase 4b – BARMER-Genehmigungsvorlage | ✅ fertig | März 2026 | lh3/LH3_Genehmigungsvorlage_BARMER_2026-03.md |
+| ⏳ Warte auf BARMER-Freigabe | ⏳ ausstehend | – | Vorlage bereit zur Einreichung |
 | Feinkonzept + Arbeitsblätter (Phase 5) | ⬜ offen | – | – |
 | Ablaufstruktur (Phase 6) | ⬜ offen | – | – |
 | Grundschul-Erweiterung (Phase 6a) | ⬜ offen | – | 2 Phasen je LH-Thema wählen |
@@ -62,9 +62,9 @@
 | Phase | Status | Datum | Notiz |
 |-------|--------|-------|-------|
 | Grobkonzept (Phase 1–4) | ✅ fertig (intern) | Jan 2026 | Grobkonzept_LH4_2026_Schlaf.md |
-| Leitlinien-Check (Phase 4a) | ⬜ offen | – | Vor Einreichung durchführen |
-| Phase 4b – BARMER-Genehmigungsvorlage | ⬜ offen | – | Schlankes Freigabe-DOCX erstellen → an BARMER |
-| ⏳ Warte auf BARMER-Freigabe | ⬜ offen | – | Erst nach Freigabe weiter |
+| Leitlinien-Check (Phase 4a) | ✅ fertig | März 2026 | LH4_Leitlinien-Check_2026-03.md – alle 5 Leitlinien erfüllt, einreichungsreif |
+| Phase 4b – BARMER-Genehmigungsvorlage | ✅ fertig | März 2026 | lh4/LH4_Genehmigungsvorlage_BARMER_2026-03.md |
+| ⏳ Warte auf BARMER-Freigabe | ⏳ ausstehend | – | Vorlage bereit zur Einreichung |
 | Feinkonzept + Arbeitsblätter (Phase 5) | ⬜ offen | – | – |
 | Ablaufstruktur (Phase 6) | ⬜ offen | – | – |
 | Grundschul-Erweiterung (Phase 6a) | ⬜ offen | – | 2 Phasen je LH-Thema wählen |
@@ -112,5 +112,5 @@
 |----|-----------|----------|-------|
 | LH1 | Feedback erwartet (Anka + Fabienne) | – | – |
 | LH2 | Leitlinien-Check (4a) → Phase 4b DOCX erstellen | – | – |
-| LH3 | Leitlinien-Check (4a) → Phase 4b DOCX erstellen | – | – |
-| LH4 | Leitlinien-Check (4a) → Phase 4b DOCX erstellen | – | – |
+| LH3 | BARMER-Freigabe abwarten | – | Genehmigungsvorlage bereit |
+| LH4 | BARMER-Freigabe abwarten | – | Genehmigungsvorlage bereit |

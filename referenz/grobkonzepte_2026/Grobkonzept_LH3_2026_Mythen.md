@@ -130,6 +130,8 @@
 - „Blaues Licht vom Handy macht blind"
 - „Mit diesem Smoothie nimmst du 5 kg in einer Woche ab"
 
+**Gesundheitsbezug:** Im Anschluss an die Positionierung kurze Brückenfrage einbauen: „Welche dieser Behauptungen könnte eure Gesundheitsentscheidungen beeinflussen – z. B. was ihr esst, trinkt oder kauft?" Damit wird von Beginn an klar, dass es nicht um abstraktes Faktenwissen geht, sondern um den eigenen Körper und die eigene Gesundheit.
+
 **Differenzierung Sek I/II:**
 - Sek I: Fokus auf TikTok, Instagram, YouTube (Beauty, Fitness, „Life Hacks")
 - Sek II: Zusätzlich: Gesundheitsblogs, Influencer-Marketing, pseudowissenschaftliche Studien
@@ -150,6 +152,7 @@
 - Emotionen ansprechen (Angst, Hoffnung, Scham)
 - Algorithmen bevorzugen Engagement → kontroverse/emotionale Inhalte
 - Idealisierte Körperbilder als „Beweis" für Wirksamkeit
+- **Psychische Gesundheitsfolge:** Widersprüchliche oder beängstigende Gesundheitsinfos erzeugen Verunsicherung, Stress und Schamgefühle – die Verbreitung von Mythen ist kein harmloses Phänomen, sondern hat direkte Auswirkungen auf das Wohlbefinden
 
 **Differenzierung Sek I/II:**
 - Sek I: Konkrete Beispiele (Before-After-Bilder, „Wundermittel", Challenges)
