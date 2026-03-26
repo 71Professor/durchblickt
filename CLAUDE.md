@@ -67,7 +67,7 @@ durchblickt-projekt/
 | 3 | Externe Quellen integrieren | Angereicherter Entwurf |
 | 4 | Zusammenführung | Finales Grobkonzept .md |
 | 4a | Leitlinien-Check | Geprüftes Grobkonzept |
-| **4b** | **BARMER-Genehmigungsvorlage** | **Schlankes Freigabe-DOCX (wrf-Version) → an BARMER** |
+| **4b** | **BARMER-Genehmigungsvorlage** | **Kompakte .md-Version aus Mikes Grobkonzept → dann DOCX-Export → an BARMER** |
 | – | ⏳ Warte auf BARMER-Freigabe | – |
 | 5 | Feinkonzept + Arbeitsblätter | Ausgearbeitetes Konzept |
 | 5a | Stakeholder-Feedback einarbeiten | Überarbeitetes DOCX |
@@ -77,8 +77,13 @@ durchblickt-projekt/
 | 8 | Redaktions-Check + EH-Check | Abgabereife bestätigt |
 | 9 | DOCX-Export Endversion | Finale Einreichversion |
 
-**Hinweis Phase 4b:** BARMER-Genehmigung kommt VOR dem Feinkonzept.
-Erst nach Freigabe durch BARMER wird Phase 5 gestartet.
+**Hinweis Phase 4b – Ablauf:**
+1. Mike stellt das fertige Grobkonzept bereit (Datei in `/referenz/grobkonzepte_2026/`)
+2. Claude liest diese Datei und erstellt daraus die kompakte BARMER-Version
+3. Orientierung am LH1-Referenzbeispiel: `referenz/lh1/grobkonzept/Kopie von Grobkonzept_LH1_2026_eingereicht_an_barmer.docx.md`
+4. Output: zuerst als `.md` speichern (z. B. `lhX/LHX_Grobkonzept_[Thema]_barmer.md`), dann → `[docx-agent]`
+5. BARMER-Genehmigung kommt VOR dem Feinkonzept – erst nach Freigabe wird Phase 5 gestartet.
+
 **Grundschul-Erweiterungen** sind in Mikes Grobkonzepten noch nicht enthalten
 und werden erst in Phase 6a eingebaut – nach BARMER-Freigabe.
 
@@ -147,6 +152,12 @@ subagent:grundschul-erweiterung
 subagent:arbeitsblätter
   → Skill: durchblickt-skills/skills/arbeitsblätter/SKILL.md
   → Fallszenarien + Analyse-/Reflexionsinstrumente, je Sek I + Sek II
+
+subagent:barmer-genehmigung
+  → Skill: durchblickt-skills/skills/barmer-genehmigung/SKILL.md
+  → Input: Mikes Grobkonzept aus /referenz/grobkonzepte_2026/
+  → Referenz LH1-Beispiel: referenz/lh1/grobkonzept/Kopie von Grobkonzept_LH1_2026_eingereicht_an_barmer.docx.md
+  → Output: lhX/LHX_Grobkonzept_[Thema]_barmer.md → dann [docx-agent]
 
 subagent:docx-export
   → Skill: durchblickt-skills/skills/docx-export/SKILL.md

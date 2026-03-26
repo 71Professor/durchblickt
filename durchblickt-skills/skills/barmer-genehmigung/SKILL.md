@@ -18,8 +18,16 @@ für BARMER (Anka) erstellt. Dieses Dokument ist **nicht** das Feinkonzept – e
 offizielle Genehmigungsvorlage, die vor der Ausarbeitung der Materialien von BARMER
 abgesegnet wird.
 
-Referenz-Dokument für Format und Tiefe:
-→ `references/barmer_genehmigung_lh1_referenz.md`
+## Input
+
+Mike stellt das fertige Grobkonzept als Datei bereit:
+→ Quelle: `/referenz/grobkonzepte_2026/LHX_*.md`
+
+Diese Datei zuerst vollständig lesen, dann die kompakte BARMER-Version daraus ableiten.
+
+Referenz-Dokument für Format und Tiefe (LH1-Beispiel):
+→ `referenz/lh1/grobkonzept/Kopie von Grobkonzept_LH1_2026_eingereicht_an_barmer.docx.md`
+→ Auch gespeichert als: `references/barmer_genehmigung_lh1_referenz.md`
 
 ---
 
@@ -108,6 +116,12 @@ Inhalt (A, B) und Methode (A, B).
 
 ## Ausgabe
 
-- Format: DOCX (→ DOCX-Export Skill)
+**Schritt 1 – Markdown speichern:**
+- Format: `.md`
+- Dateiname: `lhX/LHX_Grobkonzept_[Thema]_barmer.md`
+- Ablage: im jeweiligen LH-Ordner (z. B. `lh2/`, `lh3/`, `lh4/`)
+
+**Schritt 2 – DOCX-Export:**
+- → `[docx-agent]` aufrufen mit der gespeicherten `.md`-Datei als Input
 - Dateiname: `LHX_Grobkonzept_[Thema]_[datum]_wrf_MK.docx`
 - Ablage: `/output/`
