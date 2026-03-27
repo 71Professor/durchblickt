@@ -10,10 +10,10 @@
 | ------------------------------------- | ------------- | --------- | ------------------------------------------ |
 | Grobkonzept                           | ✅ eingereicht | März 2026 | An BARMER (Anka)                           |
 | Leitlinien-Check (4a)                 | ✅ fertig      | Feb 2026  | intern                                     |
-| Phase 4b – BARMER-Freigabe            | ⏳ ausstehend  | –         | Grobkonzept eingereicht, Freigabe erwartet |
-| Feedback Anka/BARMER                  | ⏳ ausstehend  | –         | –                                          |
-| Feedback Fabienne/Redaktion           | ⏳ ausstehend  | –         | –                                          |
-| Feedback einarbeiten                  | ⬜ offen       | –         | Nach Freigabe                              |
+| Phase 4b – BARMER-Freigabe            | ✅ fertig       | –         | Grobkonzept eingereicht, Freigabe erwartet |
+| Feedback Anka/BARMER                  | ✅ fertig  | –         | –                                          |
+| Feedback Fabienne/Redaktion           | ✅ fertig  | –         | –                                          |
+| Feedback einarbeiten                  | ✅ fertig      | –         | Nach Freigabe                              |
 | Feinkonzept (Phase 5)                 | ✅ fertig      | Feb 2026  | intern – unter altem Workflow erstellt     |
 | Ablaufstruktur (Phase 6)              | ✅ fertig      | Feb 2026  | inkl. Grundschul-Erweiterung               |
 | Arbeitsblätter (Phase 7)              | ✅ fertig      | Feb 2026  | AB1–7 + Grundschule                        |
