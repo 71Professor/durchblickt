@@ -6,24 +6,33 @@ const {
 const fs = require("fs");
 const path = require("path");
 
-const OQ = "\u201E";
-const CQ = "\u201C";
 const YELLOW = "FFD700";
 const GREEN  = "4CAF50";
 const DARK   = "333333";
+const PAGE_W = 9360; // usable width in DXA (A4, 2cm margins each side)
+
+// ── Hilfsfunktionen ───────────────────────────────────────────────────────────
+
+function h1(text) {
+  return new Paragraph({
+    children: [new TextRun({ text, bold: true, size: 36, font: "Arial", color: DARK })],
+    spacing: { before: 200, after: 120 },
+    border: { bottom: { color: YELLOW, size: 6, style: BorderStyle.SINGLE } },
+  });
+}
 
 function h2(text) {
   return new Paragraph({
-    children: [new TextRun({ text, bold: true, size: 28, font: "Arial", color: DARK })],
-    spacing: { before: 320, after: 140 },
+    children: [new TextRun({ text, bold: true, size: 26, font: "Arial", color: DARK })],
+    spacing: { before: 280, after: 100 },
     border: { bottom: { color: YELLOW, size: 4, style: BorderStyle.SINGLE } },
   });
 }
 
 function h3(text) {
   return new Paragraph({
-    children: [new TextRun({ text, bold: true, size: 24, font: "Arial", color: DARK })],
-    spacing: { before: 200, after: 80 },
+    children: [new TextRun({ text, bold: true, size: 22, font: "Arial", color: DARK })],
+    spacing: { before: 160, after: 60 },
   });
 }
 
@@ -34,6 +43,7 @@ function p(runs, sp) {
 
 function B(text) { return new TextRun({ text, bold: true, size: 22, font: "Arial" }); }
 function N(text) { return new TextRun({ text, size: 22, font: "Arial" }); }
+function I(text) { return new TextRun({ text, italics: true, size: 20, font: "Arial", color: "555555" }); }
 
 function bullet(text, pre) {
   const runs = [];
@@ -42,37 +52,50 @@ function bullet(text, pre) {
   return new Paragraph({ children: runs, bullet: { level: 0 }, spacing: { before: 40, after: 40 } });
 }
 
-function sp() { return new Paragraph({ text: "", spacing: { before: 60, after: 60 } }); }
+function sp(px) { return new Paragraph({ text: "", spacing: { before: px || 60, after: px || 60 } }); }
 
+// Einfache Tabellenzelle (Text)
 function mkCell(text, bg, isBold, width) {
-  const c = {
-    children: [new Paragraph({ children: [new TextRun({ text: String(text), bold: !!isBold, size: 20, font: "Arial", color: DARK })], spacing: { before: 60, after: 60 } })],
+  return new TableCell({
+    children: [new Paragraph({
+      children: [new TextRun({ text: String(text), bold: !!isBold, size: 20, font: "Arial", color: DARK })],
+      spacing: { before: 60, after: 60 },
+    })],
     shading: { type: ShadingType.CLEAR, fill: bg || "FFFFFF" },
     margins: { top: 80, bottom: 80, left: 120, right: 120 },
-  };
-  if (width) c.width = { size: width, type: WidthType.DXA };
-  return new TableCell(c);
+    ...(width ? { width: { size: width, type: WidthType.DXA } } : {}),
+  });
 }
 
+// Tabelle mit Header
 function tbl(headers, rows, widths) {
   const trows = [];
   if (headers && headers.length) {
-    trows.push(new TableRow({ tableHeader: true, children: headers.map((h, i) => mkCell(h, YELLOW, true, widths ? widths[i] : null)) }));
+    trows.push(new TableRow({
+      tableHeader: true,
+      children: headers.map((h, i) => mkCell(h, YELLOW, true, widths ? widths[i] : null)),
+    }));
   }
   rows.forEach((row, ri) => {
-    trows.push(new TableRow({ children: row.map((v, i) => mkCell(v, ri % 2 === 0 ? "FFFFFF" : "FFFBEA", false, widths ? widths[i] : null)) }));
+    trows.push(new TableRow({
+      children: row.map((v, i) => mkCell(v, ri % 2 === 0 ? "FFFFFF" : "FFFBEA", false, widths ? widths[i] : null)),
+    }));
   });
-  return new Table({ rows: trows, layout: TableLayoutType.FIXED, width: { size: 9360, type: WidthType.DXA } });
+  return new Table({ rows: trows, layout: TableLayoutType.FIXED, width: { size: PAGE_W, type: WidthType.DXA } });
 }
 
-function box(color, label, lines) {
+// Infobox
+function infoBox(label, lines, color) {
+  color = color || YELLOW;
+  const bg = color === GREEN ? "E8F5E9" : "FFF9C4";
   const runs = label ? [new TextRun({ text: label + "  ", bold: true, size: 22, font: "Arial" })] : [];
   lines.forEach((l, i) => {
-    runs.push(new TextRun({ text: l, size: 22, font: "Arial", break: i > 0 ? 1 : 0 }));
+    if (i > 0) runs.push(new TextRun({ break: 1 }));
+    runs.push(new TextRun({ text: l, size: 22, font: "Arial" }));
   });
   return new Paragraph({
     children: runs,
-    shading: { type: ShadingType.CLEAR, fill: color === GREEN ? "E8F5E9" : "FFF9C4" },
+    shading: { type: ShadingType.CLEAR, fill: bg },
     border: {
       top:    { color, size: 6, style: BorderStyle.SINGLE },
       bottom: { color, size: 6, style: BorderStyle.SINGLE },
@@ -84,206 +107,327 @@ function box(color, label, lines) {
   });
 }
 
-// ── Inhalt ────────────────────────────────────────────────────────────────────
+// Zelle mit mehreren Paragraphen (für Ablaufstruktur-Tabelle)
+function richCell(paragraphs, width, bg) {
+  return new TableCell({
+    children: paragraphs,
+    shading: { type: ShadingType.CLEAR, fill: bg || "FFFFFF" },
+    margins: { top: 100, bottom: 100, left: 140, right: 140 },
+    ...(width ? { width: { size: width, type: WidthType.DXA } } : {}),
+  });
+}
+
+function rp(runs, spacing) {
+  if (typeof runs === "string") runs = [new TextRun({ text: runs, size: 20, font: "Arial" })];
+  return new Paragraph({ children: runs, spacing: spacing || { before: 60, after: 60 } });
+}
+
+function rb(text) { return new TextRun({ text, bold: true, size: 20, font: "Arial" }); }
+function rn(text) { return new TextRun({ text, size: 20, font: "Arial" }); }
+
+function rBullet(text) {
+  return new Paragraph({
+    children: [new TextRun({ text, size: 19, font: "Arial" })],
+    bullet: { level: 0 },
+    spacing: { before: 30, after: 30 },
+  });
+}
+
+function rSp() { return new Paragraph({ text: "", spacing: { before: 40, after: 0 } }); }
+
+// ── Ablaufstruktur-Tabelle (zweispaltig) ──────────────────────────────────────
+
+function ablaufTable(rows) {
+  const trows = [
+    new TableRow({
+      tableHeader: true,
+      children: [
+        mkCell("Phase / Inhalt", YELLOW, true, 5800),
+        mkCell("Differenzierung Sek\u00a0I / Sek\u00a0II", YELLOW, true, 3560),
+      ],
+    }),
+    ...rows,
+  ];
+  return new Table({ rows: trows, layout: TableLayoutType.FIXED, width: { size: PAGE_W, type: WidthType.DXA } });
+}
+
+function phaseRow(leftParas, rightParas, bg) {
+  return new TableRow({
+    children: [
+      richCell(leftParas, 5800, bg || "FFFFFF"),
+      richCell(rightParas, 3560, bg || "FFFEF0"),
+    ],
+  });
+}
+
+function infoBoxRow(label, lines) {
+  return new TableRow({
+    children: [
+      richCell([
+        rp([rb("INFOBOX // " + label)], { before: 60, after: 40 }),
+        ...lines.map(l => rp(l)),
+      ], 9360, "FFF9C4"),
+    ],
+  });
+}
+
+// ── Inhalt aufbauen ───────────────────────────────────────────────────────────
 const ch = [];
 
 // Titel
 ch.push(
-  new Paragraph({ children: [new TextRun({ text: "DURCHBLICKT! \u2013 Genehmigungsvorlage BARMER", bold: true, size: 36, font: "Arial", color: DARK })], spacing: { before: 0, after: 80 } }),
-  new Paragraph({ children: [new TextRun({ text: "Lehrkr\u00e4ftehandreichung 4: \u201ESchlaf gut!\u201C", bold: true, size: 28, font: "Arial", color: DARK })], spacing: { before: 0, after: 80 } }),
-  new Paragraph({ children: [new TextRun({ text: "Wie digitale Ger\u00e4te unseren Schlaf beeinflussen \u2013 und was wir tun k\u00f6nnen", size: 24, font: "Arial", color: "555555", italics: true })], spacing: { before: 0, after: 200 } }),
+  h1("Durchblickt! // Leitlinien 2026"),
+  sp(80),
   tbl([], [
-    ["Dokument",     "Freigabevorlage Phase 4b | Stand: M\u00e4rz 2026"],
-    ["Autor",        "Michael Kohl"],
-    ["Verlag",       "Klett MEX"],
-    ["Auftraggeber", "BARMER"],
-    ["Zielgruppe",   "Lehrkr\u00e4fte Sekundarstufe I + II"],
-    ["Dauer",        "90 Minuten (Doppelstunde)"],
-  ], [2600, 6760]),
-  sp()
+    ["Binnendifferenzierung",       "Durchgehend Sek\u00a0I/Sek\u00a0II-Varianten in Materialien und Reflexionstiefe"],
+    ["Klarer Fokus",                "Eine Leitfrage: Was passiert in meinem K\u00f6rper, wenn ich abends am Bildschirm bin \u2013 und wie kann ich besser einschlafen?"],
+    ["Andocken",                    "Baut auf LH1 (Gehirn/Hormone), LH8 (Gesundheit), LH23 (Bildschirmzeit) und LH32 (Stress) auf \u2013 ohne Wiederholung"],
+    ["Gesundheitsbezug",            "K\u00f6rperliche (Schlaf-Wach-Rhythmus, Melatonin) und psychische Gesundheit (Stimmung, Konzentration, Stress) in jeder Phase verankert"],
+    ["\u201ELanglebigkeit\u201C",   "Biologische Grundlagen (Chronobiologie, Melatonin) statt kurzlebiger App-Tipps"],
+    ["Strukturelle Kontinuit\u00e4t","Bew\u00e4hrter 6-Phasen-Aufbau"],
+    ["Einheit",                     "90 Minuten"],
+  ], [2800, 6560]),
+  sp(120),
 );
 
-// Leitlinien-Check
+// Grobkonzept-Kopf
 ch.push(
-  h2("Leitlinien-Check 2026 (Phase 4a)"),
-  tbl(
-    ["#", "Leitlinie", "Befund", "\u2713"],
-    [
-      ["1", "Binnendifferenzierung", "Alle 5 Phasen enthalten explizite Sek\u00a0I / Sek\u00a0II-Varianten \u2013 in Materialtiefe, Reflexionsgrad und Aufgabenformaten (z.\u00a0B. AB\u00a04: vorstrukturiert vs. offen; Hypothesenbildung nur Sek\u00a0II)", "\u2705"],
-      ["2", "Klarer Fokus", "Eine Leitfrage: Was passiert in meinem K\u00f6rper und Gehirn, wenn ich abends am Bildschirm bin \u2013 und wie kann ich besser einschlafen? Alle Phasen fokussiert auf Bildschirmzeit\u2013Schlaf-Zusammenhang.", "\u2705"],
-      ["3", "Andocken", "Explizite Abgrenzung zu LH1 (Gehirn allgemein \u2192 hier: Melatonin spezifisch), LH8 (Schlaf als Randthema \u2192 hier: Kernthema), LH23 (K\u00f6rper/Augen \u2192 hier: Schlafqualit\u00e4t), LH32 (Stress allgemein \u2192 hier: abendliche Mediennutzung konkret)", "\u2705"],
-      ["4", "Gesundheitsbezug", "K\u00f6rperliche Gesundheit (Melatonin, Immunsystem), psychische Gesundheit (Stimmung, Konzentration) und soziale Gesundheit (Erreichbarkeitserwartungen, sozialer Druck) in allen Phasen verankert", "\u2705"],
-      ["5", "Grobkonzept zuerst", "Vollst\u00e4ndige Konzeptstruktur mit 16 Abschnitten inkl. Exkurs Chronobiologie; Grundschul-Erweiterung folgt in Phase 6a nach BARMER-Freigabe", "\u2705"],
-    ],
-    [400, 2200, 6160, 400]
-  ),
-  sp(),
-  box(GREEN, "\u2713  Gesamtbewertung:", ["\u2705 Einreichungsreif", "Grundschul-Check entf\u00e4llt \u2013 Erweiterung wird nach BARMER-Freigabe in Phase 6a eingebaut."]),
-  sp()
+  h2("Grobkonzept 4. Handreichung"),
+  p([B("Arbeitstitel: "), N("\u201ESchlaf gut! \u2013 Wie digitale Ger\u00e4te unseren Schlaf beeinflussen\u201C")]),
+  sp(80),
 );
 
-// Rahmendaten
+// 1. Kernbotschaften
 ch.push(
-  h2("1. Rahmendaten"),
-  tbl([], [
-    ["Arbeitstitel",          OQ + "Schlaf gut! \u2013 Wie digitale Ger\u00e4te unseren Schlaf beeinflussen" + CQ],
-    ["Alternativtitel",       OQ + "Gute Nacht, Handy!\u201C | \u201EBildschirm aus, Erholung an" + CQ],
-    ["Zielgruppe",            "Lehrkr\u00e4fte weiterf\u00fchrender Schulen (Sekundarstufe I + II)"],
-    ["Altersgruppe Lernende", "12\u201318 Jahre (mit Binnendifferenzierung)"],
-    ["Dauer",                 "90 Minuten (Doppelstunde)"],
-    ["DSGVO-Hinweis",         "Alle Methoden ohne Registrierung/personenbezogene Daten umsetzbar"],
-  ], [2600, 6760]),
-  sp()
-);
-
-// Leitfrage
-ch.push(
-  h2("2. Leitfrage"),
-  box(YELLOW, "Leitfrage", [
-    "Was passiert in meinem K\u00f6rper und Gehirn, wenn ich abends am Bildschirm bin \u2013",
-    "und wie kann ich besser einschlafen?",
-  ]),
-  sp()
-);
-
-// Kernbotschaften
-ch.push(
-  h2("3. Kernbotschaften"),
+  h3("1. Kernbotschaften"),
   bullet("Schlaf ist kein Luxus, sondern lebenswichtig \u2013 besonders f\u00fcr Konzentration, Lernen und psychische Gesundheit.", "1."),
   bullet("Blaues Licht beeinflusst den Schlaf-Wach-Rhythmus \u2013 Bildschirme senden Signale ans Gehirn, die uns wach halten.", "2."),
-  bullet("Nicht nur das Licht ist das Problem \u2013 auch Inhalte, Aufregung und sozialer Druck (FOMO, Erreichbarkeit) st\u00f6ren das Einschlafen.", "3."),
-  bullet("Bildschirmfreie Rituale helfen \u2013 wer bewusst Pausen vor dem Schlafengehen einlegt, schläft besser und fühlt sich erholter.", "4."),
-  bullet("Selbstbeobachtung schafft Bewusstsein \u2013 wer den eigenen Schlaf protokolliert, erkennt Muster und Handlungsm\u00f6glichkeiten.", "5."),
-  sp()
+  bullet("Nicht nur das Licht ist das Problem \u2013 auch Inhalte, Aufregung und FOMO st\u00f6ren das Einschlafen.", "3."),
+  bullet("Bewusste Abendrituale helfen \u2013 wer Bildschirmpausen vor dem Schlafen einlegt, schläft besser und fühlt sich erholter.", "4."),
+  sp(80),
 );
 
-// Abgrenzung
+// 2. Anknüpfungspunkte
 ch.push(
-  h2("4. Abgrenzung zu bestehenden Handreichungen"),
-  tbl(
-    ["Bestehende LH", "Schwerpunkt bisher", "Diese LH \u2013 neuer Blickwinkel"],
+  h3("2. Ankn\u00fcpfungspunkte an bestehende Einheiten"),
+  bullet("LH1 Mediennutzung und das Gehirn \u2013 Hormone, Belohnungssystem (wird aktiviert/vertieft: Melatonin)"),
+  bullet("LH5 Der Trend zum Zweitbildschirm \u2013 Mediennutzung am Abend, Ablenkung"),
+  bullet("LH8 Digital stark: Gesundheit entdecken \u2013 Schlaf als Teil eines gesunden Lebensstils"),
+  bullet("LH23 Nutzungsdauer und k\u00f6rperliche Probleme \u2013 Bildschirmzeit, k\u00f6rperliche Auswirkungen"),
+  bullet("LH32 Stress ist nicht gleich Stress \u2013 Abendliche Entspannung, Achtsamkeit"),
+  sp(80),
+);
+
+// 3. KMK
+ch.push(
+  h3("3. KMK-Kompetenzbereiche (Schwerpunkt: Bereiche 4 und 5)"),
+  sp(80),
+);
+
+// 4. dGK
+ch.push(
+  h3("4. Dimensionen digitaler Gesundheitskompetenz"),
+  bullet("DGK\u00a02: Verstehen der biologischen Zusammenh\u00e4nge (Blaulicht, Melatonin, Zirkadianer Rhythmus)"),
+  bullet("DGK\u00a03: Bewerten der eigenen Abendroutine und Schlafqualit\u00e4t"),
+  bullet("DGK\u00a04: Anwenden von Strategien f\u00fcr besseren Schlaf"),
+  bullet("DGK\u00a05: Sch\u00fctzen der eigenen Gesundheit durch bewusste Bildschirmzeit am Abend"),
+  sp(120),
+);
+
+// 5. Ablaufstruktur
+ch.push(h3("5. Ablaufstruktur (90 Minuten)"), sp(60));
+
+ch.push(ablaufTable([
+  // Phase 1
+  phaseRow(
     [
-      ["LH1 Mediennutzung und Gehirn",  "Dopamin, Hormone \u2013 allgemein",           "Schlaf-Wach-Rhythmus und Melatonin \u2013 spezifisch"],
-      ["LH8 Digital stark",             "Schlaf als einer von vielen Aspekten",       "Schlaf als zentrales Thema, vertieft"],
-      ["LH23 Nutzungsdauer / K\u00f6rper",   "Haltung, Augenprobleme",                   "Bildschirmnutzung und Schlafqualit\u00e4t"],
-      ["LH32 Stress",                   "Allgemeine Stressbew\u00e4ltigung",             "Abendliche Mediennutzung als konkreter Schlafst\u00f6rer"],
+      rp([rb("PHASE 1: Einstieg \u2013 Schlaf und Bildschirm: Was hat das miteinander zu tun? (10 Min.)")], { before: 60, after: 80 }),
+      rp([rb("Ziel: "), rn("Alltagsbezug herstellen, Vorwissen aktivieren, Neugier wecken")]),
+      rSp(),
+      rp("Die Phase beginnt mit einem Bild/Szenario (Folie): Jugendliche:r liegt nachts wach, Handy leuchtet im Dunkeln."),
+      rSp(),
+      rp("Im Plenum folgt eine Blitzumfrage: \u201EWer hat gestern Abend noch aufs Handy geschaut? Wie war der Schlaf?\u201C \u2013 direkte Anschlussfrage: \u201EWie habt ihr euch heute Morgen gef\u00fchlt \u2013 erholt oder noch m\u00fcde?\u201C"),
+      rSp(),
+      rp("Impulsfrage: \u201EWas k\u00f6nnte das eine mit dem anderen zu tun haben?\u201C \u2013 Erste Vermutungen werden gesammelt."),
     ],
-    [2400, 3480, 3480]
-  ),
-  sp(),
-  p([B("Neuer Blickwinkel: "), N("Erste LH, die den wissenschaftlich fundierten Zusammenhang Bildschirmzeit\u2013Schlaf mit praktischen Selbstexperimenten verbindet.")]),
-  sp()
-);
-
-// Gesundheitsbezug
-ch.push(
-  h2("5. Gesundheitsbezug"),
-  h3("K\u00f6rperliche Gesundheit"),
-  bullet("Schlaf-Wach-Rhythmus (zirkadianer Rhythmus) und Melatoninproduktion"),
-  bullet("Regeneration von K\u00f6rper und Gehirn im Schlaf"),
-  bullet("Immunsystem und Schlafmangel"),
-  h3("Psychische Gesundheit"),
-  bullet("Zusammenhang Schlafmangel und Stimmung, Konzentration, Lernf\u00e4higkeit"),
-  bullet("Langfristige Folgen chronischen Schlafmangels"),
-  bullet("Stress und Erholung als Gesundheitsfaktor"),
-  h3("Soziale Gesundheit"),
-  bullet("Sozialer Druck zu st\u00e4ndiger Erreichbarkeit und n\u00e4chtlicher Online-Aktivit\u00e4t"),
-  bullet("FOMO und Gruppenerwartungen als Schlafst\u00f6rer"),
-  bullet("Bewusste Grenzsetzung als Schutz f\u00fcr Beziehungsqualit\u00e4t und Wohlbefinden"),
-  h3("Medienkompetenz als Schutzfaktor"),
-  bullet("Bewusste Entscheidungen \u00fcber Bildschirmzeit am Abend"),
-  bullet("Erkennen eigener Muster durch Selbstbeobachtung"),
-  bullet("Entwickeln individueller Abendrituale"),
-  sp()
-);
-
-// Ablaufstruktur
-ch.push(
-  h2("6. Ablaufstruktur (\u00dcberblick, 90 Min.)"),
-  tbl(
-    ["Phase", "Bezeichnung", "Inhalt (Kurzform)", "Zeit", "Sek\u00a0I / Sek\u00a0II"],
     [
-      ["1", "Einstieg",            "Bild: Jugendlicher liegt nachts wach; Blitzumfrage; Anschlussfrage: \u201EWie habt ihr euch heute Morgen gef\u00fchlt?\u201C",     "10 Min.", "Sek\u00a0I: Alltagserfahrungen\nSek\u00a0II: + Hypothesenbildung"],
-      ["2", "Hinf\u00fchrung",         "Erkl\u00e4rvideo / Infografik Schlafbiologie; Informationskarten (Blaulicht, Melatonin, Zirkadianer Rhythmus)",          "15 Min.", "Sek\u00a0I: vereinfachtes Schaubild\nSek\u00a0II: + wissenschaftl. Details"],
-      ["3", "Erarbeitung",         "Stationenarbeit: Blaues Licht / Inhalte & sozialer Druck / Schlaffunktionen / Schlafprofil",                         "25 Min.", "Sek\u00a0I: Alltagsbeispiele\nSek\u00a0II: + Studien lesen und bewerten"],
-      ["4", "Praxis / Anwendung",  "Abendrituale entwickeln; \u201EBildschirmfrei-Challenge\u201C planen; Schlafprotokoll einf\u00fchren",                        "25 Min.", "Sek\u00a0I: vorstrukturiert\nSek\u00a0II: offenes Protokoll, Hypothesen"],
-      ["5", "Transfer & Abschluss","Meinungslinie; H\u00fcrden besprechen; \u201EMein erster Schritt f\u00fcr besseren Schlaf\u201C; Ausblick Folgestunde",          "15 Min.", "Sek\u00a0I: pers\u00f6nliche Ebene\nSek\u00a0II: + Always-on-Kultur"],
-    ],
-    [500, 1800, 3160, 700, 3200]
+      rp([rb("Sek\u00a0I: ")], { before: 60, after: 30 }),
+      rp("Fokus auf eigenen Erfahrungen und konkreten Alltagsbeispielen."),
+      rSp(),
+      rp([rb("Sek\u00a0II: ")], { before: 60, after: 30 }),
+      rp("Zus\u00e4tzlich Hypothesenbildung zu m\u00f6glichen biologischen Ursachen."),
+    ]
   ),
-  sp()
-);
-
-// Materialuebersicht
-ch.push(
-  h2("7. Material\u00fcbersicht"),
-  tbl(
-    ["Nr.", "Material", "Einsatz"],
+  // Phase 2
+  phaseRow(
     [
-      ["AB 1",          "Infokarten Schlafbiologie (Melatonin, Blaues Licht, Zirkadianer Rhythmus)",          "Phase 2"],
-      ["AB 2a",         "Station: Blaues Licht \u2013 Experiment Nachtmodus",                                 "Phase 3"],
-      ["AB 2b",         "Station: Inhalte, Aufregung & sozialer Druck (FOMO, Erreichbarkeit)",                "Phase 3"],
-      ["AB 2c",         "Station: Schlaffunktionen \u2013 Infografik \u201EWas passiert beim Schlafen?\u201C", "Phase 3"],
-      ["AB 2d",         "Schlafprofil-Fragebogen (Selbsteinsch\u00e4tzung)",                                  "Phase 3"],
-      ["AB 3",          "Ideensammlung Abendrituale",                                                          "Phase 4"],
-      ["AB 4",          "Mein Abendritual (individuelle Gestaltungsvorlage)",                                  "Phase 4"],
-      ["AB 5",          "Schlafprotokoll (Wochenprotokoll)",                                                   "Phase 4 + Folgestunde"],
-      ["Exkurs",        "Chronobiologie \u2013 Schlafforschung, Chronotyp Jugendliche",                       "Lehrkr\u00e4ftebereich"],
+      rp([rb("PHASE 2: Hinf\u00fchrung \u2013 Was passiert in meinem Gehirn beim Einschlafen? (15 Min.)")], { before: 60, after: 80 }),
+      rp([rb("Ziel: "), rn("Wissenschaftliche Grundlagen verstehen, Zusammenh\u00e4nge erschlie\u00dfen")]),
+      rSp(),
+      rp("Ein Kurzinput (Erkl\u00e4rvideo oder Infografik, ca. 3\u20134 Min.) erl\u00e4utert: Was passiert im Gehirn beim Einschlafen?"),
+      rSp(),
+      rp("In Partnerarbeit erarbeiten die Lernenden anhand von Arbeitsblatt 1 (Informationskarten) die Grundbegriffe: Blaues Licht, Melatonin, Zirkadianer Rhythmus."),
+      rSp(),
+      rp("Im Plenum wird gemeinsam ein Schaubild vervollst\u00e4ndigt: Licht \u2192 Gehirn \u2192 Melatonin \u2192 Schlaf."),
     ],
-    [1400, 5760, 2200]
-  ),
-  sp(),
-  p("Alle Materialien in Sek\u00a0I- und Sek\u00a0II-Variante. Kein Einsatz digitaler Tools zwingend erforderlich."),
-  sp()
-);
-
-// Offene Fragen
-ch.push(
-  h2("8. Offene Fragen / Abstimmungsbedarf mit BARMER"),
-  p("Folgende Punkte ben\u00f6tigen eine Entscheidung vor Beginn des Feinkonzepts:"),
-  sp(),
-  tbl(
-    ["Nr.", "Frage", "Optionen"],
     [
-      ["1", "Arbeitstitel",    OQ + "Schlaf gut!\u201C (umgangssprachlich) | \u201EGute Nacht, Handy!\u201C | \u201EBildschirm aus, Erholung an\u201C"],
-      ["2", "Erkl\u00e4rvideo",    "Vorhandenes DSGVO-konformes Material (z.\u00a0B. \u00f6ffentlich-rechtlich) oder Neuproduktion?"],
-      ["3", "Exkurs-Thema",   "Chronobiologie (wissenschaftlich) oder \u201ESchlaf-Apps: Sinnvoll oder kontraproduktiv?\u201C (praktisch)?"],
-      ["4", "Folgestunde",    "Soll Auswertung des Schlafprotokolls als separates Mini-Material (10\u00a0Min.) ausgearbeitet werden?"],
-      ["5", "Elternmaterial", "Begleitende Elterninformation zum Thema sinnvoll?"],
-    ],
-    [400, 2600, 6360]
+      rp([rb("Sek\u00a0I: ")], { before: 60, after: 30 }),
+      rp("Vereinfachtes Schaubild mit drei Grundbegriffen."),
+      rSp(),
+      rp([rb("Sek\u00a0II: ")], { before: 60, after: 30 }),
+      rp("Erweiterte Darstellung mit wissenschaftlichen Details (Suprachiasmatischer Kern, Blaulicht-Wellenl\u00e4nge 450\u2013495\u00a0nm)."),
+    ]
   ),
-  sp()
-);
+  // Phase 3
+  phaseRow(
+    [
+      rp([rb("PHASE 3: Erarbeitung \u2013 Schlafst\u00f6rer entdecken (25 Min.)")], { before: 60, after: 80 }),
+      rp([rb("Ziel: "), rn("Vielf\u00e4ltige Schlafst\u00f6rer erkennen, Selbstreflexion ansto\u00dfen")]),
+      rSp(),
+      rp([rb("Stationenarbeit "), rn("(Gruppenrotation, je ca. 6 Min.) \u2013 vier Stationen:")]),
+      rBullet("Station\u00a0A \u201EBlaues Licht und seine Wirkung\u201C \u2013 Experiment Nachtmodus, Farbtemperatur (AB 2a)"),
+      rBullet("Station\u00a0B \u201EEs ist nicht nur das Licht\u201C \u2013 Inhalte, Aufregung, FOMO und soziale Erreichbarkeit als Schlafst\u00f6rer (AB 2b)"),
+      rBullet("Station\u00a0C \u201EWarum ist Schlaf so wichtig?\u201C \u2013 K\u00f6rper und Gehirn im Schlaf (AB 2c)"),
+      rBullet("Station\u00a0D \u201EMein Schlafprofil\u201C \u2013 Kurzfragebogen zur Selbsteinsch\u00e4tzung (AB 2d)"),
+      rSp(),
+      rp([rb("Gesundheitsbezug Station\u00a0B: "), rn("Explizit aufnehmen, dass soziale Erwartungen \u2013 st\u00e4ndige Erreichbarkeit in Chatgruppen, Gruppendruck zu n\u00e4chtlicher Online-Aktivit\u00e4t \u2013 den Schlaf als soziale Gesundheitskomponente beeinflussen.")]),
+    ],
+    [
+      rp([rb("Sek\u00a0I: ")], { before: 60, after: 30 }),
+      rp("Fokus auf konkrete Alltagsbeispiele und einfache Sprache."),
+      rSp(),
+      rp([rb("Sek\u00a0II: ")], { before: 60, after: 30 }),
+      rp("Zus\u00e4tzlich wissenschaftliche Studien lesen und bewerten."),
+    ]
+  ),
+  // Infobox
+  new TableRow({
+    children: [
+      new TableCell({
+        columnSpan: 2,
+        children: [
+          rp([rb("INFOBOX // Chronotyp und Schulbeginn")], { before: 60, after: 60 }),
+          rp([rb("Wusstest du das?  "), rn("Teenager schlafen von Natur aus sp\u00e4ter ein und wachen sp\u00e4ter auf \u2013 das ist biologisch bedingt (Chronotyp). Fr\u00fcher Schulbeginn trifft auf einen entwicklungsbedingt verschobenen Schlafrhythmus \u2013 Schlafmangel ist die Folge. Bildschirmnutzung am Abend verst\u00e4rkt diesen Effekt zus\u00e4tzlich.")]),
+          rp([rb("Lehrkraft-Hinweis: "), rn("Dieser Aspekt kann entlasten \u2013 Jugendliche sind nicht \u201Efaul\u201C, sondern biologisch anders getaktet.")]),
+        ],
+        shading: { type: ShadingType.CLEAR, fill: "FFF9C4" },
+        margins: { top: 80, bottom: 80, left: 140, right: 140 },
+        width: { size: PAGE_W, type: WidthType.DXA },
+        borders: {
+          top:    { color: YELLOW, size: 4, style: BorderStyle.SINGLE },
+          bottom: { color: YELLOW, size: 4, style: BorderStyle.SINGLE },
+          left:   { color: YELLOW, size: 4, style: BorderStyle.SINGLE },
+          right:  { color: YELLOW, size: 4, style: BorderStyle.SINGLE },
+        },
+      }),
+    ],
+  }),
+  // Phase 4
+  phaseRow(
+    [
+      rp([rb("PHASE 4: Vertiefung \u2013 Mein Abendritual entwickeln (20 Min.)")], { before: 60, after: 80 }),
+      rp([rb("Ziel: "), rn("Handlungsstrategien entwickeln, pers\u00f6nliche Ver\u00e4nderung planen")]),
+      rSp(),
+      rp("Impuls: \u201EWas k\u00f6nnte helfen?\u201C \u2013 Brainstorming zu bildschirmfreien Abendritualen in Partnerarbeit (AB 3)."),
+      rSp(),
+      rp("In Einzelarbeit entwickelt jede:r ein pers\u00f6nliches Abendritual (30\u201360 Min. vor dem Schlafen) auf Arbeitsblatt 4 \u2013 mit konkreten Bausteinen f\u00fcr die eigene Abendroutine."),
+      rSp(),
+      rp("Im Plenum: Vorstellung der \u201EBildschirmfrei-Challenge\u201C \u2013 eine Woche lang das eigene Schlafverhalten beobachten und im Schlafprotokoll (AB 5) dokumentieren."),
+    ],
+    [
+      rp([rb("Sek\u00a0I: ")], { before: 60, after: 30 }),
+      rp("Vorstrukturiertes Protokoll, konkrete Ritualvorschl\u00e4ge zum Ankreuzen."),
+      rSp(),
+      rp([rb("Sek\u00a0II: ")], { before: 60, after: 30 }),
+      rp("Offenes Protokoll, eigene Hypothesen formulieren und testen: \u201EWas ver\u00e4ndert sich, wenn ich 60 Min. vor dem Schlafen keinen Bildschirm nutze?\u201C"),
+    ]
+  ),
+  // Infobox 2
+  new TableRow({
+    children: [
+      new TableCell({
+        columnSpan: 2,
+        children: [
+          rp([rb("INFOBOX // Schlaf-Apps: Hilfreich oder kontraproduktiv?")], { before: 60, after: 60 }),
+          rp([rb("\u26a0 Aufgepasst!  "), rn("Schlaf-Apps messen Schlafqualit\u00e4t \u00fcber Bewegung und Ger\u00e4usche \u2013 sie sind kein medizinisches Ger\u00e4t und k\u00f6nnen erheblich von tats\u00e4chlichen Schlafwerten abweichen. Wichtig: Das Handy vor dem Schlafen einzuschalten, um den Schlaf zu \u201Emessen\u201C, widerspricht dem Ziel, Bildschirmzeit am Abend zu reduzieren. Wer seinen Schlaf reflektieren m\u00f6chte, kann das einfach mit einem schriftlichen Tagebuch tun.")]),
+        ],
+        shading: { type: ShadingType.CLEAR, fill: "FFF9C4" },
+        margins: { top: 80, bottom: 80, left: 140, right: 140 },
+        width: { size: PAGE_W, type: WidthType.DXA },
+        borders: {
+          top:    { color: YELLOW, size: 4, style: BorderStyle.SINGLE },
+          bottom: { color: YELLOW, size: 4, style: BorderStyle.SINGLE },
+          left:   { color: YELLOW, size: 4, style: BorderStyle.SINGLE },
+          right:  { color: YELLOW, size: 4, style: BorderStyle.SINGLE },
+        },
+      }),
+    ],
+  }),
+  // Phase 5
+  phaseRow(
+    [
+      rp([rb("PHASE 5: Transfer \u2013 Mein erster Schritt (10 Min.)")], { before: 60, after: 80 }),
+      rp([rb("Ziel: "), rn("Pers\u00f6nlichen Transfer sichern, Selbstverpflichtung f\u00f6rdern")]),
+      rSp(),
+      rp("Positionierung entlang einer Meinungslinie: \u201EIch werde heute Abend mein Handy fr\u00fcher weglegen.\u201C \u2013 H\u00fcrden und L\u00f6sungsideen werden im Plenum besprochen: Was hindert mich? Was k\u00f6nnte helfen?"),
+      rSp(),
+      rp("In Einzelarbeit notiert jede:r auf einem Notizzettel: \u201EMein erster Schritt f\u00fcr besseren Schlaf\u201C \u2013 anonym, f\u00fcr sich behalten."),
+    ],
+    [
+      rp([rb("Sek\u00a0I: ")], { before: 60, after: 30 }),
+      rp("Fokus auf pers\u00f6nliche Ebene, kleine konkrete Schritte."),
+      rSp(),
+      rp([rb("Sek\u00a0II: ")], { before: 60, after: 30 }),
+      rp("Zus\u00e4tzlich: Diskussion \u00fcber gesellschaftliche Dimension \u2013 Always-on-Kultur, Erreichbarkeitserwartungen, Arbeitswelt."),
+    ]
+  ),
+  // Phase 6
+  phaseRow(
+    [
+      rp([rb("PHASE 6: Reflexion & Follow-up (10 Min. + optional 15 Min. nach 1\u20132 Wochen)")], { before: 60, after: 80 }),
+      rp([rb("Ziel: "), rn("Lernprozess reflektieren, Erfahrungen mit dem Schlafprotokoll verankern")]),
+      rSp(),
+      rp("Abschlussrunde im Plenum: \u201EWas nehme ich heute mit? Was \u00fcberrascht mich?\u201C \u2013 Offene Runde ohne Produkt, Lernr\u00fcckblick."),
+      rSp(),
+      rp("Hinweis auf die Schlafprotokoll-Auswertung in einer Folgestunde."),
+      rSp(),
+      rp([rb("Follow-up (ca. 15\u00a0Min., nach 1\u20132 Wochen): "), rn("Auswertung der Schlafprotokolle \u2013 Vergleich \u201EMit Handy ins Bett\u201C vs. \u201EHandyfreie Stunde vorher\u201C. Erfahrungsaustausch zur Bildschirmfrei-Challenge. Optional: Kurze Mentimeter-Umfrage zum Vergleich mit dem Einstieg.")]),
+    ],
+    [
+      rp("", { before: 60, after: 60 }),
+    ]
+  ),
+]));
 
-// Naechste Schritte
+// Footer
 ch.push(
-  h2("9. N\u00e4chste Schritte nach BARMER-Freigabe"),
-  p("Nach Freigabe durch BARMER startet Phase 5 (Feinkonzept + Arbeitsbl\u00e4tter):"),
-  bullet("Feinkonzept ausarbeiten", "1."),
-  bullet("Bestehendes Videomaterial pr\u00fcfen (\u00f6ffentlich-rechtliche Sender)", "2."),
-  bullet("Arbeitsbl\u00e4tter entwerfen (Sek\u00a0I / Sek\u00a0II-Varianten)", "3."),
-  bullet("Infografik \u201ESchlaf-Wach-Rhythmus\u201C gestalten", "4."),
-  bullet("Schlafprotokoll-Vorlage entwickeln", "5."),
-  bullet("Exkurs-Seite ausarbeiten", "6."),
-  bullet("Ablaufstruktur (6 Phasen) vertiefen \u2013 inkl. Platzhalter Grundschul-Erweiterung", "7."),
-  bullet("Grundschul-Erweiterung in 2 thematisch passenden Phasen einbauen (Phase 6a)", "8."),
-  sp(),
-  new Paragraph({ children: [new TextRun({ text: "DURCHBLICKT! \u2013 Digital in eine gesunde Zukunft  |  BARMER / Klett MEX", size: 18, font: "Arial", color: "888888", italics: true })], alignment: AlignmentType.CENTER, spacing: { before: 240, after: 40 } }),
-  new Paragraph({ children: [new TextRun({ text: "Genehmigungsvorlage LH4  |  Autor: Michael Kohl  |  M\u00e4rz 2026", size: 18, font: "Arial", color: "888888", italics: true })], alignment: AlignmentType.CENTER, spacing: { before: 0, after: 0 } })
+  sp(200),
+  new Paragraph({
+    children: [new TextRun({ text: "DURCHBLICKT! \u2013 Digital in eine gesunde Zukunft  |  BARMER / Klett MEX", size: 18, font: "Arial", color: "888888", italics: true })],
+    alignment: AlignmentType.CENTER, spacing: { before: 120, after: 40 },
+  }),
+  new Paragraph({
+    children: [new TextRun({ text: "Genehmigungsvorlage LH4 \u201ESchlaf gut!\u201C  |  Autor: Michael Kohl  |  M\u00e4rz 2026", size: 18, font: "Arial", color: "888888", italics: true })],
+    alignment: AlignmentType.CENTER, spacing: { before: 0, after: 0 },
+  }),
 );
 
-// ── Dokument ──────────────────────────────────────────────────────────────────
+// ── Dokument & Export ─────────────────────────────────────────────────────────
 const doc = new Document({
   styles: { default: { document: { run: { font: "Arial", size: 22, color: DARK } } } },
   sections: [{
-    properties: { page: { size: { width: 11906, height: 16838 }, margin: { top: 1134, bottom: 1134, left: 1134, right: 1134 } } },
+    properties: {
+      page: {
+        size: { width: 11906, height: 16838 },
+        margin: { top: 1134, bottom: 1134, left: 1134, right: 1134 },
+      },
+    },
     children: ch,
   }],
 });
 
-const outPath = path.join(__dirname, "../output/LH4_Genehmigungsvorlage_BARMER_2026-03.docx");
+const outPath = path.join(__dirname, "../output/LH4_Grobkonzept_Schlaf_2026-03_wrf_MK.docx");
 Packer.toBuffer(doc).then(buf => {
   fs.writeFileSync(outPath, buf);
   console.log("\u2705 DOCX erstellt: " + outPath);
-});
+}).catch(e => console.error("\u274C Fehler:", e));

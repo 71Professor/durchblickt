@@ -64,8 +64,8 @@
 | -------------------------------------- | ----------------- | --------- | ----------------------------------------------------------------------------- |
 | Grobkonzept (Phase 1–4)                | ✅ fertig (intern) | Jan 2026  | Grobkonzept_LH4_2026_Schlaf.md                                                |
 | Leitlinien-Check (Phase 4a)            | ✅ fertig          | März 2026 | LH4_Leitlinien-Check_2026-03.md – alle 5 Leitlinien erfüllt, einreichungsreif |
-| Phase 4b – BARMER-Genehmigungsvorlage  | ⬜ offen           | -         | -                                                                             |
-| ⏳ Warte auf BARMER-Freigabe            | ⏳ ausstehend      | –         | -                                                                             |
+| Phase 4b – BARMER-Genehmigungsvorlage  | ✅ fertig          | März 2026 | lh4/LH4_Grobkonzept_Schlaf_barmer.md + output/LH4_Grobkonzept_Schlaf_2026-03_wrf_MK.docx |
+| ⏳ Warte auf BARMER-Freigabe            | ⏳ ausstehend      | –         | Genehmigungsvorlage bereit, Einreichung ausstehend                           |
 | Feinkonzept + Arbeitsblätter (Phase 5) | ⬜ offen           | –         | –                                                                             |
 | Ablaufstruktur (Phase 6)               | ⬜ offen           | –         | –                                                                             |
 | Grundschul-Erweiterung (Phase 6a)      | ⬜ offen           | –         | 2 Phasen je LH-Thema wählen                                                   |
