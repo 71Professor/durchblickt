@@ -135,9 +135,11 @@
 ### Phase 1: Einstieg & Aktivierung (15 Min.)
 **Ziel:** Thema aktivieren, Vorwissen sichtbar machen, Problembewusstsein schaffen
 
+> **Video-Idee:** Bildcollage – 4 Profile derselben Person (z.B. Instagram, LinkedIn, privat, öffentlich). Direkter Vergleich „Alltagsprofil" vs. „Highlight-Profil" als emotionaler Einstieg. Die Frage „Wer ist die echte Person?" macht die Konstruiertheit digitaler Identität sichtbar – ohne zu moralisieren.
+
 | Element | Beschreibung | Sozialform | Material |
 |---------|--------------|------------|----------|
-| Impuls | Bildcollage: 4 verschiedene Profile derselben Person (z.B. Instagram, LinkedIn, privat, öffentlich) – Vergleich "Alltagsprofil" vs. "Highlight-Profil" | Plenum | Bildmaterial 1 |
+| **Video** | Bildcollage: 4 Profile derselben Person (z.B. Instagram, LinkedIn, privat, öffentlich) – „Alltagsprofil" vs. „Highlight-Profil" als emotionaler Einstieg | Plenum | Video/Bildmaterial 1 |
 | Impulsfragen | "Wer ist die echte Person? Welche Person würdest du lieber kennenlernen? Warum? Was zeigen wir online, was nicht?" | Plenum | – |
 | Sammlung | "Wo präsentiere ich mich online?" (anonym, Kartenabfrage oder Padlet) | Einzelarbeit → Plenum | Karten/Padlet |
 | Überleitung | "Welches Profil zeigst du von dir?" | Plenum | – |
@@ -203,21 +205,31 @@
 
 ---
 
-### Phase 5: Transfer & Reflexion (15 Min.)
-**Ziel:** Eigene Online-Präsenz reflektieren, Handlungsstrategien entwickeln
+### Phase 5: Transfer (10 Min.)
+**Ziel:** Handlungsstrategien konkret entwickeln, persönliche Haltung festigen
 
 | Element | Beschreibung | Sozialform | Material |
 |---------|--------------|------------|----------|
-| Selbstreflexion | "Meine Online-Präsenz": Was teile ich? Wie fühle ich mich dabei? Gibt es Unterschiede zwischen meinem Online-Ich und meinem realen Ich? | Einzelarbeit | Arbeitsblatt 4 |
-| Austausch | Freiwilliger Austausch über Erkenntnisse (niedrigschwellig, geschützter Rahmen) | Partnerarbeit | – |
 | Strategieentwicklung | "5 Fragen vor dem Posten" – Leitfragen für reflektierte Selbstdarstellung entwickeln oder diskutieren | Partnerarbeit | Arbeitsblatt 5 |
-| Diskussion | "Müssen wir online authentisch sein?" oder Meinungslinie: "Ein authentisches Profil ist wichtiger als ein perfektes" | Plenum | – |
-| Tipps sammeln | "Gesunde Online-Präsenz – was hilft?" | Plenum | Tafel/Board |
-| Take-away | Persönlicher Vorsatz: Eine Sache, die ich ändern/beachten will, oder persönliche "Posting-Regel" | Einzelarbeit | Notizzettel |
+| Diskussion | Meinungslinie: "Ein authentisches Profil ist wichtiger als ein perfektes" – Positionen werden kurz begründet | Plenum | – |
+| Take-away | Persönlicher Vorsatz: Eine Sache, die ich ändern/beachten will, oder persönliche "Posting-Regel" (anonym, für sich behalten) | Einzelarbeit | Notizzettel |
 
 **Differenzierung Sek I/II:**
-- Sek I: Fokus auf Gefühle vor/nach dem Posten, Likes/Kommentare; konkrete Verhaltenstipps sammeln
-- Sek II: Zusätzlich: Diskrepanz Online-Persona vs. reales Selbst, Auswirkungen auf Identität; ethische Diskussion, gesellschaftliche Verantwortung, "Recht auf Unperfektheit"
+- Sek I: Vorformulierte Fragen als Ausgangspunkt; konkrete Verhaltenstipps sammeln
+- Sek II: Fragen selbst entwickeln; ethische Diskussion: gesellschaftliche Verantwortung, "Recht auf Unperfektheit"
+
+---
+
+### Phase 6: Reflexion (5 Min.)
+**Ziel:** Rückblick auf den Lernprozess – kein Produkt, kein Handlungsdruck
+
+| Element | Beschreibung | Sozialform | Material |
+|---------|--------------|------------|----------|
+| Blitzlicht | Abschlussrunde: "Was nehme ich heute mit? Was hat mich überrascht? Was beschäftigt mich noch?" – Offene Fragen werden gesammelt, ohne Auflösung, als Impuls zum Weiterdenken | Plenum | – |
+| Selbstreflexion (optional) | "Meine Online-Präsenz": Was teile ich? Wie fühle ich mich dabei? Gibt es Unterschiede zwischen meinem Online-Ich und meinem realen Ich? (anonym, für sich behalten, kein Teilen erforderlich) | Einzelarbeit | Arbeitsblatt 4 |
+
+**Differenzierung Sek I/II:**
+- Einheitlich für Sek I und Sek II. Niedrigschwellig, freiwillig, kein Bewertungsdruck.
 
 ---
 
@@ -281,7 +293,7 @@
 | **Andocken** | Baut auf LH1, LH29, LH19, LH14, LH7 auf – ohne inhaltliche Dopplung; explizite Anknüpfungspunkte definiert |
 | **Gesundheitsbezug** | In jeder Phase explizit verankert (Selbstwert, soziale Vergleiche, Authentizität, mentale Gesundheit, Identitätsentwicklung, soziale Beziehungen) |
 | **Langlebigkeit** | Psychologische Grundlagen statt plattformspezifischer Details; zeitlose Konzepte (Goffman, Festinger, Erikson) |
-| **Strukturelle Kontinuität** | Bewährter 5-Phasen-Aufbau (Einstieg → Hinführung → Vertiefung → Transfer) |
+| **Strukturelle Kontinuität** | Bewährter 6-Phasen-Aufbau (Einstieg mit Video → Hinführung → Vertiefung I → Vertiefung II → Transfer → Reflexion) |
 
 ---
 
