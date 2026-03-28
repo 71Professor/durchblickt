@@ -107,7 +107,7 @@
 | **4. Anwenden** | ● Faktencheck-Methoden anwenden, verlässliche Quellen nutzen |
 | **5. Schützen** | ● Gesundheit durch informierte Entscheidungen schützen |
 | **6. Kommunizieren** | ○ Gesundheitsinformationen verantwortungsvoll teilen |
-| **7. Produzieren** | ● Eigene wissenschaftsbasierte Quiz-Inhalte erstellen |
+| **7. Produzieren** | ● Eigene wissenschaftsbasierte Quiz-Inhalte erstellen (Peer-Education) |
 
 **Schwerpunkt:** Dimensionen 2, 3, 4, 5, 7
 
@@ -115,7 +115,21 @@
 
 ## 9. Ablaufstruktur (90 Minuten)
 
-### Phase 1: Einstieg – „Glaubst du das?" (15 Min.)
+**Überblick:**
+
+| Phase | Inhalt | Dauer |
+|-------|--------|-------|
+| Einstieg | Startimpuls: „Glaubst du das?" | 10 Min. |
+| Hinführung | Warum verbreiten sich Mythen? | 15 Min. |
+| Erarbeitung 1 | Faktenchecks durchführen | 25 Min. |
+| Erarbeitung 2 | Körperbilder & Gesundheitsmythen | 15 Min. |
+| Vertiefung | Influencer-Analyse | 10 Min. |
+| Transfer | „Wahr oder Fake?"-Quiz erstellen und spielen | 10 Min. |
+| Reflexion | Faktencheck-Versprechen & Abschlussrunde | 5 Min. |
+
+---
+
+### Einstieg – „Glaubst du das?" (10 Min.)
 **Ziel:** Vorwissen aktivieren, persönliche Relevanz herstellen, Neugier wecken
 
 | Element | Beschreibung | Sozialform | Material |
@@ -138,8 +152,8 @@
 
 ---
 
-### Phase 2: Hinführung – Warum verbreiten sich Mythen? (15 Min.)
-**Ziel:** Mechanismen der Verbreitung verstehen, Verbindung zu Körperbildern herstellen
+### Hinführung – Warum verbreiten sich Mythen? (15 Min.)
+**Ziel:** Mechanismen der Verbreitung verstehen, Verbindung zu Körperbildern und psychischer Gesundheit herstellen
 
 | Element | Beschreibung | Sozialform | Material |
 |---------|--------------|------------|----------|
@@ -160,44 +174,44 @@
 
 ---
 
-### Phase 3: Erarbeitung I – Faktencheck-Werkstatt (25 Min.)
-**Ziel:** Praktische Methoden zur Überprüfung von Gesundheitsbehauptungen erlernen und anwenden
+### Erarbeitung 1 – Faktenchecks durchführen (25 Min.)
+**Ziel:** Methoden zur Überprüfung von Gesundheitsbehauptungen erlernen und praktisch anwenden
 
 | Element | Beschreibung | Sozialform | Material |
 |---------|--------------|------------|----------|
-| Methodenkoffer | QQQQ-Methode kennenlernen + Übersicht verlässlicher Quellen | Plenum | Arbeitsblatt 2 |
-| Praxis | 4 Gesundheitsbehauptungen in Gruppen überprüfen | Gruppenarbeit (3-4) | Arbeitsblatt 3a-d |
-| Präsentation | Jede Gruppe präsentiert einen Faktencheck (je 3 Min.) | Plenum | — |
+| Methodenkoffer | Faktencheck-Werkzeuge kennenlernen (QQQQ-Methode, Quellencheck-Checkliste) | Plenum | Arbeitsblatt 2 |
+| Praxis | 4 Gesundheitsbehauptungen in Gruppen überprüfen | Gruppenarbeit (3–4 Pers.) | Arbeitsblätter 3a–d |
+| Präsentation | Jede Gruppe präsentiert einen Faktencheck (je 2–3 Min.) | Plenum | — |
 
-**QQQQ-Methode (kindgerecht: „Die 4-Fragen-Methode"):**
-- **Q**uelle: Wer sagt das? Hat die Person Fachwissen?
-- **Q**ualität: Gibt es echte Studien oder nur Meinungen?
-- **Q**uerbezüge: Was sagen andere (unabhängige) Quellen?
-- **Q**ualitätssiegel: Gibt es unabhängige Prüfung (z.B. Gesundheitsportale)?
+**Beispiel-Behauptungen:**
+1. „Detox-Tees entgiften deinen Körper" → **Mythos**
+2. „7–8 Stunden Schlaf sind gesund" → **Fakt** (mit Nuancen)
+3. „Mit dieser 5-Minuten-Übung zum Sixpack" → **Mythos**
+4. „Zucker macht süchtig wie Drogen" → **Differenziert** (Mythos in dieser vereinfachten Form)
 
-**Beispiel-Behauptungen für Faktenchecks:**
-1. „Detox-Tees entgiften deinen Körper" → **Mythos** (Leber/Nieren übernehmen das)
-2. „7-8 Stunden Schlaf sind gesund" → **Fakt** (mit individuellen Unterschieden)
-3. „Mit dieser 5-Minuten-Übung zum Sixpack" → **Mythos** (unrealistisch, oft nur Marketing)
-4. „Zucker macht süchtig wie Drogen" → **Differenziert** (Vereinfachung, aber Suchtpotential vorhanden)
+**QQQQ-Methode:**
+- **Q**uelle: Wer sagt das? Welche Expertise hat die Person/Seite?
+- **Q**ualität: Gibt es Belege/Studien? Wie belastbar sind sie?
+- **Q**uerbezüge: Was sagen andere, unabhängige Quellen?
+- **Q**ualitätssiegel: Gibt es eine unabhängige Prüfung (z. B. IQWiG, RKI)?
 
 **Differenzierung Sek I/II:**
-- Sek I: Vereinfachte QQQQ-Checkliste, klare Mythen vs. Fakten, vorgegebene Quellen
-- Sek II: Zusätzlich: Studienqualität bewerten, Interessenkonflikte erkennen, eigene Recherche
+- Sek I: Grundlegendes Faktenprüfen, klare Mythen vs. Fakten, vereinfachte Checkliste
+- Sek II: Zusätzlich: Studienqualität bewerten, Interessenkonflikte erkennen, Unterschied Einzelstudie vs. Meta-Analyse
 
 ---
 
-### Phase 4: Erarbeitung II – Körperbilder & Gesundheitsmythen (15 Min.)
-**Ziel:** Verbindung zwischen konstruierten Körperbildern und Gesundheitsmythen erkennen
+### Erarbeitung 2 – Körperbilder & Gesundheitsmythen (15 Min.)
+**Ziel:** Verbindung zwischen idealisierten Körperbildern und gesundheitsbezogenen Falschbehauptungen erkennen
 
 | Element | Beschreibung | Sozialform | Material |
 |---------|--------------|------------|----------|
-| Fallanalyse | 3 fiktive Influencer-Profile: Fitness / Ernährung / Beauty | Gruppenarbeit | Arbeitsblatt 4 |
-| Leitfragen | „Welches Körperbild wird vermittelt? Welche Mythen? Wer profitiert?" | Gruppenarbeit | — |
-| Reflexion | Plenum: „Wie realistisch sind diese Ideale? Welche Risiken entstehen?" | Plenum | — |
+| Fallanalyse | 3 fiktive Influencer-Profile: Fitness, Ernährung, Beauty | Gruppenarbeit | Arbeitsblatt 4 |
+| Leitfragen | „Welches Körperbild wird vermittelt? Welche Mythen stecken dahinter? Wer profitiert?" | Gruppenarbeit | — |
+| Sicherung | Erste Ergebnisse im Plenum sichern, Überleitung zur Vertiefung | Plenum | — |
 
-**Fiktive Profile (Beispiele):**
-1. **@FitLife_Max** – Fitness-Influencer mit „Vorher-Nachher"-Transformation, verkauft Trainingsplan
+**Fiktive Influencer-Profile:**
+1. **@FitLife_Max** – Fitness-Influencer mit extremem Trainingsplan, bewirbt Proteinshakes
 2. **@CleanEating_Lisa** – Ernährungs-Influencerin mit strengen Regeln, bewirbt Supplements
 3. **@Glow_Queen** – Beauty-Influencerin mit „natürlichem" Glow, verkauft Detox-Produkte
 
@@ -206,7 +220,7 @@
 - Extreme Diäten und Ernährungsformen („Clean Eating", „Kein Zucker")
 - Nahrungsergänzungsmittel und „Wunderpillen"
 - Körperliche „Makel" und deren angebliche „Lösungen"
-- Filter, Beleuchtung, Posen als Manipulation
+- Filter, Beleuchtung, Posen als Manipulationsmittel
 
 **Differenzierung Sek I/II:**
 - Sek I: Beschreiben, Erkennen von Unrealistischem, persönliche Reflexion
@@ -214,24 +228,43 @@
 
 ---
 
-### Phase 5: Transfer & Abschluss – „Wahr oder Fake?"-Quiz (20 Min.)
-**Ziel:** Gelerntes anwenden, spielerischer Wissenstransfer, Peer-Education
+### Vertiefung – Wer steckt dahinter? (10 Min.)
+**Ziel:** Kommerzielle und algorithmische Interessen hinter Gesundheitsmythen erkennen; kritisches Bewusstsein schärfen
 
 | Element | Beschreibung | Sozialform | Material |
 |---------|--------------|------------|----------|
-| Produktion | Partnerteams erstellen je 3-5 Quiz-Fragen mit Auflösung und kurzer Begründung | Partnerarbeit | Arbeitsblatt 5 |
+| Impulsfrage | „Wem nützt es, wenn Gesundheitsmythen geglaubt werden?" | Plenum | — |
+| Vertiefung | Kurzauswertung der Influencer-Analyse: Werbung, Affiliate-Links, Geschäftsmodelle | Gruppenarbeit | — |
+| Diskussion | „Macht es einen Unterschied, ob jemand bezahlt wurde?" | Plenum | — |
+
+**Schlüsselaspekte:**
+- Kommerzielle Interessen: Produktverkauf, Affiliate-Marketing, Reichweite
+- Algorithmische Verstärkung: Was wird empfohlen – und warum?
+- Unterschied: bezahlte Werbung vs. persönliche Empfehlung vs. wissenschaftlicher Konsens
+
+**Differenzierung Sek I/II:**
+- Sek I: Werbung erkennen, einfache Interessen benennen
+- Sek II: Zusätzlich: EU-Regulierung, Transparenzpflichten, gesellschaftliche Verantwortung von Plattformen
+
+---
+
+### Transfer – „Wahr oder Fake?"-Quiz (10 Min.)
+**Ziel:** Gelerntes spielerisch anwenden und als Peer-Education weitergeben
+
+| Element | Beschreibung | Sozialform | Material |
+|---------|--------------|------------|----------|
+| Produktion | Partnerteams erstellen je 2–3 Quiz-Fragen mit Auflösung und kurzer Begründung | Partnerarbeit | Arbeitsblatt 5 |
 | Quiz-Runde | Klasse spielt „Wahr oder Fake?" mit den besten Fragen | Plenum | Digital/Karten |
-| Take-away | „Mein Faktencheck-Versprechen" – persönliche Reflexion | Einzelarbeit | Notizzettel |
 
 **Quiz-Regeln:**
-- Jede Frage braucht eine klare Antwort (Wahr/Fake/Differenziert) + kurze Begründung
+- Jede Frage braucht eine klare Antwort (Wahr / Fake / Differenziert) + kurze Begründung
 - Bonus: Angabe einer verlässlichen Quelle
 
-**Quiz-Beispiele (vorgegeben):**
+**Quiz-Beispiele (vorgegeben als Einstiegshilfe):**
 - „Ananas verbrennt Fett" → **FAKE** (keine wissenschaftliche Grundlage)
 - „Ausreichend Wasser trinken ist wichtig für die Gesundheit" → **WAHR** (aber keine feste Literanzahl)
 - „Muskeln wiegen mehr als Fett" → **WAHR** (bei gleichem Volumen)
-- „Kohlenhydrate machen dick" → **FAKE** (so pauschal, Energiebilanz entscheidet)
+- „Kohlenhydrate machen dick" → **FAKE** (so pauschal; Energiebilanz entscheidet)
 - „Sport macht glücklich" → **WAHR** (Endorphine, aber nicht übertreiben)
 
 **Differenzierung Sek I/II:**
@@ -240,14 +273,40 @@
 
 ---
 
+### Reflexion – Abschlussrunde (5 Min.)
+**Ziel:** Persönlichen Transfer sichern, Handlungsstrategien verankern
+
+| Element | Beschreibung | Sozialform | Material |
+|---------|--------------|------------|----------|
+| Take-away | „Mein Faktencheck-Versprechen" – eine konkrete Strategie für den Alltag | Einzelarbeit | Notizzettel |
+| Abschlussrunde | Blitzlicht: „Was nehme ich aus dieser Stunde mit?" | Plenum | — |
+
+**Impulsfragen für die Abschlussrunde:**
+- Was hast du in dieser Einheit gelernt?
+- Welche Behauptung hat dich am meisten überrascht?
+- Was wirst du beim nächsten Gesundheitstipp im Netz anders machen?
+
+---
+
+### Fakultativ: Follow-up (z. B. nach zwei Wochen)
+**Ziel:** Kernbotschaften festigen, Umsetzung der Vorsätze reflektieren
+
+| Element | Beschreibung | Sozialform | Material |
+|---------|--------------|------------|----------|
+| Rückblick | Was habt ihr in den letzten zwei Wochen an Gesundheitsbehauptungen gesehen? | Plenum | — |
+| Auswertung | Wurden Faktencheck-Strategien angewandt? Was hat funktioniert? | Diskussion | — |
+| Peer-Education | Präsentation der Quiz-Fragen in einer anderen Klasse (Sek II → Sek I) | optional | — |
+
+---
+
 ## 10. Materialübersicht
 
 | Nr. | Material | Inhalt | Differenzierung |
 |-----|----------|--------|-----------------|
-| Bildmaterial | Einstieg | Collage: 8 Gesundheitsbehauptungen aus Social Media | einheitlich |
+| Bildmaterial | Einstieg | Collage: 8 Gesundheitsbehauptungen aus Social Media (fiktive Mockups) | einheitlich |
 | AB 1 | Verbreitungsmechanismen | Tabelle: „Warum verbreiten sich Mythen?" | Sek I: 4 Gründe / Sek II: 6 Gründe + psychologische Erklärung |
 | AB 2 | Faktencheck-Methoden | QQQQ-Methode, Quellencheck-Checkliste, Liste verlässlicher Quellen | Sek I: vereinfacht / Sek II: erweitert |
-| AB 3a-d | Praxis-Faktencheck | 4 Gesundheitsbehauptungen zum Überprüfen | einheitlich, Anleitung differenziert |
+| AB 3a–d | Praxis-Faktencheck | 4 Gesundheitsbehauptungen zum Überprüfen | einheitlich, Anleitung differenziert |
 | AB 4 | Influencer-Analyse | 3 fiktive Profile (Fitness/Ernährung/Beauty) mit Körperbild-Fokus | Sek I: Beschreibung / Sek II: + Geschäftsmodell-Analyse |
 | AB 5 | Quiz-Erstellung | Vorlage für „Wahr oder Fake?"-Fragen mit Begründungsfeld | Sek I: Multiple Choice / Sek II: offene Fragen + Quellen |
 | Exkurs | Hintergrundwissen | Wissenschaftliche Standards, verlässliche Gesundheitsquellen | primär Sek II |
@@ -263,9 +322,9 @@
 - Unterschied: Einzelmeinung, Fallbericht, Studie, Meta-Analyse
 - Peer-Review-Prozess und seine Bedeutung
 - Interessenkonflikte in der Gesundheitsforschung (Wer bezahlt die Studie?)
-- Verlässliche Quellen für Gesundheitsinformationen (Liste für Deutschland)
+- Verlässliche Quellen für Gesundheitsinformationen (Liste für Deutschland/Österreich)
 
-**Verlässliche deutsche Quellen (Beispiele):**
+**Verlässliche Quellen (Beispiele):**
 - gesundheitsinformation.de (IQWiG)
 - patienten-information.de
 - RKI (Robert Koch-Institut)
@@ -286,7 +345,7 @@
 | Einzelarbeit | 10% | Persönliche Reflexion |
 
 **Methodische Prinzipien:**
-- Arbeit mit fiktiven, aber realitätsnahen Social-Media-Beispielen
+- Arbeit mit fiktiven, aber realitätsnahen Social-Media-Beispielen (rechtssicher)
 - Praktisches Anwenden von Faktencheck-Methoden (nicht nur Theorie)
 - Keine Moralisierung von Körperbildern, sondern kritische Reflexion
 - Digitale Tools optional, analog vollständig umsetzbar
@@ -304,20 +363,20 @@
 | **Andocken** | Baut auf LH6, LH19, LH8, LH7 auf – ohne inhaltliche Dopplung |
 | **Gesundheitsbezug** | Körperliche & mentale Gesundheit zentral verankert |
 | **Langlebigkeit** | Faktencheck-Methoden statt plattformspezifischer Details; Beispiele austauschbar |
-| **Strukturelle Kontinuität** | Bewährter 5-Phasen-Aufbau (Einstieg → Transfer) |
+| **Strukturelle Kontinuität** | Bewährter 7-Phasen-Aufbau (Einstieg → Reflexion) gemäß DURCHBLICKT!-Standard |
 
 ---
 
 ## 14. Offene Fragen / Abstimmungsbedarf
 
 1. **Arbeitstitel:** „Gesundheitsmythen im Netz" oder „Fakt oder Fake? Gesundheitsinformationen bewerten"?
-2. **Bildmaterial:** Fiktive Mockups (rechtssicher) oder echte Screenshots (anonymisiert)?
-3. **Video:** Gibt es vorhandenes Material zu Faktencheck-Methoden oder Neuproduktion nötig?
-4. **Quiz-Tool:** Digital (z.B. Kahoot, Mentimeter, LearningApps) oder analog (Karten)?
+2. **Bildmaterial:** Fiktive Mockups (rechtssicher, empfohlen) oder echte Screenshots (anonymisiert)?
+3. **Video:** Gibt es vorhandenes Material zu Faktencheck-Methoden oder ist Neuproduktion nötig?
+4. **Quiz-Tool:** Digital (z. B. Kahoot, Mentimeter, LearningApps) oder analog (Karten)?
 5. **Exkurs-Thema:** Wissenschaftsmethodik oder lieber „Gefährliche Gesundheitstrends"?
-6. **Influencer-Profile:** Vollständig fiktiv (empfohlen) – wie detailliert?
-7. **Körperbilder-Integration:** Als roter Faden oder eigene Phase? (Konzept: beides)
-8. **Aktualität:** Sollen aktuelle Mythen (z.B. zu KI-generierten Gesundheitstipps) einbezogen werden?
+6. **Influencer-Profile:** Vollständig fiktiv (empfohlen) – wie detailliert ausarbeiten?
+7. **Körperbilder-Integration:** Als roter Faden durchgehend oder eigene Phase? (Konzept: beides)
+8. **Aktualität:** Sollen aktuelle Mythen (z. B. zu KI-generierten Gesundheitstipps) einbezogen werden?
 
 ---
 
@@ -354,5 +413,5 @@
 
 ---
 
-*Stand: Januar 2026*  
+*Stand: Januar 2026*
 *Erstellt im Rahmen von DURCHBLICKT! – Ein Programm der BARMER*
