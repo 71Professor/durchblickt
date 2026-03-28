@@ -64,11 +64,11 @@
 | -------------------------------------- | ----------------- | --------- | ----------------------------------------------------------------------------- |
 | Grobkonzept (Phase 1–4)                | ✅ fertig (intern) | Jan 2026  | Grobkonzept_LH4_2026_Schlaf.md                                                |
 | Leitlinien-Check (Phase 4a)            | ✅ fertig          | März 2026 | LH4_Leitlinien-Check_2026-03.md – alle 5 Leitlinien erfüllt, einreichungsreif |
-| Phase 4b – BARMER-Genehmigungsvorlage  | ✅ fertig          | März 2026 | lh4/LH4_Grobkonzept_Schlaf_barmer.md + output/LH4_Grobkonzept_Schlaf_2026-03_wrf_MK.docx |
+| Phase 4b – BARMER-Genehmigungsvorlage  | ✅ fertig          | März 2026 | lh4/LH4_Grobkonzept_Schlaf_barmer.md neu erstellt (7 Phasen, GS-Erweiterung in Phase 4+5) |
 | ⏳ Warte auf BARMER-Freigabe            | ⏳ ausstehend      | –         | Genehmigungsvorlage bereit, Einreichung ausstehend                           |
 | Feinkonzept + Arbeitsblätter (Phase 5) | ⬜ offen           | –         | –                                                                             |
 | Ablaufstruktur (Phase 6)               | ⬜ offen           | –         | –                                                                             |
-| Grundschul-Erweiterung (Phase 6a)      | ⬜ offen           | –         | 2 Phasen je LH-Thema wählen                                                   |
+| Grundschul-Erweiterung (Phase 6a)      | ⬜ offen           | –         | Konzept in barmer.md vorerfasst (Phase 4: AB 1, Phase 5: Sortierspiel); Ausarbeitung nach BARMER-Freigabe |
 | Methoden & Materialien (Phase 7)       | ⬜ offen           | –         | –                                                                             |
 | Redaktions-Check + EH-Check (Phase 8)  | ⬜ offen           | –         | –                                                                             |
 | DOCX-Export Endversion (Phase 9)       | ⬜ offen           | –         | –                                                                             |
