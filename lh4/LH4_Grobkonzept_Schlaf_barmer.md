@@ -32,9 +32,36 @@
 - LH23 Nutzungsdauer und körperliche Probleme – Bildschirmzeit, körperliche Auswirkungen
 - LH32 Stress ist nicht gleich Stress – Abendliche Entspannung, Achtsamkeit
 
-## 3. KMK-Kompetenzbereiche (Schwerpunkt: Bereiche 4, 5 und 6)
+## 3. Gesundheitsbezug
 
-## 4. Dimensionen digitaler Gesundheitskompetenz
+### Physische Gesundheit
+
+- Schlaf-Wach-Rhythmus (zirkadianer Rhythmus) und Melatoninproduktion durch Blaulicht
+- Regeneration von Körper und Gehirn im Schlaf
+- Immunsystem, Wachstum und Stoffwechsel bei Schlafmangel
+
+### Psychische Gesundheit
+
+- Zusammenhang Schlafmangel und Stimmung / emotionale Regulation
+- Konzentration und Lernfähigkeit
+- Schlafmangel als Risikofaktor für Angst und Depression
+
+### Soziale Gesundheit
+
+- FOMO (Fear of Missing Out) und soziale Medien vor dem Schlafen
+- Gruppendruck durch Erreichbarkeitserwartungen in Chatgruppen
+- Auswirkungen von Übermüdung auf soziale Interaktionen
+
+### Medienkompetenz als Schutzfaktor
+
+- Verstehen biologischer Zusammenhänge (blaues Licht, Melatonin)
+- Bewusste Entscheidungen über Bildschirmzeit am Abend
+- Erkennen eigener Muster durch Selbstbeobachtung
+- Entwickeln individueller Abendrituale
+
+## 4. KMK-Kompetenzbereiche (Schwerpunkt: Bereiche 4, 5 und 6)
+
+## 5. Dimensionen digitaler Gesundheitskompetenz
 
 - DGK 2: Verstehen der biologischen Zusammenhänge (Blaulicht, Melatonin, Zirkadianer Rhythmus)
 - DGK 3: Bewerten der eigenen Abendroutine und Schlafqualität
@@ -42,7 +69,7 @@
 - DGK 5: Schützen der eigenen Gesundheit durch bewusste Bildschirmzeit am Abend
 - DGK 7: Schlafprotokolle und Traumtagebücher erstellen
 
-## 5. Ablaufstruktur (90 Minuten)
+## 6. Ablaufstruktur (90 Minuten)
 
 | **PHASE 1: Einstieg – Schlaf und Bildschirm: Was hat das miteinander zu tun? (10 Min.)**<br><br>**Ziel:** Alltagsbezug herstellen, Vorwissen aktivieren, Neugier wecken<br><br>Die Phase beginnt mit einem **Bild/Szenario** (Folie): Jugendliche:r liegt nachts wach, Handy leuchtet im Dunkeln.<br><br>Im **Plenum** folgt eine Blitzumfrage: „Wer hat gestern Abend noch aufs Handy geschaut? Wie war der Schlaf?" – direkte Anschlussfrage: „Wie habt ihr euch heute Morgen gefühlt – erholt oder noch müde?"<br><br>Impulsfrage: „Was könnte das eine mit dem anderen zu tun haben?" – Erste Vermutungen werden gesammelt. | In **Sek I** liegt der Fokus auf eigenen Erfahrungen und konkreten Alltagsbeispielen.<br><br>In **Sek II** wird zusätzlich Hypothesenbildung zu möglichen biologischen Ursachen angeregt. |
 |:---|:---|
