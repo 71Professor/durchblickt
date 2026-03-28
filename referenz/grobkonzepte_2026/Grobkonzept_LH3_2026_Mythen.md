@@ -172,6 +172,9 @@
 - Sek I: Konkrete Beispiele (Before-After-Bilder, „Wundermittel", Challenges)
 - Sek II: Zusätzlich: Psychologische Mechanismen (Bestätigungsfehler, Dunning-Kruger-Effekt, Sozialer Beweis)
 
+**Grundschul-Erweiterung (Klasse 3–4):**
+Statt Kurzvideo/Infografik erzählt die Lehrkraft (oder zeigt als Bildgeschichte) eine kurze Detektiv-Geschichte: Lena sieht in einem Video, dass ein bestimmtes Getränk nie krank macht. Sie erzählt es ihrer Freundin, die Freundin ihrer Mutter, die Mutter kauft das Getränk – niemand hat geprüft, ob es stimmt. Im Sitzkreis sammeln die Kinder: Wer hätte fragen können? Bei wem? Ziel: Das Stille-Post-Prinzip macht das Konzept „Eine Aussage ist nicht automatisch wahr, weil jemand sie gesagt hat" kindgerecht erfahrbar – ohne abstrakten Quellenbegriff.
+
 ---
 
 ### Erarbeitung 1 – Faktenchecks durchführen (25 Min.)
@@ -198,6 +201,14 @@
 **Differenzierung Sek I/II:**
 - Sek I: Grundlegendes Faktenprüfen, klare Mythen vs. Fakten, vereinfachte Checkliste
 - Sek II: Zusätzlich: Studienqualität bewerten, Interessenkonflikte erkennen, Unterschied Einzelstudie vs. Meta-Analyse
+
+**Grundschul-Erweiterung (Klasse 3–4):**
+Statt der QQQQ-Methode arbeiten die Lernenden mit dem **Primarstufe – Detektiv-Arbeitsblatt**: drei kindgerechte Fragen mit je einer kleinen Zeichnung:
+1. „Wer sagt das?" (Mama, ein Arzt, jemand im Internet?)
+2. „Warum sagt die Person das?" (Will sie helfen? Will sie etwas verkaufen?)
+3. „Fragt noch jemand anders?" (Was sagt ein anderer Erwachsener dazu?)
+
+Die Lernenden wenden die drei Fragen in 2er-Paaren auf 2–3 kindgerechte Mini-Szenarien an (je 3 Sätze, von der Lehrkraft vorgelesen).
 
 ---
 
@@ -310,6 +321,8 @@
 | AB 4 | Influencer-Analyse | 3 fiktive Profile (Fitness/Ernährung/Beauty) mit Körperbild-Fokus | Sek I: Beschreibung / Sek II: + Geschäftsmodell-Analyse |
 | AB 5 | Quiz-Erstellung | Vorlage für „Wahr oder Fake?"-Fragen mit Begründungsfeld | Sek I: Multiple Choice / Sek II: offene Fragen + Quellen |
 | Exkurs | Hintergrundwissen | Wissenschaftliche Standards, verlässliche Gesundheitsquellen | primär Sek II |
+| Primarstufe – Detektiv-Arbeitsblatt | Erarbeitung 1 (GS-Erweiterung) | 3 Detektiv-Fragen mit Zeichnungen + 2–3 kindgerechte Mini-Szenarien | Grundschule (Klasse 3–4) |
+| Bildgeschichte / Erzählkarte | Hinführung (GS-Erweiterung) | Detektiv-Geschichte „Lena und das Wundergetränk" (Stille-Post-Prinzip) | Grundschule (Klasse 3–4) |
 
 ---
 
