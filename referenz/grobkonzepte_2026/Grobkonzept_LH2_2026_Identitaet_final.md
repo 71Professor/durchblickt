@@ -148,6 +148,9 @@
 - Sek I: Fokus auf eigene Plattformen (Instagram, TikTok, Snapchat), eigene Erfahrungen, einfache Beobachtungen
 - Sek II: Zusätzlich: Berufliche Netzwerke (LinkedIn), unterschiedliche Kontexte; Begriffe "Selbstdarstellung", "Impression Management" einführen
 
+**Grundschul-Erweiterung (Klasse 3–4):**
+Statt der Bildcollage mit vier Profilen derselben Person wird ein gezeichnetes Bilderpaar eingesetzt: dasselbe Kind einmal beim Spielen im Matsch, einmal auf einem „Geburtstagsfoto" mit Schleife und breitem Lächeln. Impulsfrage im Plenum: „Welches Bild zeigst du deiner Klasse? Welches deiner Oma? Warum?" Das macht die Kernidee – wir zeigen uns unterschiedlich je nach Publikum – konkret und körperlich erfahrbar, ohne Smartphones oder Social Media vorauszusetzen.
+
 ---
 
 ### Phase 2: Hinführung & Grundlagen (20 Min.)
@@ -182,6 +185,9 @@
 **Differenzierung Sek I/II:**
 - Sek I: Beschreibung und Einordnung der Profile
 - Sek II: Zusätzlich: Psychologische Mechanismen, Bedürfnisanalyse, gesellschaftliche Dimension
+
+**Grundschul-Erweiterung (Klasse 3–4):**
+Statt der Profil-Analyse fiktiver Social-Media-Accounts (AB 2) arbeiten die Lernenden mit **Primarstufe – Arbeitsblatt 1**: Vier gezeichnete Kinder-Avatare mit je einem Satz über sich (z.B. „Ich bin immer fröhlich!", „Ich bin die Beste im Sport!"). Kindgerechte Leitfragen im Sitzkreis: „Glaubst du, das stimmt wirklich immer?" – „Warum schreibt das Kind das wohl so?" – „Was zeigst du über dich, wenn du jemandem schreibst?" Kein formaler Theoriebegriff (keine „Selbstinszenierung"), stattdessen kindnahe Begriffe: „so tun als ob", „sich von der besten Seite zeigen", „sich verstellen".
 
 ---
 
@@ -245,6 +251,8 @@
 | AB 4 | Selbstreflexion | Fragebogen zur eigenen Online-Präsenz (anonym) | Sek I: 6 Fragen / Sek II: 10 Fragen mit Vertiefung |
 | AB 5 | "5 Fragen vor dem Posten" | Leitfragen für reflektierte Selbstdarstellung | Sek I: vorformuliert / Sek II: selbst entwickeln oder diskutieren |
 | Exkurs | Hintergrundwissen | Psychologie der Selbstdarstellung, Identitätsentwicklung, Forschung zu Social Media & Mental Health | primär Sek II |
+| Primarstufe AB 1 | Phase 3 (GS-Erweiterung) | Vier gezeichnete Kinder-Avatare mit Sprechblasen zum Ausfüllen und Leitfragen für Sitzkreis | Grundschule (Klasse 3–4) |
+| Bilderpaar GS | Phase 1 (GS-Erweiterung) | Gezeichnetes Bilderpaar: Kind beim Matschen vs. Geburtstagsfoto | Grundschule (Klasse 3–4) |
 
 ---
 
