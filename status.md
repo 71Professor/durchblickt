@@ -1,6 +1,6 @@
 # DURCHBLICKT! – Projektstatus
 
-*Zuletzt aktualisiert: März 2026*
+*Zuletzt aktualisiert: 28. März 2026*
 
 ---
 
@@ -30,11 +30,11 @@
 | -------------------------------------- | ----------------- | --------- | -------------------------------------------- |
 | Grobkonzept (Phase 1–4)                | ✅ fertig (intern) | Jan 2026  | Grobkonzept_LH2_2026_Identitaet_final.md     |
 | Leitlinien-Check (Phase 4a)            | ✅ fertig          | März 2026 | Alle 5 Leitlinien erfüllt – einreichungsreif |
-| Phase 4b – BARMER-Genehmigungsvorlage  | ⬜ offen           | -         |                                              |
-| ⏳ Warte auf BARMER-Freigabe            | ⬜ offen           | -         |                                              |
+| Phase 4b – BARMER-Genehmigungsvorlage  | ✅ fertig          | März 2026 | lh2/LH2_Grobkonzept_Identitaet_barmer.md – inkl. GS-Erweiterung (Phase 1 + 3) |
+| ⏳ Warte auf BARMER-Freigabe            | ⏳ ausstehend      | –         | Genehmigungsvorlage bereit, Einreichung ausstehend |
 | Feinkonzept + Arbeitsblätter (Phase 5) | ⬜ offen           | –         | –                                            |
 | Ablaufstruktur (Phase 6)               | ⬜ offen           | –         | –                                            |
-| Grundschul-Erweiterung (Phase 6a)      | ⬜ offen           | –         | 2 Phasen je LH-Thema wählen                  |
+| Grundschul-Erweiterung (Phase 6a)      | ⬜ offen           | –         | Konzept in barmer.md + final.md vorerfasst (Phase 1 + 3); Ausarbeitung nach BARMER-Freigabe |
 | Methoden & Materialien (Phase 7)       | ⬜ offen           | –         | –                                            |
 | Redaktions-Check + EH-Check (Phase 8)  | ⬜ offen           | –         | –                                            |
 | DOCX-Export Endversion (Phase 9)       | ⬜ offen           | –         | –                                            |
@@ -47,11 +47,11 @@
 | -------------------------------------- | ----------------- | --------- | ----------------------------------------------------------------------------- |
 | Grobkonzept (Phase 1–4)                | ✅ fertig (intern) | Jan 2026  | Grobkonzept_LH3_2026_Mythen.md                                                |
 | Leitlinien-Check (Phase 4a)            | ✅ fertig          | März 2026 | LH3_Leitlinien-Check_2026-03.md – alle 5 Leitlinien erfüllt, einreichungsreif |
-| Phase 4b – BARMER-Genehmigungsvorlage  | ⬜ offen           | -         |                                                                               |
-| ⏳ Warte auf BARMER-Freigabe            | ⏳ ausstehend      | –         |                                                                               |
+| Phase 4b – BARMER-Genehmigungsvorlage  | ✅ fertig          | März 2026 | lh3/LH3_Grobkonzept_Mythen_barmer.md – neu erstellt, inkl. GS-Erweiterung (Phase 2 + 3) |
+| ⏳ Warte auf BARMER-Freigabe            | ⏳ ausstehend      | –         | Genehmigungsvorlage bereit, Einreichung ausstehend |
 | Feinkonzept + Arbeitsblätter (Phase 5) | ⬜ offen           | –         | –                                                                             |
 | Ablaufstruktur (Phase 6)               | ⬜ offen           | –         | –                                                                             |
-| Grundschul-Erweiterung (Phase 6a)      | ⬜ offen           | –         | 2 Phasen je LH-Thema wählen                                                   |
+| Grundschul-Erweiterung (Phase 6a)      | ⬜ offen           | –         | Konzept in barmer.md + Grobkonzept vorerfasst (Hinführung + Erarbeitung 1); Ausarbeitung nach BARMER-Freigabe |
 | Methoden & Materialien (Phase 7)       | ⬜ offen           | –         | –                                                                             |
 | Redaktions-Check + EH-Check (Phase 8)  | ⬜ offen           | –         | –                                                                             |
 | DOCX-Export Endversion (Phase 9)       | ⬜ offen           | –         | –                                                                             |
@@ -116,6 +116,6 @@
 | LH  | Milestone                                       | Deadline | Notiz                      |
 | --- | ----------------------------------------------- | -------- | -------------------------- |
 | LH1 | Feedback erwartet (Anka + Fabienne)             | –        | –                          |
-| LH2 | Leitlinien-Check (4a) → Phase 4b DOCX erstellen | –        | –                          |
-| LH3 | BARMER-Freigabe abwarten                        | –        | Genehmigungsvorlage bereit |
+| LH2 | Phase 4b DOCX exportieren → an BARMER einreichen | –        | barmer.md fertig           |
+| LH3 | Phase 4b DOCX exportieren → an BARMER einreichen | –        | barmer.md fertig           |
 | LH4 | BARMER-Freigabe abwarten                        | –        | Genehmigungsvorlage bereit |
