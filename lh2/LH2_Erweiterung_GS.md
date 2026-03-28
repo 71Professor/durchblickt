@@ -1,0 +1,7 @@
+### **Erweiterung Grundschule „Mein Online-Ich" – Fokus auf Profilbilder und Selbstdarstellung**
+
+**Phase 1 – Anpassung:** Statt des Bildmaterial-Einstiegs mit vier Profilen derselben Person (komplex, plattformspezifisch) wird ein gezeichnetes Bilderpaar eingesetzt: dasselbe Kind einmal beim Spielen im Matsch, einmal auf einem „Geburtstagsfoto" mit Schleife und breitem Lächeln. Impulsfrage im Plenum: „Welches Bild zeigst du deiner Klasse? Welches deiner Oma? Warum?" Das macht die Kernidee – wir zeigen uns unterschiedlich je nach Publikum – konkret und körperlich erfahrbar, ohne Smartphones oder Social Media vorauszusetzen.
+
+**Phase 3 – Anpassung (Haupterweiterung):** Statt der Profil-Analyse fiktiver Social-Media-Accounts (Arbeitsblatt 2\) arbeiten die Lernenden mit **Primarstufe – Arbeitsblatt 1**: Vier gezeichnete Kinder-Avatare mit je einem Satz über sich (z.B. „Ich bin immer fröhlich\!", „Ich bin die Beste im Sport\!"). Kindgerechte Leitfragen im Sitzkreis: „Glaubst du, das stimmt wirklich immer?" – „Warum schreibt das Kind das wohl so?" – „Was zeigst du über dich, wenn du jemandem schreibst?" Kein formaler Theoriebegriff (keine „Selbstinszenierung"), stattdessen kindnahe Begriffe: „so tun als ob", „sich von der besten Seite zeigen", „sich verstellen".
+
+**Materialhinweis:** Primarstufe – Arbeitsblatt 1 (Kinder-Avatare mit Sprechblasen zum Ausfüllen)
