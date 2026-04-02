@@ -32,9 +32,9 @@
 | Leitlinien-Check (Phase 4a)            | ✅ fertig          | März 2026 | Alle 5 Leitlinien erfüllt – einreichungsreif |
 | Phase 4b – BARMER-Genehmigungsvorlage  | ✅ fertig          | März 2026 | lh2/LH2_Grobkonzept_Identitaet_barmer.md – inkl. GS-Erweiterung (Phase 1 + 3) |
 | ⏳ Warte auf BARMER-Freigabe            | ⏳ ausstehend      | –         | Genehmigungsvorlage bereit, Einreichung ausstehend |
-| Feinkonzept + Arbeitsblätter (Phase 5) | ⬜ offen           | –         | –                                            |
-| Ablaufstruktur (Phase 6)               | ⬜ offen           | –         | –                                            |
-| Grundschul-Erweiterung (Phase 6a)      | ⬜ offen           | –         | Konzept in barmer.md + final.md vorerfasst (Phase 1 + 3); Ausarbeitung nach BARMER-Freigabe |
+| Feinkonzept + Arbeitsblätter (Phase 5) | ✅ fertig          | April 2026 | LH2_Lerneinheit.md + LH2_Arbeitsblätter.md  |
+| Ablaufstruktur (Phase 6)               | ✅ fertig          | April 2026 | In LH2_Lerneinheit.md integriert (6 Phasen, 90 Min.) |
+| Grundschul-Erweiterung (Phase 6a)      | ✅ fertig          | April 2026 | In Phase 1 + 3 eingebaut; PS AB 1 in LH2_Arbeitsblätter.md |
 | Methoden & Materialien (Phase 7)       | ⬜ offen           | –         | –                                            |
 | Redaktions-Check + EH-Check (Phase 8)  | ⬜ offen           | –         | –                                            |
 | DOCX-Export Endversion (Phase 9)       | ⬜ offen           | –         | –                                            |
@@ -49,9 +49,9 @@
 | Leitlinien-Check (Phase 4a)            | ✅ fertig          | März 2026 | LH3_Leitlinien-Check_2026-03.md – alle 5 Leitlinien erfüllt, einreichungsreif |
 | Phase 4b – BARMER-Genehmigungsvorlage  | ✅ fertig          | März 2026 | lh3/LH3_Grobkonzept_Mythen_barmer.md – neu erstellt, inkl. GS-Erweiterung (Phase 2 + 3) |
 | ⏳ Warte auf BARMER-Freigabe            | ⏳ ausstehend      | –         | Genehmigungsvorlage bereit, Einreichung ausstehend |
-| Feinkonzept + Arbeitsblätter (Phase 5) | ⬜ offen           | –         | –                                                                             |
-| Ablaufstruktur (Phase 6)               | ⬜ offen           | –         | –                                                                             |
-| Grundschul-Erweiterung (Phase 6a)      | ⬜ offen           | –         | Konzept in barmer.md + Grobkonzept vorerfasst (Hinführung + Erarbeitung 1); Ausarbeitung nach BARMER-Freigabe |
+| Feinkonzept + Arbeitsblätter (Phase 5) | ✅ fertig          | April 2026 | LH3_Lerneinheit.md + LH3_Arbeitsblätter.md |
+| Ablaufstruktur (Phase 6)               | ✅ fertig          | April 2026 | In LH3_Lerneinheit.md integriert (6 Phasen, 90 Min.) |
+| Grundschul-Erweiterung (Phase 6a)      | ✅ fertig          | April 2026 | In Phase 1 + 2 eingebaut; PS AB 1 (Detektiv) in LH3_Arbeitsblätter.md |
 | Methoden & Materialien (Phase 7)       | ⬜ offen           | –         | –                                                                             |
 | Redaktions-Check + EH-Check (Phase 8)  | ⬜ offen           | –         | –                                                                             |
 | DOCX-Export Endversion (Phase 9)       | ⬜ offen           | –         | –                                                                             |
