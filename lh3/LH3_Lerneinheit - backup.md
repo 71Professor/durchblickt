@@ -12,7 +12,7 @@
 | **Thema** | Gesundheitsmythen im Netz: Faktencheck, Körperbilder, kommerzielle Interessen |
 | **Leitfrage** | Wie erkenne ich verlässliche Gesundheitsinformationen im Netz – und warum ist das für meine Gesundheit wichtig? |
 | **Zielgruppe** | Sek I (Kl. 7–10) und Sek II (Kl. 11–13), mit GS-Erweiterung (Kl. 3–4) |
-| **Umfang** | 80 Minuten (5 Phasen) + optionales Follow-up (ca. 15 Min.) |
+| **Umfang** | 90 Minuten (6 Phasen) + optionales Follow-up (ca. 15 Min.) |
 | **Anknüpfung** | LH6 (Desinformation), LH19 (Körperbilder), LH8 (Gesundheitsthemen), LH7 (Influencer:innen), LH21 (Gesundheitsinfos), LH14 (Challenges) |
 
 ---
@@ -22,10 +22,11 @@
 | Phase | Bezeichnung | Zeit | Methode | Material |
 |-------|-------------|------|---------|----------|
 | 1 | Einstieg & Hinführung | 25 Min. | Impuls → Plenum → Partnerarbeit → Sicherung | Video-Idee, Bildcollage, AB 1 |
-| 2 | Erarbeitung I: Faktencheck-Werkstatt | 25 Min. | Kurzimpuls → Gruppenarbeit → Ergebnissicherung im Plenum | AB 2 (QQQQ-Methode), AB 3a–d |
+| 2 | Erarbeitung I: Faktencheck-Werkstatt | 25 Min. | Kurzimpuls → Gruppenarbeit → Kurzpräsentation | AB 2 (QQQQ-Methode), AB 3a–d |
 | 3 | Erarbeitung II: Körperbilder & Mythen | 15 Min. | Gruppenarbeit → Plenum | AB 4 (Influencer-Profile) |
 | 4 | Vertiefung: Wer steckt dahinter? | 10 Min. | Gruppenarbeit → Plenumsdiskussion | – |
-| 5 | Reflexion | 5 Min. | Blitzlicht Plenum | Notizzettel (optional) |
+| 5 | Transfer: „Wahr oder Fake?"-Quiz | 10 Min. | Partnerarbeit → Plenum | AB 5 |
+| 6 | Reflexion | 5 Min. | Blitzlicht Plenum | Notizzettel (optional) |
 | – | Follow-up (optional) | 15 Min. | Einzelarbeit → Plenum | – |
 
 ---
@@ -189,7 +190,7 @@ Praktische Methoden zur Überprüfung von Gesundheitsbehauptungen kennenlernen u
 |--------|---------|-----------|---------|-------------|
 | 5 Min. | **Einführung QQQQ-Methode** | Plenum | AB 2: QQQQ-Methode (projiziert + ausgedruckt) | Lehrkraft stellt die vier Fragen vor und erläutert sie kurz anhand eines Beispiels. Wichtig: Die Methode nicht überladen – sie soll praktisch anwendbar sein, nicht theoretisch vollständig. |
 | 15 Min. | **Gruppenarbeit: Faktencheck** | Gruppenarbeit (3–4 Personen) | AB 3a–d (je eine Behauptung pro Gruppe) | Jede Gruppe überprüft eine Gesundheitsbehauptung mit der QQQQ-Methode (AB 3). Aufgabe: Fakten sammeln, Quellen einschätzen, Ergebnis formulieren. Sek I: vorgegebene Quellenbeschreibungen nutzen. Sek II: eigene kurze Recherche möglich (falls Geräte vorhanden). |
-| 5 Min. | **Ergebnissicherung im Plenum** | Plenum | – | Lehrkraft sammelt die Ergebnisse der Gruppen: Welche Behauptung wurde geprüft? Was hat die Gruppe herausgefunden? Lehrkraft strukturiert und ergänzt Kernfakten knapp – kein Präsentationsdruck, keine Einzelvorträge. |
+| 5 Min. | **Kurzpräsentationen** | Plenum | – | Jede Gruppe stellt ihr Ergebnis in 1–2 Minuten vor: Was behauptet die Quelle? Was haben wir herausgefunden? Wie verlässlich ist die Aussage? Lehrkraft ergänzt Kernfakten knapp – keine lange Wissensvermittlung. |
 
 ### Differenzierung Sek I / Sek II
 
@@ -244,8 +245,8 @@ Faktencheck ist diskursiver Prozess. In der Gruppe werden verschiedene Einschät
 Die Vielfalt der Behauptungen zeigt: Es gibt nicht nur eindeutige Falschinformationen, sondern auch vereinfachte, übertriebene oder aus dem Kontext gerissene Wahrheiten. Faktencheck ist kein Ja/Nein-Spiel, sondern ein Einschätzungsprozess.
 
 **Fallstricke vermeiden:**
-- Nicht zu lange bei einer Gruppe bleiben – alle Gruppen sollen zu Wort kommen
-- Ergebnissicherung straff halten – sonst fehlt Zeit für Phasen 3–5
+- Nicht zu lange bei einer Gruppe bleiben – alle sollen Ergebnis vorstellen
+- Kurzpräsentationen wirklich kurz halten (je 1–2 Min.) – sonst fehlt Zeit für Phasen 3–6
 - Sek I: Keine Überforderung durch zu viele Quellen – maximal 3 vorgegebene Quellenbeschreibungen pro AB
 - QQQQ-Methode nicht als starres Schema behandeln, sondern als flexible Orientierung
 
@@ -258,7 +259,7 @@ Die Vielfalt der Behauptungen zeigt: Es gibt nicht nur eindeutige Falschinformat
 
 *Aufgreifen:* Die dritte Antwort ist ehrlich und wichtig – sie zeigt den sozialen Beweis als Heuristik. Das ist der Kern des Problems und sollte gewürdigt werden: *„Das ist menschlich – und genau deshalb verbreiten sich Mythen so gut."*
 
-**Zu den Faktencheck-Behauptungen (Ergebnissicherung im Plenum):**
+**Zu den Faktencheck-Behauptungen (Kurzpräsentationen):**
 
 *AB 3a (Detox-Tee):*
 - Sek I: „Der Tee macht das nicht wirklich, das ist nur Werbung"
@@ -397,7 +398,65 @@ Für Sek I bleibt die Perspektive handlungsorientiert: Ich kann erkennen, wenn j
 
 ---
 
-## Phase 5: Reflexion (5 Min.)
+## Phase 5: Transfer – „Wahr oder Fake?"-Quiz (10 Min.)
+
+### Ziel
+
+Gelerntes spielerisch festigen und als Peer-Education-Format weitergeben; von der Analyse zur aktiven Wissensproduktion gelangen
+
+### Ablauf
+
+| Zeit   | Element | Sozialform | Material | Durchführung |
+|--------|---------|-----------|---------|-------------|
+| 5 Min. | **Partnerarbeit AB 5: Quiz-Fragen erstellen** | Partnerarbeit | AB 5: „Wahr oder Fake?"-Quiz | Schüler:innen erstellen je 2–3 Quiz-Fragen mit Auflösung und kurzer Begründung – basierend auf dem, was sie heute gelernt haben oder aus eigener Erfahrung kennen. |
+| 4 Min. | **Quiz im Plenum** | Plenum | – | Einige Fragen werden gespielt: Lehrkraft oder Schüler:in liest Frage vor, Klasse schätzt ab (Daumen, Karte oder Zuruf), dann Auflösung mit Begründung. Tempo hochhalten – Quizgefühl, nicht Prüfungsatmosphäre. |
+| 1 Min. | **Persönliches Faktencheck-Versprechen** | Einzelarbeit | Notizzettel | Schüler:innen schreiben für sich (anonym, nicht einsammeln): *„Den nächsten Gesundheitstipp, den ich online sehe, werde ich ..."* |
+
+### Differenzierung Sek I / Sek II
+
+**Sek I:**
+- Multiple-Choice-Format auf AB 5: Behauptung + drei mögliche Antworten + Auflösung
+- Fokus: Wahr oder Fake? Klare Einschätzung
+- Fragen können aus dem Unterricht stammen oder aus eigener Erfahrung
+
+**Sek II:**
+- Offene Fragen mit Begründung und Quellenangabe
+- Zusatzkategorie „Differenziert" möglich: Nicht eindeutig wahr oder falsch, sondern kontextabhängig
+- Quiz-Fragen können als Mini-Aufklärungsformat für andere Klassen oder soziale Medien gedacht werden (Peer-Education-Aspekt)
+
+### Didaktischer Kommentar
+
+**Warum Quiz als Transfer?**
+Das Erstellen von Quiz-Fragen ist eine besonders wirksame Lernstrategie: Wer eine Frage formulieren kann, hat das Wissen verinnerlicht. Gleichzeitig hat das Quiz-Format motivierenden Charakter und bringt die Einheit zu einem lebhaften Abschluss.
+
+**Peer-Education-Aspekt:**
+Gerade für Sek II ist der Gedanke wertvoll, Wissen weiterzugeben – nicht als Bevormundung, sondern als informierter Austausch unter Gleichaltrigen. Das stärkt das Gefühl von Selbstwirksamkeit.
+
+**Quizfragen zur Verfügung stellen:**
+Besonders gute Fragen können (mit Einverständnis) gesammelt und als Quiz-Set für andere Klassen oder als Aushang im Schulgebäude genutzt werden.
+
+**Fallstricke vermeiden:**
+- Nicht in Bewertungsstimmung kippen – das Quiz ist spielerisch, keine Überprüfung
+- Sek II: Quellenangaben müssen nicht perfekt sein – Grundprinzip genügt
+- Tempo halten: Lieber 5 Fragen in 4 Minuten als 2 Fragen mit langer Diskussion
+
+### Erwartete Schüler:innen-Antworten
+
+**Typische Schüler:innen-Quizfragen:**
+
+*Sek I:*
+- „Stimmt es, dass man nach dem Essen nicht schwimmen sollte?" (Mythos)
+- „Macht Zucker Kinder hyperaktiv?" (Mythos – oft überraschend)
+- „Hilft Vitamin C gegen Erkältungen?" (Komplex – kann zu Diskussion führen)
+
+*Sek II:*
+- „Ein Influencer empfiehlt Proteinshakes ohne Werbekennzeichnung – was sagt die EU-Richtlinie dazu?"
+- „Eine Studie mit 15 Teilnehmern zeigt: Detox-Tee senkt Blutdruck. Wie bewerte ich das?"
+- „Kann ein ‚natürliches' Produkt trotzdem schädlich sein?" (Differenziert)
+
+---
+
+## Phase 6: Reflexion (5 Min.)
 
 ### Ziel
 
@@ -448,7 +507,7 @@ Langzeitwirkung der Lerneinheit überprüfen; Alltagstransfer der Faktencheck-Me
 
 | Zeit   | Element | Sozialform | Material | Durchführung |
 |--------|---------|-----------|---------|-------------|
-| 3 Min. | **Rückblick: Persönliches Versprechen** | Einzelarbeit | Notizzettel aus der Reflexionsphase (falls aufbewahrt) | Schüler:innen rufen sich ihr Faktencheck-Versprechen in Erinnerung: *„Hat sich etwas verändert?"* |
+| 3 Min. | **Rückblick: Persönliches Versprechen** | Einzelarbeit | Notizzettel aus Phase 5 (falls aufbewahrt) | Schüler:innen rufen sich ihr Faktencheck-Versprechen in Erinnerung: *„Hat sich etwas verändert?"* |
 | 8 Min. | **Austausch: Erfahrungen in der Zwischenzeit** | Kleingruppen | – | *„Habt ihr einen Gesundheitstipp gesehen und die QQQQ-Methode (oder die drei Detektiv-Fragen) angewendet? Was ist passiert?"* Freiwillig, keine Pflicht. |
 | 4 Min. | **Kurzes Plenum** | Plenum | – | 2–3 Wortmeldungen. Kein Fazit, keine Bewertung – nur Teilen und Hören. |
 
@@ -468,6 +527,7 @@ Langzeitwirkung der Lerneinheit überprüfen; Alltagstransfer der Faktencheck-Me
 | **AB 3c: Faktencheck – „Zucker macht Kinder hyperaktiv"** | 2 | Verbreiteter Mythos; überraschend widerlegbar; guter Diskussionsanlass |
 | **AB 3d: Faktencheck – „Vitamin C schützt zuverlässig vor Erkältungen"** | 2 | Komplex: schwache Evidenz, aber cultural belief; gut für Sek II |
 | **AB 4: Drei fiktive Influencer-Profile** | 3 | Fitness / Ernährung / Beauty; Körperbild + Gesundheitsversprechen + Geschäftsmodell |
+| **AB 5: „Wahr oder Fake?"-Quiz** | 5 | Sek I: Multiple-Choice; Sek II: offene Fragen mit Quellenangabe |
 | **Primarstufe – Detektiv-Arbeitsblatt** | 2 (GS) | Drei Detektiv-Fragen + 2–3 kindgerechte Mini-Szenarien |
 | **Detektiv-Geschichte (Lehrkraft-Text)** | 1 (GS) | Lena-Geschichte für Sitzkreis; Vorlese-Version für Lehrkraft |
 
