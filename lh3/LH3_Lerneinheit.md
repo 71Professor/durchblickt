@@ -1,4 +1,5 @@
 # LH3 – „Gesundheitsmythen im Netz"
+
 **Was stimmt wirklich? Faktencheck & Körperideale**
 
 *Lehrkräftehandreichung | DURCHBLICKT! – Digital in eine gesunde Zukunft | BARMER / Klett MEX*
@@ -7,26 +8,26 @@
 
 ## Kurzübersicht
 
-| | |
-|---|---|
-| **Thema** | Gesundheitsmythen im Netz: Faktencheck, Körperbilder, kommerzielle Interessen |
-| **Leitfrage** | Wie erkenne ich verlässliche Gesundheitsinformationen im Netz – und warum ist das für meine Gesundheit wichtig? |
-| **Zielgruppe** | Sek I (Kl. 7–10) und Sek II (Kl. 11–13), mit GS-Erweiterung (Kl. 3–4) |
-| **Umfang** | 80 Minuten (5 Phasen) + optionales Follow-up (ca. 15 Min.) |
+|                |                                                                                                                                        |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Thema**      | Gesundheitsmythen im Netz: Faktencheck, Körperbilder, kommerzielle Interessen                                                          |
+| **Leitfrage**  | Wie erkenne ich verlässliche Gesundheitsinformationen im Netz – und warum ist das für meine Gesundheit wichtig?                        |
+| **Zielgruppe** | Sek I (Kl. 7–10) und Sek II (Kl. 11–13), mit GS-Erweiterung (Kl. 3–4)                                                                  |
+| **Umfang**     | 90 Minuten (5 Phasen) + optionales Follow-up (ca. 15 Min.)                                                                             |
 | **Anknüpfung** | LH6 (Desinformation), LH19 (Körperbilder), LH8 (Gesundheitsthemen), LH7 (Influencer:innen), LH21 (Gesundheitsinfos), LH14 (Challenges) |
 
 ---
 
 ## Phasenübersicht
 
-| Phase | Bezeichnung | Zeit | Methode | Material |
-|-------|-------------|------|---------|----------|
-| 1 | Einstieg & Hinführung | 25 Min. | Impuls → Plenum → Partnerarbeit → Sicherung | Video-Idee, Bildcollage, AB 1 |
-| 2 | Erarbeitung I: Faktencheck-Werkstatt | 25 Min. | Kurzimpuls → Gruppenarbeit → Ergebnissicherung im Plenum | AB 2 (QQQQ-Methode), AB 3a–d |
-| 3 | Erarbeitung II: Körperbilder & Mythen | 15 Min. | Gruppenarbeit → Plenum | AB 4 (Influencer-Profile) |
-| 4 | Vertiefung: Wer steckt dahinter? | 10 Min. | Gruppenarbeit → Plenumsdiskussion | – |
-| 5 | Reflexion | 5 Min. | Blitzlicht Plenum | Notizzettel (optional) |
-| – | Follow-up (optional) | 15 Min. | Einzelarbeit → Plenum | – |
+| Phase | Bezeichnung                           | Zeit    | Methode                                                  | Material                      |
+| ----- | ------------------------------------- | ------- | -------------------------------------------------------- | ----------------------------- |
+| 1     | Einstieg & Hinführung                 | 25 Min. | Impuls → Plenum → Partnerarbeit → Sicherung              | Video-Idee, Bildcollage, AB 1 |
+| 2     | Erarbeitung I: Faktencheck-Werkstatt  | 30 Min. | Kurzimpuls → Gruppenarbeit → Ergebnissicherung im Plenum | AB 2 (QQQQ-Methode), AB 3a–d  |
+| 3     | Erarbeitung II: Körperbilder & Mythen | 20 Min. | Gruppenarbeit → Plenum                                   | AB 4 (Influencer-Profile)     |
+| 4     | Vertiefung: Wer steckt dahinter?      | 10 Min. | Gruppenarbeit → Plenumsdiskussion                        | –                             |
+| 5     | Reflexion                             | 5 Min.  | Blitzlicht Plenum                                        | Notizzettel (optional)        |
+| –     | Follow-up (optional)                  | 15 Min. | Einzelarbeit → Plenum                                    | –                             |
 
 ---
 
@@ -75,25 +76,27 @@ Vorwissen aktivieren, persönliche Relevanz herstellen, Neugier wecken; Mechanis
 
 ### Ablauf
 
-| Zeit   | Element | Sozialform | Material | Durchführung |
-|--------|---------|-----------|---------|-------------|
-| 2 Min. | **Startervideo** *(Idee, noch zu produzieren)* | Plenum | Video-Idee: Viral-Claim vs. Expertenwiderleguung | Lehrkraft zeigt Kurzclip (oder beschreibt Konzept): Eine Gesundheitsbehauptung geht viral – Millionen Views, Stars teilen sie. Dann Gegenschnitt: Ernährungswissenschaftler:in widerlegt die Aussage in 30 Sekunden. Kein Kommentar, nur anschauen lassen. |
-| 5 Min. | **Schnellabfrage: „Glaubst du das?"** | Plenum | Bildcollage: 8 Gesundheitsbehauptungen (projiziert) | Lehrkraft zeigt Collage mit 8 Behauptungen aus Social Media – Mix aus Fakt und Fake (z. B. „Detox-Tee reinigt deinen Körper", „8 Gläser Wasser pro Tag sind Pflicht", „Zucker macht Kinder hyperaktiv"). Schüler:innen reagieren spontan per Daumen hoch/runter oder Karte. Keine Auflösung – Spannung halten. |
-| 4 Min. | **Think-Pair-Share** | Einzelarbeit → Partnerarbeit | – | *Think:* „Welchen Gesundheitstipp hast du online schon mal gesehen oder gehört?" (1 Min. still überlegen). *Pair:* Kurzer Austausch mit der Sitznachbarin/dem Sitznachbarn. *Share:* 3–4 Beispiele im Plenum sammeln. Lehrkraft notiert an der Tafel, ohne zu werten. |
-| 2 Min. | **Brückenfrage / Überleitung** | Plenum | – | *„Welche dieser Behauptungen könnte eure Gesundheitsentscheidungen beeinflussen – was ihr esst, trinkt, kauft oder ausprobiert?"* Kurze Wortmeldungen. Überleitung: *„Warum verbreiten sich solche Behauptungen überhaupt so schnell – obwohl viele davon nicht stimmen?"* |
-| 7 Min. | **Kurzimpuls: Warum verbreiten sich Mythen?** | Plenum | Infografik oder Kurzvideo (2–3 Min.) | Lehrkraft zeigt Infografik oder kurzes Erklärvideo: Algorithmen (emotionale Inhalte werden bevorzugt), einfache Botschaften, Körperideale als Trigger, sozialer Beweis (viele teilen = wirkt glaubwürdig). |
-| 3 Min. | **Partnerarbeit AB 1** | Partnerarbeit | AB 1: „Warum verbreiten sich Mythen?" | Schüler:innen ergänzen und kommentieren die Gründe auf AB 1 anhand eigener Beobachtungen: Welche Gründe kennen sie aus eigener Erfahrung? |
-| 2 Min. | **Sicherung & Gesundheitsbezug** | Plenum | Tafel/Board | Kurze Sammlung im Plenum. Kernbotschaft: Widersprüchliche Gesundheitsinfos erzeugen nicht nur Fehlinformationen, sondern auch Verunsicherung, Stress und Schamgefühle – das belastet die mentale Gesundheit. |
+| Zeit   | Element                                        | Sozialform                   | Material                                            | Durchführung                                                                                                                                                                                                                                                                                                   |
+| ------ | ---------------------------------------------- | ---------------------------- | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2 Min. | **Startervideo** *(Idee, noch zu produzieren)* | Plenum                       | Video-Idee: Viral-Claim vs. Expertenwiderleguung    | Lehrkraft zeigt Kurzclip (oder beschreibt Konzept): Eine Gesundheitsbehauptung geht viral – Millionen Views, Stars teilen sie. Dann Gegenschnitt: Ernährungswissenschaftler:in widerlegt die Aussage in 30 Sekunden. Kein Kommentar, nur anschauen lassen.                                                     |
+| 5 Min. | **Schnellabfrage: „Glaubst du das?"**          | Plenum                       | Bildcollage: 8 Gesundheitsbehauptungen (projiziert) | Lehrkraft zeigt Collage mit 8 Behauptungen aus Social Media – Mix aus Fakt und Fake (z. B. „Detox-Tee reinigt deinen Körper", „8 Gläser Wasser pro Tag sind Pflicht", „Zucker macht Kinder hyperaktiv"). Schüler:innen reagieren spontan per Daumen hoch/runter oder Karte. Keine Auflösung – Spannung halten. |
+| 4 Min. | **Think-Pair-Share**                           | Einzelarbeit → Partnerarbeit | –                                                   | *Think:* „Welchen Gesundheitstipp hast du online schon mal gesehen oder gehört?" (1 Min. still überlegen). *Pair:* Kurzer Austausch mit der Sitznachbarin/dem Sitznachbarn. *Share:* 3–4 Beispiele im Plenum sammeln. Lehrkraft notiert an der Tafel, ohne zu werten.                                          |
+| 2 Min. | **Brückenfrage / Überleitung**                 | Plenum                       | –                                                   | *„Welche dieser Behauptungen könnte eure Gesundheitsentscheidungen beeinflussen – was ihr esst, trinkt, kauft oder ausprobiert?"* Kurze Wortmeldungen. Überleitung: *„Warum verbreiten sich solche Behauptungen überhaupt so schnell – obwohl viele davon nicht stimmen?"*                                     |
+| 7 Min. | **Kurzimpuls: Warum verbreiten sich Mythen?**  | Plenum                       | Infografik oder Kurzvideo (2–3 Min.)                | Lehrkraft zeigt Infografik oder kurzes Erklärvideo: Algorithmen (emotionale Inhalte werden bevorzugt), einfache Botschaften, Körperideale als Trigger, sozialer Beweis (viele teilen = wirkt glaubwürdig).                                                                                                     |
+| 3 Min. | **Partnerarbeit AB 1**                         | Partnerarbeit                | AB 1: „Warum verbreiten sich Mythen?"               | Schüler:innen ergänzen und kommentieren die Gründe auf AB 1 anhand eigener Beobachtungen: Welche Gründe kennen sie aus eigener Erfahrung?                                                                                                                                                                      |
+| 2 Min. | **Sicherung & Gesundheitsbezug**               | Plenum                       | Tafel/Board                                         | Kurze Sammlung im Plenum. Kernbotschaft: Widersprüchliche Gesundheitsinfos erzeugen nicht nur Fehlinformationen, sondern auch Verunsicherung, Stress und Schamgefühle – das belastet die mentale Gesundheit.                                                                                                   |
 
 ### Differenzierung Sek I / Sek II
 
 **Sek I:**
+
 - Fokus auf vertraute Plattformen: TikTok, Instagram, YouTube (Fitness, Beauty, „Life Hacks")
 - Konkrete Beispiele: Before-After-Bilder, „Wundermittel", Challenges
 - Verbreitungsmechanismen beschreibend benennen: „weil es viele geteilt haben", „weil es toll klingt"
 - Fachbegriffe noch nicht notwendig
 
 **Sek II:**
+
 - Zusätzlich: Gesundheitsblogs, Influencer-Marketing, pseudowissenschaftliche Studien
 - Psychologische Mechanismen benennen und einordnen:
   - **Bestätigungsfehler (Confirmation Bias):** Wir glauben eher, was zu unseren Überzeugungen passt
@@ -112,6 +115,7 @@ Die Schnellabfrage und der Kurzimpuls werden durch eine **Detektiv-Geschichte im
 > Lena sieht in einem Video, dass ein bestimmtes Getränk nie krank macht. Sie findet das toll und erzählt es ihrer Freundin. Die Freundin erzählt es ihrer Mutter. Die Mutter kauft das Getränk – für die ganze Familie. Aber stimmt das wirklich?
 
 **Gesprächsfragen im Sitzkreis:**
+
 - *„Was ist hier passiert?"*
 - *„Hat jemand geprüft, ob das stimmt?"*
 - *„Wer hätte fragen können – und bei wem?"*
@@ -135,6 +139,7 @@ Die Frage „Glaubst du das?" (Einstieg) und die Frage „Warum glaubt man das?"
 Ermöglicht auch zurückhaltenden Schüler:innen, sich einzubringen – das kurze Partnergespräch senkt die Hemmschwelle für das Plenum.
 
 **Fallstricke vermeiden:**
+
 - Keine Einzelperson für das Glauben eines Mythos bloßstellen
 - Keine Behauptungen in der Collage verwenden, die auf persönliche Erfahrungen (Diäten, Krankheiten) von Schüler:innen zutreffen könnten – fiktiv und allgemein halten
 - „Mythos glauben" ist kein Zeichen von Dummheit, sondern menschliche Reaktion auf gut gemachte Kommunikation
@@ -144,6 +149,7 @@ Ermöglicht auch zurückhaltenden Schüler:innen, sich einzubringen – das kurz
 **Zur Schnellabfrage „Glaubst du das?"**
 
 *Typische Reaktionen:*
+
 - Deutliches Daumen-runter bei offensichtlichen Mythen (Detox-Tee)
 - Unsicherheit bei plausibel klingenden Behauptungen (8 Gläser Wasser)
 - Überraschung, wenn etwas scheinbar Bekanntes als Mythos entpuppt wird
@@ -153,12 +159,14 @@ Ermöglicht auch zurückhaltenden Schüler:innen, sich einzubringen – das kurz
 **Zum Think-Pair-Share:**
 
 *Häufige Beispiele (Sek I):*
+
 - „TikTok-Trends: Eiswasser trinken hilft beim Abnehmen"
 - „Zu viel Bildschirm macht blind"
 - „Bestimmte Lebensmittel sind ‚giftig'"
 - „Sport jeden Tag ist Pflicht, wenn man gesund sein will"
 
 *Häufige Beispiele (Sek II):*
+
 - Nahrungsergänzungsmittel-Werbung auf Social Media
 - „Clean Eating" als einzig gesunde Ernährungsform
 - Influencer:innen mit Schlankmacherprodukten
@@ -166,18 +174,20 @@ Ermöglicht auch zurückhaltenden Schüler:innen, sich einzubringen – das kurz
 **Zu den Verbreitungsmechanismen:**
 
 *Sek I:*
+
 - „Weil es viele geteilt haben, denkt man, es stimmt"
 - „Weil die Person nett und glaubwürdig wirkt"
 - „Weil man es leicht versteht und merkt"
 
 *Sek II:*
+
 - „Algorithmen priorisieren emotionale Inhalte – Angst und Hoffnung verkaufen sich gut"
 - „Bestätigungsfehler: Man glaubt lieber, was man schon vermutet"
 - „Sozialer Beweis: 500.000 Likes können nicht alle falsch haben"
 
 ---
 
-## Phase 2: Erarbeitung I – Faktencheck-Werkstatt (25 Min.)
+## Phase 2: Erarbeitung I – Faktencheck-Werkstatt (30 Min.)
 
 ### Ziel
 
@@ -185,21 +195,23 @@ Praktische Methoden zur Überprüfung von Gesundheitsbehauptungen kennenlernen u
 
 ### Ablauf
 
-| Zeit   | Element | Sozialform | Material | Durchführung |
-|--------|---------|-----------|---------|-------------|
-| 5 Min. | **Einführung QQQQ-Methode** | Plenum | AB 2: QQQQ-Methode (projiziert + ausgedruckt) | Lehrkraft stellt die vier Fragen vor und erläutert sie kurz anhand eines Beispiels. Wichtig: Die Methode nicht überladen – sie soll praktisch anwendbar sein, nicht theoretisch vollständig. |
-| 15 Min. | **Gruppenarbeit: Faktencheck** | Gruppenarbeit (3–4 Personen) | AB 3a–d (je eine Behauptung pro Gruppe) | Jede Gruppe überprüft eine Gesundheitsbehauptung mit der QQQQ-Methode (AB 3). Aufgabe: Fakten sammeln, Quellen einschätzen, Ergebnis formulieren. Sek I: vorgegebene Quellenbeschreibungen nutzen. Sek II: eigene kurze Recherche möglich (falls Geräte vorhanden). |
-| 5 Min. | **Ergebnissicherung im Plenum** | Plenum | – | Lehrkraft sammelt die Ergebnisse der Gruppen: Welche Behauptung wurde geprüft? Was hat die Gruppe herausgefunden? Lehrkraft strukturiert und ergänzt Kernfakten knapp – kein Präsentationsdruck, keine Einzelvorträge. |
+| Zeit    | Element                         | Sozialform                   | Material                                      | Durchführung                                                                                                                                                                                                                                                        |
+| ------- | ------------------------------- | ---------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 10 Min. | **Einführung QQQQ-Methode**     | Plenum                       | AB 2: QQQQ-Methode (projiziert + ausgedruckt) | Lehrkraft stellt die vier Fragen vor und erläutert sie kurz anhand eines Beispiels. Wichtig: Die Methode nicht überladen – sie soll praktisch anwendbar sein, nicht theoretisch vollständig.                                                                        |
+| 15 Min. | **Gruppenarbeit: Faktencheck**  | Gruppenarbeit (3–4 Personen) | AB 3a–d (je eine Behauptung pro Gruppe)       | Jede Gruppe überprüft eine Gesundheitsbehauptung mit der QQQQ-Methode (AB 3). Aufgabe: Fakten sammeln, Quellen einschätzen, Ergebnis formulieren. Sek I: vorgegebene Quellenbeschreibungen nutzen. Sek II: eigene kurze Recherche möglich (falls Geräte vorhanden). |
+| 5 Min.  | **Ergebnissicherung im Plenum** | Plenum                       | –                                             | Lehrkraft sammelt die Ergebnisse der Gruppen: Welche Behauptung wurde geprüft? Was hat die Gruppe herausgefunden? Lehrkraft strukturiert und ergänzt Kernfakten knapp – kein Präsentationsdruck, keine Einzelvorträge.                                              |
 
 ### Differenzierung Sek I / Sek II
 
 **Sek I:**
+
 - Vereinfachte QQQQ-Checkliste mit konkreten Fragen und Beispielantworten auf AB 2
 - Klare Mythen vs. Fakten: Ergebnis soll eindeutig sein
 - Vorgegebene Quellenbeschreibungen auf AB 3 (Schüler:innen müssen nicht selbst recherchieren)
 - Fokus: Anwenden der Methode, nicht Bewerten von Studienqualität
 
 **Sek II:**
+
 - Volle QQQQ-Methode ohne vereinfachende Hilfen
 - Zusatz: Studienqualität einschätzen (Fallstudie vs. randomisierte Studie, n=12 vs. n=5000)
 - Interessenkonflikte erkennen: Wer finanziert diese Studie?
@@ -219,6 +231,7 @@ Statt der QQQQ-Methode und der Gruppen-Faktenarbeit (zu abstrakt) arbeiten die K
 3. 🔍 *Fragt noch jemand anders?* (Was sagt ein anderer Erwachsener – Arzt, Lehrerin, Elternteil – dazu?)
 
 **Methodische Hinweise:**
+
 - Detektiv-Blatt wird in **2er-Paaren** bearbeitet
 - 2–3 kindgerechte Mini-Szenarien (je 2–3 Sätze) werden von der Lehrkraft **vorgelesen** – kein Lesen erforderlich
 - Kinder kreuzen an oder zeichnen, wer die Aussage macht
@@ -226,6 +239,7 @@ Statt der QQQQ-Methode und der Gruppen-Faktenarbeit (zu abstrakt) arbeiten die K
 - Rückbindung an Phase 1: *„Genau das hat Lena gefehlt – jemand, der die drei Fragen stellt."*
 
 **Mini-Szenarien (Beispiele für die Lehrkraft):**
+
 - *Szenario 1:* „Mein Freund sagt, wenn man jeden Tag Gummibärchen isst, wird man nie krank, weil sie Vitamine haben. Das hat er in einem Video gesehen." → Wer sagt das? Warum? Fragt noch jemand?
 - *Szenario 2:* „Eine Frau im Internet verkauft einen Tee und sagt: ‚Mit diesem Tee wirst du nie müde!' Viele Leute haben das Video geteilt." → Wer sagt das? Warum?
 - *Szenario 3:* „Die Ärztin sagt, dass Kinder viel schlafen sollen, damit ihr Gehirn wächst. Das steht auch in einem dicken Buch über Gesundheit." → Wer sagt das? Warum? Ist das anders als die anderen?
@@ -244,6 +258,7 @@ Faktencheck ist diskursiver Prozess. In der Gruppe werden verschiedene Einschät
 Die Vielfalt der Behauptungen zeigt: Es gibt nicht nur eindeutige Falschinformationen, sondern auch vereinfachte, übertriebene oder aus dem Kontext gerissene Wahrheiten. Faktencheck ist kein Ja/Nein-Spiel, sondern ein Einschätzungsprozess.
 
 **Fallstricke vermeiden:**
+
 - Nicht zu lange bei einer Gruppe bleiben – alle Gruppen sollen zu Wort kommen
 - Ergebnissicherung straff halten – sonst fehlt Zeit für Phasen 3–5
 - Sek I: Keine Überforderung durch zu viele Quellen – maximal 3 vorgegebene Quellenbeschreibungen pro AB
@@ -252,6 +267,7 @@ Die Vielfalt der Behauptungen zeigt: Es gibt nicht nur eindeutige Falschinformat
 ### Erwartete Schüler:innen-Antworten
 
 **Zur QQQQ-Methode – erste Reaktionen:**
+
 - „Das ist viel Aufwand für ein Foto auf Instagram"
 - „Aber woher weiß ich, ob eine Quelle gut ist?"
 - „Ich recherchiere das nie – ich glaube einfach, was viele glauben"
@@ -261,24 +277,28 @@ Die Vielfalt der Behauptungen zeigt: Es gibt nicht nur eindeutige Falschinformat
 **Zu den Faktencheck-Behauptungen (Ergebnissicherung im Plenum):**
 
 *AB 3a (Detox-Tee):*
+
 - Sek I: „Der Tee macht das nicht wirklich, das ist nur Werbung"
 - Sek II: „Keine peer-reviewed Studien, kommerzielle Quelle, medizinisch nicht belegbar – klare Fehlinformation"
 
 *AB 3b (8 Gläser Wasser):*
+
 - Sek I: „Stimmt, man soll viel trinken"
 - Sek II: „Vereinfachung – individuell verschieden, wissenschaftliche Empfehlungen sind komplexer"
 
 *AB 3c (Zucker macht hyperaktiv):*
+
 - Überraschungsmoment erwartet: Die meisten glauben das – Studien widerlegen es
 - Sek II: „Das ist ein klassischer Mythos – die Erwartung der Eltern spielt die größere Rolle"
 
 *AB 3d (Vitamin C & Erkältungen):*
+
 - Sek I: „Stimmt, meine Eltern sagen das auch"
 - Sek II: „Studien zeigen: kein signifikanter Schutzeffekt bei normaler Dosierung – aber Placebo-Effekt ist real"
 
 ---
 
-## Phase 3: Erarbeitung II – Körperbilder & Gesundheitsmythen (15 Min.)
+## Phase 3: Erarbeitung II – Körperbilder & Gesundheitsmythen (20 Min.)
 
 ### Ziel
 
@@ -286,20 +306,22 @@ Verbindung zwischen konstruierten Körperbildern und Gesundheitsmythen erkennen;
 
 ### Ablauf
 
-| Zeit   | Element | Sozialform | Material | Durchführung |
-|--------|---------|-----------|---------|-------------|
-| 1 Min. | **Einführung** | Plenum | – | Lehrkraft erklärt: *„Gesundheitsmythen kommen nicht nur als Faktenaussagen – sie sind oft mit Körperbildern und Idealen verknüpft. Wir schauen jetzt, wie das in der Praxis aussieht."* |
-| 10 Min. | **Gruppenarbeit AB 4** | Gruppenarbeit (3–4 Personen) | AB 4: Drei fiktive Influencer-Profile | Jede Gruppe analysiert ein fiktives Influencer-Profil (Fitness / Ernährung / Beauty). Leitfragen: Welches Körperbild wird vermittelt? Welche Gesundheitsbehauptungen werden gemacht? Wer profitiert davon? |
-| 4 Min. | **Auswertung im Plenum** | Plenum | Tafel/Board | Kurze Sammlung der Ergebnisse. Kernfragen: *„Wie realistisch sind diese Ideale?"* und *„Welche Risiken entstehen – für den Körper, für das Selbstbild?"* |
+| Zeit    | Element                  | Sozialform                   | Material                              | Durchführung                                                                                                                                                                                               |
+| ------- | ------------------------ | ---------------------------- | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2 Min.  | **Einführung**           | Plenum                       | –                                     | Lehrkraft erklärt: *„Gesundheitsmythen kommen nicht nur als Faktenaussagen – sie sind oft mit Körperbildern und Idealen verknüpft. Wir schauen jetzt, wie das in der Praxis aussieht."*                    |
+| 13 Min. | **Gruppenarbeit AB 4**   | Gruppenarbeit (3–4 Personen) | AB 4: Drei fiktive Influencer-Profile | Jede Gruppe analysiert ein fiktives Influencer-Profil (Fitness / Ernährung / Beauty). Leitfragen: Welches Körperbild wird vermittelt? Welche Gesundheitsbehauptungen werden gemacht? Wer profitiert davon? |
+| 5 Min.  | **Auswertung im Plenum** | Plenum                       | Tafel/Board                           | Kurze Sammlung der Ergebnisse. Kernfragen: *„Wie realistisch sind diese Ideale?"* und *„Welche Risiken entstehen – für den Körper, für das Selbstbild?"*                                                   |
 
 ### Differenzierung Sek I / Sek II
 
 **Sek I:**
+
 - Beschreiben und Einordnen: Was sehe ich? Was wird versprochen? Was stimmt daran (wahrscheinlich) nicht?
 - Persönliche Einschätzung: *„Würdest du diesem Profil folgen? Warum?"*
 - Verbindung zu LH19 (Körperbilder) aktivieren: *„Was haben wir damals über Bildbearbeitung gelernt?"*
 
 **Sek II:**
+
 - Geschäftsmodelle analysieren: Affiliate-Links, gesponserte Posts, eigene Produktlinien
 - Gesellschaftliche Auswirkungen diskutieren: Bodyshaming, Essstörungen, Übertraining als systemische Folgen
 - EU-Kennzeichnungspflicht für Werbung: Was ist gesetzlich vorgeschrieben, was wird umgangen?
@@ -314,6 +336,7 @@ Reale Influencer-Profile wären aktueller, aber rechtlich und ethisch problemati
 Gesundheitsmythen sind selten neutral. Sie transportieren immer auch ein Körperbild: „Wer dieses Produkt nimmt, sieht so aus." Das macht sie wirkungsvoller als reine Faktenaussagen – und gefährlicher, weil sie an Selbstwert und Identität anknüpfen.
 
 **Fallstricke vermeiden:**
+
 - Nicht alle Fitness- oder Ernährungs-Influencer:innen pauschal negativ darstellen
 - Phase 3 ist analytisch, nicht anklagend: Es geht um Mechanismen, nicht um Schuld
 - Wenn Schüler:innen bestimmten Influencer:innen folgen: kein Urteil über ihre Entscheidung
@@ -321,16 +344,19 @@ Gesundheitsmythen sind selten neutral. Sie transportieren immer auch ein Körper
 ### Erwartete Schüler:innen-Antworten
 
 **Zu Profil 1 (Fitness):**
+
 - „Nicht realistisch – der Körper ist durch Training UND genetische Voraussetzungen so"
 - „Er bewirbt Proteinpulver – da verdient er dran"
 - Sek II: „Kein Disclaimer, obwohl es Werbung ist – Verstoß gegen Kennzeichnungspflicht"
 
 **Zu Profil 2 (Ernährung):**
+
 - „Clean Eating klingt gut, aber was bedeutet das eigentlich?"
 - „Scham für ‚ungesunde' Lebensmittel – das erzeugt Druck"
 - Sek II: „Orthorexia-Risiko: Wenn ‚gesund essen' zur Obsession wird"
 
 **Zu Profil 3 (Beauty/Wellness):**
+
 - „Die Haut sieht so aus, weil sie Filter benutzt – das ist kein echtes Ergebnis vom Produkt"
 - „Angst vor Makel schüren, dann Lösung verkaufen – klassisches Muster"
 - Sek II: „Das Geschäftsmodell basiert auf Körperunsicherheit – je unsicherer, desto kaufbereiter"
@@ -345,20 +371,22 @@ Kommerzielle und algorithmische Interessen hinter Gesundheitsmythen erkennen; kr
 
 ### Ablauf
 
-| Zeit   | Element | Sozialform | Material | Durchführung |
-|--------|---------|-----------|---------|-------------|
-| 2 Min. | **Impulsfrage** | Plenum | – | Lehrkraft stellt die Kernfrage: *„Wem nützt es, wenn Gesundheitsmythen geglaubt werden?"* Kurze spontane Antworten sammeln – noch keine Vertiefung. |
-| 5 Min. | **Kurzauswertung in Gruppen** | Gruppenarbeit | – | Gruppen aus Phase 3 ergänzen ihre Analyse: Werbung, Affiliate-Links, Produktverkäufe, Reichweite. *„Macht es einen Unterschied, ob jemand bezahlt wurde, als er etwas empfohlen hat?"* |
-| 3 Min. | **Plenumsdiskussion** | Plenum | Tafel/Board | Ergebnisse zusammenführen. Lehrkraft strukturiert: (1) Wer profitiert von Mythen? (2) Welche Rolle spielt der Algorithmus? (3) Was hat das mit uns zu tun? |
+| Zeit   | Element                       | Sozialform    | Material    | Durchführung                                                                                                                                                                           |
+| ------ | ----------------------------- | ------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2 Min. | **Impulsfrage**               | Plenum        | –           | Lehrkraft stellt die Kernfrage: *„Wem nützt es, wenn Gesundheitsmythen geglaubt werden?"* Kurze spontane Antworten sammeln – noch keine Vertiefung.                                    |
+| 5 Min. | **Kurzauswertung in Gruppen** | Gruppenarbeit | –           | Gruppen aus Phase 3 ergänzen ihre Analyse: Werbung, Affiliate-Links, Produktverkäufe, Reichweite. *„Macht es einen Unterschied, ob jemand bezahlt wurde, als er etwas empfohlen hat?"* |
+| 3 Min. | **Plenumsdiskussion**         | Plenum        | Tafel/Board | Ergebnisse zusammenführen. Lehrkraft strukturiert: (1) Wer profitiert von Mythen? (2) Welche Rolle spielt der Algorithmus? (3) Was hat das mit uns zu tun?                             |
 
 ### Differenzierung Sek I / Sek II
 
 **Sek I:**
+
 - Werbung klar benennen: *„Wenn jemand ein Produkt empfiehlt und dafür Geld bekommt, ist das Werbung – auch wenn es aussieht wie ein Tipp."*
 - Einfache Interessen benennen: Geld verdienen, Follower gewinnen, bekannt werden
 - Verbindung zu LH7 (Influencer:innen): *„Was haben wir damals über bezahlte Empfehlungen gelernt?"*
 
 **Sek II:**
+
 - EU-Regulierung: Kennzeichnungspflicht für Werbung, Grenzen der Regulierung bei Algorithmen
 - Plattformverantwortung: Welche Pflichten haben Plattformen beim Verbreiten von Gesundheitsmythen?
 - Gesellschaftliche Verantwortung: *„Reicht individuelle Medienkompetenz – oder braucht es strukturelle Lösungen?"*
@@ -373,6 +401,7 @@ Phasen 2 und 3 haben gezeigt, *was* Gesundheitsmythen sind und wie sie funktioni
 Für Sek I bleibt die Perspektive handlungsorientiert: Ich kann erkennen, wenn jemand etwas verkauft. Für Sek II kommt die systemische Dimension hinzu: Nicht nur das Individuum ist gefragt, sondern auch Plattformen und Regulierung. Beides ist wichtig – und beides sollte nicht gegeneinander ausgespielt werden.
 
 **Fallstricke vermeiden:**
+
 - Nicht in Zynismus verfallen: *„Dann kann man nichts glauben"* ist keine hilfreiche Schlussfolgerung
 - Medienkompetenz als Empowerment, nicht als Misstrauen gegenüber allem
 - Phase 4 dient der Vertiefung, nicht der Wiederholung – auf Neues fokussieren
@@ -382,16 +411,19 @@ Für Sek I bleibt die Perspektive handlungsorientiert: Ich kann erkennen, wenn j
 **„Wem nützt es, wenn Mythen geglaubt werden?"**
 
 *Sek I:*
+
 - „Den Firmen, die die Produkte verkaufen"
 - „Den Influencer:innen, die Werbung machen"
 - „Den Plattformen – mehr Klicks, mehr Werbegeld"
 
 *Sek II:*
+
 - „Das gesamte Geschäftsmodell basiert auf Aufmerksamkeit – Mythen generieren Engagement"
 - „Verunsicherung ist profitabel: Wer unsicher über seinen Körper ist, kauft mehr"
 - „Der Algorithmus bevorzugt emotionale Inhalte – Gesundheitsangst ist emotional"
 
 **„Macht Bezahlung einen Unterschied?"**
+
 - *Sek I:* „Ja, weil die Person dann nicht mehr ehrlich ist"
 - *Sek II:* „Kommt drauf an – auch nicht bezahlte Empfehlungen können Fehlinformationen sein. Das Problem ist die fehlende Transparenz, nicht nur das Geld."
 
@@ -405,10 +437,10 @@ Rückblick auf den Lernprozess; keine Wissenssicherung, kein Handlungsdruck – 
 
 ### Ablauf
 
-| Zeit   | Element | Sozialform | Material | Durchführung |
-|--------|---------|-----------|---------|-------------|
-| 4 Min. | **Blitzlicht-Abschlussrunde** | Plenum | – | Lehrkraft lädt ein: *„Jede:r sagt in einem Satz: Was nehme ich heute mit? Was hat mich überrascht? Was beschäftigt mich noch?"* Freiwillig, keine Bewertung, kein Kommentar der Lehrkraft. Wortmeldungen nehmen, schweigen lassen. |
-| 1 Min. | **Optionaler Hinweis: Anonymer Notizzettel** | Einzelarbeit | Notizzettel | *„Wer möchte, kann für sich aufschreiben: ‚Welchen Gesundheitstipp werde ich das nächste Mal hinterfragen?'"* Zettel bleibt bei den Schüler:innen. |
+| Zeit   | Element                                      | Sozialform   | Material    | Durchführung                                                                                                                                                                                                                       |
+| ------ | -------------------------------------------- | ------------ | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 4 Min. | **Blitzlicht-Abschlussrunde**                | Plenum       | –           | Lehrkraft lädt ein: *„Jede:r sagt in einem Satz: Was nehme ich heute mit? Was hat mich überrascht? Was beschäftigt mich noch?"* Freiwillig, keine Bewertung, kein Kommentar der Lehrkraft. Wortmeldungen nehmen, schweigen lassen. |
+| 1 Min. | **Optionaler Hinweis: Anonymer Notizzettel** | Einzelarbeit | Notizzettel | *„Wer möchte, kann für sich aufschreiben: ‚Welchen Gesundheitstipp werde ich das nächste Mal hinterfragen?'"* Zettel bleibt bei den Schüler:innen.                                                                                 |
 
 ### Differenzierung
 
@@ -427,11 +459,13 @@ Faktencheck-Kompetenz ist kein abgeschlossenes Wissen – sie ist eine Haltung, 
 ### Erwartete Schüler:innen-Antworten
 
 *Typische Blitzlicht-Antworten:*
+
 - „Ich hatte nicht gewusst, dass Zucker-Hyperaktivität ein Mythos ist – das sag ich meinen Eltern"
 - „Ich schaue jetzt anders auf Influencer-Accounts"
 - „Ich frag mich, wie ich das im Alltag wirklich umsetzen soll – das ist viel"
 
 *Offene Fragen, die bewusst offen bleiben:*
+
 - „Wem kann man dann überhaupt noch trauen?"
 - „Ist das ein Problem, das sich lösen lässt – oder wird das immer schlimmer?"
 - „Was passiert, wenn jemand wirklich krank ist und nur Mythen findet?"
@@ -446,30 +480,30 @@ Langzeitwirkung der Lerneinheit überprüfen; Alltagstransfer der Faktencheck-Me
 
 ### Ablauf
 
-| Zeit   | Element | Sozialform | Material | Durchführung |
-|--------|---------|-----------|---------|-------------|
-| 3 Min. | **Rückblick: Persönliches Versprechen** | Einzelarbeit | Notizzettel aus der Reflexionsphase (falls aufbewahrt) | Schüler:innen rufen sich ihr Faktencheck-Versprechen in Erinnerung: *„Hat sich etwas verändert?"* |
-| 8 Min. | **Austausch: Erfahrungen in der Zwischenzeit** | Kleingruppen | – | *„Habt ihr einen Gesundheitstipp gesehen und die QQQQ-Methode (oder die drei Detektiv-Fragen) angewendet? Was ist passiert?"* Freiwillig, keine Pflicht. |
-| 4 Min. | **Kurzes Plenum** | Plenum | – | 2–3 Wortmeldungen. Kein Fazit, keine Bewertung – nur Teilen und Hören. |
+| Zeit   | Element                                        | Sozialform   | Material                                               | Durchführung                                                                                                                                             |
+| ------ | ---------------------------------------------- | ------------ | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3 Min. | **Rückblick: Persönliches Versprechen**        | Einzelarbeit | Notizzettel aus der Reflexionsphase (falls aufbewahrt) | Schüler:innen rufen sich ihr Faktencheck-Versprechen in Erinnerung: *„Hat sich etwas verändert?"*                                                        |
+| 8 Min. | **Austausch: Erfahrungen in der Zwischenzeit** | Kleingruppen | –                                                      | *„Habt ihr einen Gesundheitstipp gesehen und die QQQQ-Methode (oder die drei Detektiv-Fragen) angewendet? Was ist passiert?"* Freiwillig, keine Pflicht. |
+| 4 Min. | **Kurzes Plenum**                              | Plenum       | –                                                      | 2–3 Wortmeldungen. Kein Fazit, keine Bewertung – nur Teilen und Hören.                                                                                   |
 
 ---
 
 ## Materialübersicht
 
-| Material | Phase | Beschreibung |
-|---------|-------|-------------|
-| **Video-Idee: Viral-Claim vs. Expertenwiderlegung** *(noch zu produzieren)* | 1 | Gesundheitsbehauptung geht viral; Gegenschnitt mit Expertin; Einstiegsfrage „Wem glaubst du?" |
-| **Bildcollage: 8 Gesundheitsbehauptungen** | 1 | Mix aus Fakt und Fake; für Schnellabfrage per Daumen hoch/runter |
-| **Infografik: Warum verbreiten sich Mythen?** | 1 | Algorithmen, Emotionen, sozialer Beweis, Körperideale; projizierbar oder als Ausdruck |
-| **AB 1: Warum verbreiten sich Mythen?** | 1 | Sammlung und Kommentierung von Verbreitungsmechanismen aus eigener Erfahrung |
-| **AB 2: Die QQQQ-Methode** | 2 | Quelle / Qualität / Querbezüge / Qualitätssiegel; Sek I mit vereinfachter Checkliste |
-| **AB 3a: Faktencheck – „Detox-Tee entgiftet deinen Körper"** | 2 | Klare Fehlinformation; kommerzielle Quelle; einfach zu widerlegen |
-| **AB 3b: Faktencheck – „8 Gläser Wasser pro Tag sind Pflicht"** | 2 | Vereinfachung einer wissenschaftlichen Empfehlung; differenziertes Ergebnis |
-| **AB 3c: Faktencheck – „Zucker macht Kinder hyperaktiv"** | 2 | Verbreiteter Mythos; überraschend widerlegbar; guter Diskussionsanlass |
-| **AB 3d: Faktencheck – „Vitamin C schützt zuverlässig vor Erkältungen"** | 2 | Komplex: schwache Evidenz, aber cultural belief; gut für Sek II |
-| **AB 4: Drei fiktive Influencer-Profile** | 3 | Fitness / Ernährung / Beauty; Körperbild + Gesundheitsversprechen + Geschäftsmodell |
-| **Primarstufe – Detektiv-Arbeitsblatt** | 2 (GS) | Drei Detektiv-Fragen + 2–3 kindgerechte Mini-Szenarien |
-| **Detektiv-Geschichte (Lehrkraft-Text)** | 1 (GS) | Lena-Geschichte für Sitzkreis; Vorlese-Version für Lehrkraft |
+| Material                                                                    | Phase  | Beschreibung                                                                                  |
+| --------------------------------------------------------------------------- | ------ | --------------------------------------------------------------------------------------------- |
+| **Video-Idee: Viral-Claim vs. Expertenwiderlegung** *(noch zu produzieren)* | 1      | Gesundheitsbehauptung geht viral; Gegenschnitt mit Expertin; Einstiegsfrage „Wem glaubst du?" |
+| **Bildcollage: 8 Gesundheitsbehauptungen**                                  | 1      | Mix aus Fakt und Fake; für Schnellabfrage per Daumen hoch/runter                              |
+| **Infografik: Warum verbreiten sich Mythen?**                               | 1      | Algorithmen, Emotionen, sozialer Beweis, Körperideale; projizierbar oder als Ausdruck         |
+| **AB 1: Warum verbreiten sich Mythen?**                                     | 1      | Sammlung und Kommentierung von Verbreitungsmechanismen aus eigener Erfahrung                  |
+| **AB 2: Die QQQQ-Methode**                                                  | 2      | Quelle / Qualität / Querbezüge / Qualitätssiegel; Sek I mit vereinfachter Checkliste          |
+| **AB 3a: Faktencheck – „Detox-Tee entgiftet deinen Körper"**                | 2      | Klare Fehlinformation; kommerzielle Quelle; einfach zu widerlegen                             |
+| **AB 3b: Faktencheck – „8 Gläser Wasser pro Tag sind Pflicht"**             | 2      | Vereinfachung einer wissenschaftlichen Empfehlung; differenziertes Ergebnis                   |
+| **AB 3c: Faktencheck – „Zucker macht Kinder hyperaktiv"**                   | 2      | Verbreiteter Mythos; überraschend widerlegbar; guter Diskussionsanlass                        |
+| **AB 3d: Faktencheck – „Vitamin C schützt zuverlässig vor Erkältungen"**    | 2      | Komplex: schwache Evidenz, aber cultural belief; gut für Sek II                               |
+| **AB 4: Drei fiktive Influencer-Profile**                                   | 3      | Fitness / Ernährung / Beauty; Körperbild + Gesundheitsversprechen + Geschäftsmodell           |
+| **Primarstufe – Detektiv-Arbeitsblatt**                                     | 2 (GS) | Drei Detektiv-Fragen + 2–3 kindgerechte Mini-Szenarien                                        |
+| **Detektiv-Geschichte (Lehrkraft-Text)**                                    | 1 (GS) | Lena-Geschichte für Sitzkreis; Vorlese-Version für Lehrkraft                                  |
 
 ---
 
