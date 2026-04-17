@@ -1,6 +1,6 @@
 # DURCHBLICKT! – Projektstatus
 
-*Zuletzt aktualisiert: 28. März 2026*
+*Zuletzt aktualisiert: 17. April 2026*
 
 ---
 
@@ -31,7 +31,7 @@
 | Grobkonzept (Phase 1–4)                | ✅ fertig (intern) | Jan 2026  | Grobkonzept_LH2_2026_Identitaet_final.md     |
 | Leitlinien-Check (Phase 4a)            | ✅ fertig          | März 2026 | Alle 5 Leitlinien erfüllt – einreichungsreif |
 | Phase 4b – BARMER-Genehmigungsvorlage  | ✅ fertig          | März 2026 | lh2/LH2_Grobkonzept_Identitaet_barmer.md – inkl. GS-Erweiterung (Phase 1 + 3) |
-| ⏳ Warte auf BARMER-Freigabe            | ⏳ ausstehend      | –         | Genehmigungsvorlage bereit, Einreichung ausstehend |
+| ⏳ Warte auf BARMER-Freigabe            | ✅ Freigabe erhalten | April 2026 | Feedback wrf eingearbeitet (boyd, Marwick&boyd, Vogel et al., Algo, BeReal) |
 | Feinkonzept + Arbeitsblätter (Phase 5) | ✅ fertig          | April 2026 | LH2_Lerneinheit.md + LH2_Arbeitsblätter.md  |
 | Ablaufstruktur (Phase 6)               | ✅ fertig          | April 2026 | In LH2_Lerneinheit.md integriert (6 Phasen, 90 Min.) |
 | Grundschul-Erweiterung (Phase 6a)      | ✅ fertig          | April 2026 | In Phase 1 + 3 eingebaut; PS AB 1 in LH2_Arbeitsblätter.md |
