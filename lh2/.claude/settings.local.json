@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node scripts/export_lh2_fertig.js)",
+      "Bash(python3)",
+      "Bash(python3 *)"
+    ]
+  }
+}
