@@ -74,6 +74,8 @@ Analysiert das Profil @lena.moments mithilfe der folgenden Tabelle.
 
 3. Erving Goffman beschreibt unser Alltagsleben als Theater: Es gibt eine **Vorderbühne** (was andere sehen) und eine **Hinterbühne** (was verborgen bleibt). Welche „Hinterbühne" könnte @lena.moments haben?
 4. Jede Profilgestaltung ist auch eine psychologische Entscheidung. Welche Bedürfnisse (z. B. Anerkennung, Zugehörigkeit, Selbstwirksamkeit) werden in Lenas Profil erkennbar? Begründet eure Einschätzung.
+5. danah boyd (2014) beschreibt vier besondere Eigenschaften digitaler Identität: Sie ist **persistent** (bleibt bestehen), **durchsuchbar**, **replizierbar** und **skalierbar**. Welche dieser Eigenschaften verändert die Art, wie @lena.moments ihr Profil wahrscheinlich gestaltet – und warum?
+6. Marwick & boyd (2011) beschreiben das Phänomen des **„Context Collapse"**: Online sehen alle sozialen Kontexte gleichzeitig denselben Post – Schulkamerad:innen, Familie, Bekannte. Welche Konsequenz hat das für @lena.moments? Welche Entscheidungen würde sie anders treffen, wenn sie nur für eine Gruppe posten würde?
 
 ---
 
@@ -90,6 +92,10 @@ Analysiert das Profil @lena.moments mithilfe der folgenden Tabelle.
 **Netzwerk:** Thematisch konsistent → Profil als Identitätsaussage: „Ich bin jemand, der reist und draußen ist."
 
 **Hinterbühne (Sek II):** Schultag, Hausaufgaben, Konflikte, Langeweile, schlechte Tage – all das ist unsichtbar. Das ist kein Vorwurf, sondern die Norm: Jedes Profil zeigt Ausschnitte.
+
+**Networked Publics – boyd (2014) (Sek II, Q5):** Da Lenas Profil persistent ist (Posts aus 2023 sind noch abrufbar), durchsuchbar (der Name auffindbar) und replizierbar (Screenshots), gestaltet sie es wahrscheinlich vorsichtiger als ein flüchtiges Alltagsgespräch. Skalierbarkeit bedeutet: Ein Post könnte theoretisch Tausende erreichen – das verändert die Kalkulation.
+
+**Context Collapse – Marwick & boyd (2011) (Sek II, Q6):** Wenn Oma, beste Freundin und zufällige Follower denselben Post sehen, muss Lena eine Version von sich zeigen, die für alle gleichzeitig „passt". Das erklärt die neutrale, lifestyle-konforme Ästhetik – sie ist ein Kompromiss zwischen verschiedenen Erwartungen. Würde sie nur für Freunde posten, wäre das Profil vermutlich persönlicher und unpolierter.
 
 ---
 
@@ -172,6 +178,7 @@ Bearbeitet die Fragen für **alle drei Profile**.
 
 8. Das **Authentizitätsparadox**: Je mehr jemand „Echtheit" inszeniert, desto glaubwürdiger kann es wirken – und desto strategischer kann es sein. Welches Profil zeigt das am deutlichsten? Begründet.
 9. Welche dieser drei Strategien „belohnt" der Algorithmus? Was sagt das über die Plattform aus?
+10. Die Plattform **BeReal** zwingt Nutzer:innen täglich zu einem zufälligen Zeitpunkt, innerhalb von 2 Minuten ein ungefiltertes Foto zu posten (keine Vorbereitung, kein Re-Shot, Dual-Camera vorne und hinten gleichzeitig). Welche der drei Strategien – „Der Perfekte", „Der Authentische", „Der Kreative" – würde auf BeReal am schwersten funktionieren? Was sagt das über den Zusammenhang zwischen Plattformdesign und Identitätsdarstellung?
 
 ---
 
@@ -194,6 +201,8 @@ Bearbeitet die Fragen für **alle drei Profile**.
 - Strategie: Identität über Werk statt über Aussehen
 - Besonderheit: Avatar statt Foto = Schutz der privaten Person; zeigt Ich über Arbeit
 - Für Sek II: Welche Bedürfnisse werden *nicht* gezeigt? Was ist die Hinterbühne?
+
+**BeReal als Gegenmodell (Sek II, Q10):** „Der Perfekte" funktioniert auf BeReal am schwersten – tägliche, unvorbereitete Fotos lassen sich nicht in einen kuratierten Highlight-Feed einpassen. „Der Authentische" käme dem BeReal-Format am nächsten. Das zeigt: Plattformdesign ist keine neutrale Entscheidung, sondern formt aktiv, welche Identitätsstrategien möglich und welche unmöglich sind.
 
 ---
 
@@ -229,6 +238,7 @@ Lest die Geschichte und bearbeitet die folgenden Fragen gemeinsam in eurer Grupp
 
 4. Der Psychologe Leon Festinger beschreibt den sogenannten **Aufwärtsvergleich**: Wir vergleichen uns mit Menschen, die wir als „besser" wahrnehmen – und verlieren dabei fast immer. Erkennt ihr diesen Mechanismus in Mias Geschichte? Was macht ihn auf Social Media besonders stark?
 5. Ist das ein **individuelles Problem** – oder hat auch die Plattform eine Verantwortung? Begründet.
+6. Vogel et al. (2024) haben in einer aktuellen Studie gezeigt, dass soziale Vergleiche auf Social Media **intensiver und häufiger** sind als analoge Vergleiche im Alltag. Warum könnte das so sein? Und was bedeutet das für Mias Situation – könnte sie das „einfach abstellen", wenn sie wollte?
 
 ---
 
@@ -257,6 +267,8 @@ Emotionale Reaktionen auf Bilder sind schneller als rationale Einordnung. Das Wi
 - Eigene Stärken und schöne Alltagsmomente bewusst wahrnehmen
 
 **Aufwärtsvergleich (Sek II):** Festinger (1954): Menschen vergleichen sich, um sich einzuschätzen. Aufwärtsvergleiche auf Social Media sind besonders stark, weil die „Basis" der Vergleiche (kuratierte Profile) nicht real ist – man verliert gegen eine Fiktion.
+
+**Vogel et al. (2024) (Sek II, Q6):** Digitale Vergleiche sind aus mehreren Gründen intensiver als analoge: (1) Algorithmen zeigen bevorzugt attraktive, erfolgreiche Inhalte (kuratiertes Feed), (2) die Frequenz ist viel höher als zufällige Alltagsbegegnungen, (3) Profile sind auf positive Selbstdarstellung optimiert, (4) man ist jederzeit und überall erreichbar. Mia könnte das nicht einfach „abstellen" – das wäre, als würde man jemandem sagen, er solle aufhören zu atmen. Der Mechanismus ist stärker als die bewusste Einsicht. Das ist kein persönliches Versagen, sondern ein systemisches Designproblem.
 
 ---
 

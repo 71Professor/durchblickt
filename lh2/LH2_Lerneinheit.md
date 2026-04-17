@@ -195,6 +195,8 @@ Mechanismen der Online-Selbstdarstellung verstehen, die 5 Bausteine digitaler Id
 
 **Sek II:**
 - Zusätzlich: Theorie der Selbstpräsentation einführen – Erving Goffman: *„Das Leben als Theater"* (Vorder- und Hinterbühne, Rollenspiel im Alltag)
+- boyd (2014): „Networked Publics" – digitale Identität ist persistent, durchsuchbar, replizierbar, skalierbar; das unterscheidet sie fundamental von analoger Selbstdarstellung und hat direkte Konsequenzen für jede Profilentscheidung
+- Marwick & boyd (2011): „Context Collapse" – online sehen Familie, Freunde und Schulkameraden denselben Post gleichzeitig; das erzeugt Authentizitätskonflikte: *Für welches Publikum gestalte ich mein Profil?*
 - Psychologische Mechanismen benennen: Bedürfnis nach Anerkennung, Zugehörigkeit, Selbstwirksamkeit
 - Analyse geht über Beschreibung hinaus: *„Welche Strategie verfolgt dieses Profil? Was verrät es über den Profilinhaber – bewusst und unbewusst?"*
 - Anschluss an LH14 (Algorithmen): Welche Inhalte werden belohnt? Wie formt das Profilgestaltung?
@@ -207,8 +209,8 @@ Das Modell ist bewusst einfach gehalten – es soll nicht technisch erklären, w
 **Musterprofil vs. eigenes Profil:**
 Das AB 1 enthält ein fiktives Musterprofil als Analysebasis. Die Option, das eigene Profil zu analysieren, sollte freiwillig und explizit als solche bezeichnet werden – nie zur Pflicht machen. Für Sek I empfiehlt sich das Musterprofil; Sek II kann gut mit eigenem Material arbeiten.
 
-**Goffman für Sek II:**
-Die Theatermetapher (Vorderbühne = was andere sehen, Hinterbühne = was verborgen bleibt) ist für Sek II unmittelbar einleuchtend und übertragbar auf digitale Profile. Kein tiefes soziologisches Vorwissen notwendig – ein kurzes Zitat genügt als Impuls.
+**Theoretischer Rahmen für Sek II – Goffman, boyd, Marwick & boyd:**
+Die drei Konzepte bilden ein kompaktes Trio: Goffman erklärt das *Warum* der Inszenierung (Vorderbühne/Hinterbühne), boyd (2014) die besonderen *Bedingungen* digitaler Identität (persistent, durchsuchbar, replizierbar, skalierbar – deshalb haben Online-Entscheidungen andere Konsequenzen als analoge), Marwick & boyd (2011) das *Context Collapse* – die Gleichzeitigkeit aller Publika in einem Kanal, die Authentizitätskonflikte erzeugt. Kein tiefes soziologisches Vorwissen notwendig – Schlagworte und kurze Zitate genügen als Impuls; die Konzepte werden über AB 1 erarbeitet.
 
 **Fallstricke vermeiden:**
 - Kein Profil einer realen Person (Influencer:in, Schüler:in) analysieren – immer fiktiv
@@ -259,7 +261,8 @@ Selbstdarstellungsstrategien und deren psychologische Hintergründe erkennen, ve
 
 **Sek II:**
 - Zusätzlich: Psychologische Konzepte benennen und anwenden – z. B. *Impression Management*, *Authentizitätsparadox* (je inszenierter, desto „authentischer" kann es wirken)
-- Gesellschaftliche Dimension: *„Welche Strategie ‚belohnt' der Algorithmus? Was macht das mit uns?"*
+- Gesellschaftliche Dimension: *„Welche Strategie ‚belohnt' der Algorithmus? Was macht das mit uns?"* (siehe AB 2, Frage 9)
+- Gegenmodell BeReal: Plattformdesign, das Inszenierung strukturell erschwert (zufälliges Timing, kein Re-Shot, Dual-Camera) → Impuls: *„Was sagt das Design einer Plattform über ihre Haltung zu Authentizität?"*
 - Bezug zu LH7 (Influencer:innen): Welche dieser drei Strategien nutzen professionelle Influencer:innen – und warum?
 - Ethische Reflexion: Ist Selbstinszenierung unehrlich? Wo ist die Grenze?
 
@@ -352,6 +355,7 @@ Auswirkungen von Online-Selbstdarstellung auf Selbstbild, Wohlbefinden und menta
 **Sek II:**
 - Psychologische Konzepte einführen und anwenden:
   - **Social Comparison Theory** (Leon Festinger): Aufwärtsvergleich (mit „Besseren") erzeugt Druck; Abwärtsvergleich kann kurzfristig stabilisieren
+  - **Vogel et al. (2024)** – „Upward Social Comparison on Social Media": Digitale Vergleiche sind intensiver und häufiger als analoge; Social-Media-Nutzung ist empirisch mit niedrigerem Selbstwertgefühl verknüpft
   - **Selbstwertgefühl und externe Validation**: Wenn Selbstwert von Metriken (Likes, Follower) abhängt, wird er fragil
   - **Authentizitätskonflikt**: Diskrepanz zwischen Online-Persona und realem Selbst als Identitätsstress
 - Gesellschaftliche Dimension: *„Ist das ein individuelles Problem – oder ein systemisches?"*
@@ -366,6 +370,8 @@ Die Distanzierung durch fiktive Personen ermöglicht es den Lernenden, über eig
 - AB 3a: Sozialer Aufwärtsvergleich (ich vs. die „Besseren") → Unzufriedenheit, Neid
 - AB 3b: Externe Validation (mein Wert = meine Likes) → Abhängigkeit von Rückmeldung
 - AB 3c: Identitätsdiskrepanz (mein Profil ≠ ich) → Erschöpfung, Entfremdung
+
+**Empirische Grundlage (Sek II):** Vogel et al. (2024) belegen: Soziale Vergleiche via Social Media sind intensiver und häufiger als im analogen Alltag. Das gibt AB 3a eine aktuelle wissenschaftliche Einbettung und stützt Festingers Social Comparison Theory mit Social-Media-spezifischen Daten.
 
 Die drei Mechanismen greifen im Alltag ineinander – das kann in der Sicherung herausgearbeitet werden.
 
