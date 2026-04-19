@@ -5,6 +5,60 @@
 
 ---
 
+## Allgemeine Kurzbeschreibung
+
+Diese Lerneinheit nimmt die digitale Identität von Jugendlichen in den Blick: Wie präsentieren sie sich online – und warum? Anhand fiktiver Profile und Fallbeispiele erkennen die Lernenden, dass Online-Profile konstruiert und kuratiert sind. Sie unterscheiden zwischen Selbstausdruck und Selbstinszenierung, erfassen psychologische Mechanismen wie soziale Vergleiche und entwickeln eigene Strategien für eine bewusste, gesunde Online-Präsenz. Die Einheit ist durchgängig binnendifferenziert für Sek I und Sek II konzipiert und wird in zwei Phasen um eine Grundschul-Erweiterung (Kl. 3–4) ergänzt.
+
+---
+
+## Ziel dieser Einheit ist es,
+
+…dass die Schüler:innen verstehen, dass digitale Identität kein Abbild, sondern eine bewusst gestaltete Konstruktion ist. Sie reflektieren, welche Bedürfnisse hinter ihrer eigenen Online-Präsentation stehen, erkennen die Auswirkungen sozialer Vergleiche auf Selbstbild und psychische Gesundheit und entwickeln Handlungsstrategien für einen bewussten, gesundheitsförderlichen Umgang mit der eigenen digitalen Identität.
+
+**Leitfrage:** *Wer bin ich online – und warum zeige ich, was ich zeige?*
+
+---
+
+## Schulfächer
+
+- **Deutsch** (Medienanalyse, Textproduktion, Reflexion)
+- **Ethik / Philosophie / Religion** (Identität, Authentizität, Werte)
+- **Sozialkunde / Gemeinschaftskunde / Politik** (Medien und Gesellschaft, Peer-Strukturen)
+- **Psychologie** (Sek II: Selbstbild, soziale Vergleiche, Identitätsentwicklung)
+- **Informatik / Medienbildung** (Social-Media-Mechanismen, Plattformlogiken)
+- **Biologie / Gesundheitskunde** (psychische und soziale Gesundheit)
+- **Kunst** (Selbstdarstellung, Bildgestaltung, Inszenierung)
+
+---
+
+## KMK-Kompetenzbereiche
+
+**Schwerpunkt:** Bereiche 3, 4 und 6
+
+| Kompetenzbereich | LH-spezifische Ausprägung |
+|---|---|
+| **3. Produzieren und Präsentieren** | Eigene und fiktive Online-Profile gestalten, analysieren und reflektieren; bewusste Entscheidungen über Selbstdarstellung treffen |
+| **4. Schützen und sicher Agieren** | Psychische Gesundheit schützen; Risiken sozialer Vergleiche, externer Validation und Perfektionsdruck erkennen und einschätzen |
+| **6. Analysieren und Reflektieren** | Strategien digitaler Selbstdarstellung kritisch analysieren; die eigene Online-Nutzung reflektieren und ggf. modifizieren |
+| **2. Kommunizieren und Kooperieren** | Unterschiede zwischen kuratierter Online-Kommunikation und echter Beziehung verstehen; Umgangsregeln im Netz kennen |
+
+---
+
+## Schwerpunkte digitale Gesundheitskompetenz (dGK)
+
+Schwerpunkt auf den Dimensionen **2, 4, 5, 7** (gemäß `referenz/bausteine.md`):
+
+| Dimension | Bezug zur LH2 |
+|---|---|
+| **2. Qualität bewerten** | Verlässlichkeit und Authentizität digitaler Selbstdarstellungen kritisch einschätzen (eigene und fremde Profile) |
+| **4. Erstellen und Teilen** | Eigene gesundheitsbezogene Anliegen – Selbstbild, Wohlbefinden – reflektiert über digitale Medien formulieren; bewusst entscheiden, was geteilt wird |
+| **5. Datenschutz** | Informationen über sich selbst und andere nicht unbedacht teilen; Grenze zwischen Selbstausdruck und Selbstoffenbarung ziehen |
+| **7. Wohlbefinden stärken** | Digitale Medien so nutzen, dass sie das eigene Wohlbefinden fördern statt belasten; Authentizität als Gesundheitsschutz |
+
+*Weitere Informationen: www.durch-blickt.de*
+
+---
+
 ## Kurzübersicht
 
 | | |
