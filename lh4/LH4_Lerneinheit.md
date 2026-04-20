@@ -5,6 +5,59 @@
 
 ---
 
+## Allgemeine Kurzbeschreibung
+
+Diese Lerneinheit untersucht, wie digitale Geräte unseren Schlaf beeinflussen – und was wir dagegen tun können. Die Lernenden erschließen die biologischen Grundlagen des Einschlafens (Melatonin, blaues Licht, zirkadianer Rhythmus) und erkennen, dass nicht nur blaues Licht, sondern auch Inhalte, Aufregung und FOMO den Schlaf stören. Anhand von Fallbeispielen analysieren sie eigene und fremde Schlafgewohnheiten, entwickeln ein persönliches bildschirmfreies Abendritual und dokumentieren ihre Schlafqualität über eine Woche im Schlafprotokoll. Die Einheit ist durchgängig binnendifferenziert für Sek I und Sek II konzipiert und wird in zwei Phasen um eine Grundschul-Erweiterung (Kl. 3–4) ergänzt.
+
+---
+
+## Ziel dieser Einheit ist es,
+
+…dass die Schüler:innen die biologischen Prozesse beim Einschlafen verstehen und erkennen, wie abendliche Bildschirmnutzung auf vielfältige Weise die Schlafqualität beeinflusst. Sie analysieren eigene Schlafgewohnheiten anhand konkreter Fallbeispiele, entwickeln ein bildschirmfreies Abendritual und erleben durch die Selbstbeobachtung mit dem Schlafprotokoll ihre eigenen Handlungsmöglichkeiten. Die Einheit stärkt das Bewusstsein für Schlaf als wesentliche Gesundheitsressource und fördert Selbstwirksamkeit im Umgang mit digitalen Geräten am Abend.
+
+**Leitfrage:** *Was passiert in meinem Körper und Gehirn, wenn ich abends am Bildschirm bin – und wie kann ich besser einschlafen?*
+
+---
+
+## Schulfächer
+
+- **Biologie / Gesundheitskunde** (Schlaf-Wach-Rhythmus, Melatonin, zirkadianer Rhythmus, biologische Schlafgrundlagen)
+- **Psychologie** (Sek II: FOMO, emotionale Regulation, Schlaf und psychische Gesundheit)
+- **Ethik / Philosophie / Religion** (Selbstverantwortung, Gesundheit als Wert, digitale Balance)
+- **Sozialkunde / Gemeinschaftskunde / Politik** (Always-on-Kultur, Plattformverantwortung, gesellschaftliche Regulierung)
+- **Informatik / Medienbildung** (Benachrichtigungsdesign, Social-Media-Mechanismen, FOMO-Verstärkung)
+- **Sport / Gesundheitserziehung** (Schlaf als Teil eines gesunden Lebensstils, Erholung und Regeneration)
+
+---
+
+## KMK-Kompetenzbereiche
+
+**Schwerpunkt:** Bereiche 4, 5 und 6
+
+| Kompetenzbereich | LH-spezifische Ausprägung |
+|---|---|
+| **4. Schützen und sicher Agieren** | Schlafgesundheit als wichtige Gesundheitsressource schützen; Risiken abendlicher Bildschirmnutzung erkennen und konkrete Gegenmaßnahmen entwickeln |
+| **5. Problemlösen und Handeln** | Eigene Schlafgewohnheiten analysieren; ein bildschirmfreies Abendritual planen, erproben und im Schlafprotokoll dokumentieren |
+| **6. Analysieren und Reflektieren** | Zusammenhänge zwischen Mediennutzung und Schlafqualität kritisch analysieren; eigene Abendroutine reflektieren und ggf. verändern |
+| **1. Suchen, Verarbeiten und Aufbewahren** | Biologische Grundlagen zu Schlaf und Bildschirmnutzung erschließen und für die eigene Schlafbeobachtung nutzen |
+
+---
+
+## Schwerpunkte digitale Gesundheitskompetenz (dGK)
+
+Schwerpunkt auf den Dimensionen **2, 3, 4, 5** (gemäß `referenz/bausteine.md`):
+
+| Dimension | Bezug zur LH4 |
+|---|---|
+| **2. Qualität bewerten** | Biologische Zusammenhänge zwischen Bildschirmnutzung und Schlaf verstehen; eigene und fremde Schlafgewohnheiten realistisch einschätzen |
+| **3. Sicher navigieren** | Eigene Abendroutine kritisch bewerten; entscheiden, welche Bildschirmgewohnheiten der Schlafqualität schaden oder nutzen |
+| **4. Erstellen und Teilen** | Persönliches Abendritual und Schlafprotokoll entwickeln; eigene Gesundheitsziele konkret formulieren und erproben |
+| **5. Datenschutz** | Persönliche Schlaf- und Gesundheitsdaten (Schlafprotokoll) bewusst und eigenverantwortlich führen; Schlafqualität als schützenswerte Gesundheitsressource verstehen |
+
+*Weitere Informationen: www.durch-blickt.de*
+
+---
+
 ## Kurzübersicht
 
 | | |

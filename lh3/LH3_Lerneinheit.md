@@ -6,6 +6,61 @@
 
 ---
 
+## Allgemeine Kurzbeschreibung
+
+Diese Lerneinheit stellt die Frage: Wie erkenne ich verlässliche Gesundheitsinformationen im Netz – und warum ist das für meine Gesundheit wichtig? Anhand konkreter Gesundheitsbehauptungen aus Social Media erlernen die Lernenden die QQQQ-Methode zur Quellenkritik. Sie analysieren fiktive Influencer-Profile, erkennen, wie konstruierte Körperbilder und kommerzielle Interessen Gesundheitsmythen befeuern, und entwickeln eine kritisch-reflektierte Haltung gegenüber Gesundheitsinformationen aus dem Netz. Die Einheit ist durchgängig binnendifferenziert für Sek I und Sek II konzipiert und wird in zwei Phasen um eine Grundschul-Erweiterung (Kl. 3–4) ergänzt.
+
+---
+
+## Ziel dieser Einheit ist es,
+
+…dass die Schüler:innen verstehen, warum sich Gesundheitsmythen online so schnell verbreiten und welche Mechanismen dabei eine Rolle spielen. Sie lernen, die QQQQ-Methode zur Überprüfung von Gesundheitsbehauptungen anzuwenden, erkennen, wie konstruierte Körperbilder Druck, Scham und Unsicherheit erzeugen, und durchschauen die kommerziellen und algorithmischen Interessen hinter Gesundheitsmythen. Sie entwickeln eine kritisch-reflektierte Haltung und stärken ihre Selbstbestimmung über eigene Gesundheitsentscheidungen.
+
+**Leitfrage:** *Wie erkenne ich verlässliche Gesundheitsinformationen im Netz – und warum ist das für meine Gesundheit wichtig?*
+
+---
+
+## Schulfächer
+
+- **Biologie / Gesundheitskunde** (Ernährung, Körperfunktionen, gesundheitliche Risiken durch Fehlinformation)
+- **Deutsch / Medienkunde** (Quellenkritik, Textanalyse, Informationsbewertung)
+- **Ethik / Philosophie / Religion** (Körperbilder, Schönheitsideale, gesellschaftliche Werte)
+- **Sozialkunde / Gemeinschaftskunde / Politik** (Medien und Gesellschaft, kommerzielle Interessen, Plattformverantwortung)
+- **Informatik / Medienbildung** (Algorithmen, Plattformlogiken, Filterblasen)
+- **Psychologie** (Sek II: Bestätigungsfehler, Dunning-Kruger-Effekt, sozialer Beweis)
+- **Chemie / Naturwissenschaften** (wissenschaftliche Methoden, Studienqualität bewerten)
+
+---
+
+## KMK-Kompetenzbereiche
+
+**Schwerpunkt:** Bereiche 1, 4 und 6
+
+| Kompetenzbereich | LH-spezifische Ausprägung |
+|---|---|
+| **1. Suchen, Verarbeiten und Aufbewahren** | Gesundheitsbehauptungen gezielt recherchieren; die QQQQ-Methode anwenden, um verlässliche von unzuverlässigen Quellen zu unterscheiden |
+| **4. Schützen und sicher Agieren** | Psychische und körperliche Gesundheit schützen; Risiken durch Gesundheitsmythen und unrealistische Körperbilder erkennen und einschätzen |
+| **6. Analysieren und Reflektieren** | Mechanismen der Verbreitung von Gesundheitsmythen kritisch analysieren; kommerzielle und algorithmische Interessen hinter Gesundheitsbehauptungen durchschauen |
+| **3. Produzieren und Präsentieren** | Eigene Quiz-Fragen zu Gesundheitsbehauptungen mit Begründung erstellen und präsentieren; Faktencheck-Ergebnisse im Plenum vorstellen |
+
+---
+
+## Schwerpunkte digitale Gesundheitskompetenz (dGK)
+
+Schwerpunkt auf den Dimensionen **2, 3, 4, 5, 7** (gemäß `referenz/bausteine.md`):
+
+| Dimension | Bezug zur LH3 |
+|---|---|
+| **2. Qualität bewerten** | Verlässlichkeit von Gesundheitsbehauptungen und Quellen kritisch einschätzen; Fakten von Mythen unterscheiden |
+| **3. Sicher navigieren** | QQQQ-Methode anwenden; entscheiden, welche Gesundheitsinformationen für die eigene Situation nützlich und belastbar sind |
+| **4. Erstellen und Teilen** | Eigene Faktencheck-Ergebnisse und Quiz-Fragen formulieren und teilen; bewusst mit gesundheitsbezogenen Inhalten im Netz umgehen |
+| **5. Datenschutz** | Ungeprüfte Gesundheitsbehauptungen nicht unbedacht teilen; anderen gegenüber verantwortungsvoll mit Gesundheitsinformationen umgehen |
+| **7. Wohlbefinden stärken** | Kritisch-reflektierte Haltung gegenüber Körperidealen und Gesundheitstrends entwickeln; psychische Gesundheit durch Medienkompetenz schützen |
+
+*Weitere Informationen: www.durch-blickt.de*
+
+---
+
 ## Kurzübersicht
 
 |                |                                                                                                                                        |
