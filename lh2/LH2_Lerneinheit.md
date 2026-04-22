@@ -1,4 +1,5 @@
 # LH2 – „Wer bin ich online?"
+
 **Digitale Identität zwischen Selbstausdruck und Selbstinszenierung**
 
 *Lehrkräftehandreichung | DURCHBLICKT! – Digital in eine gesunde Zukunft | BARMER / Klett MEX*
@@ -35,12 +36,12 @@ Diese Lerneinheit nimmt die digitale Identität von Jugendlichen in den Blick: W
 
 **Schwerpunkt:** Bereiche 3, 4 und 6
 
-| Kompetenzbereich | LH-spezifische Ausprägung |
-|---|---|
-| **3. Produzieren und Präsentieren** | Eigene und fiktive Online-Profile gestalten, analysieren und reflektieren; bewusste Entscheidungen über Selbstdarstellung treffen |
-| **4. Schützen und sicher Agieren** | Psychische Gesundheit schützen; Risiken sozialer Vergleiche, externer Validation und Perfektionsdruck erkennen und einschätzen |
-| **6. Analysieren und Reflektieren** | Strategien digitaler Selbstdarstellung kritisch analysieren; die eigene Online-Nutzung reflektieren und ggf. modifizieren |
-| **2. Kommunizieren und Kooperieren** | Unterschiede zwischen kuratierter Online-Kommunikation und echter Beziehung verstehen; Umgangsregeln im Netz kennen |
+| Kompetenzbereich                     | LH-spezifische Ausprägung                                                                                                         |
+| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| **3. Produzieren und Präsentieren**  | Eigene und fiktive Online-Profile gestalten, analysieren und reflektieren; bewusste Entscheidungen über Selbstdarstellung treffen |
+| **4. Schützen und sicher Agieren**   | Psychische Gesundheit schützen; Risiken sozialer Vergleiche, externer Validation und Perfektionsdruck erkennen und einschätzen    |
+| **6. Analysieren und Reflektieren**  | Strategien digitaler Selbstdarstellung kritisch analysieren; die eigene Online-Nutzung reflektieren und ggf. modifizieren         |
+| **2. Kommunizieren und Kooperieren** | Unterschiede zwischen kuratierter Online-Kommunikation und echter Beziehung verstehen; Umgangsregeln im Netz kennen               |
 
 ---
 
@@ -48,12 +49,12 @@ Diese Lerneinheit nimmt die digitale Identität von Jugendlichen in den Blick: W
 
 Schwerpunkt auf den Dimensionen **2, 4, 5, 7** (gemäß `referenz/bausteine.md`):
 
-| Dimension | Bezug zur LH2 |
-|---|---|
-| **2. Qualität bewerten** | Verlässlichkeit und Authentizität digitaler Selbstdarstellungen kritisch einschätzen (eigene und fremde Profile) |
+| Dimension                   | Bezug zur LH2                                                                                                                                        |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **2. Qualität bewerten**    | Verlässlichkeit und Authentizität digitaler Selbstdarstellungen kritisch einschätzen (eigene und fremde Profile)                                     |
 | **4. Erstellen und Teilen** | Eigene gesundheitsbezogene Anliegen – Selbstbild, Wohlbefinden – reflektiert über digitale Medien formulieren; bewusst entscheiden, was geteilt wird |
-| **5. Datenschutz** | Informationen über sich selbst und andere nicht unbedacht teilen; Grenze zwischen Selbstausdruck und Selbstoffenbarung ziehen |
-| **7. Wohlbefinden stärken** | Digitale Medien so nutzen, dass sie das eigene Wohlbefinden fördern statt belasten; Authentizität als Gesundheitsschutz |
+| **5. Datenschutz**          | Informationen über sich selbst und andere nicht unbedacht teilen; Grenze zwischen Selbstausdruck und Selbstoffenbarung ziehen                        |
+| **7. Wohlbefinden stärken** | Digitale Medien so nutzen, dass sie das eigene Wohlbefinden fördern statt belasten; Authentizität als Gesundheitsschutz                              |
 
 *Weitere Informationen: www.durch-blickt.de*
 
@@ -61,27 +62,27 @@ Schwerpunkt auf den Dimensionen **2, 4, 5, 7** (gemäß `referenz/bausteine.md`)
 
 ## Kurzübersicht
 
-| | |
-|---|---|
-| **Thema** | Digitale Identität: Selbstausdruck vs. Selbstinszenierung |
-| **Leitfrage** | Wer bin ich online – und warum zeige ich, was ich zeige? |
-| **Zielgruppe** | Sek I (Kl. 7–10) und Sek II (Kl. 11–13), mit GS-Erweiterung (Kl. 3–4) |
-| **Umfang** | 90 Minuten (6 Phasen) + optionales Follow-up (ca. 15 Min.) |
+|                |                                                                                                                  |
+| -------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Thema**      | Digitale Identität: Selbstausdruck vs. Selbstinszenierung                                                        |
+| **Leitfrage**  | Wer bin ich online – und warum zeige ich, was ich zeige?                                                         |
+| **Zielgruppe** | Sek I (Kl. 7–10) und Sek II (Kl. 11–13), mit GS-Erweiterung (Kl. 3–4)                                            |
+| **Umfang**     | 90 Minuten (6 Phasen) + optionales Follow-up (ca. 15 Min.)                                                       |
 | **Anknüpfung** | LH1 (KI & Bedürfnisse), LH29 (Selbstwahrnehmung), LH19 (Körperbilder), LH14 (Challenges), LH7 (Influencer:innen) |
 
 ---
 
 ## Phasenübersicht
 
-| Phase | Bezeichnung | Zeit | Methode | Material |
-|-------|-------------|------|---------|----------|
-| 1 | Einstieg & Aktivierung | 15 Min. | Impuls → Plenum → Einzelarbeit → Plenum | Video-Idee (Bildcollage), Karten/Padlet |
-| 2 | Hinführung & Grundlagen | 20 Min. | Kurzimpuls → Partnerarbeit → Sicherung | Infografik „5 Bausteine", AB 1 |
-| 3 | Vertiefung I: Profile analysieren | 20 Min. | Partnerarbeit → Plenum | AB 2 (fiktive Profile) |
-| 4 | Vertiefung II: Soziale Vergleiche | 20 Min. | Gruppenarbeit → Kurzvorstellung | AB 3a / 3b / 3c |
-| 5 | Transfer | 10 Min. | Partnerarbeit → Meinungslinie → Einzelarbeit | AB 5 |
-| 6 | Reflexion | 5 Min. | Blitzlicht Plenum | AB 4 (optional) |
-| – | Follow-up (optional) | 15 Min. | Einzelarbeit → Plenum | – |
+| Phase | Bezeichnung                       | Zeit    | Methode                                      | Material                                |
+| ----- | --------------------------------- | ------- | -------------------------------------------- | --------------------------------------- |
+| 1     | Einstieg & Aktivierung            | 15 Min. | Impuls → Plenum → Einzelarbeit → Plenum      | Video-Idee (Bildcollage), Karten/Padlet |
+| 2     | Hinführung & Grundlagen           | 20 Min. | Kurzimpuls → Partnerarbeit → Sicherung       | Infografik „5 Bausteine", AB 1          |
+| 3     | Vertiefung I: Profile analysieren | 20 Min. | Partnerarbeit → Plenum                       | AB 2 (fiktive Profile)                  |
+| 4     | Vertiefung II: Soziale Vergleiche | 20 Min. | Gruppenarbeit → Kurzvorstellung              | AB 3a / 3b / 3c                         |
+| 5     | Transfer                          | 10 Min. | Partnerarbeit → Meinungslinie → Einzelarbeit | AB 5                                    |
+| 6     | Reflexion                         | 5 Min.  | Blitzlicht Plenum                            | AB 4 (optional)                         |
+| –     | Follow-up (optional)              | 15 Min. | Einzelarbeit → Plenum                        | –                                       |
 
 ---
 
@@ -131,12 +132,12 @@ Thema emotional aktivieren, Vorwissen sichtbar machen, Bewusstsein für die Kons
 
 ### Ablauf
 
-| Zeit   | Element | Sozialform | Material | Durchführung |
-|--------|---------|-----------|---------|-------------|
-| 3 Min. | **Startervideo – Bildcollage** *(Idee, noch zu produzieren)* | Plenum | Video-Idee: Bildcollage – 4 Profile derselben Person (z. B. Instagram, LinkedIn, privat, öffentlich) | Lehrkraft zeigt die Bildcollage oder beschreibt das Konzept: Vier Profile derselben Person im direkten Vergleich – „Alltagsprofil" vs. „Highlight-Profil" vs. Berufsprofil vs. Privates. Die Frage „Wer ist die echte Person?" wird eingeblendet, ohne sofortige Antwort zu liefern. Kein Kommentar, keine Wertung – nur schauen lassen. |
-| 5 Min. | **Impulsgespräch** | Plenum | – | Lehrkraft stellt die Fragen im offenen Austausch: *„Wer ist die echte Person? Welchem Profil würdest du am ehesten folgen? Was zeigen wir online – was zeigen wir nicht?"* Spontane Wortmeldungen, keine Bewertung, keine „richtigen" Antworten. Lehrkraft notiert Stichworte an der Tafel/auf dem Board. |
-| 5 Min. | **Anonyme Kartenabfrage / Padlet** | Einzelarbeit → Plenum | Karten oder Padlet/Mentimeter | Schüler:innen notieren anonym: *„Wo präsentiere ich mich online?"* (z. B. Instagram, TikTok, Snapchat, Gaming-Profile, WhatsApp-Status, YouTube-Kommentare). Karten werden eingesammelt und geclustert oder Padlet-Antworten gemeinsam im Plenum gelesen. Keine Kommentierung einzelner Antworten – nur Überblick schaffen. |
-| 2 Min. | **Überleitung** | Plenum | – | Lehrkraft leitet über: *„All diese Profile zeigen etwas von euch – aber nie alles. Heute fragen wir: Was zeigen wir bewusst, was unbewusst? Und was macht das mit uns?"* |
+| Zeit   | Element                                                      | Sozialform            | Material                                                                                             | Durchführung                                                                                                                                                                                                                                                                                                                             |
+| ------ | ------------------------------------------------------------ | --------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3 Min. | **Startervideo – Bildcollage** *(Idee, noch zu produzieren)* | Plenum                | Video-Idee: Bildcollage – 4 Profile derselben Person (z. B. Instagram, LinkedIn, privat, öffentlich) | Lehrkraft zeigt die Bildcollage oder beschreibt das Konzept: Vier Profile derselben Person im direkten Vergleich – „Alltagsprofil" vs. „Highlight-Profil" vs. Berufsprofil vs. Privates. Die Frage „Wer ist die echte Person?" wird eingeblendet, ohne sofortige Antwort zu liefern. Kein Kommentar, keine Wertung – nur schauen lassen. |
+| 5 Min. | **Impulsgespräch**                                           | Plenum                | –                                                                                                    | Lehrkraft stellt die Fragen im offenen Austausch: *„Wer ist die echte Person? Welchem Profil würdest du am ehesten folgen? Was zeigen wir online – was zeigen wir nicht?"* Spontane Wortmeldungen, keine Bewertung, keine „richtigen" Antworten. Lehrkraft notiert Stichworte an der Tafel/auf dem Board.                                |
+| 5 Min. | **Anonyme Kartenabfrage / Padlet**                           | Einzelarbeit → Plenum | Karten oder Padlet/Mentimeter                                                                        | Schüler:innen notieren anonym: *„Wo präsentiere ich mich online?"* (z. B. Instagram, TikTok, Snapchat, Gaming-Profile, WhatsApp-Status, YouTube-Kommentare). Karten werden eingesammelt und geclustert oder Padlet-Antworten gemeinsam im Plenum gelesen. Keine Kommentierung einzelner Antworten – nur Überblick schaffen.              |
+| 2 Min. | **Überleitung**                                              | Plenum                | –                                                                                                    | Lehrkraft leitet über: *„All diese Profile zeigen etwas von euch – aber nie alles. Heute fragen wir: Was zeigen wir bewusst, was unbewusst? Und was macht das mit uns?"*                                                                                                                                                                 |
 
 ### Differenzierung Sek I / Sek II
 
@@ -161,11 +162,13 @@ Thema emotional aktivieren, Vorwissen sichtbar machen, Bewusstsein für die Kons
 Statt der Bildcollage mit vier Social-Media-Profilen (komplex, plattformspezifisch) wird ein **gezeichnetes Bilderpaar** eingesetzt: dasselbe Kind einmal beim Matschen im Dreck, einmal auf einem Geburtstagsfoto mit festlicher Kleidung und breitem Lächeln.
 
 **Impulsfrage im Plenum:**
+
 > *„Welches Bild zeigst du deiner Klasse? Welches deiner Oma? Warum?"*
 
 Diese Frage macht das Kernprinzip der LH – wir zeigen uns unterschiedlich je nach Publikum – körperlich erfahrbar, ohne Smartphones oder Social Media vorauszusetzen.
 
 **Methodische Hinweise:**
+
 - Bilderpaar wird an der Tafel oder per Beamer gezeigt – groß, klar erkennbar
 - Kinder äußern sich spontan im Plenum, Lehrkraft notiert Stichworte an der Tafel: *„Wann zeige ich mich so? Wann so anders?"*
 - Anschlussfrage: *„Gibt es noch andere Situationen, wo du dich anders zeigst als sonst?"* (Schule, zu Hause, beim Sport, beim Spielen)
@@ -182,11 +185,13 @@ Diese Frage macht das Kernprinzip der LH – wir zeigen uns unterschiedlich je n
 Die Bildcollage mit vier Profilen derselben Person schafft unmittelbare kognitive Dissonanz: Intuitiv wissen die Schüler:innen, dass alle Profile „echt" sind – und trotzdem zeigen sie etwas Verschiedenes. Diese Spannung ist der Motor für die gesamte Einheit. Die Frage „Wer ist die echte Person?" lässt sich nicht einfach beantworten – und das ist didaktisch gewollt.
 
 **Methodische Begründung:**
+
 - **Bildimpuls ohne Ton:** Ermöglicht individuelles Wahrnehmen vor der Beeinflussung durch Peers
 - **Offene Impulsfragen:** Keine „richtige" Antwort vorgegeben, divergentes Denken wird gefördert
 - **Anonyme Kartenabfrage:** Senkt die Hemmschwelle erheblich – gerade bei sensiblen Themen wie eigener Online-Nutzung und Selbstdarstellung
 
 **Fallstricke vermeiden:**
+
 - Nicht werten: Wer sich intensiv auf Social Media präsentiert, macht nichts „falsch"
 - Keine Pathologisierung: Selbstdarstellung ist ein normales menschliches Bedürfnis
 - Kein Neid auf Schüler:innen schüren, die „weniger" Social Media nutzen
@@ -200,12 +205,14 @@ Der Einstieg nutzt das Prinzip der kognitiven Aktivierung durch Widerspruch. Die
 **Zur Frage „Wer ist die echte Person?"**
 
 *Typische Antworten Sek I:*
+
 - „Alle irgendwie, je nach Situation"
 - „Das private Profil, da ist man authentischer"
 - „Man weiß es gar nicht – vielleicht zeigt keines die echte Person"
 - „Das LinkedIn-Profil wirkt am aufgesetztesten"
 
 *Typische Antworten Sek II:*
+
 - „Identität ist immer kontextabhängig – es gibt nicht ‚die eine' echte Person"
 - „Impression Management: wir alle spielen verschiedene Rollen"
 - „Das ist das Paradox: das ‚natürlichste' Foto ist oft am sorgfältigsten ausgewählt"
@@ -213,6 +220,7 @@ Der Einstieg nutzt das Prinzip der kognitiven Aktivierung durch Widerspruch. Die
 **Zur Kartenabfrage „Wo präsentiere ich mich online?"**
 
 *Häufige Nennungen (Sek I & II):*
+
 1. **Instagram** – Bilder, Stories, Reels
 2. **TikTok** – Videos, Kommentare, Profilseite
 3. **Snapchat** – Stories, Bitmoji
@@ -224,7 +232,7 @@ Der Einstieg nutzt das Prinzip der kognitiven Aktivierung durch Widerspruch. Die
 
 ---
 
-## Phase 2: Hinführung & Grundlagen (20 Min.)
+## Phase 2: Erarbeitung (20 Min.)
 
 ### Ziel
 
@@ -232,22 +240,24 @@ Mechanismen der Online-Selbstdarstellung verstehen, die 5 Bausteine digitaler Id
 
 ### Ablauf
 
-| Zeit   | Element | Sozialform | Material | Durchführung |
-|--------|---------|-----------|---------|-------------|
-| 5 Min. | **Kurzimpuls: Die 5 Bausteine der digitalen Identität** | Plenum | Infografik „5 Bausteine" (projiziert oder ausgedruckt) | Lehrkraft zeigt und erläutert die Infografik: *Profilbild – Bio/Steckbrief – Posts/Inhalte – Interaktionen (Likes, Kommentare, Follows) – Netzwerk (wem folge ich, wer folgt mir?)*. Kurze Erklärung: Jeder dieser Bausteine ist eine Entscheidung – was zeige ich, was lasse ich weg? Kein Einzelprofil als Beispiel verwenden – abstrakt bleiben. |
-| 8 Min. | **Partnerarbeit AB 1** | Partnerarbeit | AB 1: „Die 5 Bausteine meiner digitalen Identität" | Schüler:innen analysieren mit AB 1 entweder ein fiktives Musterprofil (auf dem AB abgedruckt) oder – wenn gewünscht und freiwillig – ein eigenes Profil. Fragen: Was zeigt dieses Profil? Was fehlt? Welchen Eindruck erzeugt es? Welche Bedürfnisse könnten dahinterstecken? |
-| 5 Min. | **Sicherung im Plenum** | Plenum | Tafel/Board | Sammlung der Ergebnisse: Lehrkraft fragt *„Welche Gestaltungsentscheidungen habt ihr entdeckt?"* und clustert an der Tafel. Kernbotschaft herausarbeiten: Jede Entscheidung im Profil ist auch eine psychologische Entscheidung – sie beeinflusst, wie andere uns wahrnehmen UND wie wir uns selbst sehen. |
-| 2 Min. | **Überleitung** | Plenum | – | *„Wir haben gesehen: Profile sind nicht einfach ‚so da'. Jetzt schauen wir uns an, was verschiedene Strategien der Selbstdarstellung unterscheidet."* |
+| Zeit   | Element                                                 | Sozialform    | Material                                               | Durchführung                                                                                                                                                                                                                                                                                                                                        |
+| ------ | ------------------------------------------------------- | ------------- | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 5 Min. | **Kurzimpuls: Die 5 Bausteine der digitalen Identität** | Plenum        | Infografik „5 Bausteine" (projiziert oder ausgedruckt) | Lehrkraft zeigt und erläutert die Infografik: *Profilbild – Bio/Steckbrief – Posts/Inhalte – Interaktionen (Likes, Kommentare, Follows) – Netzwerk (wem folge ich, wer folgt mir?)*. Kurze Erklärung: Jeder dieser Bausteine ist eine Entscheidung – was zeige ich, was lasse ich weg? Kein Einzelprofil als Beispiel verwenden – abstrakt bleiben. |
+| 8 Min. | **Partnerarbeit AB 1**                                  | Partnerarbeit | AB 1: „Die 5 Bausteine meiner digitalen Identität"     | Schüler:innen analysieren mit AB 1 entweder ein fiktives Musterprofil (auf dem AB abgedruckt) oder – wenn gewünscht und freiwillig – ein eigenes Profil. Fragen: Was zeigt dieses Profil? Was fehlt? Welchen Eindruck erzeugt es? Welche Bedürfnisse könnten dahinterstecken?                                                                       |
+| 5 Min. | **Sicherung im Plenum**                                 | Plenum        | Tafel/Board                                            | Sammlung der Ergebnisse: Lehrkraft fragt *„Welche Gestaltungsentscheidungen habt ihr entdeckt?"* und clustert an der Tafel. Kernbotschaft herausarbeiten: Jede Entscheidung im Profil ist auch eine psychologische Entscheidung – sie beeinflusst, wie andere uns wahrnehmen UND wie wir uns selbst sehen.                                          |
+| 2 Min. | **Überleitung**                                         | Plenum        | –                                                      | *„Wir haben gesehen: Profile sind nicht einfach ‚so da'. Jetzt schauen wir uns an, was verschiedene Strategien der Selbstdarstellung unterscheidet."*                                                                                                                                                                                               |
 
 ### Differenzierung Sek I / Sek II
 
 **Sek I:**
+
 - Fokus auf konkrete, sichtbare Elemente: Profilbild, Emojis in der Bio, Art der Posts (Selfies, Essen, Sport)
 - Analyse bleibt beschreibend: *„Was siehst du? Was fällt dir auf?"*
 - Psychologische Bedürfnisse können intuitiv benannt werden: Anerkennung, Dazugehören, Spaß
 - Fachbegriffe noch nicht notwendig
 
 **Sek II:**
+
 - Zusätzlich: Theorie der Selbstpräsentation einführen – Erving Goffman: *„Das Leben als Theater"* (Vorder- und Hinterbühne, Rollenspiel im Alltag)
 - boyd (2014): „Networked Publics" – digitale Identität ist persistent, durchsuchbar, replizierbar, skalierbar; das unterscheidet sie fundamental von analoger Selbstdarstellung und hat direkte Konsequenzen für jede Profilentscheidung
 - Marwick & boyd (2011): „Context Collapse" – online sehen Familie, Freunde und Schulkameraden denselben Post gleichzeitig; das erzeugt Authentizitätskonflikte: *Für welches Publikum gestalte ich mein Profil?*
@@ -267,6 +277,7 @@ Das AB 1 enthält ein fiktives Musterprofil als Analysebasis. Die Option, das ei
 Die drei Konzepte bilden ein kompaktes Trio: Goffman erklärt das *Warum* der Inszenierung (Vorderbühne/Hinterbühne), boyd (2014) die besonderen *Bedingungen* digitaler Identität (persistent, durchsuchbar, replizierbar, skalierbar – deshalb haben Online-Entscheidungen andere Konsequenzen als analoge), Marwick & boyd (2011) das *Context Collapse* – die Gleichzeitigkeit aller Publika in einem Kanal, die Authentizitätskonflikte erzeugt. Kein tiefes soziologisches Vorwissen notwendig – Schlagworte und kurze Zitate genügen als Impuls; die Konzepte werden über AB 1 erarbeitet.
 
 **Fallstricke vermeiden:**
+
 - Kein Profil einer realen Person (Influencer:in, Schüler:in) analysieren – immer fiktiv
 - Nicht suggerieren, dass bestimmte Gestaltungsentscheidungen „falsch" oder „manipulativ" sind
 - Ziel ist Bewusstsein, nicht Kritik
@@ -276,15 +287,18 @@ Die drei Konzepte bilden ein kompaktes Trio: Goffman erklärt das *Warum* der In
 **Zu den Bausteine-Entscheidungen:**
 
 *Profilbild:*
+
 - „Man wählt das aus, auf dem man gut aussieht"
 - „Manche nutzen Bilder mit Freunden – zeigt, dass man dazugehört"
 - „Selfie vs. Foto von jemandem anderen – schon unterschiedliche Wirkung"
 
 *Bio:*
+
 - „Man schreibt, was man cool findet – Hobbys, Sprüche"
 - „Manche schreiben, was sie *sein wollen*, nicht was sie sind"
 
 *Welche Bedürfnisse werden erfüllt? (Sek II):*
+
 - Anerkennung: Likes, Follower-Zahl
 - Zugehörigkeit: gleiche Ästhetik wie die peer group
 - Selbstwirksamkeit: Kontrolle über das eigene Bild
@@ -300,20 +314,22 @@ Selbstdarstellungsstrategien und deren psychologische Hintergründe erkennen, ve
 
 ### Ablauf
 
-| Zeit   | Element | Sozialform | Material | Durchführung |
-|--------|---------|-----------|---------|-------------|
-| 1 Min. | **Einführung der drei Profile** | Plenum | AB 2 (austeilen oder projizieren) | Lehrkraft erklärt kurz: *„Ihr analysiert jetzt drei fiktive Profile. Jede Person hat eine andere Strategie der Selbstdarstellung."* Namen/Typen kurz vorstellen: „Der Perfekte" (nur Highlights), „Der Authentische" (auch Ungeschminktes), „Der Kreative" (Ästhetik/Stil). |
-| 12 Min. | **Partnerarbeit AB 2** | Partnerarbeit | AB 2: „Drei Profile im Vergleich" | Schüler:innen analysieren die drei fiktiven Profile mit den Leitfragen: Was zeigt die Person? Was zeigt sie nicht? Welchen Eindruck erzeugt das Profil? Welche Bedürfnisse werden erfüllt? Welche Strategie verfolgt die Person? |
-| 7 Min. | **Auswertung im Plenum** | Plenum | Tafel/Board | Ergebnisse werden gesammelt. Lehrkraft leitet zu Kernfragen: *„Welches Profil wirkt auf euch am glaubwürdigsten? Warum?"* und *„Was sagt das über uns als Betrachter:innen?"* Überleitung: Der Blick auf andere Profile beeinflusst auch, wie wir uns selbst wahrnehmen. |
+| Zeit    | Element                         | Sozialform    | Material                          | Durchführung                                                                                                                                                                                                                                                                |
+| ------- | ------------------------------- | ------------- | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 Min.  | **Einführung der drei Profile** | Plenum        | AB 2 (austeilen oder projizieren) | Lehrkraft erklärt kurz: *„Ihr analysiert jetzt drei fiktive Profile. Jede Person hat eine andere Strategie der Selbstdarstellung."* Namen/Typen kurz vorstellen: „Der Perfekte" (nur Highlights), „Der Authentische" (auch Ungeschminktes), „Der Kreative" (Ästhetik/Stil). |
+| 12 Min. | **Partnerarbeit AB 2**          | Partnerarbeit | AB 2: „Drei Profile im Vergleich" | Schüler:innen analysieren die drei fiktiven Profile mit den Leitfragen: Was zeigt die Person? Was zeigt sie nicht? Welchen Eindruck erzeugt das Profil? Welche Bedürfnisse werden erfüllt? Welche Strategie verfolgt die Person?                                            |
+| 7 Min.  | **Auswertung im Plenum**        | Plenum        | Tafel/Board                       | Ergebnisse werden gesammelt. Lehrkraft leitet zu Kernfragen: *„Welches Profil wirkt auf euch am glaubwürdigsten? Warum?"* und *„Was sagt das über uns als Betrachter:innen?"* Überleitung: Der Blick auf andere Profile beeinflusst auch, wie wir uns selbst wahrnehmen.    |
 
 ### Differenzierung Sek I / Sek II
 
 **Sek I:**
+
 - Analyse bleibt auf der Beschreibungs- und Einordnungsebene: *Was sehe ich? Was fällt mir auf?*
 - Leitfragen sind konkret und lebensnah: *„Würdest du diesem Profil folgen? Warum?"*
 - Psychologische Deutungen werden von den Schüler:innen selbst entwickelt – nicht vorgegeben
 
 **Sek II:**
+
 - Zusätzlich: Psychologische Konzepte benennen und anwenden – z. B. *Impression Management*, *Authentizitätsparadox* (je inszenierter, desto „authentischer" kann es wirken)
 - Gesellschaftliche Dimension: *„Welche Strategie ‚belohnt' der Algorithmus? Was macht das mit uns?"* (siehe AB 2, Frage 9)
 - Gegenmodell BeReal: Plattformdesign, das Inszenierung strukturell erschwert (zufälliges Timing, kein Re-Shot, Dual-Camera) → Impuls: *„Was sagt das Design einer Plattform über ihre Haltung zu Authentizität?"*
@@ -330,11 +346,13 @@ Statt AB 2 (Analyse fiktiver Social-Media-Profile) arbeiten die Lernenden mit **
 Vier gezeichnete Kinder-Avatare mit je einem Satz über sich (z. B. *„Ich bin immer fröhlich!"* / *„Ich bin die Beste im Sport!"* / *„Ich mag keine Spinat!"* / *„Ich bin super mutig!"*). Keine Social-Media-Ästhetik – einfache, klare Zeichnungen.
 
 **Leitfragen im Sitzkreis:**
+
 - *„Glaubst du, das stimmt wirklich immer?"*
 - *„Warum schreibt das Kind wohl genau das?"*
 - *„Was würdest du über dich schreiben, wenn du dich jemandem vorstellen würdest?"*
 
 **Methodische Hinweise:**
+
 - Sitzkreis oder Hufeisenformation – nicht am Einzeltisch
 - Kinder äußern sich spontan, Lehrkraft notiert Stichworte an der Tafel
 - Keine Fachterminologie: Statt „Selbstinszenierung" → „so tun als ob", „sich von der besten Seite zeigen", „sich ein bisschen verstellen"
@@ -355,6 +373,7 @@ Die drei Typen – „Der Perfekte", „Der Authentische", „Der Kreative" – 
 Die fiktiven Profile in AB 2 sind bewusst divers gestaltet – verschiedene Geschlechter, Interessen, Ästhetiken. Sie sollen repräsentativ wirken, ohne reale Personen darzustellen. Keine Prominenten, keine Influencer:innen als Vorlage.
 
 **Fallstricke vermeiden:**
+
 - Nicht werten: Es gibt keine „beste" Selbstdarstellungsstrategie
 - Kein Profil als Negativbeispiel framen (auch „Der Perfekte" hat nachvollziehbare Bedürfnisse)
 - Schüler:innen, die intensive Social-Media-Nutzung zeigen, nicht bloßstellen
@@ -364,21 +383,25 @@ Die fiktiven Profile in AB 2 sind bewusst divers gestaltet – verschiedene Gesc
 **„Der Perfekte" (nur Highlights):**
 
 *Sek I:*
+
 - „Immer alles perfekt – wirkt ein bisschen unecht"
 - „Ich würde dem vielleicht folgen, aber ich würde mich auch schlechter fühlen"
 - „Das ist einfach nur Marketing für sich selbst"
 
 *Sek II:*
+
 - „Klassisches Impression Management – zeigt nur die Vorderbühne"
 - „Schafft Bewunderung, aber keine echte Verbindung"
 - „Algorithmus-optimiert: Bilder mit hohem Engagement-Potenzial"
 
 **„Der Authentische":**
+
 - „Das fühlt sich echter an – aber vielleicht ist das auch ein Trick"
 - „Mutig, auch Schwächen zu zeigen"
 - „Paradox: Je ‚echter' das wirkt, desto mehr Likes bekommt man manchmal"
 
 **„Der Kreative":**
+
 - „Zeigt Persönlichkeit durch Stil – anders als ein Foto-Feed"
 - „Man sieht die Interessen, nicht das Gesicht"
 - „Bedürfnis: Selbstausdruck, vielleicht weniger Anerkennung"
@@ -393,20 +416,22 @@ Auswirkungen von Online-Selbstdarstellung auf Selbstbild, Wohlbefinden und menta
 
 ### Ablauf
 
-| Zeit   | Element | Sozialform | Material | Durchführung |
-|--------|---------|-----------|---------|-------------|
-| 2 Min. | **Einführung: Sozialer Vergleich** | Plenum | – | Lehrkraft erklärt kurz: *„Wenn wir uns Online-Profile ansehen, vergleichen wir uns – das ist normal. Aber: Wir vergleichen uns immer mit kuratierten Versionen. Was macht das mit uns?"* Kein langer Input – direkt in die Fallarbeit. |
-| 12 Min. | **Gruppenarbeit Fallbeispiele** | Gruppenarbeit (3–4 Personen) | AB 3a / 3b / 3c (je eine Fallgeschichte pro Gruppe) | Jede Gruppe bekommt ein Fallbeispiel: AB 3a (*„Immer die perfekten Fotos"* – sozialer Vergleich, Unzufriedenheit), AB 3b (*„Niemand liked meine Beiträge"* – Selbstwert an Metriken geknüpft), AB 3c (*„Mein Profil zeigt nicht, wer ich wirklich bin"* – Authentizitätskonflikt). Auftrag: Fallgeschichte lesen, Analysefragen bearbeiten, Kurzpräsentation vorbereiten (je 2 Min.). |
-| 6 Min. | **Kurzvorstellung der Gruppen** | Plenum | – | Jede Gruppe stellt ihr Fallbeispiel in 2 Minuten vor: Was passiert? Was beschäftigt die Person? Was könnte helfen? Lehrkraft fasst nach allen drei Vorstellungen zusammen: *„In allen drei Fällen sehen wir: Die Art, wie wir uns online präsentieren und wie wir andere wahrnehmen, beeinflusst, wie wir uns selbst fühlen."* |
+| Zeit    | Element                            | Sozialform                   | Material                                            | Durchführung                                                                                                                                                                                                                                                                                                                                                                          |
+| ------- | ---------------------------------- | ---------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2 Min.  | **Einführung: Sozialer Vergleich** | Plenum                       | –                                                   | Lehrkraft erklärt kurz: *„Wenn wir uns Online-Profile ansehen, vergleichen wir uns – das ist normal. Aber: Wir vergleichen uns immer mit kuratierten Versionen. Was macht das mit uns?"* Kein langer Input – direkt in die Fallarbeit.                                                                                                                                                |
+| 12 Min. | **Gruppenarbeit Fallbeispiele**    | Gruppenarbeit (3–4 Personen) | AB 3a / 3b / 3c (je eine Fallgeschichte pro Gruppe) | Jede Gruppe bekommt ein Fallbeispiel: AB 3a (*„Immer die perfekten Fotos"* – sozialer Vergleich, Unzufriedenheit), AB 3b (*„Niemand liked meine Beiträge"* – Selbstwert an Metriken geknüpft), AB 3c (*„Mein Profil zeigt nicht, wer ich wirklich bin"* – Authentizitätskonflikt). Auftrag: Fallgeschichte lesen, Analysefragen bearbeiten, Kurzpräsentation vorbereiten (je 2 Min.). |
+| 6 Min.  | **Kurzvorstellung der Gruppen**    | Plenum                       | –                                                   | Jede Gruppe stellt ihr Fallbeispiel in 2 Minuten vor: Was passiert? Was beschäftigt die Person? Was könnte helfen? Lehrkraft fasst nach allen drei Vorstellungen zusammen: *„In allen drei Fällen sehen wir: Die Art, wie wir uns online präsentieren und wie wir andere wahrnehmen, beeinflusst, wie wir uns selbst fühlen."*                                                        |
 
 ### Differenzierung Sek I / Sek II
 
 **Sek I:**
+
 - Fokus auf Erkennen und Benennen von Gefühlen: *„Wie fühlt sich die Person? Was beschäftigt sie?"*
 - Konkrete Situationen aus der eigenen Lebenswelt: *„Kennst du das auch?"*
 - Handlungsoptionen werden gemeinsam entwickelt – keine Theorie notwendig
 
 **Sek II:**
+
 - Psychologische Konzepte einführen und anwenden:
   - **Social Comparison Theory** (Leon Festinger): Aufwärtsvergleich (mit „Besseren") erzeugt Druck; Abwärtsvergleich kann kurzfristig stabilisieren
   - **Vogel et al. (2024)** – „Upward Social Comparison on Social Media": Digitale Vergleiche sind intensiver und häufiger als analoge; Social-Media-Nutzung ist empirisch mit niedrigerem Selbstwertgefühl verknüpft
@@ -421,6 +446,7 @@ Auswirkungen von Online-Selbstdarstellung auf Selbstbild, Wohlbefinden und menta
 Die Distanzierung durch fiktive Personen ermöglicht es den Lernenden, über eigene Erfahrungen nachzudenken, ohne sich exponieren zu müssen. Gleichzeitig sind die Fälle nah genug an der Lebenswelt, dass sie unmittelbar erkannt werden. Gruppenarbeit ermöglicht Austausch ohne Bewertung.
 
 **Drei Fälle – drei Mechanismen:**
+
 - AB 3a: Sozialer Aufwärtsvergleich (ich vs. die „Besseren") → Unzufriedenheit, Neid
 - AB 3b: Externe Validation (mein Wert = meine Likes) → Abhängigkeit von Rückmeldung
 - AB 3c: Identitätsdiskrepanz (mein Profil ≠ ich) → Erschöpfung, Entfremdung
@@ -430,6 +456,7 @@ Die Distanzierung durch fiktive Personen ermöglicht es den Lernenden, über eig
 Die drei Mechanismen greifen im Alltag ineinander – das kann in der Sicherung herausgearbeitet werden.
 
 **Fallstricke vermeiden:**
+
 - Nicht dramatisieren: Die Fälle sollen nachvollziehbar sein, nicht pathologisch wirken
 - Kein Schuldgefühl wecken: *„Du nutzt zu viel Social Media"* – das ist nicht die Botschaft
 - Wenn Schüler:innen eigene Erfahrungen teilen: würdig aufnehmen, nicht analysieren
@@ -443,21 +470,25 @@ Fallarbeit fördert das Transferdenken: Schüler:innen wenden das in Phase 2 und
 **AB 3a – „Immer die perfekten Fotos" (Sozialer Vergleich):**
 
 *Sek I:*
+
 - „Sie vergleicht sich immer mit anderen – das macht unglücklich"
 - „Die Fotos sind bestimmt gefiltert und nicht echt"
 - „Vielleicht einfach weniger scrollen"
 
 *Sek II:*
+
 - „Klassischer Aufwärtsvergleich nach Festinger – man verliert immer"
 - „Das Paradox: Jeder macht kuratierte Profile – man vergleicht sich mit Fantasieversionen"
 - „Selektive Exposition: Je mehr man scrollt, desto mehr sieht man genau das, was einen neidisch macht"
 
 **AB 3b – „Niemand liked meine Beiträge":**
+
 - „Er macht seinen Selbstwert von anderen abhängig"
 - „Likes sagen nichts über den echten Wert einer Person aus"
 - „Vielleicht posten für sich selbst – nicht für Reaktionen"
 
 **AB 3c – „Mein Profil zeigt nicht, wer ich bin":**
+
 - „Das kenne ich – man fühlt sich irgendwie falsch"
 - „Erschöpfend, immer eine Rolle zu spielen"
 - „Weniger zeigen ist auch eine Option – nicht alles muss online"
@@ -472,21 +503,23 @@ Konkrete Handlungsstrategien für eine bewusste, gesunde Online-Präsenz entwick
 
 ### Ablauf
 
-| Zeit   | Element | Sozialform | Material | Durchführung |
-|--------|---------|-----------|---------|-------------|
-| 4 Min. | **Partnerarbeit AB 5** | Partnerarbeit | AB 5: „5 Fragen vor dem Posten" | Schüler:innen entwickeln oder diskutieren (je nach Differenzierung) Fragen, die man sich vor einem Post stellen kann. Sek I arbeitet mit vorformulierten Fragen als Ausgangspunkt; Sek II entwickelt eigene Fragen und begründet die Auswahl. |
-| 4 Min. | **Meinungslinie** | Plenum | Tafel oder Seilzug im Raum | Lehrkraft liest die These vor: *„Ein authentisches Profil ist wichtiger als ein perfektes."* Schüler:innen positionieren sich auf einer imaginären Linie von „stimme voll zu" bis „stimme gar nicht zu". 3–4 Schüler:innen begründen ihre Position kurz. Keine Auflösung, keine richtige Antwort – die Vielfalt der Positionen ist das Ergebnis. |
-| 2 Min. | **Persönlicher Vorsatz** | Einzelarbeit | Notizzettel | Schüler:innen schreiben einen persönlichen Vorsatz auf (anonym, für sich behalten, wird nicht eingesammelt): *„Wenn ich das nächste Mal poste, werde ich ..."* oder *„Ich möchte mir online mehr erlauben, ..."* |
+| Zeit   | Element                  | Sozialform    | Material                        | Durchführung                                                                                                                                                                                                                                                                                                                                     |
+| ------ | ------------------------ | ------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 4 Min. | **Partnerarbeit AB 5**   | Partnerarbeit | AB 4: „5 Fragen vor dem Posten" | Schüler:innen entwickeln oder diskutieren (je nach Differenzierung) Fragen, die man sich vor einem Post stellen kann. Sek I arbeitet mit vorformulierten Fragen als Ausgangspunkt; Sek II entwickelt eigene Fragen und begründet die Auswahl.                                                                                                    |
+| 4 Min. | **Meinungslinie**        | Plenum        | Tafel oder Seilzug im Raum      | Lehrkraft liest die These vor: *„Ein authentisches Profil ist wichtiger als ein perfektes."* Schüler:innen positionieren sich auf einer imaginären Linie von „stimme voll zu" bis „stimme gar nicht zu". 3–4 Schüler:innen begründen ihre Position kurz. Keine Auflösung, keine richtige Antwort – die Vielfalt der Positionen ist das Ergebnis. |
+| 2 Min. | **Persönlicher Vorsatz** | Einzelarbeit  | Notizzettel                     | Schüler:innen schreiben einen persönlichen Vorsatz auf (anonym, für sich behalten, wird nicht eingesammelt): *„Wenn ich das nächste Mal poste, werde ich ..."* oder *„Ich möchte mir online mehr erlauben, ..."*                                                                                                                                 |
 
 ### Differenzierung Sek I / Sek II
 
 **Sek I:**
-- AB 5 enthält vorformulierte Fragen als Grundlage (z. B. *„Warum poste ich das?"*, *„Wie fühle ich mich dabei?"*, *„Würde ich das auch offline sagen?"*)
+
+- AB 4 enthält vorformulierte Fragen als Grundlage (z. B. *„Warum poste ich das?"*, *„Wie fühle ich mich dabei?"*, *„Würde ich das auch offline sagen?"*)
 - Meinungslinie: einfache Sprache, keine Fachbegriffe notwendig; Begründungen können kurz und intuitiv sein
 - Persönlicher Vorsatz: Satzanfänge als Hilfe angeboten
 
 **Sek II:**
-- AB 5: Fragen werden selbst entwickelt und begründet; zusätzlich Reflexion: *„Für wen sind diese Fragen gedacht – als Werkzeug oder als Einschränkung?"*
+
+- AB 4: Fragen werden selbst entwickelt und begründet; zusätzlich Reflexion: *„Für wen sind diese Fragen gedacht – als Werkzeug oder als Einschränkung?"*
 - Meinungslinie erweitern: *„Hat jeder das Recht auf ein unechtes Profil?"* – ethische Diskussion: gesellschaftliche Verantwortung, Recht auf Privatsphäre, Recht auf Unperfektheit
 - Persönlicher Vorsatz: kann auch eine kritische Frage sein, keine Verhaltensänderung notwendig
 
@@ -502,6 +535,7 @@ Die körperliche Positionierung im Raum macht abstrakte Meinungen sichtbar und e
 Verhaltensänderungen sind persönlich. Vorsätze, die öffentlich ausgesprochen werden, lösen Erwartungsdruck aus und können das Gegenteil bewirken. Der Notizzettel dient als stilles Commitment zu sich selbst.
 
 **Fallstricke vermeiden:**
+
 - Nicht einfordern: Vorsätze bleiben bei den Schüler:innen
 - Keine Modell-Antwort für die Meinungslinie: beide Positionen sind vertretbar
 - Meinungslinie nicht als Abstimmung rahmen – es gibt keine Mehrheitsmeinung, die gilt
@@ -511,11 +545,13 @@ Verhaltensänderungen sind persönlich. Vorsätze, die öffentlich ausgesprochen
 **Meinungslinie – These: „Ein authentisches Profil ist wichtiger als ein perfektes."**
 
 *Pro Authentizität:*
+
 - „Echte Verbindungen entstehen durch Authentizität, nicht durch Perfektion"
 - „Perfektion erzeugt Druck – für mich und für andere"
 - „Ich möchte gesehen werden, wie ich wirklich bin"
 
 *Pro Abwägung / Differenzierung:*
+
 - „Es kommt auf den Kontext an – LinkedIn muss nicht authentisch sein, Instagram schon"
 - „Authentizität ist auch eine Konstruktion – was ist ‚echt'?"
 - „Ich habe das Recht, nicht alles zu zeigen – das ist kein Fake"
@@ -525,6 +561,7 @@ Verhaltensänderungen sind persönlich. Vorsätze, die öffentlich ausgesprochen
 **„5 Fragen vor dem Posten" – typische Schüler:innen-Fragen:**
 
 *Sek I (mit Vorlage):*
+
 1. Warum poste ich das?
 2. Wie fühle ich mich dabei?
 3. Würde ich das auch meiner Lehrerin zeigen?
@@ -532,6 +569,7 @@ Verhaltensänderungen sind persönlich. Vorsätze, die öffentlich ausgesprochen
 5. Zeigt das, wie ich wirklich bin?
 
 *Sek II (eigene Entwicklung):*
+
 1. Welches Bedürfnis befriedige ich damit?
 2. Welche Version von mir präsentiere ich – und warum diese?
 3. Für wen ist dieser Post – für mich oder für andere?
@@ -548,10 +586,10 @@ Rückblick auf den Lernprozess; kein Handlungsdruck, kein Produkt, kein Bewertun
 
 ### Ablauf
 
-| Zeit   | Element | Sozialform | Material | Durchführung |
-|--------|---------|-----------|---------|-------------|
-| 4 Min. | **Blitzlicht-Abschlussrunde** | Plenum | – | Lehrkraft leitet die Runde an: *„Jede:r sagt in einem Satz: Was nehme ich heute mit? Was hat mich überrascht? Was beschäftigt mich noch?"* Keine Auflösung, keine Kommentierung durch die Lehrkraft – nur zuhören. Wortmeldungen sind freiwillig, aber jede:r sollte die Möglichkeit bekommen. |
-| 1 Min. | **Optionaler Hinweis: AB 4** | Einzelarbeit | AB 4: Selbstreflexionsbogen (optional) | Lehrkraft erwähnt optional: *„Wer möchte, kann diesen Bogen für sich ausfüllen – anonym, wird nicht eingesammelt, muss nicht geteilt werden. Einfach für dich."* AB 4 wird ausgeteilt oder liegt aus. |
+| Zeit   | Element                       | Sozialform   | Material                               | Durchführung                                                                                                                                                                                                                                                                                   |
+| ------ | ----------------------------- | ------------ | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 4 Min. | **Blitzlicht-Abschlussrunde** | Plenum       | –                                      | Lehrkraft leitet die Runde an: *„Jede:r sagt in einem Satz: Was nehme ich heute mit? Was hat mich überrascht? Was beschäftigt mich noch?"* Keine Auflösung, keine Kommentierung durch die Lehrkraft – nur zuhören. Wortmeldungen sind freiwillig, aber jede:r sollte die Möglichkeit bekommen. |
+| 1 Min. | **Optionaler Hinweis: AB 4**  | Einzelarbeit | AB 5: Selbstreflexionsbogen (optional) | Lehrkraft erwähnt optional: *„Wer möchte, kann diesen Bogen für sich ausfüllen – anonym, wird nicht eingesammelt, muss nicht geteilt werden. Einfach für dich."* AB 5 wird ausgeteilt oder liegt aus.                                                                                          |
 
 ### Differenzierung
 
@@ -568,6 +606,7 @@ Diese Phase ist bewusst offen gehalten. Es geht nicht darum, nochmals Erkenntnis
 Das Thema digitale Identität hat keine abschließende „richtige" Antwort. Eine Unterrichtsstunde kann und soll nicht alle Fragen beantworten. Das explizite Zulassen von Offenheit ist selbst eine Botschaft: Manche Fragen begleiten uns länger.
 
 **Blitzlicht – praktische Hinweise:**
+
 - Sitzordnung wie in Phase 4 lassen – keine Umstrukturierung mehr
 - Lehrkraft macht ggf. den Anfang: *„Was mich heute überrascht hat..."*
 - Schweigen ist erlaubt – nicht jede:r muss sprechen
@@ -576,16 +615,19 @@ Das Thema digitale Identität hat keine abschließende „richtige" Antwort. Ein
 ### Erwartete Schüler:innen-Antworten
 
 *Typische Blitzlicht-Antworten (Sek I):*
+
 - „Ich hatte nicht gedacht, dass ich mir so viele Gedanken über meine Profile mache"
 - „Ich frage mich jetzt, warum ich das eigentlich poste"
 - „Das mit den Fallbeispielen kannte ich aus meinem eigenen Leben"
 
 *Typische Antworten (Sek II):*
+
 - „Das Authentizitätsparadox hat mich beschäftigt – ich glaube, das merkt man öfter"
 - „Ich bin neugierig, wie das in 10 Jahren aussieht – ob Social Media sich verändert"
 - „Ich weiß noch nicht, ob ich jetzt weniger oder mehr posten will"
 
 *Offene Fragen, die bewusst offen bleiben:*
+
 - „Kann man wirklich authentisch sein – oder ist alles irgendwie Inszenierung?"
 - „Was passiert, wenn das Profil, das man zeigt, wichtiger wird als man selbst?"
 
@@ -599,11 +641,11 @@ Langzeitwirkung der Lerneinheit überprüfen, persönliche Entwicklung im Umgang
 
 ### Ablauf
 
-| Zeit   | Element | Sozialform | Material | Durchführung |
-|--------|---------|-----------|---------|-------------|
-| 5 Min. | **Rückblick: Persönlicher Vorsatz** | Einzelarbeit | Notizzettel aus Phase 5 (falls aufbewahrt) oder Erinnerung | Schüler:innen rufen sich ihren Vorsatz aus Phase 5 in Erinnerung: *„Was hatte ich mir vorgenommen? Hat sich etwas verändert?"* Kein Teilen notwendig. |
-| 7 Min. | **Austausch in Kleingruppen** | Kleingruppen (3–4 Personen) | – | Impulsfragen: *„Habt ihr etwas an eurem Online-Verhalten bemerkt oder verändert? Habt ihr euch selbst beim Scrollen oder Posten ertappt – ‚Das haben wir in der Stunde besprochen'?"* Freiwilliger Austausch, keine Pflicht zur Verhaltensänderung. |
-| 3 Min. | **Kurzes Plenum** | Plenum | – | 2–3 Wortmeldungen aus den Gruppen – was war spannend? Was hat sich verändert? Was nicht? Kein Fazit-Zwang. |
+| Zeit   | Element                             | Sozialform                  | Material                                                   | Durchführung                                                                                                                                                                                                                                        |
+| ------ | ----------------------------------- | --------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 5 Min. | **Rückblick: Persönlicher Vorsatz** | Einzelarbeit                | Notizzettel aus Phase 5 (falls aufbewahrt) oder Erinnerung | Schüler:innen rufen sich ihren Vorsatz aus Phase 5 in Erinnerung: *„Was hatte ich mir vorgenommen? Hat sich etwas verändert?"* Kein Teilen notwendig.                                                                                               |
+| 7 Min. | **Austausch in Kleingruppen**       | Kleingruppen (3–4 Personen) | –                                                          | Impulsfragen: *„Habt ihr etwas an eurem Online-Verhalten bemerkt oder verändert? Habt ihr euch selbst beim Scrollen oder Posten ertappt – ‚Das haben wir in der Stunde besprochen'?"* Freiwilliger Austausch, keine Pflicht zur Verhaltensänderung. |
+| 3 Min. | **Kurzes Plenum**                   | Plenum                      | –                                                          | 2–3 Wortmeldungen aus den Gruppen – was war spannend? Was hat sich verändert? Was nicht? Kein Fazit-Zwang.                                                                                                                                          |
 
 ### Hinweis
 
@@ -613,19 +655,19 @@ Das Follow-up ist explizit optional. Es entfaltet seinen Wert nur, wenn die Lern
 
 ## Materialübersicht
 
-| Material | Phase | Beschreibung |
-|---------|-------|-------------|
-| **Video-Idee: Bildcollage** *(noch zu produzieren)* | 1 | 4 Profile derselben Person im Vergleich; alternativ: selbst erstellte Collage mit 4 Screenshots eines fiktiven Profils |
-| **Infografik: Die 5 Bausteine der digitalen Identität** | 2 | Profilbild, Bio, Posts, Interaktionen, Netzwerk – projizierbar oder als Ausdruck |
-| **AB 1: Die 5 Bausteine meiner digitalen Identität** | 2 | Analyse-Raster mit fiktivem Musterprofil; Gestaltungsentscheidungen und Bedürfnisse |
-| **AB 2: Drei Profile im Vergleich** | 3 | „Der Perfekte", „Der Authentische", „Der Kreative" – fiktive Profile mit Analysefragen |
-| **AB 3a: Fallbeispiel – „Immer die perfekten Fotos"** | 4 | Sozialer Vergleich, Unzufriedenheit; Analysefragen und Handlungsoptionen |
-| **AB 3b: Fallbeispiel – „Niemand liked meine Beiträge"** | 4 | Selbstwert an Metriken geknüpft; Analysefragen und Handlungsoptionen |
-| **AB 3c: Fallbeispiel – „Mein Profil zeigt nicht, wer ich bin"** | 4 | Authentizitätskonflikt; Analysefragen und Handlungsoptionen |
-| **AB 4: Selbstreflexionsbogen** | 6 | Optional, anonym; Reflexion der eigenen Online-Präsenz |
-| **AB 5: 5 Fragen vor dem Posten** | 5 | Sek I: vorformulierte Fragen; Sek II: eigene Fragen entwickeln |
-| **Primarstufe AB 1: Mein Online-Ich** | 3 (GS) | Vier Kinder-Avatare mit Sprechblasen; kindgerechte Analysefragen |
-| **Bilderpaar (gezeichnet)** *(GS, Phase 1)* | 1 (GS) | Kind beim Matschen vs. Geburtstagsfoto; A4, projizierbar |
+| Material                                                         | Phase  | Beschreibung                                                                                                           |
+| ---------------------------------------------------------------- | ------ | ---------------------------------------------------------------------------------------------------------------------- |
+| **Video-Idee: Bildcollage** *(noch zu produzieren)*              | 1      | 4 Profile derselben Person im Vergleich; alternativ: selbst erstellte Collage mit 4 Screenshots eines fiktiven Profils |
+| **Infografik: Die 5 Bausteine der digitalen Identität**          | 2      | Profilbild, Bio, Posts, Interaktionen, Netzwerk – projizierbar oder als Ausdruck                                       |
+| **AB 1: Die 5 Bausteine meiner digitalen Identität**             | 2      | Analyse-Raster mit fiktivem Musterprofil; Gestaltungsentscheidungen und Bedürfnisse                                    |
+| **AB 2: Drei Profile im Vergleich**                              | 3      | „Der Perfekte", „Der Authentische", „Der Kreative" – fiktive Profile mit Analysefragen                                 |
+| **AB 3a: Fallbeispiel – „Immer die perfekten Fotos"**            | 4      | Sozialer Vergleich, Unzufriedenheit; Analysefragen und Handlungsoptionen                                               |
+| **AB 3b: Fallbeispiel – „Niemand liked meine Beiträge"**         | 4      | Selbstwert an Metriken geknüpft; Analysefragen und Handlungsoptionen                                                   |
+| **AB 3c: Fallbeispiel – „Mein Profil zeigt nicht, wer ich bin"** | 4      | Authentizitätskonflikt; Analysefragen und Handlungsoptionen                                                            |
+| **AB 4: Selbstreflexionsbogen**                                  | 6      | Optional, anonym; Reflexion der eigenen Online-Präsenz                                                                 |
+| **AB 5: 5 Fragen vor dem Posten**                                | 5      | Sek I: vorformulierte Fragen; Sek II: eigene Fragen entwickeln                                                         |
+| **Primarstufe AB 1: Mein Online-Ich**                            | 3 (GS) | Vier Kinder-Avatare mit Sprechblasen; kindgerechte Analysefragen                                                       |
+| **Bilderpaar (gezeichnet)** *(GS, Phase 1)*                      | 1 (GS) | Kind beim Matschen vs. Geburtstagsfoto; A4, projizierbar                                                               |
 
 ---
 
