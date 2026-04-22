@@ -1,0 +1,859 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Die 5 Bausteine der digitalen Identität · DURCHBLICKT! LH2</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,300..900,0..100,0..1;1,9..144,300..900,0..100,0..1&family=Instrument+Serif:ital@0;1&family=JetBrains+Mono:wght@400;500;700&family=Inter+Tight:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --paper: #f3ecdd;
+    --paper-deep: #eadfc8;
+    --ink: #1a1612;
+    --ink-soft: #3b332a;
+    --muted: #8a7f6d;
+    --rule: #2b241d;
+    --rule-faint: #c9bea6;
+
+    --red: #b23a24;       /* burnt vermilion — signal colour */
+    --blue: #1f3b5a;      /* deep navy — anchor */
+    --ochre: #c98f26;     /* mustard — structure */
+    --moss: #4a6b3e;      /* moss green — connection */
+    --plum: #6b3a4f;      /* oxblood plum — network */
+
+    --grid: 1px;
+  }
+
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "Inter Tight", system-ui, sans-serif;
+    font-weight: 400;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+
+    /* subtle paper grain */
+    background-image:
+      radial-gradient(rgba(26,22,18,0.045) 1px, transparent 1px),
+      radial-gradient(rgba(26,22,18,0.03) 1px, transparent 1px);
+    background-size: 3px 3px, 7px 7px;
+    background-position: 0 0, 1px 2px;
+  }
+
+  /* Decorative corner crosshairs like registration marks */
+  body::before, body::after {
+    content: "";
+    position: fixed;
+    width: 22px; height: 22px;
+    border: 1px solid var(--rule);
+    opacity: 0.55;
+    pointer-events: none;
+  }
+  body::before {
+    top: 18px; left: 18px;
+    border-right: none; border-bottom: none;
+  }
+  body::after {
+    bottom: 18px; right: 18px;
+    border-left: none; border-top: none;
+  }
+
+  .sheet {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 64px 56px 72px;
+    position: relative;
+  }
+
+  /* ========== MASTHEAD ========== */
+  .masthead {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: end;
+    gap: 24px;
+    padding-bottom: 22px;
+    border-bottom: 2px solid var(--rule);
+    margin-bottom: 10px;
+  }
+  .masthead .eyebrow {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 18px;
+  }
+  .masthead .eyebrow .dot {
+    width: 7px; height: 7px; border-radius: 50%;
+    background: var(--red);
+    display: inline-block;
+    box-shadow: 0 0 0 3px rgba(178,58,36,0.18);
+  }
+  .masthead h1 {
+    font-family: "Fraunces", serif;
+    font-variation-settings: "opsz" 144, "SOFT" 50, "WONK" 1;
+    font-weight: 420;
+    font-size: clamp(44px, 6.2vw, 78px);
+    line-height: 0.95;
+    letter-spacing: -0.025em;
+    margin: 0;
+    color: var(--ink);
+  }
+  .masthead h1 em {
+    font-style: italic;
+    font-variation-settings: "opsz" 144, "SOFT" 100, "WONK" 1;
+    color: var(--red);
+  }
+  .masthead h1 .amp {
+    font-family: "Instrument Serif", serif;
+    font-style: italic;
+    color: var(--red);
+  }
+
+  .issue-tag {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 10.5px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    text-align: right;
+    color: var(--ink-soft);
+    line-height: 1.7;
+    white-space: nowrap;
+  }
+  .issue-tag strong { color: var(--ink); font-weight: 700; }
+
+  /* Secondary bar below masthead */
+  .sub-bar {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0;
+    border-bottom: 1px solid var(--rule);
+    padding: 14px 0 18px;
+    margin-bottom: 44px;
+  }
+  .sub-bar .cell {
+    padding: 0 18px;
+    border-left: 1px dashed var(--rule-faint);
+    font-size: 13.5px;
+    color: var(--ink-soft);
+  }
+  .sub-bar .cell:first-child {
+    border-left: none; padding-left: 0;
+  }
+  .sub-bar .cell .label {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 10px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--muted);
+    display: block;
+    margin-bottom: 6px;
+  }
+
+  /* ========== LEAD ========== */
+  .lead {
+    font-family: "Fraunces", serif;
+    font-variation-settings: "opsz" 96, "SOFT" 30;
+    font-weight: 350;
+    font-size: clamp(18px, 1.9vw, 23px);
+    line-height: 1.4;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+    max-width: 820px;
+    margin: 0 0 56px;
+    position: relative;
+    padding-left: 28px;
+  }
+  .lead::before {
+    content: "";
+    position: absolute;
+    left: 0; top: 0.45em;
+    width: 14px; height: 14px;
+    background: var(--red);
+    transform: rotate(45deg);
+  }
+  .lead em {
+    font-style: italic;
+    color: var(--ink-soft);
+  }
+
+  /* ========== BAUSTEINE ========== */
+  .bausteine {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    border-top: 2px solid var(--rule);
+  }
+
+  .baustein {
+    display: grid;
+    grid-template-columns: 100px 1fr 280px;
+    gap: 36px;
+    padding: 38px 0 42px;
+    border-bottom: 1px solid var(--rule-faint);
+    position: relative;
+  }
+  .baustein:last-child { border-bottom: 2px solid var(--rule); }
+
+  .b-number {
+    font-family: "Fraunces", serif;
+    font-variation-settings: "opsz" 144, "WONK" 1;
+    font-weight: 300;
+    font-size: 96px;
+    line-height: 0.85;
+    letter-spacing: -0.04em;
+    color: var(--accent);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .b-number .hash {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 0.18em;
+    color: var(--muted);
+    margin-bottom: 6px;
+    align-self: flex-start;
+  }
+  .b-number .num {
+    font-style: italic;
+    font-variation-settings: "opsz" 144, "SOFT" 100, "WONK" 1;
+  }
+
+  .b-body h2 {
+    font-family: "Fraunces", serif;
+    font-variation-settings: "opsz" 72, "SOFT" 50;
+    font-weight: 500;
+    font-size: 34px;
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+    margin: 8px 0 4px;
+    color: var(--ink);
+  }
+  .b-body .kicker {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 10.5px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .b-body .kicker::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: var(--accent);
+    opacity: 0.35;
+    max-width: 140px;
+  }
+  .b-body p {
+    margin: 0 0 14px;
+    font-size: 15px;
+    color: var(--ink-soft);
+    max-width: 52ch;
+  }
+  .b-body .decision {
+    margin-top: 14px;
+    font-family: "Instrument Serif", serif;
+    font-style: italic;
+    font-size: 19px;
+    line-height: 1.3;
+    color: var(--ink);
+    border-left: 2px solid var(--accent);
+    padding-left: 16px;
+  }
+  .b-body .decision::before {
+    content: "Die Entscheidung — ";
+    font-family: "JetBrains Mono", monospace;
+    font-style: normal;
+    font-size: 9.5px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--muted);
+    display: block;
+    margin-bottom: 4px;
+  }
+
+  /* ===== Illustrations panel ===== */
+  .b-visual {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    background: var(--paper-deep);
+    border: 1px solid var(--rule);
+    position: relative;
+    aspect-ratio: 1 / 0.82;
+    overflow: hidden;
+  }
+  .b-visual::before {
+    content: attr(data-caption);
+    position: absolute;
+    top: 8px; left: 10px;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 9px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--muted);
+    z-index: 2;
+  }
+  .b-visual svg { width: 100%; height: 100%; display: block; }
+
+  /* ===== per-baustein accents ===== */
+  .baustein[data-color="red"]   { --accent: var(--red); }
+  .baustein[data-color="blue"]  { --accent: var(--blue); }
+  .baustein[data-color="ochre"] { --accent: var(--ochre); }
+  .baustein[data-color="moss"]  { --accent: var(--moss); }
+  .baustein[data-color="plum"]  { --accent: var(--plum); }
+
+  /* ========== CORE MESSAGE ========== */
+  .core {
+    margin-top: 56px;
+    padding: 40px 48px;
+    background: var(--ink);
+    color: var(--paper);
+    position: relative;
+    overflow: hidden;
+  }
+  .core::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image:
+      repeating-linear-gradient(
+        90deg,
+        transparent 0 48px,
+        rgba(243,236,221,0.05) 48px 49px
+      );
+    pointer-events: none;
+  }
+  .core .core-label {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 10.5px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--ochre);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 14px;
+  }
+  .core .core-label::before {
+    content: "";
+    width: 18px; height: 1px;
+    background: var(--ochre);
+  }
+  .core p {
+    font-family: "Fraunces", serif;
+    font-variation-settings: "opsz" 120, "SOFT" 50;
+    font-weight: 350;
+    font-size: clamp(22px, 2.6vw, 32px);
+    line-height: 1.25;
+    letter-spacing: -0.015em;
+    margin: 0;
+    max-width: 900px;
+    position: relative;
+    z-index: 1;
+  }
+  .core p em {
+    font-style: italic;
+    color: var(--ochre);
+  }
+
+  /* ========== FOOTER ========== */
+  .colophon {
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid var(--rule);
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    gap: 16px;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 10px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .colophon .mid {
+    font-family: "Instrument Serif", serif;
+    font-style: italic;
+    font-size: 14px;
+    letter-spacing: 0;
+    text-transform: none;
+    color: var(--ink-soft);
+  }
+  .colophon .right { text-align: right; }
+
+  /* ========== RESPONSIVE ========== */
+  @media (max-width: 900px) {
+    .sheet { padding: 40px 28px 48px; }
+    .sub-bar { grid-template-columns: 1fr; gap: 12px; }
+    .sub-bar .cell { border-left: none; padding-left: 0; }
+    .baustein {
+      grid-template-columns: 72px 1fr;
+      gap: 20px;
+    }
+    .b-visual {
+      grid-column: 1 / -1;
+      aspect-ratio: 16 / 9;
+      order: 3;
+    }
+    .b-number { font-size: 68px; }
+    .b-body h2 { font-size: 26px; }
+    .core { padding: 28px 22px; }
+    .colophon {
+      grid-template-columns: 1fr;
+      text-align: left;
+    }
+    .colophon .right { text-align: left; }
+  }
+
+  /* ========== PRINT ========== */
+  @media print {
+    @page { size: A4; margin: 14mm; }
+    body {
+      background: #fff;
+      background-image: none;
+    }
+    body::before, body::after { display: none; }
+    .sheet {
+      padding: 0;
+      max-width: 100%;
+    }
+    .baustein {
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
+    .core {
+      background: #1a1612 !important;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+    .b-visual {
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+  }
+
+  /* ========== reveal animation ========== */
+  @keyframes rise {
+    from { opacity: 0; transform: translateY(16px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+  .masthead, .sub-bar, .lead, .baustein, .core, .colophon {
+    animation: rise 0.7s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+  }
+  .sub-bar    { animation-delay: 0.08s; }
+  .lead       { animation-delay: 0.16s; }
+  .baustein:nth-of-type(1) { animation-delay: 0.24s; }
+  .baustein:nth-of-type(2) { animation-delay: 0.32s; }
+  .baustein:nth-of-type(3) { animation-delay: 0.40s; }
+  .baustein:nth-of-type(4) { animation-delay: 0.48s; }
+  .baustein:nth-of-type(5) { animation-delay: 0.56s; }
+  .core       { animation-delay: 0.64s; }
+  .colophon   { animation-delay: 0.72s; }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { animation: none !important; }
+  }
+</style>
+</head>
+<body>
+<main class="sheet">
+
+  <!-- ========== MASTHEAD ========== -->
+  <header class="masthead">
+    <div>
+      <div class="eyebrow">
+        <span class="dot"></span>
+        DURCHBLICKT! &nbsp;·&nbsp; LH 2 &nbsp;·&nbsp; Phase 2 — Erarbeitung
+      </div>
+      <h1>Die <em>fünf</em><br/>Bausteine<br/>der digitalen <em>Identität</em>.</h1>
+    </div>
+    <div class="issue-tag">
+      Infografik<br/>
+      <strong>№ 02.01</strong><br/>
+      Sek I · Sek II<br/>
+      5 Min. Plenum
+    </div>
+  </header>
+
+  <div class="sub-bar">
+    <div class="cell">
+      <span class="label">Leitfrage</span>
+      Was zeige ich online — und was lasse ich weg?
+    </div>
+    <div class="cell">
+      <span class="label">Methodischer Zweck</span>
+      Analytische Kategorien bereitstellen, nicht Social Media erklären.
+    </div>
+    <div class="cell">
+      <span class="label">Kernbotschaft</span>
+      Jeder Baustein ist eine <em>Entscheidung</em>.
+    </div>
+  </div>
+
+  <!-- ========== LEAD ========== -->
+  <p class="lead">
+    Ein Profil ist nicht einfach „da". Es ist gebaut — aus fünf bewussten oder unbewussten
+    Gestaltungsentscheidungen. Wer sie sichtbar macht, versteht, wie Selbstdarstellung
+    funktioniert — <em>bei anderen und bei sich selbst</em>.
+  </p>
+
+  <!-- ========== BAUSTEINE ========== -->
+  <section class="bausteine">
+
+    <!-- 01 · Profilbild -->
+    <article class="baustein" data-color="red">
+      <div class="b-number">
+        <span class="hash">Baustein</span>
+        <span class="num">01</span>
+      </div>
+      <div class="b-body">
+        <div class="kicker">Das erste Bild</div>
+        <h2>Profilbild</h2>
+        <p>
+          Der erste Eindruck, in einem Kreis von wenigen hundert Pixeln. Porträt oder
+          Avatar, Lachen oder Pose, scharf oder verwaschen — jede Wahl erzählt
+          bereits, bevor ein Wort gelesen wird.
+        </p>
+        <p>
+          <strong>Typische Gestaltungsmittel:</strong> Blickrichtung, Bildausschnitt,
+          Farbstimmung, Sichtbarkeit des Gesichts, Requisiten.
+        </p>
+        <div class="decision">
+          Wie will ich in 0,3 Sekunden gelesen werden?
+        </div>
+      </div>
+      <div class="b-visual" data-caption="Fig. 01 · Portrait">
+        <svg viewBox="0 0 240 200" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <!-- framing ticks -->
+          <g stroke="#1a1612" stroke-width="0.6" fill="none" opacity="0.4">
+            <path d="M12 12 L22 12 M12 12 L12 22"/>
+            <path d="M228 12 L218 12 M228 12 L228 22"/>
+            <path d="M12 188 L22 188 M12 188 L12 178"/>
+            <path d="M228 188 L218 188 M228 188 L228 178"/>
+          </g>
+          <!-- frame -->
+          <rect x="50" y="20" width="140" height="160" fill="#f3ecdd" stroke="#1a1612" stroke-width="1.2"/>
+          <!-- circular crop -->
+          <circle cx="120" cy="100" r="62" fill="none" stroke="#b23a24" stroke-width="1.2" stroke-dasharray="3 2"/>
+          <!-- silhouette -->
+          <g>
+            <circle cx="120" cy="88" r="22" fill="#b23a24"/>
+            <path d="M78 160 Q78 118 120 118 Q162 118 162 160 Z" fill="#b23a24"/>
+          </g>
+          <!-- rule of thirds -->
+          <g stroke="#1a1612" stroke-width="0.4" opacity="0.25" stroke-dasharray="2 2">
+            <line x1="50"  y1="73"  x2="190" y2="73"/>
+            <line x1="50"  y1="127" x2="190" y2="127"/>
+            <line x1="97"  y1="20"  x2="97"  y2="180"/>
+            <line x1="143" y1="20"  x2="143" y2="180"/>
+          </g>
+          <!-- label -->
+          <text x="120" y="192" text-anchor="middle"
+                font-family="JetBrains Mono, monospace" font-size="7"
+                letter-spacing="1.5" fill="#1a1612">AVATAR · 1:1 · CROP</text>
+        </svg>
+      </div>
+    </article>
+
+    <!-- 02 · Bio -->
+    <article class="baustein" data-color="blue">
+      <div class="b-number">
+        <span class="hash">Baustein</span>
+        <span class="num">02</span>
+      </div>
+      <div class="b-body">
+        <div class="kicker">Der Selbstentwurf in 150 Zeichen</div>
+        <h2>Bio &amp; Steckbrief</h2>
+        <p>
+          Drei Emojis, ein Ort, ein Motto. Der knappste Autor:innentext, den wir je
+          schreiben — und zugleich derjenige, den Menschen zuerst lesen. Jedes Zeichen
+          zählt, jedes Weggelassene auch.
+        </p>
+        <p>
+          <strong>Typische Gestaltungsmittel:</strong> Emojis, Pronomen, Standort,
+          Links, Interessen, Humor, Ironie, Lücken.
+        </p>
+        <div class="decision">
+          Welches Wort beschreibt mich — und welches nicht?
+        </div>
+      </div>
+      <div class="b-visual" data-caption="Fig. 02 · Selbstbeschreibung">
+        <svg viewBox="0 0 240 200" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <rect x="24" y="30" width="192" height="140" fill="#f3ecdd" stroke="#1a1612" stroke-width="1.2"/>
+          <!-- bio lines: emoji row -->
+          <g font-family="Fraunces, serif" font-size="16" fill="#1f3b5a">
+            <text x="36" y="60">🎧</text>
+            <text x="62" y="60">📚</text>
+            <text x="88" y="60">🌊</text>
+            <text x="114" y="60">·</text>
+            <text x="126" y="60" font-size="10" font-family="JetBrains Mono, monospace" fill="#8a7f6d">she/her</text>
+          </g>
+          <!-- text lines -->
+          <g stroke="#1f3b5a" stroke-width="2" stroke-linecap="round">
+            <line x1="36" y1="82" x2="180" y2="82"/>
+            <line x1="36" y1="98" x2="150" y2="98"/>
+            <line x1="36" y1="114" x2="172" y2="114"/>
+          </g>
+          <!-- redacted / "weggelassen" bar -->
+          <g>
+            <rect x="36" y="128" width="72" height="10" fill="#1a1612"/>
+            <line x1="112" y1="133" x2="180" y2="133" stroke="#1f3b5a" stroke-width="2" stroke-linecap="round"/>
+          </g>
+          <!-- link -->
+          <text x="36" y="160" font-family="JetBrains Mono, monospace" font-size="8"
+                fill="#b23a24" letter-spacing="1">↳ link.in.bio</text>
+          <!-- char counter -->
+          <text x="204" y="44" text-anchor="end"
+                font-family="JetBrains Mono, monospace" font-size="7"
+                fill="#8a7f6d" letter-spacing="1">147/150</text>
+        </svg>
+      </div>
+    </article>
+
+    <!-- 03 · Posts -->
+    <article class="baustein" data-color="ochre">
+      <div class="b-number">
+        <span class="hash">Baustein</span>
+        <span class="num">03</span>
+      </div>
+      <div class="b-body">
+        <div class="kicker">Das Archiv des Ich</div>
+        <h2>Posts &amp; Inhalte</h2>
+        <p>
+          Der laufende Strom aus Fotos, Stories, Reels, Texten. Gemeinsam ergeben sie
+          ein Muster — und Muster sind lesbar. Wer nur Sonnenuntergänge postet,
+          erzählt etwas anderes als wer nur Memes postet.
+        </p>
+        <p>
+          <strong>Typische Gestaltungsmittel:</strong> Motive, Filter, Ästhetik,
+          Frequenz, Ernst vs. Humor, Orte, abwesende Themen.
+        </p>
+        <div class="decision">
+          Was kuratiere ich — und was filtere ich heraus?
+        </div>
+      </div>
+      <div class="b-visual" data-caption="Fig. 03 · Grid · Muster">
+        <svg viewBox="0 0 240 200" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <!-- 3x3 grid -->
+          <g>
+            <rect x="30"  y="22" width="56" height="56" fill="#c98f26" opacity="0.9"/>
+            <rect x="92"  y="22" width="56" height="56" fill="#1a1612"/>
+            <rect x="154" y="22" width="56" height="56" fill="#c98f26" opacity="0.55"/>
+
+            <rect x="30"  y="84" width="56" height="56" fill="#1a1612" opacity="0.85"/>
+            <rect x="92"  y="84" width="56" height="56" fill="#c98f26"/>
+            <rect x="154" y="84" width="56" height="56" fill="#eadfc8" stroke="#1a1612" stroke-width="1"/>
+
+            <rect x="30"  y="146" width="56" height="26" fill="#c98f26" opacity="0.7"/>
+            <rect x="92"  y="146" width="56" height="26" fill="#1a1612" opacity="0.4"/>
+            <rect x="154" y="146" width="56" height="26" fill="#c98f26"/>
+          </g>
+          <!-- icons suggesting content -->
+          <g fill="#f3ecdd" opacity="0.9">
+            <circle cx="58" cy="50" r="6"/>
+            <path d="M112 55 l14 -14 l14 14 l-14 14 z"/>
+            <polygon points="174,38 194,62 154,62" />
+            <circle cx="120" cy="112" r="8" fill="#1a1612"/>
+          </g>
+          <!-- play icon -->
+          <g transform="translate(50, 104)" fill="#c98f26">
+            <polygon points="0,0 0,16 14,8"/>
+          </g>
+          <!-- caption -->
+          <text x="120" y="190" text-anchor="middle"
+                font-family="JetBrains Mono, monospace" font-size="7"
+                letter-spacing="1.5" fill="#1a1612">FEED · 3 × 3 · PATTERN</text>
+        </svg>
+      </div>
+    </article>
+
+    <!-- 04 · Interaktionen -->
+    <article class="baustein" data-color="moss">
+      <div class="b-number">
+        <span class="hash">Baustein</span>
+        <span class="num">04</span>
+      </div>
+      <div class="b-body">
+        <div class="kicker">Der sichtbare Abdruck</div>
+        <h2>Interaktionen</h2>
+        <p>
+          Likes, Kommentare, Shares, gespeicherte Posts. Nicht nur, was wir posten,
+          sondern wie wir auf andere reagieren — und wie viele Menschen sichtbar
+          auf uns reagieren.
+        </p>
+        <p>
+          <strong>Typische Gestaltungsmittel:</strong> Kommentarstil, Reaktionsgeschwindigkeit,
+          öffentlich sichtbare Likes, Markierungen, Shares.
+        </p>
+        <div class="decision">
+          Worauf reagiere ich — und wie öffentlich?
+        </div>
+      </div>
+      <div class="b-visual" data-caption="Fig. 04 · Reaktionsspur">
+        <svg viewBox="0 0 240 200" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <!-- timeline axis -->
+          <line x1="28" y1="160" x2="212" y2="160" stroke="#1a1612" stroke-width="1"/>
+          <g stroke="#1a1612" stroke-width="0.6">
+            <line x1="48" y1="158" x2="48" y2="164"/>
+            <line x1="88" y1="158" x2="88" y2="164"/>
+            <line x1="128" y1="158" x2="128" y2="164"/>
+            <line x1="168" y1="158" x2="168" y2="164"/>
+            <line x1="208" y1="158" x2="208" y2="164"/>
+          </g>
+
+          <!-- heart burst -->
+          <g transform="translate(80, 74)">
+            <path d="M0 8 C0 0, -10 0, -10 10 C-10 22, 0 30, 0 30 C0 30, 10 22, 10 10 C10 0, 0 0, 0 8 Z"
+                  fill="#4a6b3e"/>
+            <g stroke="#4a6b3e" stroke-width="1.4" stroke-linecap="round">
+              <line x1="-18" y1="-2" x2="-24" y2="-8"/>
+              <line x1="0"   y1="-14" x2="0" y2="-22"/>
+              <line x1="18"  y1="-2" x2="24" y2="-8"/>
+              <line x1="-14" y1="18" x2="-22" y2="22"/>
+              <line x1="14"  y1="18" x2="22"  y2="22"/>
+            </g>
+          </g>
+
+          <!-- comment bubbles -->
+          <g transform="translate(140, 58)">
+            <rect x="0" y="0" width="60" height="30" rx="6" fill="#4a6b3e" opacity="0.85"/>
+            <path d="M8 30 L4 40 L20 30 Z" fill="#4a6b3e" opacity="0.85"/>
+            <line x1="8" y1="10" x2="48" y2="10" stroke="#f3ecdd" stroke-width="1.4" stroke-linecap="round"/>
+            <line x1="8" y1="18" x2="36" y2="18" stroke="#f3ecdd" stroke-width="1.4" stroke-linecap="round"/>
+          </g>
+          <g transform="translate(158, 98)">
+            <rect x="0" y="0" width="42" height="22" rx="5" fill="none" stroke="#4a6b3e" stroke-width="1.2"/>
+            <line x1="6" y1="8"  x2="34" y2="8"  stroke="#4a6b3e" stroke-width="1.2" stroke-linecap="round"/>
+            <line x1="6" y1="14" x2="24" y2="14" stroke="#4a6b3e" stroke-width="1.2" stroke-linecap="round"/>
+          </g>
+
+          <!-- counts -->
+          <g font-family="JetBrains Mono, monospace" fill="#1a1612">
+            <text x="30" y="40" font-size="9" letter-spacing="1">❤  2 431</text>
+            <text x="30" y="58" font-size="9" letter-spacing="1">💬    87</text>
+            <text x="30" y="76" font-size="9" letter-spacing="1">↗    124</text>
+          </g>
+          <text x="120" y="184" text-anchor="middle"
+                font-family="JetBrains Mono, monospace" font-size="7"
+                letter-spacing="1.5" fill="#1a1612">REACTIONS · PUBLIC TRACE</text>
+        </svg>
+      </div>
+    </article>
+
+    <!-- 05 · Netzwerk -->
+    <article class="baustein" data-color="plum">
+      <div class="b-number">
+        <span class="hash">Baustein</span>
+        <span class="num">05</span>
+      </div>
+      <div class="b-body">
+        <div class="kicker">Wer ich durch andere bin</div>
+        <h2>Netzwerk</h2>
+        <p>
+          Wem ich folge und wer mir folgt — das ist keine Dekoration, sondern
+          Aussage. Ein Profil ist auch die Summe seiner Verbindungen. Bekanntschaften,
+          Vorbilder, Communities, blinde Flecken.
+        </p>
+        <p>
+          <strong>Typische Gestaltungsmittel:</strong> Follower:innen-Zahl, Following,
+          öffentliche Markierungen, „Close Friends", Mehrfach-Accounts (Finsta).
+        </p>
+        <div class="decision">
+          Von wem will ich umgeben aussehen?
+        </div>
+      </div>
+      <div class="b-visual" data-caption="Fig. 05 · Netzgraph">
+        <svg viewBox="0 0 240 200" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <!-- connections -->
+          <g stroke="#6b3a4f" stroke-width="1" opacity="0.6">
+            <line x1="120" y1="100" x2="50"  y2="50"/>
+            <line x1="120" y1="100" x2="190" y2="40"/>
+            <line x1="120" y1="100" x2="200" y2="110"/>
+            <line x1="120" y1="100" x2="180" y2="160"/>
+            <line x1="120" y1="100" x2="60"  y2="150"/>
+            <line x1="120" y1="100" x2="40"  y2="110"/>
+            <line x1="120" y1="100" x2="110" y2="30"/>
+
+            <line x1="50"  y1="50"  x2="110" y2="30"/>
+            <line x1="200" y1="110" x2="190" y2="40"/>
+            <line x1="40"  y1="110" x2="60"  y2="150"/>
+            <line x1="180" y1="160" x2="200" y2="110"/>
+          </g>
+
+          <!-- outer nodes -->
+          <g fill="#6b3a4f">
+            <circle cx="50"  cy="50"  r="6"/>
+            <circle cx="110" cy="30"  r="5"/>
+            <circle cx="190" cy="40"  r="7"/>
+            <circle cx="200" cy="110" r="5"/>
+            <circle cx="180" cy="160" r="6"/>
+            <circle cx="60"  cy="150" r="5"/>
+            <circle cx="40"  cy="110" r="6"/>
+          </g>
+
+          <!-- faint secondary nodes (strangers, unknown) -->
+          <g fill="#6b3a4f" opacity="0.3">
+            <circle cx="28"  cy="78"  r="3"/>
+            <circle cx="216" cy="78"  r="3"/>
+            <circle cx="150" cy="180" r="3"/>
+            <circle cx="90"  cy="182" r="3"/>
+            <circle cx="228" cy="150" r="3"/>
+          </g>
+
+          <!-- central (self) node -->
+          <circle cx="120" cy="100" r="14" fill="#f3ecdd" stroke="#1a1612" stroke-width="1.5"/>
+          <circle cx="120" cy="100" r="6"  fill="#1a1612"/>
+
+          <!-- follower / following labels -->
+          <g font-family="JetBrains Mono, monospace" font-size="8" fill="#1a1612">
+            <text x="28"  y="194">following · 312</text>
+            <text x="212" y="194" text-anchor="end">followers · 874</text>
+          </g>
+        </svg>
+      </div>
+    </article>
+
+  </section>
+
+  <!-- ========== CORE MESSAGE ========== -->
+  <section class="core">
+    <div class="core-label">Kernbotschaft · Phase 2</div>
+    <p>
+      Jeder dieser Bausteine ist eine <em>psychologische Entscheidung</em> — sie
+      beeinflusst, wie andere uns wahrnehmen <em>und</em> wie wir uns selbst sehen.
+    </p>
+  </section>
+
+  <!-- ========== COLOPHON ========== -->
+  <footer class="colophon">
+    <div class="left">
+      DURCHBLICKT! — Digital in eine gesunde Zukunft
+    </div>
+    <div class="mid">
+      „Profile sind nicht einfach ‚so da'."
+    </div>
+    <div class="right">
+      LH 2 · Phase 2 · Infografik № 02.01
+    </div>
+  </footer>
+
+</main>
+</body>
+</html>
