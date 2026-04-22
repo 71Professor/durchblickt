@@ -1,4 +1,5 @@
 # LH2 – Arbeitsblätter
+
 **„Wer bin ich online?" – Digitale Identität zwischen Selbstausdruck und Selbstinszenierung**
 
 *Lehrkräftehandreichung | DURCHBLICKT! – Digital in eine gesunde Zukunft | BARMER / Klett MEX*
@@ -7,16 +8,16 @@
 
 ## Übersicht
 
-| AB | Titel | Phase | Sozialform | Zielgruppe |
-|----|-------|-------|-----------|-----------|
-| AB 1 | Die 5 Bausteine meiner digitalen Identität | 2 | Partnerarbeit | Sek I + II |
-| AB 2 | Drei Profile im Vergleich | 3 | Partnerarbeit | Sek I + II |
-| AB 3a | Fallbeispiel: „Immer die perfekten Fotos" | 4 | Gruppenarbeit | Sek I + II |
-| AB 3b | Fallbeispiel: „Niemand liked meine Beiträge" | 4 | Gruppenarbeit | Sek I + II |
-| AB 3c | Fallbeispiel: „Mein Profil zeigt nicht, wer ich bin" | 4 | Gruppenarbeit | Sek I + II |
-| AB 4 | Selbstreflexionsbogen: Meine Online-Präsenz | 6 | Einzelarbeit (anonym) | Sek I + II |
-| AB 5 | 5 Fragen vor dem Posten | 5 | Partnerarbeit | Sek I + II |
-| PS AB 1 | Mein Online-Ich (Primarstufe) | 3 | Sitzkreis / Einzelarbeit | GS Kl. 3–4 |
+| AB      | Titel                                                | Phase | Sozialform               | Zielgruppe |
+| ------- | ---------------------------------------------------- | ----- | ------------------------ | ---------- |
+| AB 1    | Die 5 Bausteine meiner digitalen Identität           | 2     | Partnerarbeit            | Sek I + II |
+| AB 2    | Drei Profile im Vergleich                            | 3     | Partnerarbeit            | Sek I + II |
+| AB 3a   | Fallbeispiel: „Immer die perfekten Fotos"            | 4     | Gruppenarbeit            | Sek I + II |
+| AB 3b   | Fallbeispiel: „Niemand liked meine Beiträge"         | 4     | Gruppenarbeit            | Sek I + II |
+| AB 3c   | Fallbeispiel: „Mein Profil zeigt nicht, wer ich bin" | 4     | Gruppenarbeit            | Sek I + II |
+| AB 4    | Selbstreflexionsbogen: Meine Online-Präsenz          | 6     | Einzelarbeit (anonym)    | Sek I + II |
+| AB 5    | 5 Fragen vor dem Posten                              | 5     | Partnerarbeit            | Sek I + II |
+| PS AB 1 | Mein Online-Ich (Primarstufe)                        | 3     | Sitzkreis / Einzelarbeit | GS Kl. 3–4 |
 
 ---
 
@@ -39,13 +40,13 @@ Untersucht das folgende **fiktive Musterprofil** und beantwortet die Fragen in d
 ### Fiktives Musterprofil: @lena.moments
 
 > **Profilbild:** Lächelndes Selfie auf einem Berggipfel, Sonnenbrille, goldenes Licht.
->
+> 
 > **Bio:** *„living for sunsets & adventures 🌄 | 17 | Berlin | she/her"*
->
+> 
 > **Posts (letzte 6):** Wanderfoto in den Alpen | Smoothie-Bowl zum Frühstück | Konzertabend mit Freundinnen | Sonnenuntergang vom Balkon | Selfie mit Kaffeebecher | Herbstblätter im Park
->
+> 
 > **Interaktionen:** 312 Follower | folgt 189 | Posts bekommen durchschnittlich 45–80 Likes | Kommentare meist von denselben 4–5 Personen
->
+> 
 > **Netzwerk:** Folgt vor allem Reise-, Outdoor- und Lifestyle-Accounts; kaum Marken
 
 ---
@@ -54,19 +55,20 @@ Untersucht das folgende **fiktive Musterprofil** und beantwortet die Fragen in d
 
 Analysiert das Profil @lena.moments mithilfe der folgenden Tabelle.
 
-| Baustein | Was zeigt das Profil? | Was fehlt / wird weggelassen? | Welchen Eindruck erzeugt das? | Welches Bedürfnis könnte dahinterstecken? |
-|---------|----------------------|------------------------------|------------------------------|------------------------------------------|
-| **Profilbild** | | | | |
-| **Bio** | | | | |
-| **Posts / Inhalte** | | | | |
-| **Interaktionen** | | | | |
-| **Netzwerk** | | | | |
+| Baustein            | Was zeigt das Profil? | Was fehlt / wird weggelassen? | Welchen Eindruck erzeugt das? | Welches Bedürfnis könnte dahinterstecken? |
+| ------------------- | --------------------- | ----------------------------- | ----------------------------- | ----------------------------------------- |
+| **Profilbild**      |                       |                               |                               |                                           |
+| **Bio**             |                       |                               |                               |                                           |
+| **Posts / Inhalte** |                       |                               |                               |                                           |
+| **Interaktionen**   |                       |                               |                               |                                           |
+| **Netzwerk**        |                       |                               |                               |                                           |
 
 ---
 
 ### Reflexionsfragen
 
 **Für alle:**
+
 1. Welcher Baustein hat euch am meisten überrascht? Warum?
 2. Welches Bild hat euch Lena von sich vermittelt – bevor ihr die Analyse gemacht habt? Und danach?
 
@@ -116,13 +118,13 @@ Analysiert die drei folgenden **fiktiven Profile**. Jedes steht für eine andere
 ### Profil 1: @theperfectday.official – „Der Perfekte"
 
 > **Profilbild:** Professionell wirkendes Foto, gepflegtes Aussehen, neutraler Hintergrund.
->
+> 
 > **Bio:** *„✨ Lifestyle | Fitness | Mindset | Become your best self 💪"*
->
+> 
 > **Posts:** Makelloser Gym-Look | Gesundes Meal-Prep in perfekter Anordnung | Sonnenaufgang-Jogging-Selfie | Zitat-Kachel über Disziplin | Vorher-Nachher Körperfoto | Kaffee auf designtem Tisch
->
+> 
 > **Interaktionen:** 4.200 Follower | sehr regelmäßige Posts (täglich) | Kommentare wie „goals 🔥", „inspo!" | Antwortet selten auf Kommentare
->
+> 
 > **Netzwerk:** Folgt vor allem anderen Fitness-/Lifestyle-Accounts ähnlicher Größe
 
 ---
@@ -130,13 +132,13 @@ Analysiert die drei folgenden **fiktiven Profile**. Jedes steht für eine andere
 ### Profil 2: @everyday.ich – „Der Authentische"
 
 > **Profilbild:** Schnelles Selfie, leicht unscharf, natürliches Licht.
->
+> 
 > **Bio:** *„irgendwie durchs Leben 🙃 | Katzen, Bücher, zu viel Kaffee"*
->
+> 
 > **Posts:** Regnerischer Montag mit Kaffee und Notizen | Post: „Heute war ein beschissener Tag. Einfach mal." | Katzenfoto | Screenshot einer lustigen Nachricht | unbearbeitetes Selfie „ich hab heute keine Energie und das ist ok" | Abend auf der Couch mit Buch
->
+> 
 > **Interaktionen:** 289 Follower | unregelmäßige Posts | Kommentare: viele persönliche Reaktionen, kurze Gespräche | Antwortet meistens
->
+> 
 > **Netzwerk:** Folgt Freunden, einigen Buchaccounts, Katzen-Content
 
 ---
@@ -144,13 +146,13 @@ Analysiert die drei folgenden **fiktiven Profile**. Jedes steht für eine andere
 ### Profil 3: @pixeljule – „Der Kreative"
 
 > **Profilbild:** Gezeichneter Avatar statt Foto.
->
+> 
 > **Bio:** *„digital art | worldbuilding | she/they | 🎨🌿"*
->
+> 
 > **Posts:** Digitale Illustration mit Naturmotiv | Work-in-Progress eines Charakters | Stimmungsmoodboard aus Farben und Texturen | Kurzes Timelapse-Video einer Zeichnung | Zitat aus einem Fantasyroman, illustriert | Blick auf den Schreibtisch beim Zeichnen
->
+> 
 > **Interaktionen:** 1.100 Follower | regelmäßige Posts | Kommentare fachspezifisch: „Was ist das für ein Tool?", „Das Design ist so stimmig!" | lange Antworten
->
+> 
 > **Netzwerk:** Folgt vor allem Illustrator:innen, Game-Design-Accounts, Fantasybuch-Community
 
 ---
@@ -185,18 +187,21 @@ Bearbeitet die Fragen für **alle drei Profile**.
 ### Lösungshinweise für Lehrkräfte
 
 **„Der Perfekte":**
+
 - Bedürfnisse: Anerkennung, Bewunderung, Außenwirkung, ggf. Einfluss/Reichweite
 - Strategie: Positive Selektion, Konsequenz, Lifestyle-Branding
 - Risiken: soziale Vergleiche bei Betrachter:innen, Perfektionsdruck für Ersteller:in
 - Authentizitätsfrage: Wirkt strategisch, nicht persönlich – aber das muss keine Täuschung sein
 
 **„Der Authentische":**
+
 - Bedürfnisse: Verbindung, gesehen werden, Entlastung (Schwäche zeigen dürfen)
 - Strategie: Selektive Vulnerabilität – auch das ist kuratiert, aber anders
 - Authentizitätsparadox: „keine Energie und das ist ok"-Posts sind selbst durchdacht
 - Risiken: Expositionsrisiko, persönliche Angriffsfläche
 
 **„Der Kreative":**
+
 - Bedürfnisse: Selbstausdruck, Community, Anerkennung für Können
 - Strategie: Identität über Werk statt über Aussehen
 - Besonderheit: Avatar statt Foto = Schutz der privaten Person; zeigt Ich über Arbeit
@@ -245,6 +250,7 @@ Lest die Geschichte und bearbeitet die folgenden Fragen gemeinsam in eurer Grupp
 ### Für die Kurzvorstellung im Plenum
 
 Bereitet eine **2-Minuten-Zusammenfassung** vor:
+
 - Was passiert in der Geschichte?
 - Was beschäftigt die Person?
 - Was könnte helfen?
@@ -260,6 +266,7 @@ Sozialer Aufwärtsvergleich mit kuratierten Versionen anderer → Gefühl der Un
 Emotionale Reaktionen auf Bilder sind schneller als rationale Einordnung. Das Wissen über Filter ändert nicht, was man *sieht* und *fühlt* – es hilft erst, wenn es aktiv eingesetzt wird (Medienkompetenz als Praxis, nicht nur als Wissen).
 
 **Mögliche Hilfestrategien:**
+
 - Feed kuratieren: bewusst wählen, welchen Accounts man folgt
 - Zeitlimit setzen / Bildschirmzeit-Funktion nutzen
 - Nach dem Scrollen innnehalten: „Wie fühle ich mich jetzt?" – Bewusstsein schärfen
@@ -310,6 +317,7 @@ Lest die Geschichte und bearbeitet die folgenden Fragen gemeinsam in eurer Grupp
 ### Für die Kurzvorstellung im Plenum
 
 Bereitet eine **2-Minuten-Zusammenfassung** vor:
+
 - Was passiert in der Geschichte?
 - Was beschäftigt die Person?
 - Was könnte helfen?
@@ -328,6 +336,7 @@ Selbstwert, der auf externen Quellen basiert, ist fragil: Er hängt von anderen 
 Kurzfristig ja – aber der Mechanismus bleibt: Der nächste Post muss wieder gut genug sein. Externe Validation kann den Hunger nach Bestätigung verstärken, nicht sättigen. Das ist kein Charakterfehler, sondern ein Mechanismus, den Plattformen gezielt nutzen (Variablereinforcement, wie bei Spielautomaten).
 
 **Hilfestrategien:**
+
 - Posten ohne Erwartungshaltung üben (z. B. private Archiv-Nutzung)
 - Selbstwert durch andere Quellen stärken (Können, Hobbys, Beziehungen)
 - Den „Benachrichtigungsreflex" bewusst verlangsamen: Handy weglegen, bevor man nachschaut
@@ -372,6 +381,7 @@ Lest die Geschichte und bearbeitet die folgenden Fragen gemeinsam in eurer Grupp
 ### Für die Kurzvorstellung im Plenum
 
 Bereitet eine **2-Minuten-Zusammenfassung** vor:
+
 - Was passiert in der Geschichte?
 - Was beschäftigt die Person?
 - Was könnte helfen?
@@ -393,6 +403,7 @@ Psychologische Konsequenzen: Erschöpfung, Gefühl der Unecht-heit, im schlimmst
 Teilweise – ein Online-Profil muss nicht das ganze Ich zeigen. Aber wenn die Diskrepanz als belastend erlebt wird, ist das ein Zeichen: Das Profil dient nicht mehr der Person, sondern die Person dient dem Profil. Hilfreiche Frage: „Für wen pflege ich dieses Profil – für mich oder für andere?"
 
 **Hilfestrategien:**
+
 - Einen bewussten ersten „ehrlicheren" Post wagen – klein anfangen
 - Das Profil in Pausen ruhen lassen (kein Posting = kein Zwang)
 - Bewusst unterscheiden: Was zeige ich, was behalte ich für mich? (Privatsphäre als Stärke, nicht als Täuschung)
@@ -415,15 +426,15 @@ Teilweise – ein Online-Profil muss nicht das ganze Ich zeigen. Aber wenn die D
 ### Meine Profile
 
 1. Auf welchen Plattformen bin ich aktiv?
-
+   
    _______________________________________________
 
 2. Welches meiner Profile ist mir am wichtigsten? Warum?
-
+   
    _______________________________________________
 
 3. Wie fühle ich mich, wenn ich auf diese Plattform schaue?
-
+   
    ☐ meistens gut / entspannt
    ☐ manchmal gut, manchmal schlechter
    ☐ oft angespannt oder unzufrieden
@@ -434,15 +445,15 @@ Teilweise – ein Online-Profil muss nicht das ganze Ich zeigen. Aber wenn die D
 ### Meine Entscheidungen
 
 4. Was zeige ich auf meinen Profilen bewusst? (z. B. Hobbys, Stimmungen, Achievements)
-
+   
    _______________________________________________
 
 5. Was zeige ich **nicht** – und warum?
-
+   
    _______________________________________________
 
 6. Hast du schon mal etwas gepostet und es danach bereut? Was war das Gefühl?
-
+   
    _______________________________________________
 
 ---
@@ -450,11 +461,11 @@ Teilweise – ein Online-Profil muss nicht das ganze Ich zeigen. Aber wenn die D
 ### Mein Verhalten
 
 7. Wann schaust du am häufigsten auf Social Media – und wie fühlst du dich danach?
-
+   
    _______________________________________________
 
 8. Vergleichst du dich manchmal mit Profilen, die du siehst? Wie fühlt sich das an?
-
+   
    ☐ kaum / selten
    ☐ manchmal – ich kann es gut einordnen
    ☐ öfter – es macht mich manchmal unsicher
@@ -465,15 +476,15 @@ Teilweise – ein Online-Profil muss nicht das ganze Ich zeigen. Aber wenn die D
 ### Mein Online-Ich
 
 9. Wie ähnlich ist dein Online-Profil deinem „echten" Ich? (Skala 1–5)
-
+   
    `1 – sehr unterschiedlich` ○ ○ ○ ○ ○ `5 – sehr ähnlich`
 
 10. Gibt es etwas an deiner Online-Präsenz, das du ändern möchtest?
-
+    
     _______________________________________________
 
 11. Was macht dir an deiner Art, dich online zu zeigen, Spaß?
-
+    
     _______________________________________________
 
 ---
@@ -507,13 +518,13 @@ _______________________________________________
 
 Bevor du etwas postest oder in einer Story teilst, kannst du diese Fragen im Kopf durchgehen. Sie helfen dir, bewusster zu entscheiden – ohne dass du alles analysieren musst.
 
-| # | Frage | Mein Gedanke dazu |
-|---|-------|------------------|
-| 1 | **Warum poste ich das?** (Für wen – für mich oder für andere?) | |
-| 2 | **Wie fühle ich mich dabei?** (Gut, unsicher, unter Druck?) | |
-| 3 | **Würde ich das auch offline sagen oder zeigen?** | |
-| 4 | **Bin ich damit einverstanden, dass das dauerhaft online bleibt?** | |
-| 5 | **Zeigt das, wer ich wirklich bin – oder wer ich sein möchte?** | |
+| #   | Frage                                                              | Mein Gedanke dazu |
+| --- | ------------------------------------------------------------------ | ----------------- |
+| 1   | **Warum poste ich das?** (Für wen – für mich oder für andere?)     |                   |
+| 2   | **Wie fühle ich mich dabei?** (Gut, unsicher, unter Druck?)        |                   |
+| 3   | **Würde ich das auch offline sagen oder zeigen?**                  |                   |
+| 4   | **Bin ich damit einverstanden, dass das dauerhaft online bleibt?** |                   |
+| 5   | **Zeigt das, wer ich wirklich bin – oder wer ich sein möchte?**    |                   |
 
 ---
 
@@ -532,8 +543,9 @@ Die „5 Fragen vor dem Posten" sollen als **Werkzeug** dienen – nicht als Reg
 **Aufgabe:**
 
 1. Schreibt zunächst jeder für sich: Welche drei Fragen würdet ihr euch vor einem Post stellen – basierend auf dem, was ihr heute gelernt habt?
-
+   
    Meine Fragen:
+   
    1. _______________________________________________
    2. _______________________________________________
    3. _______________________________________________
@@ -541,14 +553,14 @@ Die „5 Fragen vor dem Posten" sollen als **Werkzeug** dienen – nicht als Reg
 2. Tauscht euch mit eurer Partnerin / eurem Partner aus. Vergleicht eure Fragen: Was ist ähnlich, was unterscheidet sich?
 
 3. Wählt gemeinsam die **5 besten Fragen** aus – und begründet eure Auswahl:
-
-   | # | Unsere Frage | Warum diese Frage? |
-   |---|-------------|-------------------|
-   | 1 | | |
-   | 2 | | |
-   | 3 | | |
-   | 4 | | |
-   | 5 | | |
+   
+   | #   | Unsere Frage | Warum diese Frage? |
+   | --- | ------------ | ------------------ |
+   | 1   |              |                    |
+   | 2   |              |                    |
+   | 3   |              |                    |
+   | 4   |              |                    |
+   | 5   |              |                    |
 
 **Zusatzreflexion (Sek II):**
 
@@ -560,6 +572,7 @@ Die „5 Fragen vor dem Posten" sollen als **Werkzeug** dienen – nicht als Reg
 ### Lösungshinweise für Lehrkräfte
 
 **Typische Sek-II-Fragen (Auswahl):**
+
 - „Welches Bedürfnis befriedige ich damit – ist das ein nachhaltiges Bedürfnis?"
 - „Für wen ist dieser Post – wirklich?"
 - „Wie wäre mir das in 5 Jahren peinlich oder nicht?"
