@@ -1,0 +1,1326 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AB 2 – Drei Profile im Vergleich | Interaktiver Prototyp</title>
+<style>
+  :root {
+    --app-bg: #efeae2;
+    --frame-bg: #ffffff;
+    --ink: #1f1d1a;
+    --ink-soft: #4a4741;
+    --muted: #8b857b;
+    --line: #ece6dc;
+    --line-strong: #dcd4c6;
+    --tab-active: #1f1d1a;
+    --btn-blue: #3897f0;
+
+    /* Per-profile theme (set via [data-profile] on body) */
+    --accent: #a88f6a;
+    --accent-dark: #6b5a42;
+    --placeholder-a: #f3ede1;
+    --placeholder-b: #d9ceb6;
+    --chip: #f5efe4;
+  }
+
+  body[data-profile="perfect"] {
+    --accent: #a88f6a;
+    --accent-dark: #6b5a42;
+    --placeholder-a: #f3ede1;
+    --placeholder-b: #c7b793;
+    --chip: #f5efe4;
+  }
+  body[data-profile="authentic"] {
+    --accent: #b07a6a;
+    --accent-dark: #7a4e42;
+    --placeholder-a: #ece2d8;
+    --placeholder-b: #c7b3a6;
+    --chip: #f2ece4;
+  }
+  body[data-profile="creative"] {
+    --accent: #3a7d7b;
+    --accent-dark: #25514f;
+    --placeholder-a: #e4ded0;
+    --placeholder-b: #8fb3a8;
+    --chip: #eaeadf;
+  }
+
+  * { box-sizing: border-box; }
+
+  html, body {
+    margin: 0;
+    background: var(--app-bg);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ===== TOP BAR ===== */
+  .appbar {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    background: #fff;
+    border-bottom: 1px solid var(--line);
+  }
+  .appbar-inner {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 14px 20px 0;
+  }
+  .brand {
+    display: flex; align-items: center; gap: 10px;
+    font-weight: 600;
+    font-size: 15px;
+    letter-spacing: -0.2px;
+    margin-bottom: 12px;
+  }
+  .brand .logo {
+    width: 24px; height: 24px;
+    border-radius: 7px;
+    background: linear-gradient(135deg, #ffb84f, #ff4f91 50%, #8a4fff);
+    display: inline-block;
+  }
+  .brand .meta {
+    margin-left: auto;
+    font-size: 11px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 500;
+  }
+
+  .tabs {
+    display: flex;
+    gap: 0;
+    margin: 0 -20px;
+    padding: 0 20px;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+  .tabs::-webkit-scrollbar { display: none; }
+  .tab {
+    flex: 1;
+    min-width: 180px;
+    padding: 14px 8px 12px;
+    background: none;
+    border: none;
+    border-bottom: 2px solid transparent;
+    font-family: inherit;
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--muted);
+    cursor: pointer;
+    text-align: center;
+    transition: color 0.15s, border-color 0.15s;
+    letter-spacing: -0.1px;
+  }
+  .tab:hover { color: var(--ink-soft); }
+  .tab .tag {
+    display: block;
+    font-size: 10px;
+    letter-spacing: 1.3px;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 3px;
+    font-weight: 600;
+  }
+  .tab.active {
+    color: var(--ink);
+    border-bottom-color: var(--tab-active);
+  }
+  .tab.active .tag { color: var(--accent-dark); }
+
+  /* ===== MAIN FRAME ===== */
+  main {
+    max-width: 520px;
+    margin: 24px auto 80px;
+    padding: 0 16px;
+  }
+  .frame {
+    background: var(--frame-bg);
+    border-radius: 18px;
+    box-shadow:
+      0 1px 2px rgba(0,0,0,0.04),
+      0 14px 40px rgba(31,29,26,0.08);
+    overflow: hidden;
+  }
+
+  /* ===== PROFILE HEADER ===== */
+  .p-head {
+    padding: 24px 20px 16px;
+    display: flex;
+    gap: 18px;
+    align-items: center;
+  }
+  .p-pic {
+    width: 74px; height: 74px;
+    border-radius: 50%;
+    background: radial-gradient(circle at 30% 30%, var(--placeholder-a), var(--accent) 75%);
+    display: flex; align-items: center; justify-content: center;
+    color: rgba(255,255,255,0.85);
+    font-size: 8px;
+    letter-spacing: 1.4px;
+    text-align: center;
+    font-weight: 500;
+    border: 3px solid #fff;
+    box-shadow: 0 0 0 2px var(--accent);
+    flex-shrink: 0;
+  }
+  body[data-profile="creative"] .p-pic {
+    background:
+      radial-gradient(circle at 30% 30%, #c8e0c7, #3a7d7b 70%),
+      radial-gradient(circle at 70% 70%, #d4a979, transparent 60%);
+  }
+  .p-meta { flex: 1; min-width: 0; }
+  .p-handle {
+    display: flex; align-items: center; gap: 6px;
+    font-size: 17px; font-weight: 500;
+    margin-bottom: 10px;
+    word-break: break-all;
+  }
+  .p-handle .check {
+    width: 14px; height: 14px;
+    background: var(--btn-blue);
+    color: #fff;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center; justify-content: center;
+    font-size: 9px; font-weight: bold;
+    flex-shrink: 0;
+  }
+  .p-stats {
+    display: flex; gap: 14px;
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .p-stats > div { line-height: 1.2; }
+  .p-stats strong {
+    display: block;
+    color: var(--ink);
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 2px;
+  }
+
+  .p-bio {
+    padding: 0 20px 16px;
+    font-size: 13px;
+  }
+  .p-bio .name { font-weight: 600; margin-bottom: 4px; }
+  .p-bio .tagline { color: var(--ink); }
+  .p-bio .slogan { color: var(--accent-dark); margin-top: 2px; }
+
+  /* ===== VIEW SWITCH ===== */
+  .view-switch {
+    display: flex;
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+  }
+  .view-btn {
+    flex: 1;
+    padding: 12px 10px;
+    background: none;
+    border: none;
+    font-family: inherit;
+    font-size: 11px;
+    letter-spacing: 1.6px;
+    text-transform: uppercase;
+    color: var(--muted);
+    cursor: pointer;
+    border-top: 1.5px solid transparent;
+    margin-top: -1px;
+    transition: color 0.15s, border-color 0.15s;
+    font-weight: 600;
+  }
+  .view-btn:hover { color: var(--ink-soft); }
+  .view-btn.active {
+    color: var(--ink);
+    border-top-color: var(--ink);
+  }
+  .view-btn .icon { margin-right: 6px; opacity: 0.7; }
+
+  /* ===== FEED / TIMELINE ===== */
+  .feed { padding: 0; }
+  .post {
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 14px;
+  }
+  .post:last-child { border-bottom: none; }
+
+  .post-head {
+    padding: 14px 16px 10px;
+    display: flex; align-items: center; gap: 10px;
+  }
+  .post-avatar {
+    width: 32px; height: 32px;
+    border-radius: 50%;
+    background: radial-gradient(circle at 30% 30%, var(--placeholder-a), var(--accent) 75%);
+    border: 1.5px solid #fff;
+    box-shadow: 0 0 0 1.5px var(--accent);
+    flex-shrink: 0;
+  }
+  body[data-profile="creative"] .post-avatar {
+    background:
+      radial-gradient(circle at 30% 30%, #c8e0c7, #3a7d7b 70%);
+  }
+  .post-user {
+    flex: 1; min-width: 0;
+    font-size: 13px;
+    font-weight: 500;
+  }
+  .post-user .time {
+    display: block;
+    font-size: 10px;
+    color: var(--muted);
+    font-weight: 400;
+    margin-top: 1px;
+  }
+  .post-menu { color: var(--muted); font-size: 18px; letter-spacing: 2px; }
+
+  .post-image {
+    aspect-ratio: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background: linear-gradient(135deg, var(--placeholder-a), var(--placeholder-b));
+  }
+  .post-image.alt { background: linear-gradient(160deg, var(--placeholder-b), var(--placeholder-a)); }
+  .post-image.stripe {
+    background:
+      repeating-linear-gradient(45deg,
+        var(--placeholder-a) 0 22px,
+        var(--placeholder-b) 22px 44px);
+  }
+  .post-image.quote,
+  .post-image.text {
+    padding: 32px 28px;
+    flex-direction: column;
+    text-align: center;
+  }
+  .post-image.quote {
+    background: linear-gradient(160deg, #2d2a26 0%, #4a4036 100%);
+    color: #fff;
+  }
+  .post-image.quote .qt {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 20px; line-height: 1.35;
+    font-style: italic;
+    max-width: 260px;
+    margin-bottom: 14px;
+  }
+  .post-image.quote .qdash {
+    width: 30px; height: 1px;
+    background: rgba(255,255,255,0.5);
+    margin: 0 auto 10px;
+  }
+  .post-image.quote .qattr {
+    font-size: 9px; letter-spacing: 2.4px;
+    text-transform: uppercase;
+    color: rgba(255,255,255,0.7);
+  }
+  .post-image.text-card {
+    background: #f5efe4;
+    color: var(--ink);
+  }
+  .post-image.text-card .text-body {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 22px;
+    line-height: 1.4;
+    font-style: italic;
+    max-width: 300px;
+    margin: 0;
+  }
+  .post-image.screenshot {
+    background: #e8e3d8;
+    padding: 24px;
+    justify-content: center;
+  }
+  .post-image.screenshot .chat-bubble {
+    background: #fff;
+    border-radius: 18px 18px 18px 4px;
+    padding: 12px 16px;
+    font-size: 14px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+    max-width: 240px;
+    text-align: left;
+    line-height: 1.4;
+  }
+  .post-image.screenshot .chat-bubble.mine {
+    border-radius: 18px 18px 4px 18px;
+    background: #d7e9d4;
+    margin-left: auto;
+    margin-top: 8px;
+  }
+  .post-image.creative-art {
+    background:
+      radial-gradient(circle at 20% 80%, #5a8c7d, transparent 55%),
+      radial-gradient(circle at 80% 30%, #d4a979, transparent 45%),
+      linear-gradient(160deg, #274848, #3a7d7b);
+  }
+  .post-image.moodboard {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 3px;
+    padding: 0;
+    background: #fff;
+  }
+  .post-image.moodboard > span {
+    display: block;
+  }
+  .post-image.wip {
+    background:
+      linear-gradient(90deg, transparent 66%, rgba(255,255,255,0.85) 66%),
+      linear-gradient(135deg, #3a6b54, #1f4035);
+  }
+
+  .ph-note {
+    position: absolute;
+    background: rgba(255,255,255,0.92);
+    padding: 8px 14px;
+    border-radius: 5px;
+    font-size: 10px;
+    color: var(--accent-dark);
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    font-weight: 600;
+    border: 1.5px dashed var(--accent);
+    max-width: 80%;
+    text-align: center;
+  }
+
+  .post-actions {
+    padding: 10px 14px 2px;
+    display: flex; gap: 16px;
+    font-size: 20px;
+    color: var(--ink);
+  }
+  .post-actions .bookmark { margin-left: auto; }
+  .post-actions span { cursor: default; }
+
+  .post-likes {
+    padding: 0 16px;
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 4px;
+  }
+  .post-caption {
+    padding: 0 16px 8px;
+    font-size: 13px;
+    line-height: 1.45;
+  }
+  .post-caption .handle { font-weight: 600; margin-right: 6px; }
+  .post-caption .hashtags { color: var(--accent-dark); }
+
+  .post-comments {
+    padding: 0 16px;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .post-comments .c {
+    margin-bottom: 3px;
+    color: var(--ink);
+  }
+  .post-comments .c .cuser { font-weight: 600; margin-right: 6px; }
+  .post-comments .c .reply-mark {
+    font-size: 10px;
+    color: var(--accent-dark);
+    letter-spacing: 0.6px;
+    margin-left: 6px;
+    font-weight: 500;
+    text-transform: uppercase;
+  }
+  .post-comments .c.reply {
+    padding-left: 20px;
+    color: var(--ink-soft);
+  }
+  .more-comments {
+    display: inline-block;
+    margin-top: 4px;
+    font-size: 12px;
+    color: var(--muted);
+    background: none;
+    border: none;
+    padding: 0;
+    font-family: inherit;
+    cursor: pointer;
+  }
+  .more-comments:hover { color: var(--ink-soft); text-decoration: underline; }
+  .hidden-comments { display: none; }
+  .hidden-comments.open { display: block; }
+
+  .post-time {
+    padding: 6px 16px 0;
+    font-size: 10px;
+    letter-spacing: 0.6px;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+
+  /* ===== ACTIVITIES VIEW ===== */
+  .activities { padding: 18px 16px 22px; display: none; flex-direction: column; gap: 14px; }
+  .activities.active { display: flex; }
+  .feed.hidden { display: none; }
+
+  .dash-card {
+    background: var(--chip);
+    border: 1px solid var(--line-strong);
+    border-radius: 10px;
+    padding: 14px 16px;
+  }
+  .dash-card h3 {
+    margin: 0 0 10px;
+    font-size: 11px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 600;
+  }
+
+  .rhythm {
+    display: flex; align-items: center; justify-content: space-between; gap: 14px;
+  }
+  .rhythm-label { font-size: 13px; color: var(--ink-soft); }
+  .rhythm-label strong {
+    display: block;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 2px;
+    color: var(--ink);
+  }
+  .rhythm-bars { display: flex; gap: 2px; }
+  .rhythm-bars i {
+    display: block;
+    width: 5px; height: 22px;
+    background: var(--accent);
+    border-radius: 1px;
+  }
+  .rhythm-bars i.gap { background: var(--line-strong); height: 12px; align-self: center; }
+  .rhythm-bars i.small { height: 14px; opacity: 0.55; }
+
+  .follows-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 8px; font-size: 12px; }
+  .follows-list li { display: flex; justify-content: space-between; align-items: center; gap: 10px; }
+  .follows-list .handle { color: var(--ink); font-weight: 500; }
+  .follows-list .cat { color: var(--muted); font-size: 11px; text-align: right; flex-shrink: 0; }
+
+  .top-comments { display: flex; flex-direction: column; gap: 6px; font-size: 12px; font-style: italic; color: var(--ink); }
+  .top-comments span { color: var(--muted); font-style: normal; font-size: 11px; margin-left: 6px; }
+
+  .activity-row { display: flex; align-items: flex-end; gap: 20px; }
+  .activity-num { font-size: 26px; font-weight: 600; line-height: 1; }
+  .activity-lbl { font-size: 11px; color: var(--muted); margin-top: 4px; }
+  .activity-bar {
+    flex: 1;
+    height: 10px;
+    background: var(--line-strong);
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  .activity-bar i {
+    display: block;
+    height: 100%;
+    background: var(--accent);
+    border-radius: 5px;
+  }
+  .activity-scale {
+    display: flex; justify-content: space-between;
+    font-size: 9px; color: var(--muted);
+    margin-top: 4px;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+  }
+
+  .reply-style {
+    font-size: 12px;
+    color: var(--ink-soft);
+    line-height: 1.5;
+  }
+
+  /* ===== FOOTER ===== */
+  .edu-foot {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 28px 24px 40px;
+    text-align: center;
+    font-size: 11px;
+    color: var(--muted);
+    letter-spacing: 0.4px;
+  }
+  .edu-foot strong { color: var(--ink-soft); font-weight: 600; }
+
+  @media (max-width: 520px) {
+    main { padding: 0 8px; }
+    .tab { min-width: 140px; }
+    .p-handle { font-size: 15px; }
+    .p-stats strong { font-size: 13px; }
+  }
+</style>
+</head>
+<body data-profile="perfect">
+
+<header class="appbar">
+  <div class="appbar-inner">
+    <div class="brand">
+      <span class="logo" aria-hidden="true"></span>
+      Loop <span style="color: var(--muted); font-weight: 400; margin-left: 4px;">· fiktives Analysematerial</span>
+      <span class="meta">DURCHBLICKT! · AB 2</span>
+    </div>
+    <div class="tabs" role="tablist">
+      <button class="tab active" data-target="perfect" role="tab">
+        <span class="tag">Profil 1 · Der Perfekte</span>
+        @theperfectday.official
+      </button>
+      <button class="tab" data-target="authentic" role="tab">
+        <span class="tag">Profil 2 · Der Authentische</span>
+        @everyday.ich
+      </button>
+      <button class="tab" data-target="creative" role="tab">
+        <span class="tag">Profil 3 · Der Kreative</span>
+        @pixeljule
+      </button>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div class="frame" id="profileFrame">
+    <!-- Profile content injected by JS -->
+  </div>
+</main>
+
+<footer class="edu-foot">
+  <strong>DURCHBLICKT! · LH2 · Arbeitsblatt 2 · Interaktiver Prototyp</strong><br>
+  Alle Profile, Posts, Kommentare und Zahlen sind fiktiv. Bildplatzhalter können durch echte Fotos ersetzt werden.
+</footer>
+
+<script>
+  // ===========================================================
+  //  DATEN: drei Profile mit Feed + Aktivitäten
+  //  Redakteur:innen können Texte, Zahlen und Platzhalter-Labels
+  //  hier anpassen. Echte Fotos: in renderPost() den Platzhalter
+  //  durch <img src="..."> ersetzen.
+  // ===========================================================
+  const PROFILES = {
+    perfect: {
+      handle: "theperfectday.official",
+      verified: true,
+      name: "The Perfect Day",
+      tagline: "✨ Lifestyle · Fitness · Mindset",
+      slogan: "Become your best self 💪",
+      stats: { posts: 487, followers: "4.200", following: 312 },
+      posts: [
+        {
+          time: "heute · 07:12",
+          image: { style: "stripe", label: "Foto · Gym-Look" },
+          likes: 412,
+          caption: "Morning grind. 5:30 Uhr, kein Snooze. Der Tag beginnt bevor die Ausreden wach sind.",
+          hashtags: "#discipline #fitlife #morningroutine #becomeyourbestself",
+          comments: [
+            { user: "fitfam_daily", text: "goals 🔥" },
+            { user: "morning.motivation", text: "inspo! 🙌" },
+            { user: "clean.eats.studio", text: "wie machst du das?" },
+          ],
+          hiddenComments: [
+            { user: "aestheticgymlife", text: "🔥🔥🔥" },
+            { user: "mindset.mode", text: "absolute discipline" },
+            { user: "pure_energy_17", text: "inspo!!" },
+            { user: "routine_first", text: "🙌🙌🙌" },
+          ],
+          totalComments: 47,
+        },
+        {
+          time: "gestern · 19:45",
+          image: {
+            style: "quote",
+            quote: "Disziplin ist die<br>Brücke zwischen<br>Zielen und Erfolg.",
+            attr: "The Perfect Day",
+          },
+          likes: 638,
+          caption: "Speichern, wenn du es heute brauchst. Teilen, wenn du jemanden kennst, der es braucht.",
+          hashtags: "#mindset #discipline #motivation #quoteoftheday",
+          comments: [
+            { user: "discipline.over.motivation", text: "💯" },
+            { user: "early_bird_now", text: "gespeichert." },
+            { user: "fitfam_daily", text: "goals 🔥" },
+          ],
+          hiddenComments: [
+            { user: "clean.eats.studio", text: "🙌🙌🙌" },
+            { user: "growth_arc_", text: "brauchte ich heute" },
+            { user: "morning.motivation", text: "inspo!" },
+          ],
+          totalComments: 74,
+        },
+        {
+          time: "2 Tage · 12:30",
+          image: { style: "default", label: "Foto · Meal-Prep" },
+          likes: 389,
+          caption: "Sonntag = Vorbereitung. 5 Tage, 5 Container, null Ausreden. Clean eating ist Planung, kein Zufall.",
+          hashtags: "#mealprep #cleaneating #highprotein #fitlife",
+          comments: [
+            { user: "clean.eats.studio", text: "wie machst du das?" },
+            { user: "protein_first", text: "inspo!" },
+            { user: "fitfam_daily", text: "goals 🔥" },
+          ],
+          hiddenComments: [
+            { user: "macros_matter", text: "welches Huhn verwendest du?" },
+            { user: "aestheticgymlife", text: "🔥" },
+          ],
+          totalComments: 29,
+        },
+        {
+          time: "3 Tage · 06:04",
+          image: { style: "alt", label: "Foto · Sunrise-Run" },
+          likes: 521,
+          caption: "6 km bevor die meisten den Snooze gedrückt haben. Kein Filter nötig, wenn die Sonne für dich arbeitet.",
+          hashtags: "#running #sunriserun #nofilter #morningmotivation",
+          comments: [
+            { user: "morning.motivation", text: "🙌🙌🙌" },
+            { user: "runners.high.daily", text: "goals 🔥" },
+          ],
+          hiddenComments: [
+            { user: "discipline.over.motivation", text: "inspo!" },
+            { user: "early_bird_now", text: "diese Energie!" },
+          ],
+          totalComments: 38,
+        },
+        {
+          time: "5 Tage · 16:20",
+          image: { style: "stripe", label: "Foto · Vorher / Nachher" },
+          likes: 1247,
+          caption: "6 Monate. Keine Abkürzung. Nur: Plan, Training, Schlaf, wiederholen. Wer fragt, wird die Antwort nicht mögen.",
+          hashtags: "#transformation #consistency #fitlife #progress",
+          comments: [
+            { user: "fitfam_daily", text: "🔥🔥🔥 goals" },
+            { user: "aestheticgymlife", text: "wie machst du das?" },
+            { user: "protein_first", text: "inspo!!" },
+          ],
+          hiddenComments: [
+            { user: "pure_energy_17", text: "Respekt 🙌" },
+            { user: "discipline.over.motivation", text: "das ist Disziplin." },
+            { user: "morning.motivation", text: "🙌🙌🙌" },
+            { user: "macros_matter", text: "dein Plan?" },
+          ],
+          totalComments: 112,
+        },
+        {
+          time: "1 Woche · 08:50",
+          image: { style: "default", label: "Foto · Kaffee auf Designtisch" },
+          likes: 294,
+          caption: "Slow morning. Aber nicht faul — fokussiert. Der Unterschied ist die Absicht.",
+          hashtags: "#slowmornings #mindfulliving #focus",
+          comments: [
+            { user: "clean.eats.studio", text: "goals 🔥" },
+            { user: "morning.motivation", text: "🙌" },
+          ],
+          hiddenComments: [
+            { user: "aestheticgymlife", text: "inspo!" },
+          ],
+          totalComments: 18,
+        },
+      ],
+      activity: {
+        rhythm: "täglich",
+        rhythmSub: "28 Posts / 28 Tage",
+        rhythmPattern: Array.from({ length: 28 }, () => "full"),
+        follows: [
+          { handle: "@morning.motivation", cat: "Mindset · 3.8k" },
+          { handle: "@fitfam_daily", cat: "Fitness · 5.1k" },
+          { handle: "@clean.eats.studio", cat: "Lifestyle · 4.4k" },
+          { handle: "@discipline.over.motivation", cat: "Zitate · 6.2k" },
+          { handle: "@aestheticgymlife", cat: "Fitness · 3.9k" },
+        ],
+        topComments: [
+          { text: "goals 🔥", count: 47 },
+          { text: "inspo!", count: 31 },
+          { text: "wie machst du das?", count: 18 },
+          { text: "🙌🙌🙌", count: 12 },
+        ],
+        ownActivity: {
+          number: 3,
+          label: "Antworten / Woche",
+          fill: 14,
+          note: "Reagiert fast nie auf Kommentare – Posts laufen für sich.",
+        },
+      },
+    },
+
+    authentic: {
+      handle: "everyday.ich",
+      verified: false,
+      name: "Hannah",
+      tagline: "irgendwie durchs Leben 🙃",
+      slogan: "Katzen, Bücher, zu viel Kaffee",
+      stats: { posts: 63, followers: 289, following: 174 },
+      posts: [
+        {
+          time: "heute · 14:32",
+          image: {
+            style: "text-card",
+            textBody: "„Heute war ein<br>beschissener Tag.<br>Einfach mal."
+          },
+          likes: 67,
+          caption: "Kein Grund, keine Pointe. Manchmal ist es so. Morgen wieder.",
+          hashtags: "",
+          comments: [
+            { user: "milan.li", text: "hör dir das, fühl dich gedrückt ❤️" },
+            { user: "everyday.ich", text: "@milan.li danke dir 🫶", isOwn: true },
+            { user: "katerbine", text: "same. heute auch einer von denen hier." },
+            { user: "everyday.ich", text: "@katerbine oof. durchhalten 🤝", isOwn: true },
+          ],
+          hiddenComments: [
+            { user: "leons.bookshelf", text: "schön dass du das teilst, ernsthaft" },
+            { user: "everyday.ich", text: "@leons.bookshelf danke ❤️", isOwn: true },
+            { user: "jana_writes", text: "soll ich dir einen Kaffee bringen? 🫠" },
+            { user: "everyday.ich", text: "@jana_writes wenn du in Hamburg bist: ja!", isOwn: true },
+          ],
+          totalComments: 14,
+        },
+        {
+          time: "gestern · 09:18",
+          image: { style: "default", label: "Foto · Regnerischer Montag" },
+          likes: 41,
+          caption: "Regen, Kaffee, halb fertige Notizen. Kein Aufbruch, nur Ankommen im Tag.",
+          hashtags: "",
+          comments: [
+            { user: "leons.bookshelf", text: "diese Stimmung wollte ich heute auch" },
+            { user: "everyday.ich", text: "@leons.bookshelf komm vorbei, Kaffee steht 😄", isOwn: true },
+            { user: "katerbine", text: "welches Notizbuch ist das?" },
+          ],
+          hiddenComments: [
+            { user: "everyday.ich", text: "@katerbine A5 von Leuchtturm, liniert", isOwn: true },
+            { user: "jana_writes", text: "rainy monday club 🌧️" },
+          ],
+          totalComments: 9,
+        },
+        {
+          time: "3 Tage · 20:45",
+          image: { style: "alt", label: "Foto · Katze auf Bett" },
+          likes: 89,
+          caption: "Sie beansprucht 80% des Bettes und 100% meiner Aufmerksamkeit.",
+          hashtags: "#catsofinstagram",
+          comments: [
+            { user: "katerbine", text: "🥹🥹🥹" },
+            { user: "milan.li", text: "das ist pure Entspannung" },
+            { user: "everyday.ich", text: "@milan.li genau mein Vorbild heute", isOwn: true },
+          ],
+          hiddenComments: [
+            { user: "leons.bookshelf", text: "wie heißt sie?" },
+            { user: "everyday.ich", text: "@leons.bookshelf Marla 🐾", isOwn: true },
+            { user: "jana_writes", text: "ich schmelze" },
+          ],
+          totalComments: 17,
+        },
+        {
+          time: "5 Tage · 11:02",
+          image: {
+            style: "screenshot",
+            chatA: "hast du eigentlich noch mein Buch?",
+            chatB: "welches",
+          },
+          likes: 52,
+          caption: "Drei Jahre, vier Bücher, null Gewissen. Ich akzeptiere meine Rolle in diesem System.",
+          hashtags: "",
+          comments: [
+            { user: "jana_writes", text: "🤣 gebt meine Kollektion frei" },
+            { user: "everyday.ich", text: "@jana_writes niemals 🫡", isOwn: true },
+            { user: "leons.bookshelf", text: "callout post an alle Buchdiebe" },
+          ],
+          hiddenComments: [
+            { user: "milan.li", text: "same energy" },
+            { user: "everyday.ich", text: "@milan.li :D", isOwn: true },
+          ],
+          totalComments: 11,
+        },
+        {
+          time: "1 Woche · 22:11",
+          image: { style: "default", label: "Foto · Spiegel-Selfie „keine Energie“" },
+          likes: 73,
+          caption: "Ich hab heute keine Energie und das ist ok.",
+          hashtags: "",
+          comments: [
+            { user: "milan.li", text: "❤️" },
+            { user: "katerbine", text: "danke für diesen Post" },
+            { user: "everyday.ich", text: "@katerbine 🫶", isOwn: true },
+            { user: "leons.bookshelf", text: "ja genau. auch erlaubt." },
+          ],
+          hiddenComments: [
+            { user: "jana_writes", text: "mood." },
+            { user: "everyday.ich", text: "@jana_writes 🤝", isOwn: true },
+            { user: "quiet.days_", text: "brauchte ich gerade." },
+          ],
+          totalComments: 19,
+        },
+        {
+          time: "2 Wochen · 21:30",
+          image: { style: "alt", label: "Foto · Couch + Buch" },
+          likes: 58,
+          caption: "Plan für heute: dieser Stapel und nichts anderes.",
+          hashtags: "#slowevening",
+          comments: [
+            { user: "leons.bookshelf", text: "welches liest du zuerst?" },
+            { user: "everyday.ich", text: "@leons.bookshelf das mit dem blauen Cover, keine Ahnung warum", isOwn: true },
+            { user: "jana_writes", text: "jealous 😌" },
+          ],
+          hiddenComments: [
+            { user: "katerbine", text: "Marla mit dabei?" },
+            { user: "everyday.ich", text: "@katerbine selbstverständlich. vorgewärmt.", isOwn: true },
+          ],
+          totalComments: 13,
+        },
+      ],
+      activity: {
+        rhythm: "unregelmäßig",
+        rhythmSub: "6 Posts / 4 Wochen",
+        rhythmPattern: (() => {
+          // sparser pattern: most empty, posts on specific days
+          const p = Array.from({ length: 28 }, () => "gap");
+          [1, 6, 10, 15, 22, 26].forEach(i => (p[i] = "small"));
+          return p;
+        })(),
+        follows: [
+          { handle: "@milan.li", cat: "Freund:in" },
+          { handle: "@leons.bookshelf", cat: "Bücher" },
+          { handle: "@jana_writes", cat: "Freund:in" },
+          { handle: "@katerbine", cat: "Katzen-Content" },
+          { handle: "@quiet.days_", cat: "Slow Living" },
+        ],
+        topComments: [
+          { text: "same 🫶", count: 6 },
+          { text: "danke dass du das postest", count: 4 },
+          { text: "❤️", count: 4 },
+          { text: "ich fühl das", count: 3 },
+        ],
+        ownActivity: {
+          number: 22,
+          label: "Antworten / Woche",
+          fill: 78,
+          note: "Antwortet meistens – Posts sind Gesprächsanlass, nicht Bühne.",
+        },
+      },
+    },
+
+    creative: {
+      handle: "pixeljule",
+      verified: false,
+      name: "pixel / jule",
+      tagline: "digital art · worldbuilding",
+      slogan: "she/they · 🎨🌿",
+      stats: { posts: 142, followers: "1.100", following: 267 },
+      posts: [
+        {
+          time: "heute · 18:02",
+          image: { style: "creative-art", label: "Illustration · Naturmotiv" },
+          likes: 287,
+          caption: "„Mosswood Arch“ — letzter Commission-Schritt für dieses Jahr. 14 Stunden, drei Neustarts, viel Tee.",
+          hashtags: "#digitalart #illustration #fantasyart #worldbuilding",
+          comments: [
+            { user: "forestpainter", text: "Das Design ist so stimmig!" },
+            { user: "pixeljule", text: "@forestpainter danke 🌿 – das Moos hat am längsten gedauert, weil ich den Blauton nicht treffen konnte. Am Ende Warm Grey 3 + ein Hauch Teal drüber.", isOwn: true },
+            { user: "moth.and.fern", text: "Was ist das für ein Tool?" },
+            { user: "pixeljule", text: "@moth.and.fern Procreate, Brush-Set ist ein modifiziertes „Flicks“ mit etwas mehr Scatter. Kann ich dir schicken!", isOwn: true },
+          ],
+          hiddenComments: [
+            { user: "wandering_loom", text: "die Lichtstimmung 😮‍💨" },
+            { user: "pixeljule", text: "@wandering_loom danke! Hatte eine Referenz aus einem alten Studio-Ghibli-Still im Kopf, das Licht fällt dort ähnlich von rechts oben.", isOwn: true },
+            { user: "indieRPG_dev", text: "perfekt für unsere Tavernen-Szene, melde mich per DM" },
+            { user: "jana.inks", text: "process video bitte 🙏" },
+          ],
+          totalComments: 34,
+        },
+        {
+          time: "gestern · 21:40",
+          image: { style: "wip", label: "Work in Progress · Sketch + Paint" },
+          likes: 214,
+          caption: "Zwischenschritt — Lineart drunter, erste Farbflächen drüber. Ich poste das selten, aber ihr fragt immer wieder danach.",
+          hashtags: "#wip #processpost #illustration",
+          comments: [
+            { user: "jana.inks", text: "Was ist das für ein Tool?" },
+            { user: "pixeljule", text: "@jana.inks Photoshop. Lineart-Layer auf „Multiply“, Farben darunter mit niedriger Flow. Ich arbeite fast immer in zwei Schritten.", isOwn: true },
+            { user: "moth.and.fern", text: "Ich liebe diese Zwischenstände" },
+          ],
+          hiddenComments: [
+            { user: "pixeljule", text: "@moth.and.fern danke! Ich finde sie oft spannender als das Endergebnis, weil man die Entscheidungen noch sieht.", isOwn: true },
+            { user: "forestpainter", text: "Das Design ist so stimmig!" },
+            { user: "wandering_loom", text: "welche Brushes für die Textur?" },
+          ],
+          totalComments: 41,
+        },
+        {
+          time: "3 Tage · 10:15",
+          image: { style: "moodboard" },
+          likes: 156,
+          caption: "Farbstudie für das nächste Projekt. Forest green, tiefes Teal, Terrakotta, Creme — und ein bisschen Moos-Textur.",
+          hashtags: "#colorstudy #moodboard #palette",
+          comments: [
+            { user: "studio.vellum", text: "Die Palette ist gold" },
+            { user: "pixeljule", text: "@studio.vellum danke! Ich hatte lange #3a7d7b als Ankerfarbe und habe dann den Terrakotta als Gegengewicht dazugelegt.", isOwn: true },
+            { user: "moth.and.fern", text: "Das Design ist so stimmig!" },
+          ],
+          hiddenComments: [
+            { user: "pixeljule", text: "@moth.and.fern 🌿 das wollte ich hören", isOwn: true },
+            { user: "jana.inks", text: "saved für mein nächstes Worldbuilding-Projekt" },
+          ],
+          totalComments: 22,
+        },
+        {
+          time: "5 Tage · 17:22",
+          image: { style: "creative-art", label: "Timelapse-Screenshot" },
+          likes: 342,
+          caption: "30-Sekunden-Timelapse des Archway-Posts. 14 Stunden in einer halben Minute — das ist unfair gegenüber dem Prozess, aber macht Spaß.",
+          hashtags: "#timelapse #digitalart #process",
+          comments: [
+            { user: "indieRPG_dev", text: "so satisfying 😭" },
+            { user: "pixeljule", text: "@indieRPG_dev ehrlich — die ersten 10 Minuten des echten Prozesses sind langweilig, deshalb wird immer der spektakuläre Teil gezeigt 😅", isOwn: true },
+            { user: "forestpainter", text: "Was ist das für ein Tool für den Timelapse?" },
+            { user: "pixeljule", text: "@forestpainter Procreate zeichnet das automatisch mit auf, unten links in den Einstellungen aktivieren.", isOwn: true },
+          ],
+          hiddenComments: [
+            { user: "jana.inks", text: "🌿" },
+            { user: "moth.and.fern", text: "Ich will das als Loop im Hintergrund laufen lassen" },
+          ],
+          totalComments: 53,
+        },
+        {
+          time: "1 Woche · 19:30",
+          image: {
+            style: "quote",
+            quote: "„Die Karte wird<br>die Landschaft<br>nie ersetzen.“",
+            attr: "aus: A. Le Guin, Earthsea",
+          },
+          likes: 198,
+          caption: "Lieblingsstelle aus „Earthsea“, illustriert in der Zwischenzeit zwischen zwei Commissions. Manchmal brauchen Zitate Bilder, um zu bleiben.",
+          hashtags: "#leguin #literaturart #fantasyart",
+          comments: [
+            { user: "wandering_loom", text: "Ursula forever ❤️" },
+            { user: "pixeljule", text: "@wandering_loom absolut. Earthsea bleibt für mich das beste Worldbuilding-Beispiel, weil sie zeigt statt erklärt.", isOwn: true },
+            { user: "studio.vellum", text: "Das Design ist so stimmig!" },
+          ],
+          hiddenComments: [
+            { user: "pixeljule", text: "@studio.vellum danke 🌿", isOwn: true },
+            { user: "indieRPG_dev", text: "bitte mehr davon" },
+          ],
+          totalComments: 27,
+        },
+        {
+          time: "2 Wochen · 13:05",
+          image: { style: "alt", label: "Foto · Schreibtisch beim Zeichnen" },
+          likes: 163,
+          caption: "Setup-Check. Iets cold coffee, immer dasselbe Licht, Monstera schaut zu. Keine Ablenkung.",
+          hashtags: "#deskposts #creativespace",
+          comments: [
+            { user: "moth.and.fern", text: "Welches Tablet ist das?" },
+            { user: "pixeljule", text: "@moth.and.fern iPad Pro 12,9 Zoll (4. Gen). Kein Display-Tablet, weil ich mich zu schnell ablenken würde 😅", isOwn: true },
+            { user: "forestpainter", text: "welches Tool nutzt du hier?" },
+          ],
+          hiddenComments: [
+            { user: "pixeljule", text: "@forestpainter Procreate für Lineart + Color, Photoshop nur fürs Finish.", isOwn: true },
+          ],
+          totalComments: 19,
+        },
+      ],
+      activity: {
+        rhythm: "regelmäßig",
+        rhythmSub: "~3× pro Woche",
+        rhythmPattern: (() => {
+          const p = Array.from({ length: 28 }, () => "gap");
+          [1, 3, 6, 8, 11, 13, 15, 18, 20, 22, 25, 27].forEach(i => (p[i] = "full"));
+          return p;
+        })(),
+        follows: [
+          { handle: "@forestpainter", cat: "Illustration · 12k" },
+          { handle: "@studio.vellum", cat: "Game Design · 8.4k" },
+          { handle: "@moth.and.fern", cat: "Fantasy-Art · 5.7k" },
+          { handle: "@indieRPG_dev", cat: "Game Dev · 3.1k" },
+          { handle: "@wandering_loom", cat: "Literatur · 2.8k" },
+        ],
+        topComments: [
+          { text: "Das Design ist so stimmig!", count: 18 },
+          { text: "Was ist das für ein Tool?", count: 14 },
+          { text: "Process video bitte 🙏", count: 9 },
+          { text: "welche Brushes nutzt du?", count: 7 },
+        ],
+        ownActivity: {
+          number: 31,
+          label: "Antworten / Woche",
+          fill: 92,
+          note: "Beantwortet fast alle Fachfragen ausführlich.",
+        },
+      },
+    },
+  };
+
+  // ===========================================================
+  //  RENDER
+  // ===========================================================
+  const frame = document.getElementById("profileFrame");
+
+  function renderProfile(key) {
+    const p = PROFILES[key];
+    document.body.setAttribute("data-profile", key);
+
+    frame.innerHTML = `
+      <header class="p-head">
+        <div class="p-pic">PROFIL-<br>BILD</div>
+        <div class="p-meta">
+          <div class="p-handle">
+            ${p.handle}${p.verified ? '<span class="check" aria-label="verifiziert">✓</span>' : ""}
+          </div>
+          <div class="p-stats">
+            <div><strong>${p.stats.posts}</strong>Beiträge</div>
+            <div><strong>${p.stats.followers}</strong>Follower</div>
+            <div><strong>${p.stats.following}</strong>Gefolgt</div>
+          </div>
+        </div>
+      </header>
+
+      <div class="p-bio">
+        <div class="name">${p.name}</div>
+        <div class="tagline">${p.tagline}</div>
+        <div class="slogan">${p.slogan}</div>
+      </div>
+
+      <div class="view-switch" role="tablist">
+        <button class="view-btn active" data-view="feed" role="tab">
+          <span class="icon">▤</span>Feed
+        </button>
+        <button class="view-btn" data-view="activities" role="tab">
+          <span class="icon">◉</span>Aktivitäten
+        </button>
+      </div>
+
+      <section class="feed" aria-label="Timeline">
+        ${p.posts.map((post, i) => renderPost(post, i, p.handle)).join("")}
+      </section>
+
+      <section class="activities" aria-label="Aktivitäten">
+        ${renderActivities(p.activity)}
+      </section>
+    `;
+
+    bindViewSwitch();
+    bindCommentExpand();
+  }
+
+  function renderPost(post, idx, handle) {
+    const img = post.image;
+    let imageBlock = "";
+
+    if (img.style === "quote") {
+      imageBlock = `
+        <div class="post-image quote">
+          <div class="qt">${img.quote}</div>
+          <div class="qdash"></div>
+          <div class="qattr">${img.attr}</div>
+        </div>`;
+    } else if (img.style === "text-card") {
+      imageBlock = `
+        <div class="post-image text-card">
+          <div class="text-body">${img.textBody}</div>
+        </div>`;
+    } else if (img.style === "screenshot") {
+      imageBlock = `
+        <div class="post-image screenshot">
+          <div>
+            <div class="chat-bubble">${img.chatA}</div>
+            <div class="chat-bubble mine">${img.chatB}</div>
+          </div>
+        </div>`;
+    } else if (img.style === "moodboard") {
+      imageBlock = `
+        <div class="post-image moodboard" aria-label="Moodboard-Platzhalter">
+          <span style="background:#3a7d7b"></span>
+          <span style="background:#274848"></span>
+          <span style="background:#d4a979"></span>
+          <span style="background:#f1ead8"></span>
+          <span style="background:linear-gradient(135deg,#5a8c7d,#274848)"></span>
+          <span style="background:#b9663f"></span>
+          <span style="background:#8faf9c"></span>
+          <span style="background:#f5efe4"></span>
+          <span style="background:#c4a06e"></span>
+        </div>`;
+    } else if (img.style === "creative-art") {
+      imageBlock = `
+        <div class="post-image creative-art">
+          <div class="ph-note">${img.label ?? "Platzhalter · Illustration"}</div>
+        </div>`;
+    } else if (img.style === "wip") {
+      imageBlock = `
+        <div class="post-image wip">
+          <div class="ph-note">${img.label ?? "Platzhalter · WIP"}</div>
+        </div>`;
+    } else {
+      const cls = img.style === "stripe" ? "stripe" : (img.style === "alt" ? "alt" : "");
+      imageBlock = `
+        <div class="post-image ${cls}">
+          <div class="ph-note">${img.label ?? "Platzhalter · Foto"}</div>
+        </div>`;
+    }
+
+    const commentsBlock = renderComments(post.comments, post.hiddenComments, post.totalComments, handle, idx);
+    const hashtags = post.hashtags
+      ? `<span class="hashtags">${post.hashtags}</span>`
+      : "";
+
+    return `
+      <article class="post">
+        <div class="post-head">
+          <div class="post-avatar"></div>
+          <div class="post-user">
+            ${handle}
+            <span class="time">${post.time}</span>
+          </div>
+          <div class="post-menu">···</div>
+        </div>
+        ${imageBlock}
+        <div class="post-actions">
+          <span title="Like">♡</span>
+          <span title="Kommentieren">💬</span>
+          <span title="Teilen">↗</span>
+          <span class="bookmark" title="Speichern">⌘</span>
+        </div>
+        <div class="post-likes">${post.likes.toLocaleString("de-DE")} „Gefällt mir“-Angaben</div>
+        <div class="post-caption">
+          <span class="handle">${handle}</span>${post.caption}
+          ${hashtags}
+        </div>
+        ${commentsBlock}
+      </article>
+    `;
+  }
+
+  function renderComments(visible, hidden, total, handle, postIdx) {
+    const renderC = (c) => `
+      <div class="c ${c.isOwn ? "reply" : ""}">
+        <span class="cuser">${c.user}</span>${c.text}
+        ${c.isOwn ? '<span class="reply-mark">Antwort · Profilinhaber:in</span>' : ""}
+      </div>`;
+
+    const hiddenCount = (hidden || []).length;
+    const hiddenId = `hidden-${postIdx}`;
+    const moreBtn = hiddenCount > 0
+      ? `<button class="more-comments" data-target="${hiddenId}">Alle ${total} Kommentare ansehen</button>`
+      : `<div class="more-comments" aria-disabled="true">Alle ${total} Kommentare</div>`;
+
+    return `
+      <div class="post-comments">
+        ${(visible || []).map(renderC).join("")}
+        <div id="${hiddenId}" class="hidden-comments">
+          ${(hidden || []).map(renderC).join("")}
+        </div>
+        ${moreBtn}
+      </div>
+    `;
+  }
+
+  function renderActivities(a) {
+    const patternHtml = a.rhythmPattern
+      .map(t => `<i class="${t === "full" ? "" : t}"></i>`)
+      .join("");
+
+    return `
+      <div class="dash-card">
+        <h3>Posting-Rhythmus</h3>
+        <div class="rhythm">
+          <div class="rhythm-label">
+            Frequenz
+            <strong>${a.rhythm}</strong>
+            <span style="font-size:11px;color:var(--muted);">${a.rhythmSub}</span>
+          </div>
+          <div class="rhythm-bars" aria-label="28-Tage-Verlauf">${patternHtml}</div>
+        </div>
+      </div>
+
+      <div class="dash-card">
+        <h3>Folgt vor allem …</h3>
+        <ul class="follows-list">
+          ${a.follows.map(f => `
+            <li><span class="handle">${f.handle}</span><span class="cat">${f.cat}</span></li>
+          `).join("")}
+        </ul>
+      </div>
+
+      <div class="dash-card">
+        <h3>Top-Kommentare auf eigenen Posts</h3>
+        <div class="top-comments">
+          ${a.topComments.map(c => `
+            <div>„${c.text}“<span>× ${c.count}</span></div>
+          `).join("")}
+        </div>
+      </div>
+
+      <div class="dash-card">
+        <h3>Eigene Kommentar-Aktivität</h3>
+        <div class="activity-row">
+          <div>
+            <div class="activity-num">${a.ownActivity.number}</div>
+            <div class="activity-lbl">${a.ownActivity.label}</div>
+          </div>
+          <div style="flex:1">
+            <div class="activity-bar"><i style="width:${a.ownActivity.fill}%"></i></div>
+            <div class="activity-scale">
+              <span>selten</span><span>manchmal</span><span>oft</span>
+            </div>
+          </div>
+        </div>
+        <div class="reply-style" style="margin-top:10px;">${a.ownActivity.note}</div>
+      </div>
+    `;
+  }
+
+  // ===========================================================
+  //  INTERAKTION
+  // ===========================================================
+  function bindViewSwitch() {
+    const buttons = frame.querySelectorAll(".view-btn");
+    const feed = frame.querySelector(".feed");
+    const acts = frame.querySelector(".activities");
+    buttons.forEach(btn => {
+      btn.addEventListener("click", () => {
+        buttons.forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+        const v = btn.dataset.view;
+        if (v === "feed") {
+          feed.classList.remove("hidden");
+          acts.classList.remove("active");
+        } else {
+          feed.classList.add("hidden");
+          acts.classList.add("active");
+        }
+      });
+    });
+  }
+
+  function bindCommentExpand() {
+    frame.querySelectorAll(".more-comments[data-target]").forEach(btn => {
+      const originalLabel = btn.textContent;
+      btn.addEventListener("click", () => {
+        const target = document.getElementById(btn.dataset.target);
+        if (!target) return;
+        target.classList.toggle("open");
+        btn.textContent = target.classList.contains("open")
+          ? "Weniger Kommentare anzeigen"
+          : originalLabel;
+      });
+    });
+  }
+
+  // Top-Tabs
+  document.querySelectorAll(".tab").forEach(tab => {
+    tab.addEventListener("click", () => {
+      document.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
+      tab.classList.add("active");
+      renderProfile(tab.dataset.target);
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    });
+  });
+
+  // Initial
+  renderProfile("perfect");
+</script>
+
+</body>
+</html>
