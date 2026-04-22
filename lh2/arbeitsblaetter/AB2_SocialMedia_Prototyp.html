@@ -611,11 +611,12 @@
       name: "The Perfect Day",
       tagline: "✨ Lifestyle · Fitness · Mindset",
       slogan: "Become your best self 💪",
+      photo: "1-1.png",
       stats: { posts: 487, followers: "4.200", following: 312 },
       posts: [
         {
           time: "heute · 07:12",
-          image: { style: "stripe", label: "Foto · Gym-Look" },
+          image: { style: "stripe", label: "Foto · Gym-Look", photo: "1-2.png" },
           likes: 412,
           caption: "Morning grind. 5:30 Uhr, kein Snooze. Der Tag beginnt bevor die Ausreden wach sind.",
           hashtags: "#discipline #fitlife #morningroutine #becomeyourbestself",
@@ -656,7 +657,7 @@
         },
         {
           time: "2 Tage · 12:30",
-          image: { style: "default", label: "Foto · Meal-Prep" },
+          image: { style: "default", label: "Foto · Meal-Prep", photo: "1-3.png" },
           likes: 389,
           caption: "Sonntag = Vorbereitung. 5 Tage, 5 Container, null Ausreden. Clean eating ist Planung, kein Zufall.",
           hashtags: "#mealprep #cleaneating #highprotein #fitlife",
@@ -673,7 +674,7 @@
         },
         {
           time: "3 Tage · 06:04",
-          image: { style: "alt", label: "Foto · Sunrise-Run" },
+          image: { style: "alt", label: "Foto · Sunrise-Run", photo: "1-4.png" },
           likes: 521,
           caption: "6 km bevor die meisten den Snooze gedrückt haben. Kein Filter nötig, wenn die Sonne für dich arbeitet.",
           hashtags: "#running #sunriserun #nofilter #morningmotivation",
@@ -689,7 +690,7 @@
         },
         {
           time: "5 Tage · 16:20",
-          image: { style: "stripe", label: "Foto · Vorher / Nachher" },
+          image: { style: "stripe", label: "Foto · Vorher / Nachher", photo: "1-5.png" },
           likes: 1247,
           caption: "6 Monate. Keine Abkürzung. Nur: Plan, Training, Schlaf, wiederholen. Wer fragt, wird die Antwort nicht mögen.",
           hashtags: "#transformation #consistency #fitlife #progress",
@@ -708,7 +709,7 @@
         },
         {
           time: "1 Woche · 08:50",
-          image: { style: "default", label: "Foto · Kaffee auf Designtisch" },
+          image: { style: "default", label: "Foto · Kaffee auf Designtisch", photo: "1-6.png" },
           likes: 294,
           caption: "Slow morning. Aber nicht faul — fokussiert. Der Unterschied ist die Absicht.",
           hashtags: "#slowmornings #mindfulliving #focus",
@@ -1062,9 +1063,14 @@
     const p = PROFILES[key];
     document.body.setAttribute("data-profile", key);
 
+    const pPicAttrs = p.photo
+      ? `style="background-image:url('${p.photo}');background-size:cover;background-position:center;box-shadow:0 0 0 2px var(--accent);"`
+      : "";
+    const pPicInner = p.photo ? "" : "PROFIL-<br>BILD";
+
     frame.innerHTML = `
       <header class="p-head">
-        <div class="p-pic">PROFIL-<br>BILD</div>
+        <div class="p-pic" ${pPicAttrs}>${pPicInner}</div>
         <div class="p-meta">
           <div class="p-handle">
             ${p.handle}${p.verified ? '<span class="check" aria-label="verifiziert">✓</span>' : ""}
@@ -1093,7 +1099,7 @@
       </div>
 
       <section class="feed" aria-label="Timeline">
-        ${p.posts.map((post, i) => renderPost(post, i, p.handle)).join("")}
+        ${p.posts.map((post, i) => renderPost(post, i, p.handle, p.photo)).join("")}
       </section>
 
       <section class="activities" aria-label="Aktivitäten">
@@ -1105,11 +1111,16 @@
     bindCommentExpand();
   }
 
-  function renderPost(post, idx, handle) {
+  function renderPost(post, idx, handle, profilePhoto) {
     const img = post.image;
     let imageBlock = "";
 
-    if (img.style === "quote") {
+    if (img.photo) {
+      imageBlock = `
+        <div class="post-image">
+          <img src="${img.photo}" alt="${img.label ?? ""}" style="width:100%;height:100%;object-fit:cover;display:block;">
+        </div>`;
+    } else if (img.style === "quote") {
       imageBlock = `
         <div class="post-image quote">
           <div class="qt">${img.quote}</div>
@@ -1165,10 +1176,14 @@
       ? `<span class="hashtags">${post.hashtags}</span>`
       : "";
 
+    const avatarAttrs = profilePhoto
+      ? `style="background:url('${profilePhoto}') center/cover;"`
+      : "";
+
     return `
       <article class="post">
         <div class="post-head">
-          <div class="post-avatar"></div>
+          <div class="post-avatar" ${avatarAttrs}></div>
           <div class="post-user">
             ${handle}
             <span class="time">${post.time}</span>

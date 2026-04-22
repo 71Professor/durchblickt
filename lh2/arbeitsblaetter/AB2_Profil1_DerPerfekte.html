@@ -215,6 +215,23 @@
   .tile:nth-child(odd) { background: linear-gradient(135deg, #ebe1cd, #c7b793); }
   .tile:nth-child(3n) { background: linear-gradient(135deg, #efe7d6, #b9a378); }
 
+  .tile.has-img { background: none; padding: 0; }
+  .tile.has-img::after { display: none; }
+  .tile.has-img img {
+    width: 100%; height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .tile.quote-tile {
+    background: linear-gradient(160deg, #2d2a26 0%, #4a4036 100%);
+    color: rgba(255,255,255,0.92);
+    font-family: Georgia, "Times New Roman", serif;
+    font-style: italic;
+    padding: 10px 12px;
+  }
+  .tile.quote-tile::after { color: rgba(255,255,255,0.45); }
+  .tile.quote-tile span { font-size: 11px; line-height: 1.35; }
+
   /* ===========================================
      SHOT 2: DASHBOARD
   =========================================== */
@@ -440,7 +457,7 @@
     <span class="shot-tag">Screenshot 1 · Profilseite</span>
 
     <div class="profile-header">
-      <div class="profile-pic">PROFIL-<br>BILD</div>
+      <div class="profile-pic" style="background-image:url('1-1.png');background-size:cover;background-position:center;"></div>
       <div class="profile-meta">
         <div class="profile-handle">
           theperfectday.official
@@ -467,12 +484,12 @@
     </div>
 
     <div class="profile-grid">
-      <div class="tile"><span>Gym-<br>Look</span></div>
-      <div class="tile"><span>Meal-<br>Prep</span></div>
-      <div class="tile"><span>Sunrise<br>Run</span></div>
-      <div class="tile"><span>Zitat<br>Disziplin</span></div>
-      <div class="tile"><span>Vorher /<br>Nachher</span></div>
-      <div class="tile"><span>Kaffee</span></div>
+      <div class="tile has-img"><img src="1-2.png" alt="Gym-Look"></div>
+      <div class="tile has-img"><img src="1-3.png" alt="Meal-Prep"></div>
+      <div class="tile has-img"><img src="1-4.png" alt="Sunrise Run"></div>
+      <div class="tile quote-tile"><span>„Disziplin ist die Brücke zwischen Zielen und Erfolg."</span></div>
+      <div class="tile has-img"><img src="1-5.png" alt="Vorher / Nachher"></div>
+      <div class="tile has-img"><img src="1-6.png" alt="Kaffee"></div>
     </div>
   </section>
 
@@ -545,7 +562,7 @@
     <span class="shot-tag">Screenshot 3 · Post</span>
 
     <div class="post-head">
-      <div class="post-avatar"></div>
+      <div class="post-avatar" style="background:url('1-1.png') center/cover;"></div>
       <div class="post-user">
         theperfectday.official
         <span class="time">heute · 07:12</span>
@@ -553,8 +570,8 @@
       <div class="post-menu">···</div>
     </div>
 
-    <div class="post-image gym">
-      <div class="placeholder-note">Platzhalter · Foto Gym-Look</div>
+    <div class="post-image">
+      <img src="1-2.png" alt="Gym-Look" style="width:100%;height:100%;object-fit:cover;display:block;">
     </div>
 
     <div class="post-actions">
@@ -578,7 +595,7 @@
     <span class="shot-tag">Screenshot 4 · Post</span>
 
     <div class="post-head">
-      <div class="post-avatar"></div>
+      <div class="post-avatar" style="background:url('1-1.png') center/cover;"></div>
       <div class="post-user">
         theperfectday.official
         <span class="time">gestern · 19:45</span>
