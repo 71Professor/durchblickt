@@ -48,7 +48,8 @@
 | Grobkonzept (Phase 1–4)                | ✅ fertig (intern) | Jan 2026  | Grobkonzept_LH3_2026_Mythen.md                                                |
 | Leitlinien-Check (Phase 4a)            | ✅ fertig          | März 2026 | LH3_Leitlinien-Check_2026-03.md – alle 5 Leitlinien erfüllt, einreichungsreif |
 | Phase 4b – BARMER-Genehmigungsvorlage  | ✅ fertig          | März 2026 | lh3/LH3_Grobkonzept_Mythen_barmer.md – neu erstellt, inkl. GS-Erweiterung (Phase 2 + 3) |
-| ⏳ Warte auf BARMER-Freigabe            | ⏳ ausstehend      | –         | Genehmigungsvorlage bereit, Einreichung ausstehend |
+| BARMER-Rückmeldung eingearbeitet       | ✅ fertig          | 29.04.2026 | F1–F5 in LH3_Grobkonzept_eingereicht.md eingebaut; Leitlinien- + Redaktions-Check ✅; DOCX `output/LH3_Grobkonzept_Re-Einreichung_2026-04-29.docx` |
+| ⏳ Re-Einreichung an BARMER             | ⏳ ausstehend      | –         | DOCX bereit, Versand an Anka noch offen |
 | Feinkonzept + Arbeitsblätter (Phase 5) | ✅ fertig          | April 2026 | LH3_Lerneinheit.md + LH3_Arbeitsblätter.md |
 | Ablaufstruktur (Phase 6)               | ✅ fertig          | April 2026 | In LH3_Lerneinheit.md integriert (6 Phasen, 90 Min.) |
 | Grundschul-Erweiterung (Phase 6a)      | ✅ fertig          | April 2026 | In Phase 1 + 2 eingebaut; PS AB 1 (Detektiv) in LH3_Arbeitsblätter.md |
@@ -117,5 +118,5 @@
 | --- | ----------------------------------------------- | -------- | -------------------------- |
 | LH1 | Feedback erwartet (Anka + Fabienne)             | –        | –                          |
 | LH2 | Phase 4b DOCX exportieren → an BARMER einreichen | –        | barmer.md fertig           |
-| LH3 | Phase 4b DOCX exportieren → an BARMER einreichen | –        | barmer.md fertig           |
+| LH3 | Re-Einreichungs-DOCX (29.04.2026) an BARMER versenden | –        | output/LH3_Grobkonzept_Re-Einreichung_2026-04-29.docx fertig |
 | LH4 | BARMER-Freigabe abwarten                        | –        | Genehmigungsvorlage bereit |
