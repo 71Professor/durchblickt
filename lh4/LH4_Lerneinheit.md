@@ -7,7 +7,7 @@
 
 ## Allgemeine Kurzbeschreibung
 
-Diese Lerneinheit untersucht, wie digitale Geräte unseren Schlaf beeinflussen – und was wir dagegen tun können. Die Lernenden erschließen die biologischen Grundlagen des Einschlafens (Melatonin, blaues Licht, zirkadianer Rhythmus) und erkennen, dass nicht nur blaues Licht, sondern auch Inhalte, Aufregung und FOMO den Schlaf stören. Anhand von Fallbeispielen analysieren sie eigene und fremde Schlafgewohnheiten, entwickeln ein persönliches bildschirmfreies Abendritual und dokumentieren ihre Schlafqualität über eine Woche im Schlafprotokoll. Die Einheit ist durchgängig binnendifferenziert für Sek I und Sek II konzipiert und wird in zwei Phasen um eine Grundschul-Erweiterung (Kl. 3–4) ergänzt.
+Diese Lerneinheit untersucht, wie digitale Geräte unseren Schlaf beeinflussen können – und was wir dagegen tun können. Die Lernenden erschließen die biologischen Grundlagen des Einschlafens (Melatonin, blaues Licht, zirkadianer Rhythmus) und erkennen, dass nicht nur blaues Licht, sondern auch Inhalte, Aufregung und FOMO den Schlaf stören können. Anhand von Fallbeispielen analysieren sie eigene und fremde Schlafgewohnheiten, entwickeln ein persönliches bildschirmfreies Abendritual und dokumentieren ihre Schlafqualität über eine Woche im Schlafprotokoll. Die Einheit ist durchgängig binnendifferenziert für Sek I und Sek II konzipiert und wird in zwei Phasen um eine Grundschul-Erweiterung (Kl. 3–4) ergänzt.
 
 ---
 
@@ -89,7 +89,7 @@ Schwerpunkt auf den Dimensionen **2, 3, 4, 5** (gemäß `referenz/bausteine.md`)
 Nach dieser Lerneinheit können die Schüler:innen:
 
 1. **Erklären**, welche biologischen Prozesse beim Einschlafen ablaufen (Melatonin, zirkadianer Rhythmus, blaues Licht).
-2. **Benennen**, dass nicht nur blaues Licht, sondern auch Inhalte, Erregung und FOMO den Schlaf stören.
+2. **Benennen**, dass nicht nur blaues Licht, sondern auch Inhalte, Erregung und FOMO den Schlaf stören können.
 3. **Analysieren** eigener und fremder Schlafgewohnheiten anhand konkreter Fallbeispiele.
 4. **Entwickeln** eines persönlichen bildschirmfreien Abendrituals.
 5. **Dokumentieren** der eigenen Schlafqualität über eine Woche und erste Muster erkennen.
@@ -105,6 +105,7 @@ Nach dieser Lerneinheit können die Schüler:innen:
 - **LH15 – Gesund bleiben im digitalen Alltag:** Stressmanagement, Selbstorganisation (werden vorausgesetzt; Bezug in Phase 4).
 - **LH23 – Nutzungsdauer und körperliche Probleme:** Bildschirmzeit und körperliche Auswirkungen (werden vorausgesetzt).
 - **LH32 – Stress ist nicht gleich Stress:** Abendliche Entspannung, Achtsamkeit (werden vorausgesetzt; Bezug in Phase 4).
+- **7Mind@School (BARMER-Programmpartner):** Konkrete Einschlaf-/Atemübung als Beispielelement im bildschirmfreien Abendritual (Bezug in Phase 4 – Vertiefung). `[NEU (Feedback BARMER F1)]`
 
 ---
 
@@ -159,7 +160,10 @@ Alltagsbezug herstellen, Vorwissen aktivieren, Neugier wecken; biologische Grund
 Die Gegenüberstellung von „gut geschlafen" und „Handy dabei" macht den möglichen Zusammenhang sichtbar – ohne ihn zu behaupten. Die Lernenden entdecken die Frage selbst. Das ist motivierender als eine Behauptung der Lehrkraft.
 
 **Zur Studienlage (Sek II):**
-Der Effekt von blauem Licht ist real, aber in der Öffentlichkeit oft übertrieben dargestellt. Neuere Forschung (z. B. Studien aus Oxford, 2023) zeigt: Der größte Schlafstörer ist nicht das Licht allein, sondern die Kombination aus Licht, aufwühlenden Inhalten und der kognitiven Aktivierung durch soziale Interaktion. Das ist kein Grund, Blaulicht zu verharmlosen – aber ein Anlass, in Phase 2 über weitere Faktoren zu sprechen.
+Der Effekt von blauem Licht ist real, aber in der Öffentlichkeit oft übertrieben dargestellt. Neuere Forschung (z. B. Studien aus Oxford, 2023) zeigt: Der größte Schlafstörer ist nicht das Licht allein, sondern die Kombination aus Licht, aufwühlenden Inhalten und der kognitiven Aktivierung durch soziale Interaktion. **Cain & Gradisar (2024)** ergänzen einen wichtigen Befund: Nicht jede Bildschirmzeit ist gleich – passives Scrollen wirkt schlafstörender als aktive Kommunikation mit Freundinnen und Freunden. Das ist kein Grund, Blaulicht zu verharmlosen – aber ein Anlass, in Phase 2 über weitere Faktoren zu sprechen. `[NEU (Feedback BARMER F3)]`
+
+**Schlaftypen & Social Jetlag (Sek II – relevant ab Phase 2):**
+In der Pubertät verschiebt sich der zirkadiane Rhythmus biologisch nach hinten: Jugendliche werden später müde und brauchen länger morgens. Frühe Schulzeiten erzeugen so an Wochentagen ein **Schlafdefizit**, das am Wochenende durch späteres Aufstehen kompensiert wird – das nennt man **Social Jetlag**. Hinzu kommen unterschiedliche **Chronotypen** (Eulen vs. Lerchen): Manche sind morgens fitter, andere abends. Das erklärt, warum gleiche Schlafzeiten nicht für alle gleich gut funktionieren – und warum Schlafqualität multifaktoriell ist. `[NEU (Feedback BARMER F4)]`
 
 **Startervideo:**
 Das Video ist bewusst stimmungsbildend, nicht informierend. Es soll Betroffenheit erzeugen, keine Erklärung liefern. Wenn es noch nicht produziert ist, genügt ein projiziertes Standbild (Jugendliche:r im Bett, Handy leuchtet) mit der Einblendung der Frage.
@@ -184,14 +188,14 @@ Das Video ist bewusst stimmungsbildend, nicht informierend. Es soll Betroffenhei
 
 ### Ziel
 
-Vielfältige Einflussfaktoren auf den Schlaf erkennen; über blaues Licht hinausdenken; verstehen, dass auch Inhalte, Erregung und FOMO den Schlaf stören
+Vielfältige Einflussfaktoren auf den Schlaf erkennen; über blaues Licht hinausdenken; verstehen, dass auch Inhalte, Erregung und FOMO den Schlaf stören können
 
 ### Ablauf
 
 | Zeit   | Element | Sozialform | Material | Durchführung |
 |--------|---------|-----------|---------|-------------|
 | 1 Min. | **Einführung** | Plenum | – | Lehrkraft: *„Wir haben gesehen, was blaues Licht macht. Aber das ist nicht das einzige Problem. Heute untersuchen wir drei verschiedene Einflussfaktoren – jede Gruppe einen."* |
-| 9 Min. | **Gruppenarbeit** | Gruppen (3–4 Personen) | AB 2a / 2b / 2c (je eine Gruppe einen Aspekt) | Gruppe A (AB 2a): Blaues Licht & Nachtmodus – Nachtmodus/Blaulichtfilter erkunden; Reflexionsfrage: „Reicht der Nachtmodus als Lösung?" Gruppe B (AB 2b): Inhalte, Aufregung & FOMO – Fallbeispiele zu aufwühlenden vs. beruhigenden Abendmedien; Frage: Warum hält soziale Interaktion wach, auch ohne helles Licht? Gruppe C (AB 2c): Warum ist Schlaf so wichtig? – Infografik lesen; drei überraschende Fakten markieren und mit eigenen Worten erklären. |
+| 9 Min. | **Gruppenarbeit** | Gruppen (3–4 Personen) | AB 2a / 2b / 2c (je eine Gruppe einen Aspekt) | Gruppe A (AB 2a): Blaues Licht & Nachtmodus – Nachtmodus/Blaulichtfilter erkunden; Reflexionsfrage: „Reicht der Nachtmodus als Lösung?" Gruppe B (AB 2b): Inhalte, Aufregung & FOMO – Fallbeispiele zu aufwühlenden vs. beruhigenden Abendmedien; Frage: Warum kann soziale Interaktion wachhalten, auch ohne helles Licht? Gruppe C (AB 2c): Warum ist Schlaf so wichtig? – Infografik lesen; drei überraschende Fakten markieren und mit eigenen Worten erklären. |
 | 4 Min. | **Kurzvorstellung & Blitzlicht** | Plenum | – | Jede Gruppe nennt ihren wichtigsten Befund in max. 1 Minute. Lehrkraft schließt mit Blitzlicht: *„Welche Gruppe hat euch am meisten überrascht?"* Kernbotschaft: Schlaf ist ein multifaktorielles Problem – Technik, Inhalte, FOMO und Gewohnheiten wirken zusammen. |
 | 1 Min. | **Hinweis: Alternative Stationenarbeit** | Plenum | – | *(Nur wenn explizit angesprochen)* Lehrkraft verweist: Bei mehr Zeit (z. B. Projekttag) kann diese Phase als Stationenarbeit durchgeführt werden: alle drei Gruppen rotieren durch alle drei Stationen (je ca. 4–5 Min.), sodass jede:r alle Aspekte kennenlernt. Für 90 Minuten ist die Gruppenarbeit mit Kurzvorstellung effizienter. |
 
@@ -204,7 +208,7 @@ Vielfältige Einflussfaktoren auf den Schlaf erkennen; über blaues Licht hinaus
 
 **Sek II:**
 - AB 2a: Kritische Analyse des Nachtmodus: Welche Wellenlängen werden gefiltert, welche nicht? Reicht Blaulichtfilter als alleinige Maßnahme – was sagt die Forschung?
-- AB 2b: Konzept FOMO vertiefen: Was ist FOMO? Welche sozialen Mechanismen halten wach (Antwort-Erwartung, soziale Vergleiche, Status-Angst)? Eigene Erfahrungen einordnen
+- AB 2b: Konzept FOMO vertiefen: Was ist FOMO? Welche sozialen Mechanismen können wachhalten (Antwort-Erwartung, soziale Vergleiche, Status-Angst)? Eigene Erfahrungen einordnen. **Studienbezug Cain & Gradisar (2024):** Passives Scrollen wirkt schlafstörender als aktive Kommunikation – Diskussion: Was bedeutet das für meinen eigenen Abend? `[NEU (Feedback BARMER F3)]`
 - AB 2c: Studienauswertung: statistische Daten zu Schlaf bei Jugendlichen; Hypothesen entwickeln
 
 ### Didaktischer Kommentar
@@ -342,8 +346,8 @@ Handlungsstrategien entwickeln, persönliches bildschirmfreies Abendritual entwe
 
 | Zeit   | Element | Sozialform | Material | Durchführung |
 |--------|---------|-----------|---------|-------------|
-| 4 Min. | **Think-Pair-Share: Was könnte helfen?** | Einzelarbeit → Partnerarbeit → Plenum | – | *Think:* „Was könnte mir helfen, besser zu schlafen?" (1 Min. still). *Pair:* Austausch mit Sitznachbar:in. *Share:* 4–5 Ideen im Plenum sammeln. Lehrkraft notiert ohne Wertung. Anschlussfrage: *„Und was macht es schwer, das umzusetzen?"* – Hindernisse benennen und würdigen. |
-| 5 Min. | **Partnerarbeit AB 4: Mein Abendritual** | Partnerarbeit | AB 4: Abendritual-Planer | Jede:r entwirft auf AB 4 ein eigenes bildschirmfreies Abendritual für die 30–60 Minuten vor dem Schlafen. Sek I: Auswahl aus vorgeschlagenen Aktivitäten + eigene Ideen. Sek II: Offen, mit Begründung und Einschätzung von Machbarkeit (SMART-Kriterien). Partnerarbeit: gegenseitiges Feedback. |
+| 4 Min. | **Think-Pair-Share: Was könnte helfen?** | Einzelarbeit → Partnerarbeit → Plenum | – | *Think:* „Was könnte mir helfen, besser zu schlafen?" (1 Min. still). *Pair:* Austausch mit Sitznachbar:in. *Share:* 4–5 Ideen im Plenum sammeln. Lehrkraft notiert ohne Wertung. Anschlussfrage: *„Und was macht es schwer, das umzusetzen?"* – Hindernisse benennen und würdigen. **Exemplarisch wird dabei eine kurze 7Mind@School-Einschlaf-/Atemübung (3–5 Min.) als ein konkreter Vorschlag genannt** – als niedrigschwelliges Beispiel unter mehreren, nicht als Pflicht. `[NEU (Feedback BARMER F1)]` |
+| 5 Min. | **Partnerarbeit AB 4: Mein Abendritual** | Partnerarbeit | AB 4: Abendritual-Planer | Jede:r entwirft auf AB 4 ein eigenes bildschirmfreies Abendritual für die 30–60 Minuten vor dem Schlafen. Sek I: Auswahl aus vorgeschlagenen Aktivitäten + eigene Ideen (inkl. „Kurze 7Mind@School-Übung" als Option). Sek II: Offen, mit Begründung und Einschätzung von Machbarkeit (SMART-Kriterien). Partnerarbeit: gegenseitiges Feedback. |
 | 4 Min. | **Einführung Schlafprotokoll AB 5** | Plenum | AB 5: Schlafprotokoll (7 Tage) | Lehrkraft erklärt AB 5 als Selbstexperiment: *„Ihr führt ab heute für eine Woche ein Protokoll. Ziel: Herausfinden, ob es einen Zusammenhang zwischen eurer Bildschirmzeit und eurer Schlafqualität gibt."* Felder erläutern: Einschlafzeit, Aufwachzeit, Schlafdauer; Bildschirmzeit letzte 60 Min. vor dem Schlafen; subjektive Schlafqualität (Skala 1–5). Freiwillige Klassen-Challenge erwähnen. |
 | 2 Min. | **Überleitung & Hinweis** | Plenum | – | *„Im Follow-up in einer Woche schauen wir gemeinsam, was ihr herausgefunden habt. Niemand muss sein Protokoll vorzeigen – aber wer möchte, kann berichten."* |
 
@@ -494,7 +498,7 @@ Rückblick auf den Lernprozess; kein Handlungsdruck, kein Produkt – Innehalten
 | Zeit   | Element | Sozialform | Material | Durchführung |
 |--------|---------|-----------|---------|-------------|
 | 4 Min. | **Blitzlicht-Abschlussrunde** | Plenum | – | Lehrkraft lädt ein: *„Jede:r sagt in einem Satz: Was nehme ich heute mit? Was hat mich überrascht? Was möchte ich ausprobieren?"* Freiwillig, kein Kommentar der Lehrkraft – nur zuhören. |
-| 1 Min. | **Kernbotschaften (optional)** | Plenum | Tafelbild oder Handout | Lehrkraft zeigt oder nennt die vier Kernbotschaften: *„Schlaf ist Gesundheit – kein Luxus!"* / *„Blaues Licht und aufwühlende Inhalte halten wach."* / *„Kleine Rituale – große Wirkung."* / *„Du hast die Wahl – und du kannst es testen!"* Optional als Aushang oder Handout mitgeben. |
+| 1 Min. | **Kernbotschaften (optional)** | Plenum | Tafelbild oder Handout | Lehrkraft zeigt oder nennt die vier Kernbotschaften: *„Schlaf ist Gesundheit – kein Luxus!"* / *„Blaues Licht und aufwühlende Inhalte können wachhalten."* / *„Kleine Rituale – große Wirkung."* / *„Du hast die Wahl – und du kannst es testen!"* Optional als Aushang oder Handout mitgeben. |
 
 ### Differenzierung
 
@@ -569,9 +573,9 @@ Das Follow-up entfaltet seinen Wert nur, wenn das Schlafprotokoll tatsächlich g
 ## Kernbotschaften der Lerneinheit
 
 1. **Schlaf ist kein Luxus, sondern lebenswichtig** – besonders für Konzentration, Lernen und psychische Gesundheit.
-2. **Blaues Licht beeinflusst unseren Schlaf-Wach-Rhythmus** – Bildschirme senden Signale ans Gehirn, die Melatonin unterdrücken und das Einschlafen verzögern.
-3. **Nicht nur das Licht ist das Problem** – auch Inhalte, kognitive Erregung und FOMO stören das Einschlafen, oft stärker als das Licht selbst.
-4. **Bildschirmfreie Rituale helfen** – wer bewusst Pausen vor dem Schlafen einlegt, schläft besser und fühlt sich erholter.
+2. **Blaues Licht kann unseren Schlaf-Wach-Rhythmus beeinflussen** – Bildschirme können Signale ans Gehirn senden, die Melatonin unterdrücken und das Einschlafen verzögern.
+3. **Nicht nur das Licht ist das Problem** – auch Inhalte, kognitive Erregung und FOMO können das Einschlafen stören, oft stärker als das Licht selbst.
+4. **Bildschirmfreie Rituale können helfen** – wer bewusst Pausen vor dem Schlafen einlegt, kann besser schlafen und sich erholter fühlen.
 5. **Selbstbeobachtung schafft Bewusstsein** – das Schlafprotokoll macht eigene Muster sichtbar und stärkt die Selbstwirksamkeit.
 
 ---

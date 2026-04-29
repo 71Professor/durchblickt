@@ -235,7 +235,7 @@ Bewertet die folgenden Abendmedien: Macht euch jede Aktivität eher schläfriger
 
 ---
 
-### Teil 2: Warum hält soziale Interaktion wach?
+### Teil 2: Warum kann soziale Interaktion wachhalten?
 
 Erklärt in eigenen Worten: Warum bleibt man nach einem WhatsApp-Gespräch oft noch lange wach – auch wenn es kein helles Licht mehr gibt?
 
@@ -269,11 +269,13 @@ Beantwortet die Fragen:
 
 5. Inwiefern sind Plattformen so gestaltet, dass FOMO verstärkt wird? Nennt konkrete Designelemente.
 
+6. **Studienbezug Cain & Gradisar (2024):** Die Studie zeigt: Nicht jede Bildschirmzeit ist gleich – passives Scrollen wirkt schlafstörender als aktive Kommunikation mit Freundinnen und Freunden. Diskutiert: Wo verläuft für euch die Grenze zwischen „passivem Scrollen" und „aktiver Kommunikation"? Welche Konsequenz hat dieser Befund für euer eigenes Abendverhalten? `[NEU (Feedback BARMER F3)]`
+
 ---
 
 ### Für die Kurzvorstellung (1 Minute)
 
-- Welche Inhalte halten besonders wach – und warum?
+- Welche Inhalte können besonders wachhalten – und warum?
 - Was ist FOMO – und warum ist es abends besonders stark?
 - Euer wichtigster Befund
 
@@ -282,7 +284,7 @@ Beantwortet die Fragen:
 ### Lösungshinweise für Lehrkräfte
 
 **Aufwühlend vs. beruhigend:**
-TikTok, kompetitive Spiele, WhatsApp, Nachrichten → tendenziell wach (kognitive Aktivierung, emotionale Erregung, Unvollständigkeitsgefühl). Entspannungsmusik, ruhiges Buch, Podcasts → tendenziell müde. Wichtig: individuell verschieden; kein Absolutum.
+TikTok, kompetitive Spiele, WhatsApp, Nachrichten → tendenziell wach (kognitive Aktivierung, emotionale Erregung, Unvollständigkeitsgefühl). Entspannungsmusik, ruhiges Buch, Podcasts → tendenziell müde. Wichtig: individuell verschieden; kein Absolutum. **Cain & Gradisar (2024):** Aktiv-passiv-Differenzierung beachten – passives Scrollen ist schlafstörender als aktive Kommunikation; reine Bildschirmzeit ist kein guter Indikator. `[NEU (Feedback BARMER F3)]`
 
 **Soziale Interaktion:**
 Das Gehirn bleibt sozial aktiv: Warten auf Antworten, Verarbeiten von Gesprächsinhalten, emotionale Reaktionen auf Nachrichten. Soziale Kogniton braucht Zeit zum „Herunterkühlen" – ähnlich wie nach einem aufregenden Gespräch im echten Leben.
@@ -348,7 +350,8 @@ Schlafmangel beeinflusst Hunger-regulierende Hormone (Ghrelin ↑, Leptin ↓) �
 **Zusatz für Sek II:**
 
 4. Welche Erkenntnisse aus der Infografik sind für euch persönlich am relevantesten – und warum?
-5. Schlafmangel bei Jugendlichen ist teilweise biologisch bedingt: Der zirkadiane Rhythmus verschiebt sich in der Pubertät nach hinten (Social Jetlag). Was bedeutet das für frühe Schulzeiten?
+5. Schlafmangel bei Jugendlichen ist teilweise biologisch bedingt: Der zirkadiane Rhythmus verschiebt sich in der Pubertät nach hinten (**Social Jetlag**). Was bedeutet das für frühe Schulzeiten?
+6. **Chronotypen – Eulen und Lerchen:** Manche Menschen sind morgens fitter („Lerche"), andere abends („Eule"). Diese Veranlagung ist zu einem großen Teil biologisch. Diskutiert: Welcher Typ seid ihr eher? Wie unterscheidet sich euer Schlafrhythmus zwischen Wochentagen und Wochenende? Was würde sich ändern, wenn der Stundenplan eurem Chronotyp besser entsprechen würde? `[NEU (Feedback BARMER F4)]`
 
 ---
 
@@ -369,6 +372,9 @@ Schlafmangel beeinflusst Hunger-regulierende Hormone (Ghrelin ↑, Leptin ↓) �
 
 **Schlafmangel bei Jugendlichen (Sek II – Social Jetlag):**
 Durch hormonelle Veränderungen in der Pubertät verschiebt sich der zirkadiane Rhythmus um 1–3 Stunden nach hinten. Jugendliche sind abends später müde und morgens später ausgeruht. Frühe Schulanfangszeiten führen zu chronischem Schlafentzug. Das ist biologisch, nicht Faulheit.
+
+**Chronotypen (Sek II):**
+Eule (Spättyp) und Lerche (Frühtyp) sind weitgehend genetisch bedingt. Schultypisch ist: Lerchen kommen mit dem Stundenplan besser zurecht; Eulen müssen gegen ihre Biologie anschreiben. Wichtig: Keine Wertung – beide Typen sind „normal", der Stundenplan passt nur für einen Teil. Brücke zur multifaktoriellen Sicht: Schlafqualität hängt nicht allein vom Verhalten ab. `[NEU (Feedback BARMER F4)]`
 
 ---
 
@@ -650,6 +656,7 @@ Wähle aus der Liste oder füge eigene Ideen hinzu:
 ☐ Ruhige Musik hören (z. B. Lofi, Klassik, Naturgeräusche)
 ☐ Tagebuch oder Journal schreiben
 ☐ Atemübung oder Entspannungsübung (z. B. 4-7-8-Atmung)
+☐ Kurze 7Mind@School-Einschlaf-/Atemübung (3–5 Min., über die BARMER-Schul-App) `[NEU (Feedback BARMER F1)]`
 ☐ Gespräch mit jemandem aus der Familie
 ☐ Leichtes Stretching oder Yoga
 ☐ Sketchbook / Zeichnen

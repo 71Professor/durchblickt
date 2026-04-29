@@ -66,7 +66,8 @@
 | Grobkonzept (Phase 1–4)                | ✅ fertig (intern) | Jan 2026  | Grobkonzept_LH4_2026_Schlaf.md                                                |
 | Leitlinien-Check (Phase 4a)            | ✅ fertig          | März 2026 | LH4_Leitlinien-Check_2026-03.md – alle 5 Leitlinien erfüllt, einreichungsreif |
 | Phase 4b – BARMER-Genehmigungsvorlage  | ✅ fertig          | März 2026 | lh4/LH4_Grobkonzept_Schlaf_barmer.md neu erstellt (7 Phasen, GS-Erweiterung in Phase 4+5) |
-| ⏳ Warte auf BARMER-Freigabe            | ⏳ ausstehend      | –         | Genehmigungsvorlage bereit, Einreichung ausstehend                           |
+| BARMER-Rückmeldung eingearbeitet       | ✅ fertig          | 29.04.2026 | F1–F4 in LH4_Grobkonzept_eingereicht.md eingebaut; Lerneinheit + Arbeitsblätter parallel angepasst; DOCX `output/LH4_Grobkonzept_Re-Einreichung_2026-04-29.docx` |
+| ⏳ Re-Einreichung an BARMER             | ⏳ ausstehend      | –         | DOCX bereit, Versand an Anka noch offen                                      |
 | Feinkonzept + Arbeitsblätter (Phase 5) | ✅ fertig          | April 2026 | LH4_Lerneinheit.md + LH4_Arbeitsblätter.md |
 | Ablaufstruktur (Phase 6)               | ✅ fertig          | April 2026 | In LH4_Lerneinheit.md integriert (6 Phasen, 90 Min.) |
 | Grundschul-Erweiterung (Phase 6a)      | ✅ fertig          | April 2026 | In Phase 3 + 4 eingebaut; PS AB 1 + PS AB 2 in LH4_Arbeitsblätter.md |
@@ -119,4 +120,4 @@
 | LH1 | Feedback erwartet (Anka + Fabienne)             | –        | –                          |
 | LH2 | Phase 4b DOCX exportieren → an BARMER einreichen | –        | barmer.md fertig           |
 | LH3 | Re-Einreichungs-DOCX (29.04.2026) an BARMER versenden | –        | output/LH3_Grobkonzept_Re-Einreichung_2026-04-29.docx fertig |
-| LH4 | BARMER-Freigabe abwarten                        | –        | Genehmigungsvorlage bereit |
+| LH4 | Re-Einreichungs-DOCX (29.04.2026) an BARMER versenden | –        | output/LH4_Grobkonzept_Re-Einreichung_2026-04-29.docx fertig |
