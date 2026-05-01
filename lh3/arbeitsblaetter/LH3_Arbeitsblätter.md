@@ -9,15 +9,16 @@
 
 | AB | Titel | Phase | Sozialform | Zielgruppe |
 |----|-------|-------|-----------|-----------|
-| AB 1 | Warum verbreiten sich Mythen? | 1 | Partnerarbeit | Sek I + II |
-| AB 2 | Die QQQQ-Methode | 2 | Gruppenarbeit (Einführung) | Sek I + II |
-| AB 3a | Faktencheck: „Detox-Tee entgiftet deinen Körper" | 2 | Gruppenarbeit | Sek I + II |
-| AB 3b | Faktencheck: „8 Gläser Wasser pro Tag sind Pflicht" | 2 | Gruppenarbeit | Sek I + II |
-| AB 3c | Faktencheck: „Zucker macht Kinder hyperaktiv" | 2 | Gruppenarbeit | Sek I + II |
-| AB 3d | Faktencheck: „Vitamin C schützt vor Erkältungen" | 2 | Gruppenarbeit | Sek I + II |
-| AB 4 | Drei fiktive Influencer-Profile | 3 | Gruppenarbeit | Sek I + II |
-| AB 5 | „Wahr oder Fake?"-Quiz | 5 | Partnerarbeit | Sek I + II |
-| PS AB 1 | Detektiv-Arbeitsblatt (Primarstufe) | 2 | 2er-Paare | GS Kl. 3–4 |
+| AB 1 | Warum verbreiten sich Mythen? | 2 | Partnerarbeit | Sek I + II |
+| AB 2 | Die QQQQ-Methode | 3 | Plenum (Einführung) | Sek I + II |
+| AB 3a | Faktencheck: „Detox-Tee entgiftet deinen Körper" | 3 | Gruppenarbeit | Sek I + II |
+| AB 3b | Faktencheck: „8 Gläser Wasser pro Tag sind Pflicht" | 3 | Gruppenarbeit | Sek I + II |
+| AB 3c | Faktencheck: „Zucker macht Kinder hyperaktiv" | 3 | Gruppenarbeit | Sek I + II |
+| AB 3d | Faktencheck: „Vitamin C schützt vor Erkältungen" | 3 | Gruppenarbeit | Sek I + II |
+| AB 4 | Drei fiktive Influencer-Profile | 4 | Gruppenarbeit | Sek I + II |
+| AB 5a | Quiz-Karten „Wahr oder Fake?" | 6 | Partnerarbeit | Sek I |
+| AB 5b | Mythen-Labor (Vorder-/Rückseite) | 6 | Partnerarbeit | Sek II |
+| PS AB 1 | Detektiv-Arbeitsblatt (Primarstufe) | 3 | 2er-Paare | GS Kl. 3–4 |
 
 ---
 
@@ -25,7 +26,7 @@
 
 ## AB 1: Warum verbreiten sich Mythen?
 
-**Phase 1 | Partnerarbeit | Sek I + II**
+**Phase 2 (Hinführung) | Partnerarbeit | Sek I + II**
 
 ---
 
@@ -78,7 +79,7 @@ Bei Social-Media-Gesundheitsinformationen ist „viele teilen das" kein Qualitä
 
 ## AB 2: Die QQQQ-Methode
 
-**Phase 2 | Gruppenarbeit (Einführung) | Sek I + II**
+**Phase 3 (Erarbeitung I) | Plenum (Einführung) | Sek I + II**
 
 ---
 
@@ -159,7 +160,7 @@ Kreuze für jede Frage an:
 
 ## AB 3a: Faktencheck – „Detox-Tee entgiftet deinen Körper"
 
-**Phase 2 | Gruppenarbeit | Sek I + II**
+**Phase 3 (Erarbeitung I) | Gruppenarbeit | Sek I + II**
 
 ---
 
@@ -224,7 +225,7 @@ Kreuze für jede Frage an:
 
 ## AB 3b: Faktencheck – „8 Gläser Wasser pro Tag sind Pflicht"
 
-**Phase 2 | Gruppenarbeit | Sek I + II**
+**Phase 3 (Erarbeitung I) | Gruppenarbeit | Sek I + II**
 
 ---
 
@@ -291,7 +292,7 @@ Kreuze für jede Frage an:
 
 ## AB 3c: Faktencheck – „Zucker macht Kinder hyperaktiv"
 
-**Phase 2 | Gruppenarbeit | Sek I + II**
+**Phase 3 (Erarbeitung I) | Gruppenarbeit | Sek I + II**
 
 ---
 
@@ -361,7 +362,7 @@ Kreuze für jede Frage an:
 
 ## AB 3d: Faktencheck – „Vitamin C schützt zuverlässig vor Erkältungen"
 
-**Phase 2 | Gruppenarbeit | Sek I + II**
+**Phase 3 (Erarbeitung I) | Gruppenarbeit | Sek I + II**
 
 ---
 
@@ -429,7 +430,7 @@ Das ist das komplexeste der vier Beispiele. Die Wahrheit ist weder eindeutig „
 
 ## AB 4: Drei fiktive Influencer-Profile
 
-**Phase 3 | Gruppenarbeit | Sek I + II**
+**Phase 4 (Erarbeitung II) | Gruppenarbeit | Sek I + II**
 
 ---
 
@@ -550,132 +551,293 @@ Analysiert das euch zugeteilte Influencer-Profil. Beantwortet die Fragen und ber
 
 ---
 
-## AB 5: „Wahr oder Fake?"-Quiz
+## AB 5a: Quiz-Karten „Wahr oder Fake?"
 
-**Phase 5 | Partnerarbeit | Sek I + II**
-
----
-
-### Sek I: Erstelle Multiple-Choice-Quizfragen
-
-Erstelle gemeinsam mit deiner Partnerin / deinem Partner **2–3 Quiz-Fragen** nach diesem Muster.
-
-Nutzt, was ihr heute gelernt habt – oder bringt eigene Beispiele ein.
+**Phase 6 (Transfer) | Partnerarbeit | Sek I**
 
 ---
 
-**Vorlage:**
+### Worum geht's?
 
-> **Behauptung:** _____________________________________________
->
-> ☐ Wahr – weil: _______________________________________________
->
-> ☐ Fake – weil: _______________________________________________
->
-> ☐ Teilweise wahr – weil: ______________________________________
->
-> **Auflösung:** _______________________________________________
->
-> **Quelle / Begründung:** _______________________________________________
+Ihr habt heute die **QQQQ-Methode** kennengelernt: **Q**uelle – **Q**ualität – **Q**uerbezüge – **Q**ualitätssiegel. Jetzt seid ihr dran: Werdet selbst zu Quizmaster:innen und baut **2–3 Quiz-Karten** zu Gesundheitsbehauptungen, die andere herausfordern – und zeigen, was ihr gelernt habt.
 
 ---
 
-**Unsere Quizfragen:**
+### So geht ihr vor
 
-**Frage 1:**
-
-> **Behauptung:** _____________________________________________
->
-> ☐ Wahr &nbsp;&nbsp;&nbsp; ☐ Fake &nbsp;&nbsp;&nbsp; ☐ Teilweise wahr
->
-> **Auflösung:** _______________________________________________
+1. **Behauptung wählen:** Sucht euch eine Gesundheitsbehauptung aus, die ihr kennt – aus Social Media, von Freund:innen, aus der Familie oder aus dem Unterricht heute. Schaut auf die Ideen-Box rechts unten, falls euch nichts einfällt.
+2. **Karte ausfüllen:** Schreibt die Behauptung auf, kreuzt eure Antwort an (Wahr / Fake / Teilweise wahr) und begründet sie kurz mit **mindestens einem QQQQ-Stichwort**.
+3. **Auflösung:** Notiert in einem Satz, warum eure Antwort stimmt – und woher ihr das wisst (z. B. „BZgA sagt …" oder „Studie laut Cochrane …").
+4. **Quiz im Plenum:** Eure Karten werden gemischt – Lehrkraft zieht 4–6 aus und spielt sie mit der Klasse.
 
 ---
 
-**Frage 2:**
+### 💡 Ideen-Box
 
-> **Behauptung:** _____________________________________________
->
-> ☐ Wahr &nbsp;&nbsp;&nbsp; ☐ Fake &nbsp;&nbsp;&nbsp; ☐ Teilweise wahr
->
-> **Auflösung:** _______________________________________________
+Falls euch keine Behauptung einfällt – sucht euch eine raus oder erfindet eine ähnliche:
 
----
-
-**Frage 3 (optional):**
-
-> **Behauptung:** _____________________________________________
->
-> ☐ Wahr &nbsp;&nbsp;&nbsp; ☐ Fake &nbsp;&nbsp;&nbsp; ☐ Teilweise wahr
->
-> **Auflösung:** _______________________________________________
+- „Schokolade macht schlauer."
+- „Wer kein Frühstück isst, nimmt schneller ab."
+- „Karotten sind gut für die Augen."
+- „Eis essen bei Halsschmerzen ist schlecht."
+- „Nach dem Essen darf man eine Stunde nicht schwimmen."
+- „Spinat enthält besonders viel Eisen."
+- „Wer viel Wasser trinkt, hat reinere Haut."
+- „Knacken im Finger gibt später Arthrose."
 
 ---
 
-### Sek II: Erstelle offene Quizfragen mit Quellenangabe
+### Quiz-Karte 1
 
-Erstelle 2–3 Quizfragen, die über „Wahr oder Fake?" hinausgehen. Erlaubt ist auch die Kategorie **„Differenziert"** – wenn die Antwort vom Kontext abhängt.
+> **Behauptung:**
+> _____________________________________________
+> _____________________________________________
+>
+> **Unsere Antwort:** &nbsp;&nbsp; ☐ Wahr &nbsp;&nbsp; ☐ Fake &nbsp;&nbsp; ☐ Teilweise wahr
+>
+> **Begründung mit QQQQ** (kreuzt an, was passt):
+> ☐ **Q**uelle: Wer sagt das? &nbsp; ☐ **Q**ualität: Welche Belege?
+> ☐ **Q**uerbezüge: Sagen das auch andere? &nbsp; ☐ **Q**ualitätssiegel: Vertrauenswürdige Stelle?
+>
+> **Stichwort-Begründung (1 Satz):**
+> _____________________________________________
+>
+> **Auflösung:**
+> _____________________________________________
+> _____________________________________________
 
 ---
 
-**Vorlage:**
+### Quiz-Karte 2
 
-> **Behauptung:** _____________________________________________
+> **Behauptung:**
+> _____________________________________________
+> _____________________________________________
 >
-> **Unsere Einschätzung:** ☐ Wahr &nbsp;&nbsp;&nbsp; ☐ Fake &nbsp;&nbsp;&nbsp; ☐ Differenziert
+> **Unsere Antwort:** &nbsp;&nbsp; ☐ Wahr &nbsp;&nbsp; ☐ Fake &nbsp;&nbsp; ☐ Teilweise wahr
 >
-> **Begründung:** _____________________________________________
+> **Begründung mit QQQQ** (kreuzt an, was passt):
+> ☐ **Q**uelle: Wer sagt das? &nbsp; ☐ **Q**ualität: Welche Belege?
+> ☐ **Q**uerbezüge: Sagen das auch andere? &nbsp; ☐ **Q**ualitätssiegel: Vertrauenswürdige Stelle?
 >
-> **Quelle:** _____________________________________________
+> **Stichwort-Begründung (1 Satz):**
+> _____________________________________________
 >
-> **Warum haben wir diese Frage gewählt?** _____________________________________________
-
----
-
-**Unsere Quizfragen:**
-
-**Frage 1:**
-
-> **Behauptung:** _____________________________________________
->
-> **Einschätzung:** ☐ Wahr &nbsp;&nbsp;&nbsp; ☐ Fake &nbsp;&nbsp;&nbsp; ☐ Differenziert
->
-> **Begründung:** _____________________________________________
->
-> **Quelle:** _____________________________________________
+> **Auflösung:**
+> _____________________________________________
+> _____________________________________________
 
 ---
 
-**Frage 2:**
+### Quiz-Karte 3 *(optional)*
 
-> **Behauptung:** _____________________________________________
+> **Behauptung:**
+> _____________________________________________
+> _____________________________________________
 >
-> **Einschätzung:** ☐ Wahr &nbsp;&nbsp;&nbsp; ☐ Fake &nbsp;&nbsp;&nbsp; ☐ Differenziert
+> **Unsere Antwort:** &nbsp;&nbsp; ☐ Wahr &nbsp;&nbsp; ☐ Fake &nbsp;&nbsp; ☐ Teilweise wahr
 >
-> **Begründung:** _____________________________________________
+> **Begründung mit QQQQ** (kreuzt an, was passt):
+> ☐ **Q**uelle &nbsp; ☐ **Q**ualität &nbsp; ☐ **Q**uerbezüge &nbsp; ☐ **Q**ualitätssiegel
 >
-> **Quelle:** _____________________________________________
-
----
-
-**Frage 3 (optional):**
-
-> **Behauptung:** _____________________________________________
+> **Stichwort-Begründung (1 Satz):**
+> _____________________________________________
 >
-> **Einschätzung:** ☐ Wahr &nbsp;&nbsp;&nbsp; ☐ Fake &nbsp;&nbsp;&nbsp; ☐ Differenziert
->
-> **Begründung:** _____________________________________________
->
-> **Quelle:** _____________________________________________
+> **Auflösung:**
+> _____________________________________________
 
 ---
 
 ### Hinweise für Lehrkräfte
 
-- Quiz-Fragen werden im Plenum gespielt: Lehrkraft oder Schüler:in liest vor, Klasse schätzt per Daumen/Karte ab, dann Auflösung
-- Tempo halten: Lieber 5 Fragen in 4 Minuten als 2 mit langer Debatte
-- Besonders gute Fragen (mit Einverständnis) für künftige Klassen aufbewahren oder als Aushang nutzen
-- Kategorie „Differenziert" (Sek II): Explizit würdigen – sie zeigt echtes Verständnis für Wissenschaft
+**Ablauf im Plenum (3 Min.):**
+- Karten einsammeln, mischen, 4–6 davon ziehen
+- Lehrkraft oder das ausstellende 2er-Team liest die Behauptung vor
+- Klasse stimmt per **Daumen** ab: hoch = Wahr, runter = Fake, waagerecht = Teilweise wahr
+- Team gibt Auflösung mit QQQQ-Begründung
+- Tempo halten: lieber 5 Karten in 3 Minuten als 2 mit langer Debatte
+
+**Lösungshinweise zu den Beispielen aus der Ideen-Box:**
+
+| Behauptung | Antwort | QQQQ-Bezug |
+|------------|---------|-----------|
+| Schokolade macht schlauer | Fake | **Quelle**: oft Süßwarenhersteller; **Qualität**: keine seriösen Studien |
+| Kein Frühstück = schneller abnehmen | Teilweise wahr | **Querbezüge**: differenzierte Studienlage, nicht pauschal richtig |
+| Karotten gut für die Augen | Teilweise wahr | **Qualität**: Vitamin A wichtig, aber Karotten machen Sehen nicht „besser" |
+| Eis bei Halsschmerzen ist schlecht | Fake | **Querbezüge**: HNO-Fachgesellschaften – Kühlung kann sogar lindern |
+| Nach Essen 1 Std. nicht schwimmen | Fake | **Quelle**: alte Volksweisheit, kein wissenschaftlicher Beleg |
+| Spinat = besonders viel Eisen | Teilweise wahr | **Qualität**: Eisengehalt durchschnittlich, Mythos beruht auf altem Mess-Fehler |
+| Viel Wasser = reinere Haut | Teilweise wahr | **Qualität**: schwache Evidenz, individuell sehr unterschiedlich |
+| Fingerknacken gibt Arthrose | Fake | **Querbezüge**: Langzeitstudien zeigen keinen Zusammenhang |
+
+**Pädagogische Hinweise:**
+- Auch „Teilweise wahr" ausdrücklich würdigen – das Erkennen von Differenziertheit ist eine wichtige Lernleistung
+- Quiz nicht als Wettbewerb mit Verlierer:innen aufbauen; Fokus liegt auf gemeinsamem Lernen
+- Besonders gute Karten (mit Einverständnis) für künftige Klassen aufheben oder als Klassen-Aushang nutzen
+- Wenn ein 2er-Team eine Behauptung wählt, die die Lehrkraft selbst nicht sicher einschätzen kann: gemeinsam mit der Klasse die QQQQ-Methode anwenden – das ist ein lehrreicher Modellfall
+
+---
+
+---
+
+## AB 5b: Mythen-Labor (Vorder-/Rückseite)
+
+**Phase 6 (Transfer) | Partnerarbeit | Sek II**
+
+---
+
+### Worum geht's?
+
+Ihr habt heute viele Gesundheitsmythen analysiert – jetzt dreht ihr den Spieß um. Im **Mythen-Labor** baut ihr selbst einen viralen Gesundheits-Post mit eingebauten Manipulationsmechanismen. Auf der **Rückseite** entlarvt ihr diese Mechanismen anschließend mit der QQQQ-Methode.
+
+**Warum das?** Wer einen glaubwürdig wirkenden Mythos *konstruieren* kann, durchschaut ihn auch besser. Ihr werdet zu Mythen-Bauer:innen *und* Mythen-Aufklärer:innen zugleich.
+
+> ⚠️ **Wichtig:** Eure Posts werden **ausschließlich im Klassenkontext** geteilt – sie dürfen nicht real auf Social Media veröffentlicht werden.
+
+---
+
+### So geht ihr vor (6 Min.)
+
+1. **Thema wählen** (1 Min.): Sucht euch ein Gesundheitsthema, das emotionalisiert – z. B. Detox, Schlaf, Workout, Schönheitspflege, Ernährung, Mental Health.
+2. **Vorderseite bauen** (3 Min.): Entwickelt einen viralen Post – Behauptung + Bild-/Captionidee + Hashtag(s) + Plattform. Bewusst Manipulationsmechanismen einbauen.
+3. **Rückseite ausfüllen** (2 Min.): Markiert auf der Auflösungs-Seite, welche QQQQ-Schwächen ihr eingebaut habt – und benennt sie kurz.
+
+---
+
+### 🔮 VORDERSEITE – Der Mythos
+
+> **Plattform:** ☐ Instagram &nbsp;&nbsp; ☐ TikTok &nbsp;&nbsp; ☐ YouTube Shorts &nbsp;&nbsp; ☐ Facebook &nbsp;&nbsp; ☐ andere: _______
+>
+> **Account-Name (fiktiv):** @____________________________
+>
+> **Profil-Beschreibung in 1 Zeile** (z. B. „Wellness Coach | Mom of 2 | Affiliate ↓"):
+> _____________________________________________
+>
+> ---
+>
+> **Headline / Hauptbehauptung** (provokant, emotional, einfach):
+> _____________________________________________
+> _____________________________________________
+>
+> ---
+>
+> **Bild- / Videoidee** (kurz beschreiben, z. B. „Vorher-Nachher", „Nahaufnahme Glas Wasser", „weiße Tabletten in der Hand"):
+> _____________________________________________
+> _____________________________________________
+>
+> ---
+>
+> **Caption / Untertext** (Erzählung, scheinbarer Beleg, Aufruf zum Handeln):
+> _____________________________________________
+> _____________________________________________
+> _____________________________________________
+>
+> ---
+>
+> **Hashtags** (3–5 Stück): #_______________ #_______________ #_______________ #_______________ #_______________
+>
+> **Call-to-Action** (z. B. „Link in Bio", „Code XY für 20 % Rabatt", „Speichern und teilen"):
+> _____________________________________________
+
+---
+
+### 🔍 RÜCKSEITE – Die QQQQ-Auflösung
+
+**Welche Manipulationsmechanismen habt ihr eingebaut?** Kreuzt an und benennt das jeweilige Element aus eurer Vorderseite.
+
+#### Q1 – Quelle (wer sagt das?)
+
+☐ **Anonyme oder nicht überprüfbare Quelle** &nbsp; (z. B. „Eine Ärztin sagt …" ohne Namen)
+☐ **Pseudo-Autorität** &nbsp; (Selbsttitulierung wie „Coach", „Experte" ohne anerkannten Abschluss)
+☐ **Kommerzielles Interesse verschleiert** &nbsp; (Affiliate-Link, Rabattcode, eigenes Produkt)
+
+> **Konkretes Beispiel auf eurer Vorderseite:** _____________________________
+
+#### Q2 – Qualität (welche Belege?)
+
+☐ **Fehlende oder vage Studienangabe** &nbsp; („Studien zeigen …" ohne Quelle)
+☐ **Suggestive Zahl / Prozentangabe** &nbsp; (z. B. „87 % entgiftet")
+☐ **Anekdote als Beweis** &nbsp; („Bei mir hat es funktioniert!")
+☐ **Cherry Picking** &nbsp; (nur passende Aspekte erwähnt, Gegenargumente ausgeblendet)
+
+> **Konkretes Beispiel auf eurer Vorderseite:** _____________________________
+
+#### Q3 – Querbezüge (was sagen andere?)
+
+☐ **Keine unabhängigen Quellen genannt**
+☐ **Suggestion eines Konsenses**, der nicht existiert (z. B. „Alle wissen das")
+☐ **Echo-Kammer-Effekt** &nbsp; (nur Bestätiger:innen zitiert, keine Kritik)
+
+> **Konkretes Beispiel auf eurer Vorderseite:** _____________________________
+
+#### Q4 – Qualitätssiegel (vertrauenswürdige Stelle?)
+
+☐ **Scheinbares Siegel / Pseudo-Logo** &nbsp; (z. B. „Klinisch getestet")
+☐ **Werbung nicht gekennzeichnet** &nbsp; (kein „#Werbung", kein „Anzeige")
+☐ **Verstoß gegen EU-Kennzeichnungspflicht** &nbsp; (Affiliate ohne Hinweis)
+
+> **Konkretes Beispiel auf eurer Vorderseite:** _____________________________
+
+---
+
+### 🎭 Eingebaute emotionale / strukturelle Tricks
+
+☐ **Angstframing** &nbsp; (z. B. „Diese 5 Dinge zerstören dein Mikrobiom!")
+☐ **Hoffnung auf einfache Lösung** &nbsp; (z. B. „In 2 Wochen 5 Kilo!")
+☐ **Sozialer Beweis** &nbsp; (Follower-Zahlen, Likes, „12.000 zufriedene Kundinnen")
+☐ **Körperideal-Trigger** &nbsp; (Vorher-Nachher, „Glow", makellose Haut)
+☐ **Illusory Truth Effect** &nbsp; (Wiederholung erzeugt Wahrheits-Eindruck)
+☐ **Naturalistic Fallacy** &nbsp; („Natürlich = gesund", „Keine Chemie!")
+
+> **Welcher Trick ist euer „Hauptwirkstoff" – und warum?**
+> _____________________________________________
+> _____________________________________________
+
+---
+
+### ✏️ Selbstreflexion (1 Satz pro Frage)
+
+1. **Welche eurer Mechanismen würde am wahrscheinlichsten viral gehen – und warum?**
+   _____________________________________________
+
+2. **Welcher Mechanismus war am leichtesten einzubauen – und was sagt das aus?**
+   _____________________________________________
+
+3. **Was wäre der beste „Faktencheck-Konter" gegen euren Post in einem Satz?**
+   _____________________________________________
+
+---
+
+### Hinweise für Lehrkräfte
+
+**Ablauf der Galerie-Runde (3 Min.):**
+- 3–4 ausgewählte Posts pinnen / digital projizieren
+- Vorderseite zuerst zeigen: *„Würdet ihr das teilen / glauben?"* – kurze Daumen-Abfrage
+- Dann Rückseite zeigen / das Team auflösen lassen
+- Diskussion: *„Welche Manipulationstechnik war am wirkungsvollsten? Welche habt ihr selbst schon real gesehen?"*
+
+**Beispiel zur Orientierung** (an die Tafel oder als Anker-Post):
+
+> **Vorderseite:**
+> *💧 Studie zeigt: 3 Liter Wasser täglich entgiften deine Leber zu 87 %! Probiert es selbst aus 👇*
+> *#DetoxJourney #CleanLiving #Wasserliebe*
+> *Link zur Wasserflasche in Bio – Code GLOW für 20 %*
+>
+> **Rückseite (QQQQ-Auflösung):**
+> - **Q1**: keine Quellenangabe für „Studie"; Affiliate-Link verschleiert kommerzielles Interesse
+> - **Q2**: 87 %-Zahl wirkt präzise, ist aber suggestiv und ohne Beleg
+> - **Q3**: keine Gegenstimmen, kein Verweis auf medizinische Fachgesellschaften
+> - **Q4**: keine Werbekennzeichnung trotz Affiliate
+> - **Hauptwirkstoff**: Hoffnung auf einfache Lösung + Pseudo-Präzision durch Prozentzahl
+
+**Pädagogische Hinweise:**
+- **Klar kommunizieren**, dass die Posts ausschließlich didaktisch sind und nicht real veröffentlicht werden dürfen – diese Regel zu Beginn explizit setzen
+- Wenn ein Team einen Mythos zu nah an realen Gesundheitsschäden konstruiert (z. B. ED-triggernde Diät-Posts): Thema umlenken auf weniger sensible Bereiche
+- Mythen-Labor schließt direkt an Phase 5 an: Algorithmen, Geschäftsmodelle und Aufmerksamkeitsökonomie werden hier *aktiv* angewandt
+- Die kreativsten Auflösungen (mit Einverständnis) für künftige Klassen archivieren – sie sind starke Anker-Beispiele
+
+**Hinweis zur Bewertung (falls relevant):**
+Bewertet wird nicht der „Erfolg" des Mythos, sondern die Tiefe und Genauigkeit der QQQQ-Auflösung auf der Rückseite. Ein einfacher Mythos mit sauberer Auflösung ist mehr wert als ein raffinierter ohne Selbstdurchdringung.
 
 ---
 
@@ -683,7 +845,7 @@ Erstelle 2–3 Quizfragen, die über „Wahr oder Fake?" hinausgehen. Erlaubt is
 
 ## Primarstufe AB 1: Detektiv-Arbeitsblatt – „Stimmt das wirklich?"
 
-**Phase 2 | 2er-Paare | Grundschule Kl. 3–4**
+**Phase 3 (Erarbeitung I, GS) | 2er-Paare | Grundschule Kl. 3–4**
 
 ---
 
@@ -782,7 +944,7 @@ Nach den Szenarien bespricht die Klasse gemeinsam:
 - *„In welchem Szenario war es schwierig zu entscheiden?"*
 - *„Was ist der Unterschied zwischen Szenario 2 und Szenario 3?"*
 
-**Rückbindung an Phase 1:**
+**Rückbindung an Phase 2 (Detektiv-Geschichte):**
 > *„Erinnert ihr euch an Lena und den Tee? Jetzt haben wir die drei Detektiv-Fragen – was hätte Lena fragen können, bevor ihre Familie den Tee kauft?"*
 
 ---

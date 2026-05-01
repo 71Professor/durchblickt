@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//mnt/c/Git/durchblickt/lh2/arbeitsblaetter/**)",
+      "Read(//mnt/c/Git/durchblickt/**)",
+      "Bash(grep -c \"^---$\" /mnt/c/Git/durchblickt/lh3/arbeitsblaetter/LH3_Arbeitsblätter.md)"
+    ]
+  }
+}
