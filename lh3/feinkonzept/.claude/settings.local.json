@@ -4,7 +4,9 @@
       "Bash(claude mcp *)",
       "Read(//home/mike/.claude/plugins/**)",
       "Bash(claude plugin *)",
-      "WebSearch"
+      "WebSearch",
+      "Read(//mnt/c/Git/durchblickt/lh3/arbeitsblaetter/**)",
+      "Read(//mnt/c/Git/durchblickt/lh3/**)"
     ]
   }
 }
