@@ -911,11 +911,12 @@
       name: "pixel / jule",
       tagline: "digital art · worldbuilding",
       slogan: "she/they · 🎨🌿",
+      photo: "3-1.png",
       stats: { posts: 142, followers: "1.100", following: 267 },
       posts: [
         {
           time: "heute · 18:02",
-          image: { style: "creative-art", label: "Illustration · Naturmotiv" },
+          image: { style: "creative-art", label: "Illustration · Naturmotiv", photo: "3-4.png" },
           likes: 287,
           caption: "„Mosswood Arch“ — letzter Commission-Schritt für dieses Jahr. 14 Stunden, drei Neustarts, viel Tee.",
           hashtags: "#digitalart #illustration #fantasyart #worldbuilding",
@@ -935,7 +936,7 @@
         },
         {
           time: "gestern · 21:40",
-          image: { style: "wip", label: "Work in Progress · Sketch + Paint" },
+          image: { style: "wip", label: "Work in Progress · Sketch + Paint", photo: "3-2.png" },
           likes: 214,
           caption: "Zwischenschritt — Lineart drunter, erste Farbflächen drüber. Ich poste das selten, aber ihr fragt immer wieder danach.",
           hashtags: "#wip #processpost #illustration",
@@ -953,7 +954,7 @@
         },
         {
           time: "3 Tage · 10:15",
-          image: { style: "moodboard" },
+          image: { style: "moodboard", photo: "3-3.png" },
           likes: 156,
           caption: "Farbstudie für das nächste Projekt. Forest green, tiefes Teal, Terrakotta, Creme — und ein bisschen Moos-Textur.",
           hashtags: "#colorstudy #moodboard #palette",
@@ -970,7 +971,7 @@
         },
         {
           time: "5 Tage · 17:22",
-          image: { style: "creative-art", label: "Timelapse-Screenshot" },
+          image: { style: "creative-art", label: "Timelapse-Screenshot", photo: "3-5.png" },
           likes: 342,
           caption: "30-Sekunden-Timelapse des Archway-Posts. 14 Stunden in einer halben Minute — das ist unfair gegenüber dem Prozess, aber macht Spaß.",
           hashtags: "#timelapse #digitalart #process",
@@ -992,6 +993,7 @@
             style: "quote",
             quote: "„Die Karte wird<br>die Landschaft<br>nie ersetzen.“",
             attr: "aus: A. Le Guin, Earthsea",
+            photo: "3-6.png",
           },
           likes: 198,
           caption: "Lieblingsstelle aus „Earthsea“, illustriert in der Zwischenzeit zwischen zwei Commissions. Manchmal brauchen Zitate Bilder, um zu bleiben.",
@@ -1009,7 +1011,7 @@
         },
         {
           time: "2 Wochen · 13:05",
-          image: { style: "alt", label: "Foto · Schreibtisch beim Zeichnen" },
+          image: { style: "alt", label: "Foto · Schreibtisch beim Zeichnen", photo: "3-7.png" },
           likes: 163,
           caption: "Setup-Check. Iets cold coffee, immer dasselbe Licht, Monstera schaut zu. Keine Ablenkung.",
           hashtags: "#deskposts #creativespace",
@@ -1116,17 +1118,20 @@
     const img = post.image;
     let imageBlock = "";
 
-    if (img.photo) {
+    if (img.style === "quote") {
+      const photoBg = img.photo
+        ? ` style="background-image: linear-gradient(180deg, rgba(0,0,0,0.55) 0%, rgba(0,0,0,0.25) 45%, rgba(0,0,0,0.55) 100%), url('${img.photo}'); background-size: cover; background-position: center;"`
+        : "";
       imageBlock = `
-        <div class="post-image">
-          <img src="${img.photo}" alt="${img.label ?? ""}" style="width:100%;height:100%;object-fit:cover;display:block;">
-        </div>`;
-    } else if (img.style === "quote") {
-      imageBlock = `
-        <div class="post-image quote">
+        <div class="post-image quote"${photoBg}>
           <div class="qt">${img.quote}</div>
           <div class="qdash"></div>
           <div class="qattr">${img.attr}</div>
+        </div>`;
+    } else if (img.photo) {
+      imageBlock = `
+        <div class="post-image">
+          <img src="${img.photo}" alt="${img.label ?? ""}" style="width:100%;height:100%;object-fit:cover;display:block;">
         </div>`;
     } else if (img.style === "text-card") {
       imageBlock = `
