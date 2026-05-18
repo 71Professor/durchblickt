@@ -155,6 +155,8 @@ Nach dieser Lerneinheit können die Schüler:innen:
 
 Vorwissen aktivieren, persönliche Relevanz herstellen, Neugier wecken.
 
+> **dGK-Bezug — Dim. 2 & 7:** Wie Gesundheitsinformationen aus dem Netz eigene Entscheidungen prägen, ist der Ausgangspunkt für Qualitätsbewertung (Dim. 2). Die persönliche Betroffenheit durch unrealistische Körperbilder und ungeprüfte Tipps macht deutlich, warum kritische Medienkompetenz direkt das Wohlbefinden schützt (Dim. 7).
+
 ### Ablauf
 
 | Zeit   | Element                                        | Sozialform                   | Material                                            | Durchführung                                                                                                                                                                                                                                                                                                   |
@@ -224,6 +226,8 @@ Ermöglicht auch zurückhaltenden Schüler:innen, sich einzubringen – das kurz
 ### Ziel
 
 Mechanismen der Verbreitung verstehen; Verbindung zu Körperbildern und psychischer Gesundheit herstellen; (Sek II) zusätzlich psychologische Mechanismen und KI-verstärkte Mythenverbreitung verstehen.
+
+> **dGK-Bezug — Dim. 2 & 7:** Das Verstehen von Algorithmen, sozialem Beweis und Confirmation Bias schärft die Fähigkeit, Qualität von Gesundheitsquellen einzuschätzen (Dim. 2). Die Verbindung zwischen Mythen, Körperidealen und Verunsicherung zeigt, warum Medienkompetenz unmittelbar das psychische Wohlbefinden beeinflusst (Dim. 7).
 
 ### Ablauf
 
@@ -330,6 +334,8 @@ KI ist im Alltag der Sek-II-Lernenden präsent (ChatGPT, KI-generierte Inhalte).
 ### Ziel
 
 Praktische Methoden zur Überprüfung von Gesundheitsbehauptungen kennenlernen und anwenden; den DURCHBLICKT!-QuellenChecker als Werkzeug einbinden; verstehen, dass Faktencheck eine erlernbare Kompetenz ist, die Gesundheit schützt.
+
+> **dGK-Bezug — Dim. 2 & 3 (Kernphase):** Die QQQQ-Methode ist das zentrale Instrument zur Qualitätsbewertung von Gesundheitsinformationen (Dim. 2). Der DURCHBLICKT!-QuellenChecker macht dieses Wissen praktisch navigierbar – auch außerhalb des Unterrichts – und stärkt die Fähigkeit, sicher mit Gesundheitsquellen umzugehen (Dim. 3).
 
 ### Ablauf
 
@@ -456,6 +462,8 @@ Die Vielfalt zeigt: Es gibt nicht nur eindeutige Falschinformationen, sondern au
 
 Verbindung zwischen konstruierten Körperbildern und Gesundheitsmythen erkennen; verstehen, wie kommerzielle Interessen Körperideale und Gesundheitsversprechen verknüpfen.
 
+> **dGK-Bezug — Dim. 7:** Konstruierte Körperideale und Gesundheitsversprechen erzeugen Druck, Scham und Vergleichsdruck. Diese Phase stärkt die Fähigkeit, solche Muster zu durchschauen und die eigene psychische Gesundheit durch kritische Wahrnehmung von Social-Media-Inhalten zu schützen (Dim. 7).
+
 ### Ablauf
 
 | Zeit    | Element                  | Sozialform                   | Material                              | Durchführung                                                                                                                                                                                               |
@@ -520,6 +528,8 @@ Gesundheitsmythen sind selten neutral. Sie transportieren immer auch ein Körper
 ### Ziel
 
 Kommerzielle und algorithmische Interessen hinter Gesundheitsmythen erkennen; kritisches Bewusstsein schärfen; von der Analyse zum strukturellen Verständnis gelangen.
+
+> **dGK-Bezug — Dim. 2 & 5:** Wer weiß, wem Gesundheitsmythen nützen, kann deren Qualität besser einschätzen (Dim. 2). Die Frage „Teile ich das verantwortungsvoll weiter?" verankert den bewussten Umgang mit Gesundheitsinformationen als soziale Verantwortung (Dim. 5).
 
 ### Ablauf
 
@@ -586,6 +596,8 @@ Für Sek I bleibt die Perspektive handlungsorientiert: Ich kann erkennen, wenn j
 ### Ziel
 
 Gelerntes anwenden – von passiver Mythen-Erkennung zu aktivem Mechanismen-Verständnis. Sek I erprobt das Wissen rezeptiv-aktiv im Quiz, Sek II produktiv-aktiv im Mythen-Labor.
+
+> **dGK-Bezug — Dim. 3 & 4:** Die Anwendung der QQQQ-Methode im eigenen Produkt festigt sicheres Navigieren in Gesundheitsinformationen (Dim. 3). Das Erstellen von Quiz-Fragen (Sek I) und Mythen-Posts mit Auflösung (Sek II) macht den Unterschied zwischen verantwortungsvollem und irreführendem Teilen erfahrbar (Dim. 4).
 
 ### Ablauf
 
@@ -661,6 +673,8 @@ Der Wechsel von Mythos-Vorderseite zu Auflösung-Rückseite simuliert genau das,
 ### Ziel
 
 Rückblick auf den Lernprozess; keine Wissenssicherung, kein Handlungsdruck – Innehalten und Nachklingen lassen.
+
+> **dGK-Bezug — Dim. 7:** Die Reflexion über eigene Reaktionen, Überraschungen und offene Fragen stärkt das Bewusstsein für die eigene Haltung zu Gesundheitsinformationen – und verankert, warum kritische Medienkompetenz langfristig das psychische Wohlbefinden schützt (Dim. 7).
 
 ### Ablauf
 
