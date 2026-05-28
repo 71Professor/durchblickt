@@ -22,27 +22,53 @@ für Sekundarstufe I und II (mit Grundschul-Erweiterung Klasse 3–4 in je 2 Pha
 ## Beim Start: Immer zuerst lesen
 
 1. `status.md` – Aktueller Stand aller LH, ausstehende Feedbacks, nächste Schritte
-2. `referenz/bausteine.md` – Wiederkehrende Textblöcke (KMK, dGK, DSGVO etc.)
-3. `referenz/altmaterial/zusammenfassungen.md` – Abgrenzungsreferenz zu alten LH (sobald vorhanden)
+2. `referenz/Fabienne-Checkliste.md` – Redaktionelle Leitlinien von Fabienne
+3. `referenz/BARMER_DURCHBLICKT_Ueberblick.md` – Vollständige Programmübersicht (Abgrenzung zu allen anderen LH)
+4. `referenz/lh1–3/` – Fertige LH als inhaltliche Abgrenzungsreferenz
 
 ---
 
 ## Projektstruktur (Dateien)
 
 ```
-durchblickt-projekt/
+durchblickt/
 ├── CLAUDE.md                                    ← diese Datei
 ├── status.md                                    ← Projektstatus je LH + Feedback-Log
 ├── durchblickt-skills/                          ← Skills & Subagents
-├── referenz/
-│   ├── bausteine.md                             ← Wiederkehrende Textblöcke
-│   ├── altmaterial/
-│   │   ├── zusammenfassungen.md                 ← 1 Absatz je alter LH (Abgrenzungsreferenz)
-│   │   └── [fertige LH 2024 als PDF]
-│   └── vorlagen/
-│       └── DGK_LH1_KI_FS_MK_cleanVersion.docx  ← Formatreferenz Grundschul + 6 Phasen
-├── lh1/                                          ← Fertige LH1-Materialien
-├── lh2/                                          ← Arbeitsdateien LH2 (wird angelegt)
+│   ├── agents/                                  ← Orchestrator + Subagent-Definitionen
+│   └── skills/                                  ← Skill-Dateien (je ein Unterordner)
+├── referenz/                                    ← Referenzmaterial (nur lesen, nicht bearbeiten)
+│   ├── BARMER_DURCHBLICKT_Ueberblick.md        ← Vollständige Programmübersicht (alle LH)
+│   ├── Fabienne-Checkliste.md                  ← Redaktionelle Leitlinien
+│   ├── 1KMK2016_Kompetenzbereiche.pdf
+│   ├── 2Definition_dGK.pdf
+│   ├── lh1/                                     ← LH1 fertig (Referenz)
+│   │   ├── LH1_Lerneinheit.md
+│   │   ├── DURCHBLICKT_LH1_fertig.docx
+│   │   └── Grobkonzept_LH1_2026_eingereicht_an_barmer.docx
+│   ├── lh2/                                     ← LH2 fertig (Referenz)
+│   │   ├── LH2_Lerneinheit.md
+│   │   ├── LH2_Grobkonzept_eingereicht.docx
+│   │   ├── LH2_Grobkonzept_genehmigt.docx
+│   │   └── DURCHBLICKT_LH2_Digitale_Identitaet_fertig.docx
+│   └── lh3/                                     ← LH3 fertig (Referenz)
+│       ├── LH3_Lerneinheit.md
+│       ├── LH3_Grobkonzept_eingereicht.docx
+│       ├── LH3_Grobkonzept_genehmigt.docx
+│       └── DURCHBLICKT_LH3_Gesundheitsmythen_fertig.docx
+├── lh4/                                          ← Aktive Arbeitsdateien LH4
+│   ├── LH4_Lerneinheit.md                       ← Hauptdokument
+│   ├── LH4_Leitlinien-Check_2026-03.md
+│   ├── LH4_Fabienne-Checkliste.md
+│   ├── LH4_BARMER-Feedback_Einarbeitung_2026-04-29.md
+│   ├── grobkonzept/
+│   │   ├── LH4_Grobkonzept_eingereicht.md
+│   │   ├── LH4_Grobkonzept_eingereicht.docx
+│   │   └── LH4_Grobkonzept_genehmigt.docx
+│   ├── feinkonzept/
+│   └── arbeitsblaetter/
+│       └── LH4_Arbeitsblätter.md
+├── scripts/                                      ← DOCX-Exportskripte (Node.js/Python)
 └── output/                                       ← Finale DOCX für Einreichung
 ```
 
@@ -78,10 +104,10 @@ durchblickt-projekt/
 | 9 | DOCX-Export Endversion | Finale Einreichversion |
 
 **Hinweis Phase 4b – Ablauf:**
-1. Mike stellt das fertige Grobkonzept bereit (Datei in `/referenz/grobkonzepte_2026/`)
+1. Mike stellt das fertige Grobkonzept bereit (Datei in `lhX/grobkonzept/`)
 2. Claude liest diese Datei und erstellt daraus die kompakte BARMER-Version
-3. Orientierung am LH1-Referenzbeispiel: `referenz/lh1/grobkonzept/Kopie von Grobkonzept_LH1_2026_eingereicht_an_barmer.docx.md`
-4. Output: zuerst als `.md` speichern (z. B. `lhX/LHX_Grobkonzept_[Thema]_barmer.md`), dann → `[docx-agent]`
+3. Orientierung am LH1-Referenzbeispiel: `referenz/lh1/Grobkonzept_LH1_2026_eingereicht_an_barmer.docx`
+4. Output: zuerst als `.md` speichern (z. B. `lhX/grobkonzept/LHX_Grobkonzept_[Thema]_barmer.md`), dann → `[docx-agent]`
 5. BARMER-Genehmigung kommt VOR dem Feinkonzept – erst nach Freigabe wird Phase 5 gestartet.
 
 **Grundschul-Erweiterungen** sind in Mikes Grobkonzepten noch nicht enthalten
@@ -136,7 +162,7 @@ subagent:leitlinien-check
 
 subagent:grobkonzept
   → Skill: durchblickt-skills/skills/grobkonzept/SKILL.md
-  → Liest referenz/altmaterial/zusammenfassungen.md für Abgrenzung
+  → Liest referenz/lh1–3/ für Abgrenzung (LH_Lerneinheit.md je LH)
   → 15-Abschnitte-Struktur, 6 Phasen, Transfer ≠ Reflexion
 
 subagent:ablaufstruktur
@@ -155,9 +181,9 @@ subagent:arbeitsblätter
 
 subagent:barmer-genehmigung
   → Skill: durchblickt-skills/skills/barmer-genehmigung/SKILL.md
-  → Input: Mikes Grobkonzept aus /referenz/grobkonzepte_2026/
-  → Referenz LH1-Beispiel: referenz/lh1/grobkonzept/Kopie von Grobkonzept_LH1_2026_eingereicht_an_barmer.docx.md
-  → Output: lhX/LHX_Grobkonzept_[Thema]_barmer.md → dann [docx-agent]
+  → Input: Mikes Grobkonzept aus lhX/grobkonzept/
+  → Referenz LH1-Beispiel: referenz/lh1/Grobkonzept_LH1_2026_eingereicht_an_barmer.docx
+  → Output: lhX/grobkonzept/LHX_Grobkonzept_[Thema]_barmer.md → dann [docx-agent]
 
 subagent:docx-export
   → Skill: durchblickt-skills/skills/docx-export/SKILL.md
@@ -193,9 +219,9 @@ subagent:erwartungshorizont-check
 - `status.md` lesen beim Start, aktualisieren nach jedem Meilenstein
 - **Vor Einreichung immer alle 3 Checks** (Leitlinien + EH + Redaktion)
 - Änderungs-Log immer bei Feedback-Integration
-- `zusammenfassungen.md` für Abgrenzung zu alten LH nutzen
+- `referenz/lh1–3/` für Abgrenzung zu fertigen LH nutzen
 - Grundschul-Phasenwahl = aktive pädagogische Entscheidung, immer mit Mike abstimmen
 
 ---
 
-*DURCHBLICKT! | BARMER | CLAUDE.md | Stand: März 2026*
+*DURCHBLICKT! | BARMER | CLAUDE.md | Stand: Mai 2026*
