@@ -144,6 +144,8 @@ Nach dieser Lerneinheit können die Lernenden:
 
 Alltagsbezug herstellen, Vorwissen aktivieren, Neugier wecken
 
+*Digitale Gesundheitskompetenz:* Die Lernenden entwickeln ein erstes Bewusstsein für den Zusammenhang zwischen abendlichem Medienverhalten und eigenem Wohlbefinden (dGK 7 – Wohlbefinden stärken).
+
 ### Ablauf
 
 | Zeit   | Element | Sozialform | Material | Durchführung |
@@ -219,6 +221,8 @@ Option C ist didaktisch gleichwertig – die mündliche Evokation kann die Imagi
 
 Biologische Grundlagen des Einschlafens verstehen (Melatonin, zirkadianer Rhythmus, blaues Licht)
 
+*Digitale Gesundheitskompetenz:* Die Lernenden erarbeiten Grundlagenwissen, um Informationen über Bildschirmnutzung und Schlaf einordnen und bewerten zu können (dGK 2 – Qualität bewerten).
+
 ### Ablauf
 
 | Zeit   | Element | Sozialform | Material | Durchführung |
@@ -226,6 +230,14 @@ Biologische Grundlagen des Einschlafens verstehen (Melatonin, zirkadianer Rhythm
 | 8 Min. | **Kurzinput: Was passiert im Gehirn beim Einschlafen?** | Plenum | Infografik oder Erklärvideo (ca. 3–4 Min.) | Lehrkraft zeigt Infografik oder kurzes Erklärvideo: Die drei Kernbegriffe werden erklärt und visualisiert: **(1) Melatonin** – das „Schlafhormon"; wird bei Dunkelheit ausgeschüttet. **(2) Blaues Licht** – der Wellenlängenbereich, den Bildschirme aussenden; signalisiert dem Gehirn „Es ist Tag". **(3) Zirkadianer Rhythmus** – die innere Uhr; reguliert Schlaf-Wach-Phasen über 24 Stunden. |
 | 5 Min. | **Partnerarbeit AB 1** | Partnerarbeit | AB 1: Schaubild Licht → Gehirn → Melatonin → Schlaf | Lernende lesen kurze Infokarten auf AB 1 und vervollständigen das Schaubild: Wie beeinflusst Bildschirmlicht die Melatoninproduktion? Welche Folge hat das für den Schlaf? |
 | 2 Min. | **Sicherung** | Plenum | Tafel/Board | Schaubild gemeinsam vervollständigen. Kernbotschaft: *„Bildschirmlicht kann dem Gehirn signalisieren: ‚Es ist noch Tag' – das kann die Melatoninausschüttung und das Einschlafen verzögern."* `[NEU (Feedback Fabienne A11)]` |
+
+> **⚠ INFOBOX 1 // Blaulicht – Was sagt die aktuelle Forschung?**
+> Blaues Licht hemmt die Melatoninproduktion und verschiebt den zirkadianen Rhythmus – das ist wissenschaftlich belegt. Neuere Forschung (u. a. Universität Oxford, 2023) zeigt jedoch: Der Effekt von blauem Licht allein ist kleiner als oft behauptet. Der größte Schlafstörer ist die Kombination aus Licht, aufwühlenden Inhalten und kognitiver Aktivierung durch soziale Interaktion. Cain & Gradisar (2024) ergänzen: Passives Scrollen wirkt schlafstörender als aktive Kommunikation mit Freundinnen und Freunden – nicht jede Bildschirmzeit ist gleich.
+> **Lehrkraft-Impuls:** In Variante B (Sek. II) ansprechen: *„Blaulicht ist ein echter Faktor – aber nicht der einzige. Was hält euch wirklich wach?"* Vollständige Quellenangaben → Quellenanhang.
+
+> **⚠ INFOBOX 2 // Social Jetlag & Chronotypen**
+> In der Pubertät verschiebt sich der zirkadiane Rhythmus biologisch nach hinten: Jugendliche werden später müde und brauchen morgens länger zum Aufwachen. Frühe Schulanfangszeiten erzeugen dadurch ein chronisches Schlafdefizit an Schultagen, das am Wochenende durch Ausschlafen kompensiert wird – das nennt man **Social Jetlag**. Hinzu kommen individuelle **Chronotypen**: Eulen (Spättyp) und Lerchen (Frühtyp) sind biologisch bedingt und nicht durch Willenskraft überwindbar. Das erklärt, warum gleiche Schlafzeiten nicht für alle gleich gut funktionieren.
+> **Lehrkraft-Impuls:** In Variante B (Sek. II) als Gesprächsimpuls: *„Ihr schläft am Wochenende oft länger – das ist häufig keine Faulheit, sondern Biologie. Was würde sich für euch ändern, wenn der Schulbeginn später wäre?"*
 
 ### Differenzierung Sek. I / Sek. II
 
@@ -241,11 +253,7 @@ Biologische Grundlagen des Einschlafens verstehen (Melatonin, zirkadianer Rhythm
 
 ### Didaktischer Kommentar
 
-**Zur Studienlage (Sek. II):**
-Der Effekt von blauem Licht ist real, aber in der Öffentlichkeit oft übertrieben dargestellt. Neuere Forschung (z. B. Studien aus Oxford, 2023) zeigt: Der größte Schlafstörer ist nicht das Licht allein, sondern die Kombination aus Licht, aufwühlenden Inhalten und der kognitiven Aktivierung durch soziale Interaktion. **Cain & Gradisar (2024)** ergänzen einen wichtigen Befund: Nicht jede Bildschirmzeit ist gleich – passives Scrollen wirkt schlafstörender als aktive Kommunikation mit Freundinnen und Freunden. Das ist kein Grund, Blaulicht zu verharmlosen – aber ein Anlass, in Phase 3 über weitere Faktoren zu sprechen. `[NEU (Feedback BARMER F3)]`
-
-**Schlaftypen & Social Jetlag (Sek. II – relevant ab Phase 3):**
-In der Pubertät verschiebt sich der zirkadiane Rhythmus biologisch nach hinten: Jugendliche werden später müde und brauchen länger morgens. Frühe Schulzeiten erzeugen so an Wochentagen ein **Schlafdefizit**, das am Wochenende durch späteres Aufstehen kompensiert wird – das nennt man **Social Jetlag**. Hinzu kommen unterschiedliche **Chronotypen** (Eulen vs. Lerchen): Manche sind morgens fitter, andere abends. Das erklärt, warum gleiche Schlafzeiten nicht für alle gleich gut funktionieren – und warum Schlafqualität multifaktoriell ist. `[NEU (Feedback BARMER F4)]`
+**Studienlage und Schlaftypen:** Theoretischer Hintergrund zu Blaulicht-Forschung, Social Jetlag und Chronotypen → INFOBOX 1 und INFOBOX 2 (oben).
 
 **Fallstricke vermeiden:**
 - Biologisches Grundwissen nicht zu schnell einführen – AB 1 braucht Zeit zum Durcharbeiten
@@ -265,6 +273,8 @@ In der Pubertät verschiebt sich der zirkadiane Rhythmus biologisch nach hinten:
 
 Vielfältige Einflussfaktoren auf den Schlaf erkennen; über blaues Licht hinausdenken; verstehen, dass auch Inhalte, Erregung und FOMO den Schlaf stören können
 
+*Digitale Gesundheitskompetenz:* Die Lernenden entwickeln Kriterien für eine gesundheitsbewusste Einschätzung ihrer abendlichen Mediennutzung (dGK 2 / 3 – Qualität bewerten, Sicher navigieren).
+
 ### Ablauf
 
 | Zeit   | Element | Sozialform | Material | Durchführung |
@@ -272,7 +282,7 @@ Vielfältige Einflussfaktoren auf den Schlaf erkennen; über blaues Licht hinaus
 | 1 Min. | **Einführung** | Plenum | – | Lehrkraft: *„Wir haben gesehen, was blaues Licht macht. Aber das ist nicht das einzige Problem. Heute untersuchen wir drei verschiedene Einflussfaktoren – jede Gruppe einen."* |
 | 9 Min. | **Gruppenarbeit** | 4er-Gruppen | AB 2a / 2b / 2c (je eine Gruppe einen Aspekt) | Gruppe A (AB 2a): Blaues Licht & Nachtmodus – Nachtmodus/Blaulichtfilter erkunden; Reflexionsfrage: „Reicht der Nachtmodus als Lösung?" Gruppe B (AB 2b): Inhalte, Aufregung & FOMO – Fallbeispiele zu aufwühlenden vs. beruhigenden Abendmedien; Frage: Warum kann soziale Interaktion wachhalten, auch ohne helles Licht? Gruppe C (AB 2c): Warum ist Schlaf so wichtig? – Infografik lesen; drei überraschende Fakten markieren und mit eigenen Worten erklären. |
 | 4 Min. | **Kurzvorstellung & Blitzlicht** | Plenum | – | Jede Gruppe nennt ihren wichtigsten Befund in max. 1 Minute. Lehrkraft schließt mit Blitzlicht: *„Welche Gruppe hat euch am meisten überrascht?"* Kernbotschaft: Schlaf ist ein multifaktorielles Problem – Technik, Inhalte, FOMO und Gewohnheiten wirken zusammen. |
-| 1 Min. | **Hinweis: Alternative Stationenarbeit** | Plenum | – | *(Nur wenn explizit angesprochen)* Lehrkraft verweist: Bei mehr Zeit (z. B. Projekttag) kann diese Phase als Stationenarbeit durchgeführt werden: alle drei Gruppen rotieren durch alle drei Stationen (je ca. 4–5 Min.), sodass jede:r alle Aspekte kennenlernt. Für 90 Minuten ist die Gruppenarbeit mit Kurzvorstellung effizienter. |
+| 1 Min. | **Hinweis: Alternative Stationenarbeit** | Plenum | – | *(Nur wenn explizit angesprochen)* Lehrkraft verweist: Bei mehr Zeit (z. B. Projekttag) kann diese Phase als Stationenarbeit durchgeführt werden: alle drei Gruppen rotieren durch alle drei Stationen (je ca. 4–5 Min.), sodass jede und jeder alle Aspekte kennenlernt. Für 90 Minuten ist die Gruppenarbeit mit Kurzvorstellung effizienter. |
 
 ### Differenzierung Sek. I / Sek. II
 
@@ -289,7 +299,7 @@ Vielfältige Einflussfaktoren auf den Schlaf erkennen; über blaues Licht hinaus
 ### Didaktischer Kommentar
 
 **Warum Gruppenarbeit statt Stationenarbeit?**
-Bei 15 Minuten Gesamtzeit ist die Stationenarbeit mit drei Rotationen zu eng – Übergänge, Neuorientierung und Sicherung brauchen Zeit, die dann für Inhalte fehlt. Die Gruppenarbeit mit Kurzvorstellung nutzt die 15 Minuten effizienter: Jede Gruppe wird Expert:in für einen Aspekt und gibt ihr Wissen komprimiert weiter.
+Bei 15 Minuten Gesamtzeit ist die Stationenarbeit mit drei Rotationen zu eng – Übergänge, Neuorientierung und Sicherung brauchen Zeit, die dann für Inhalte fehlt. Die Gruppenarbeit mit Kurzvorstellung nutzt die 15 Minuten effizienter: Jede Gruppe wird zur Expertengruppe für einen Aspekt und gibt ihr Wissen komprimiert weiter.
 
 **Alternative: Stationenarbeit (für Projekttage o. Ä.):**
 Bei erweitertem Zeitrahmen (z. B. 45–50 Minuten für diese Phase) ist die Stationenarbeit pädagogisch wertvoller: Alle Lernenden bearbeiten alle drei Aspekte selbst, Erkenntnisse entstehen unmittelbarer. Drei Rotationen à 10–12 Minuten, plus 5 Minuten Abschluss im Plenum.
@@ -327,6 +337,8 @@ Phase 2 hat blaues Licht eingeführt. Phase 3 weitet den Blick: Inhalte und FOMO
 
 Zusammenhänge zwischen Mediennutzung am Abend und Schlafqualität konkret erleben; Muster erkennen; sowohl problematische als auch positive Beispiele analysieren
 
+*Digitale Gesundheitskompetenz:* Die Lernenden analysieren reale Abendszenarien und entwickeln ein Repertoire an Strategien für den gesundheitsbewussten Umgang mit digitalen Medien vor dem Schlafen (dGK 3 – Sicher navigieren).
+
 ### Ablauf
 
 | Zeit   | Element | Sozialform | Material | Durchführung |
@@ -334,6 +346,10 @@ Zusammenhänge zwischen Mediennutzung am Abend und Schlafqualität konkret erleb
 | 1 Min. | **Einführung** | Plenum | – | Lehrkraft erklärt: *„Jetzt schauen wir uns vier echte Abendszenarien an. Zwei laufen nicht so gut, zwei laufen gut – und wir wollen verstehen, warum."* |
 | 13 Min. | **Gruppenarbeit Fallbeispiele** | 4er-Gruppen | AB 3a + 3b (Pflicht), AB 3c + 3d (optional/Vertiefung) | **Pflicht:** Zwei Gruppen bearbeiten AB 3a (Lena) und AB 3b (Malik) – ein kontrastierendes Paar (problematisch vs. positiv). **Optional (bei mehr Zeit oder als Vertiefung):** zusätzlich AB 3c (Sarah) und AB 3d (Jonas). Jede Gruppe analysiert ihr Fallbeispiel mit den Leitfragen: Was macht die Person vor dem Schlafen? Wie ist ihre Schlafqualität? Warum? Was könnte sie ändern – oder was macht sie bereits richtig? Kurzpräsentation vorbereiten (2 Min.). `[NEU (Feedback Fabienne A4)]` |
 | 6 Min. | **Kurzpräsentationen** | Plenum | – | Jede Gruppe stellt ihr Fallbeispiel in ca. 90 Sekunden vor: Person, Verhalten, Schlafqualität, Erklärung. Lehrkraft kommentiert nach allen vier Vorstellungen kurz: *„Was machen Malik und Jonas anders als Lena und Sarah – und warum wirkt das?"* |
+
+> **⚠ INFOBOX 3 // Konditionierung durch Abendrituale**
+> Gewohnheiten entstehen durch Wiederholung: Ein neutraler Reiz – etwa eine bestimmte Playlist oder eine Atemübung – wird durch regelmäßige Verbindung mit dem Einschlafen zu einem automatischen Schlafsignal. Diesen Mechanismus nennt man klassische Konditionierung. Jonas' Ritual in AB 3d ist ein Beispiel: Sein Gehirn hat gelernt, dass „Playlist + Atemübung = Schlafenszeit" bedeutet – ohne dass er das bewusst geplant hat. Derselbe Mechanismus erklärt, warum Bildschirme im Bett das Einschlafen erschweren können: Das Gehirn lernt „Bett = Bildschirm = Wachsein".
+> **Lehrkraft-Impuls:** In Variante B (Sek. II) nach der Auswertung ansprechen: *„Konditionierung ist keine Willenssache – es ist Neuroplastizität. Was könnte für euch ein neues Schlafsignal werden?"*
 
 ### Differenzierung Sek. I / Sek. II
 
@@ -418,11 +434,13 @@ Es ist didaktisch wirkungsvoller, Handlungsoptionen durch positive Vorbilder zu 
 
 Handlungsstrategien entwickeln, persönliches bildschirmfreies Abendritual entwerfen, Schlafprotokoll als Selbstexperiment einführen
 
+*Digitale Gesundheitskompetenz:* Die Lernenden entwickeln ein eigenes Gesundheitsinstrument (Schlafprotokoll) und planen konkrete Schritte zur Verbesserung ihrer digitalen Abendroutine (dGK 4 – Erstellen und Teilen).
+
 ### Ablauf
 
 | Zeit   | Element | Sozialform | Material | Durchführung |
 |--------|---------|-----------|---------|-------------|
-| 4 Min. | **Think-Pair-Share: Was könnte helfen?** | Einzelarbeit → Partnerarbeit → Plenum | – | *Think:* „Was könnte mir helfen, besser zu schlafen?" (1 Min. still). *Pair:* Austausch mit Sitznachbar:in. *Share:* 4–5 Ideen im Plenum sammeln. Lehrkraft notiert ohne Wertung. Anschlussfrage: *„Und was macht es schwer, das umzusetzen?"* – Hindernisse benennen und würdigen. **Exemplarisch wird dabei eine kurze 7Mind@School-Einschlaf-/Atemübung (3–5 Min.) als ein konkreter Vorschlag genannt** – als niedrigschwelliges Beispiel unter mehreren, nicht als Pflicht. `[NEU (Feedback BARMER F1)]` |
+| 4 Min. | **Think-Pair-Share: Was könnte helfen?** | Einzelarbeit → Partnerarbeit → Plenum | – | *Think:* „Was könnte mir helfen, besser zu schlafen?" (1 Min. still). *Pair:* Austausch mit der Sitznachbarin oder dem Sitznachbarn. *Share:* 4–5 Ideen im Plenum sammeln. Lehrkraft notiert ohne Wertung. Anschlussfrage: *„Und was macht es schwer, das umzusetzen?"* – Hindernisse benennen und würdigen. **Exemplarisch wird dabei eine kurze 7Mind@School-Einschlaf-/Atemübung (3–5 Min.) als ein konkreter Vorschlag genannt** – als niedrigschwelliges Beispiel unter mehreren, nicht als Pflicht. `[NEU (Feedback BARMER F1)]` |
 | 5 Min. | **Partnerarbeit AB 4: Mein Abendritual** | Partnerarbeit | AB 4: Abendritual-Planer | Jede und jeder entwirft auf AB 4 ein eigenes bildschirmfreies Abendritual für die 30–60 Minuten vor dem Schlafen. Sek. I: Auswahl aus vorgeschlagenen Aktivitäten + eigene Ideen (inkl. „Kurze 7Mind@School-Übung" als Option). Sek. II: Offen, mit Begründung und Einschätzung von Machbarkeit (SMART-Kriterien). Partnerarbeit: gegenseitiges Feedback. |
 | 4 Min. | **Einführung Schlafprotokoll AB 5** | Plenum | AB 5: Schlafprotokoll (7 Tage) | Lehrkraft erklärt AB 5 als Selbstexperiment: *„Ihr führt ab heute für eine Woche ein Protokoll. Ziel: Herausfinden, ob es einen Zusammenhang zwischen eurer Bildschirmzeit und eurer Schlafqualität gibt."* Felder erläutern: Einschlafzeit, Aufwachzeit, Schlafdauer; Bildschirmzeit letzte 60 Min. vor dem Schlafen; subjektive Schlafqualität (Skala 1–5). Freiwillige Klassen-Challenge erwähnen. |
 | 2 Min. | **Überleitung & Hinweis** | Plenum | – | *„Im Follow-up in einer Woche schauen wir gemeinsam, was ihr herausgefunden habt. Niemand muss sein Protokoll vorzeigen – aber wer möchte, kann berichten."* |
@@ -475,6 +493,8 @@ Die Challenge funktioniert als soziales Experiment: Wenn viele mitmachen, entste
 - SMART-Ziele (Sek. II) nicht als Pflicht einfordern – als Angebot
 - Ritualvorschläge nicht als einzige „richtige" Lösung darstellen: individuell und flexibel
 
+**dGK-Bezug:** Das Schlafprotokoll ist praktizierte digitale Gesundheitskompetenz: Die Lernenden beobachten, dokumentieren und reflektieren den Zusammenhang zwischen ihrer eigenen Bildschirmnutzung und ihrer Schlafgesundheit – dGK 4 (Erstellen und Teilen) in der Anwendung.
+
 ### Erwartete Antworten der Lernenden
 
 **Think-Pair-Share – Was könnte helfen?**
@@ -498,6 +518,8 @@ Die Challenge funktioniert als soziales Experiment: Wenn viele mitmachen, entste
 ### Ziel
 
 Persönlichen Transfer sichern, Selbstverpflichtung fördern, erste konkrete Handlungsplanung
+
+*Digitale Gesundheitskompetenz:* Die Lernenden übersetzen ihr Wissen in eine selbstbestimmte Handlungsabsicht – der erste Schritt zu einer bewussten digitalen Abendroutine (dGK 3 – Sicher navigieren).
 
 ### Ablauf
 
@@ -538,6 +560,8 @@ Nicht aufdrängen. Wer teilnimmt, hat eine Peer-Group, die dasselbe tut – das 
 - Challenge nicht als Pflicht framen: *„Wer macht mit?"* statt *„Ich erwarte, dass alle …"*
 - Meinungslinie: keine „richtige" Position; beide Enden der Linie sind valide
 
+**dGK-Bezug:** Meinungslinie und Handlungsplanung stärken dGK 3 (Sicher navigieren): Die Lernenden treffen eine selbstbestimmte Entscheidung über ihre digitale Abendroutine.
+
 ### Erwartete Antworten der Lernenden
 
 **Meinungslinie:**
@@ -569,6 +593,8 @@ Nicht aufdrängen. Wer teilnimmt, hat eine Peer-Group, die dasselbe tut – das 
 
 Rückblick auf den Lernprozess; kein Handlungsdruck, kein Produkt – Innehalten und Nachklingen lassen
 
+*Digitale Gesundheitskompetenz:* Die Lernenden verankern Schlaf als zentrale Gesundheitsressource und stärken ihre Selbstwirksamkeit im Umgang mit digitalen Medien am Abend (dGK 7 – Wohlbefinden stärken).
+
 ### Ablauf
 
 | Zeit   | Element | Sozialform | Material | Durchführung |
@@ -589,6 +615,8 @@ Die vier Kernbotschaften fassen die Einheit prägnant zusammen. Als Tafelbild od
 
 **Offene Fragen zulassen:**
 Schlaf und Mediengewohnheiten sind persönliche Themen. Nicht jede Frage braucht eine Antwort. *„Was passiert mit mir, wenn ich wirklich eine Woche lang kein Handy abends habe?"* ist eine offene Frage – und der beste Impuls für das Schlafexperiment.
+
+**dGK-Bezug:** Die Reflexion schließt den Kompetenzkreis der Einheit: Schlaf als Gesundheitsressource wird bewusst wahrgenommen, eigene Handlungsmöglichkeiten werden benannt (dGK 7 – Wohlbefinden stärken).
 
 ### Erwartete Antworten der Lernenden
 
