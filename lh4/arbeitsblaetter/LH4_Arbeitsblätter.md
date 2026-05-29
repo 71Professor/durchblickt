@@ -9,18 +9,18 @@
 
 | AB | Titel | Phase | Sozialform | Zielgruppe |
 |----|-------|-------|-----------|-----------|
-| AB 1 | Schaubild: Licht → Gehirn → Melatonin → Schlaf | 1 | Partnerarbeit | Sek I + II |
-| AB 2a | Blaues Licht & Nachtmodus | 2 | Gruppenarbeit | Sek I + II |
-| AB 2b | Inhalte, Aufregung & FOMO | 2 | Gruppenarbeit | Sek I + II |
-| AB 2c | Warum ist Schlaf so wichtig? | 2 | Gruppenarbeit | Sek I + II |
-| AB 3a | Fallbeispiel: Lena | 3 | Gruppenarbeit | Sek I + II |
-| AB 3b | Fallbeispiel: Malik | 3 | Gruppenarbeit | Sek I + II |
-| AB 3c | Fallbeispiel: Sarah | 3 | Gruppenarbeit | Sek I + II |
-| AB 3d | Fallbeispiel: Jonas | 3 | Gruppenarbeit | Sek I + II |
-| AB 4 | Mein Abendritual | 4 | Partnerarbeit | Sek I + II |
-| AB 5 | Schlafprotokoll (7 Tage) | 4 + Follow-up | Einzelarbeit | Sek I + II |
-| PS AB 1 | Warum braucht mein Körper Schlaf? | 3 (GS) | Einzelarbeit + Sitzkreis | GS Kl. 3–4 |
-| PS AB 2 | Sortierspiel: Mein Abendritual | 4 (GS) | 2er-Paare | GS Kl. 3–4 |
+| AB 1 | Schaubild: Licht → Gehirn → Melatonin → Schlaf | 2 | Partnerarbeit | Sek. I + II |
+| AB 2a | Blaues Licht & Nachtmodus | 3 | Gruppenarbeit | Sek. I + II |
+| AB 2b | Inhalte, Aufregung & FOMO | 3 | Gruppenarbeit | Sek. I + II |
+| AB 2c | Warum ist Schlaf so wichtig? | 3 | Gruppenarbeit | Sek. I + II |
+| AB 3a | Fallbeispiel: Lena | 4 | Gruppenarbeit | Sek. I + II |
+| AB 3b | Fallbeispiel: Malik | 4 | Gruppenarbeit | Sek. I + II |
+| AB 3c | Fallbeispiel: Sarah | 4 | Gruppenarbeit | Sek. I + II |
+| AB 3d | Fallbeispiel: Jonas | 4 | Gruppenarbeit | Sek. I + II |
+| AB 4 | Mein Abendritual | 5 | Partnerarbeit | Sek. I + II |
+| AB 5 | Schlafprotokoll (7 Tage) | 5 + Follow-up | Einzelarbeit | Sek. I + II |
+| PS AB 1 | Warum braucht mein Körper Schlaf? | 4 (GS) | Einzelarbeit + Sitzkreis | GS Kl. 3–4 |
+| PS AB 2 | Sortierspiel: Mein Abendritual | 5 (GS) | 2er-Paare | GS Kl. 3–4 |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## AB 1: Schaubild – Licht → Gehirn → Melatonin → Schlaf
 
-**Phase 1 | Partnerarbeit | Sek I + II**
+**Phase 2 | Partnerarbeit | Sek. I + II**
 
 ---
 
@@ -97,11 +97,11 @@ ABENDS: BILDSCHIRMLICHT
 
 2. Was würde passieren, wenn man eine Woche lang abends auf blaues Licht verzichten würde?
 
-**Zusatz für Sek II:**
+**Zusatz für Sek. II:**
 
 3. Was ist der suprachiasmatische Kern – und welche Rolle spielt er für den zirkadianen Rhythmus?
 
-4. Neuere Studien zeigen: Der Effekt von blauem Licht allein ist kleiner als oft behauptet. Was sind die anderen, möglicherweise wirkungsmächtigeren Faktoren? (Vorgriff auf Phase 2)
+4. Neuere Studien zeigen: Der Effekt von blauem Licht allein ist kleiner als oft behauptet. Was sind die anderen, möglicherweise wirkungsmächtigeren Faktoren? (Vorgriff auf Phase 3)
 
 ---
 
@@ -125,7 +125,7 @@ Der suprachiasmatische Kern (SCN) im Hypothalamus ist der zentrale Schrittmacher
 
 ## AB 2a: Blaues Licht & Nachtmodus
 
-**Phase 2 | Gruppenarbeit | Sek I + II**
+**Phase 4 | Gruppenarbeit | Sek. I + II**
 
 ---
 
@@ -169,7 +169,7 @@ Was könnte mit „nicht alle Faktoren" gemeint sein? __________________________
 
 2. Wenn der Nachtmodus das Problem nicht vollständig löst – was wäre die einzig sichere Maßnahme?
 
-**Zusatz für Sek II:**
+**Zusatz für Sek. II:**
 
 3. Eine Studie der Universität Oxford (2023) zeigte: Das Ausschalten des Nachtmodus verschlechterte den Schlaf geringfügig – aber die Wirkung war kleiner als erwartet. Was bedeutet das für die Empfehlung, Blaulichtfilter zu nutzen?
 
@@ -199,7 +199,7 @@ Andere Faktoren: Spannende Inhalte, soziale Interaktion (Nachrichten schreiben/w
 **Einzig sichere Maßnahme:**
 Bildschirm ausschalten und weglegen – keine Techniklösung ersetzt das vollständig.
 
-**Oxford-Studie (Sek II):**
+**Oxford-Studie (Sek. II):**
 Das Ergebnis zeigt: Blaulicht ist ein echter, aber kleiner Faktor. Die anderen Faktoren (Inhalte, kognitive Aktivierung) sind mindestens so relevant. Das bedeutet: Nachtmodus nutzen ist sinnvoll, aber nicht ausreichend. Es rechtfertigt keine stundenlange Bildschirmnutzung unter dem Deckmantel „Ich habe ja den Nachtmodus an."
 
 ---
@@ -208,7 +208,7 @@ Das Ergebnis zeigt: Blaulicht ist ein echter, aber kleiner Faktor. Die anderen F
 
 ## AB 2b: Inhalte, Aufregung & FOMO
 
-**Phase 2 | Gruppenarbeit | Sek I + II**
+**Phase 4 | Gruppenarbeit | Sek. I + II**
 
 ---
 
@@ -263,7 +263,7 @@ Beantwortet die Fragen:
 
    _______________________________________________
 
-**Zusatz für Sek II:**
+**Zusatz für Sek. II:**
 
 4. Welche psychologischen Bedürfnisse stecken hinter FOMO? (Zugehörigkeit, Anerkennung, Kontrolle…)
 
@@ -289,7 +289,7 @@ TikTok, kompetitive Spiele, WhatsApp, Nachrichten → tendenziell wach (kognitiv
 **Soziale Interaktion:**
 Das Gehirn bleibt sozial aktiv: Warten auf Antworten, Verarbeiten von Gesprächsinhalten, emotionale Reaktionen auf Nachrichten. Soziale Kogniton braucht Zeit zum „Herunterkühlen" – ähnlich wie nach einem aufregenden Gespräch im echten Leben.
 
-**FOMO (Sek II):**
+**FOMO (Sek. II):**
 Psychologische Bedürfnisse: Zugehörigkeit (dazugehören, nicht ausgeschlossen sein), Kontrolle (wissen, was passiert), Anerkennung (Likes, Reaktionen auf eigene Posts).
 Designelemente: Infinite Scroll (kein natürliches Ende), Notifications (externe Trigger), Stories mit Ablaufdatum (künstliche Dringlichkeit), Like-Anzeigen (soziale Bestätigung als Verstärker).
 
@@ -299,7 +299,7 @@ Designelemente: Infinite Scroll (kein natürliches Ende), Notifications (externe
 
 ## AB 2c: Warum ist Schlaf so wichtig?
 
-**Phase 2 | Gruppenarbeit | Sek I + II**
+**Phase 4 | Gruppenarbeit | Sek. I + II**
 
 ---
 
@@ -347,7 +347,7 @@ Schlafmangel beeinflusst Hunger-regulierende Hormone (Ghrelin ↑, Leptin ↓) �
 
    _______________________________________________
 
-**Zusatz für Sek II:**
+**Zusatz für Sek. II:**
 
 4. Welche Erkenntnisse aus der Infografik sind für euch persönlich am relevantesten – und warum?
 5. Schlafmangel bei Jugendlichen ist teilweise biologisch bedingt: Der zirkadiane Rhythmus verschiebt sich in der Pubertät nach hinten (**Social Jetlag**). Was bedeutet das für frühe Schulzeiten?
@@ -370,10 +370,10 @@ Schlafmangel beeinflusst Hunger-regulierende Hormone (Ghrelin ↑, Leptin ↓) �
 - 4× höheres Erkältungsrisiko bei 6h Schlaf – Zahl wirkt überzeugend
 - Schlaf konsolidiert Gelerntes – hat direkte Relevanz für Schule
 
-**Schlafmangel bei Jugendlichen (Sek II – Social Jetlag):**
+**Schlafmangel bei Jugendlichen (Sek. II – Social Jetlag):**
 Durch hormonelle Veränderungen in der Pubertät verschiebt sich der zirkadiane Rhythmus um 1–3 Stunden nach hinten. Jugendliche sind abends später müde und morgens später ausgeruht. Frühe Schulanfangszeiten führen zu chronischem Schlafentzug. Das ist biologisch, nicht Faulheit.
 
-**Chronotypen (Sek II):**
+**Chronotypen (Sek. II):**
 Eule (Spättyp) und Lerche (Frühtyp) sind weitgehend genetisch bedingt. Schultypisch ist: Lerchen kommen mit dem Stundenplan besser zurecht; Eulen müssen gegen ihre Biologie anschreiben. Wichtig: Keine Wertung – beide Typen sind „normal", der Stundenplan passt nur für einen Teil. Brücke zur multifaktoriellen Sicht: Schlafqualität hängt nicht allein vom Verhalten ab. `[NEU (Feedback BARMER F4)]`
 
 ---
@@ -382,7 +382,7 @@ Eule (Spättyp) und Lerche (Frühtyp) sind weitgehend genetisch bedingt. Schulty
 
 ## AB 3a: Fallbeispiel – Lena
 
-**Phase 3 | Gruppenarbeit | Sek I + II**
+**Phase 4 | Gruppenarbeit | Sek. I + II**
 
 ---
 
@@ -402,7 +402,7 @@ Wenn sie das Handy endlich weglegt, dreht sie sich noch lange hin und her. Manch
 
    _______________________________________________
 
-2. Welche biologischen Prozesse werden durch ihr Verhalten gestört? (Nutzt, was ihr in Phase 1 gelernt habt)
+2. Welche biologischen Prozesse werden durch ihr Verhalten gestört? (Nutzt, was ihr in Phase 2 gelernt habt)
 
    _______________________________________________
 
@@ -414,7 +414,7 @@ Wenn sie das Handy endlich weglegt, dreht sie sich noch lange hin und her. Manch
 
    _______________________________________________
 
-**Zusatz für Sek II:**
+**Zusatz für Sek. II:**
 
 5. Lena hat Instagram als Einschlafritual konditioniert. Was bedeutet das – und warum ist es schwer, das aufzugeben?
 
@@ -436,7 +436,7 @@ Blaues Licht hemmt Melatonin → Einschlafen verzögert. Aufwühlende Inhalte (s
 **Instagram als „Entspannung":**
 Lena erlebt kurzfristige Ablenkung/Stimulation als angenehm. Das Gehirn interpretiert die Stimulation als Belohnung (Dopamin). Das Einschlafen danach fühlt sich schwerer an, weil das Gehirn noch aktiv ist – was dem Erleben von „Entspannung" widerspricht.
 
-**Konditioniertes Einschlafritual (Sek II):**
+**Konditioniertes Einschlafritual (Sek. II):**
 Durch Wiederholung hat Lenas Gehirn Bildschirm = Abschluss des Tages assoziiert. Das Gehirn erwartet jetzt dieses Signal. Ohne das Signal fühlt sich der Abschluss des Tages unvollständig an. Das ist nicht Willensschwäche, sondern neuroplastische Konditionierung – und lässt sich durch neue Rituale umtrainieren.
 
 ---
@@ -445,7 +445,7 @@ Durch Wiederholung hat Lenas Gehirn Bildschirm = Abschluss des Tages assoziiert.
 
 ## AB 3b: Fallbeispiel – Malik
 
-**Phase 3 | Gruppenarbeit | Sek I + II**
+**Phase 4 | Gruppenarbeit | Sek. I + II**
 
 ---
 
@@ -473,7 +473,7 @@ Er schläft meistens innerhalb von 15–20 Minuten ein. Morgens wacht er ohne We
 
    _______________________________________________
 
-**Zusatz für Sek II:**
+**Zusatz für Sek. II:**
 
 4. Maliks Ritual ist unbewusst entstanden – er hat nie „beschlossen", kein Handy abends zu nutzen. Was sagt das darüber, wie Gewohnheiten entstehen?
 
@@ -495,7 +495,7 @@ Person → Verhalten → Schlafqualität → Erklärung → Was können wir mitn
 - Klare Grenze: Handy weg = keine sozialen Notifications; kein FOMO
 - Natürliches Müde-werden: Augen fallen zu → natürliches Schlafsignal wird gehört und beachtet
 
-**Gewohnheiten (Sek II):**
+**Gewohnheiten (Sek. II):**
 Gewohnheiten entstehen durch Wiederholung: Signal → Routine → Belohnung. Malik hat (unbewusst) das Signal „21 Uhr" mit der Routine „Buch lesen" verbunden, die zur Belohnung „angenehmer Schlaf" führt. Das lässt sich bewusst auf neue Rituale übertragen.
 
 ---
@@ -504,7 +504,7 @@ Gewohnheiten entstehen durch Wiederholung: Signal → Routine → Belohnung. Mal
 
 ## AB 3c: Fallbeispiel – Sarah
 
-**Phase 3 | Gruppenarbeit | Sek I + II**
+**Phase 4 | Gruppenarbeit | Sek. I + II**
 
 ---
 
@@ -538,7 +538,7 @@ Morgens ist sie erschöpft. Sie erklärt das damit, dass sie „einfach keinen g
 
    _______________________________________________
 
-**Zusatz für Sek II:**
+**Zusatz für Sek. II:**
 
 5. Sarah ist im „Always-on-Modus" – auch im Schlaf. Was bedeutet das für das Nervensystem?
 
@@ -557,10 +557,10 @@ Person → Verhalten → Schlafqualität → Erklärung
 **Sarahs Schlafprobleme:**
 Schwieriges Einschlafen (Blaulicht + Inhalte), Durchschlafprobleme (Benachrichtigungen + FOMO-bedingtes Aufwachen), schlechte Schlafqualität insgesamt.
 
-**Always-on-Modus (Sek II):**
+**Always-on-Modus (Sek. II):**
 Wenn das Gehirn erwartet, jederzeit auf Reize reagieren zu müssen (Benachrichtigungen), bleibt es in einem Alarmzustand – auch im Schlaf. Das verhindert Tiefschlafphasen. Cortisol (Stresshormon) bleibt erhöht. Das Smartphone neben dem Bett ist ein physisches Symbol dieser Erwartung.
 
-**Plattform-Design (Sek II):**
+**Plattform-Design (Sek. II):**
 Autoplay ist bewusstes Design für Binge-Watching – es eliminiert die natürliche Pause zwischen Folgen, in der man aufhören könnte. „Nur noch eine Folge" ist kein persönliches Versagen, sondern das Ergebnis von Designentscheidungen.
 
 **Sofortige Maßnahme:**
@@ -572,7 +572,7 @@ Smartphone aus dem Schlafzimmer oder zumindest auf Flugmodus; Netflix-Autoplay d
 
 ## AB 3d: Fallbeispiel – Jonas
 
-**Phase 3 | Gruppenarbeit | Sek I + II**
+**Phase 4 | Gruppenarbeit | Sek. I + II**
 
 ---
 
@@ -606,7 +606,7 @@ Er weiß nicht genau, warum sein Ritual so gut funktioniert – er macht es einf
 
    _______________________________________________
 
-**Zusatz für Sek II:**
+**Zusatz für Sek. II:**
 
 5. Jonas' Ritual ist ein Beispiel für **Konditionierung**: Das Gehirn assoziiert die Playlist mit Schlaf. Erklärt diesen Mechanismus und zeigt, wie er sich auf neue Rituale übertragen lässt.
 
@@ -629,7 +629,7 @@ Person → Verhalten → Schlafqualität → Erklärung → Was können wir mitn
 - Klares Ritual: Signal → Routine → Schlaf; Gehirn kennt das Muster und bereitet sich vor
 - Konsistenz: täglich dasselbe → verstärkt die konditionierte Reaktion
 
-**Parasympathikus (Sek II):**
+**Parasympathikus (Sek. II):**
 Das autonome Nervensystem hat zwei Äste: Sympathikus (Aktivierung, Stress, Kampf/Flucht) und Parasympathikus (Ruhe, Regeneration, Verdauung). Langsames Ausatmen aktiviert gezielt den Parasympathikus über den Vagusnerv → Herzfrequenz sinkt, Körper signalisiert Sicherheit → Einschlafen wird erleichtert.
 
 ---
@@ -638,11 +638,11 @@ Das autonome Nervensystem hat zwei Äste: Sympathikus (Aktivierung, Stress, Kamp
 
 ## AB 4: Mein Abendritual
 
-**Phase 4 | Partnerarbeit | Sek I + II**
+**Phase 5 | Partnerarbeit | Sek. I + II**
 
 ---
 
-### Sek I: Mein Abendritual planen
+### Sek. I: Mein Abendritual planen
 
 Entwirf für dich ein eigenes bildschirmfreies Abendritual für die **30–60 Minuten vor dem Schlafen**.
 
@@ -685,7 +685,7 @@ Zeigt euch eure Rituale. Besprecht:
 
 ---
 
-### Sek II: Mein Abendritual – offen und begründet
+### Sek. II: Mein Abendritual – offen und begründet
 
 Entwirf dein eigenes bildschirmfreies Abendritual. Formuliere dein Ziel nach dem **SMART-Prinzip** und reflektiere mögliche Hindernisse.
 
@@ -728,8 +728,8 @@ _______________________________________________
 ### Lösungshinweise für Lehrkräfte
 
 - Rituale müssen nicht perfekt sein – ein kleiner Schritt ist besser als kein Schritt
-- Sek I: Das Ritual muss nicht vollständig sein – eine Idee genügt als Anfang
-- Sek II: SMART-Kriterien als Orientierung, nicht als Zwang; besonders „Realistisch" betonen
+- Sek. I: Das Ritual muss nicht vollständig sein – eine Idee genügt als Anfang
+- Sek. II: SMART-Kriterien als Orientierung, nicht als Zwang; besonders „Realistisch" betonen
 - Hindernisse ernst nehmen: Wenn jemand schreibt „Meine Eltern entscheiden das" – das ist ein valides Hindernis, kein Versagen
 
 ---
@@ -738,7 +738,7 @@ _______________________________________________
 
 ## AB 5: Schlafprotokoll – 7 Tage
 
-**Phase 4 + Follow-up | Einzelarbeit | Sek I + II**
+**Phase 5 + Follow-up | Einzelarbeit | Sek. I + II**
 
 *Dieses Protokoll ist nur für dich. Es wird nicht eingesammelt und nicht bewertet.*
 
@@ -802,7 +802,7 @@ Schau dir dein Protokoll an und beantworte die Fragen:
 
 ---
 
-### Für Sek II: Eigene Hypothese
+### Für Sek. II: Eigene Hypothese
 
 Formuliere **vor Beginn** des Protokolls eine Hypothese:
 
@@ -818,7 +818,7 @@ _______________________________________________
 
 ### Hinweise für Lehrkräfte
 
-- Protokoll wird in Phase 4 eingeführt und im Follow-up (1–2 Wochen später) ausgewertet
+- Protokoll wird in Phase 5 eingeführt und im Follow-up (1–2 Wochen später) ausgewertet
 - Explizit betonen: Nicht einsammeln, nicht bewerten – das Protokoll ist ein persönliches Werkzeug
 - Im Follow-up: Freiwillige Wortmeldungen ermutigen; niemand muss Zahlen vorlesen
 - Klassen-Challenge-Ergebnisse können anonym aggregiert werden (z. B. „Wer hat die Hypothese bestätigt gesehen – Handzeichen?")
@@ -829,7 +829,7 @@ _______________________________________________
 
 ## Primarstufe AB 1: Warum braucht mein Körper Schlaf?
 
-**Phase 3 | Einzelarbeit + Sitzkreis | Grundschule Kl. 3–4**
+**Phase 4 | Einzelarbeit + Sitzkreis | Grundschule Kl. 3–4**
 
 ---
 
@@ -924,7 +924,7 @@ Die Zettel werden auf das Plakat geklebt.
 
 ## Primarstufe AB 2: Sortierspiel – Was hilft mir beim Einschlafen?
 
-**Phase 4 | 2er-Paare | Grundschule Kl. 3–4**
+**Phase 5 | 2er-Paare | Grundschule Kl. 3–4**
 
 ---
 
