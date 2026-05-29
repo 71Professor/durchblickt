@@ -179,8 +179,40 @@ Der Effekt von blauem Licht ist real, aber in der Öffentlichkeit oft übertrieb
 **Schlaftypen & Social Jetlag (Sek II – relevant ab Phase 2):**
 In der Pubertät verschiebt sich der zirkadiane Rhythmus biologisch nach hinten: Jugendliche werden später müde und brauchen länger morgens. Frühe Schulzeiten erzeugen so an Wochentagen ein **Schlafdefizit**, das am Wochenende durch späteres Aufstehen kompensiert wird – das nennt man **Social Jetlag**. Hinzu kommen unterschiedliche **Chronotypen** (Eulen vs. Lerchen): Manche sind morgens fitter, andere abends. Das erklärt, warum gleiche Schlafzeiten nicht für alle gleich gut funktionieren – und warum Schlafqualität multifaktoriell ist. `[NEU (Feedback BARMER F4)]`
 
-**Startervideo:**
-Das Video ist bewusst stimmungsbildend, nicht informierend. Es soll Betroffenheit erzeugen, keine Erklärung liefern. Wenn es noch nicht produziert ist, genügt ein projiziertes Standbild (jugendliche Person im Bett, Handy leuchtet) mit der Einblendung der Frage.
+**Startervideo – Videokonzept**
+
+Das Video ist bewusst stimmungsbildend, nicht informierend. Es soll Wiederkennen und Betroffenheit erzeugen – keine Erklärung liefern, kein Urteil fällen.
+
+*Arbeitstitel:* „Noch wach?" | *Länge:* ca. 60–90 Sek. | *Format:* 16:9 (Beamer) oder 9:16 (Portrait-Variante für Mobilformat)
+
+**Sequenz (Dramaturgie):**
+
+| Zeit | Bild | Ton |
+|------|------|-----|
+| 0–5 Sek. | Schwarzblende | Stille |
+| 5–20 Sek. | Nahaufnahme: Gesicht einer jugendlichen Person (Augen offen, Blick nach oben) – Zimmer dunkel, Gesicht blau-weißlich vom Display beleuchtet | Stille |
+| 20–35 Sek. | Wechsel: Handydisplay (nicht lesbar – nur das Licht, kein Inhalt sichtbar), dann zurück auf Gesicht | Einmaliges kurzes Notification-Geräusch |
+| 35–50 Sek. | Uhr im Bild: **01:42** | Stille |
+| 50–65 Sek. | Schwarzblende | Stille |
+| 65–90 Sek. | Weißer Text auf Schwarz, ruhige Schrift: *„Was könnte das eine mit dem anderen zu tun haben?"* | Stille |
+
+**Stimmungskonzept:**
+Das Blauweiß des Displays ist bewusst ästhetisch gewählt: es ist vertraut, fast schön – und gleichzeitig das Problem. Die Uhrzeit 01:42 macht die Situation konkret, ohne sie zu kommentieren. Kein Urteil, keine Stimme, keine Musik. Die Lernenden sehen das Bild und erkennen sich oder jemanden, den sie kennen. Die Frage am Ende lässt die Interpretation offen.
+
+**Was nicht gezeigt wird:**
+- Kein Scrollen, kein erkennbarer App-Inhalt (kein TikTok-Logo o. ä.) – nur das Licht
+- Keine erwachsene Stimme, kein Kommentar
+- Keine Dramatisierung (kein Stöhnen, kein Aufwachen, keine Eltern)
+
+**Produktionsalternativen (falls noch nicht produziert):**
+
+| Option | Beschreibung | Aufwand |
+|--------|-------------|---------|
+| **A – Standbild** | Professionelles Foto der beschriebenen Szene (Gesicht + blaues Licht + Uhranzeige 01:42), auf Folie mit eingeblendeter Frage | gering |
+| **B – Selbst erstellt** | Smartphone-Foto im Querformat, dunkles Zimmer, Handylicht ins Gesicht gehalten; Uhrzeit digital eingeblendet | sehr gering |
+| **C – Mündliche Beschreibung** | Lehrkraft liest das Szenario vor: *„Stell dir vor: Es ist kurz vor zwei Uhr nachts. Jemand liegt im Bett. Das Handy leuchtet. Die Augen sind offen."* Dann Frage auf Folie zeigen. | null |
+
+Option C ist didaktisch gleichwertig – die mündliche Evokation kann die Imagination der Lernenden stärker aktivieren als ein fertiges Bild.
 
 **Fallstricke vermeiden:**
 - Blitzlicht-Ergebnis nicht überdramatisieren: Wer gestern gut geschlafen hat, ist kein Gegenbeispiel – es geht um Tendenzen, nicht um absolute Kausalität
