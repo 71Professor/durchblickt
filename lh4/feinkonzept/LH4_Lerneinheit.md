@@ -490,7 +490,7 @@ Die Challenge funktioniert als soziales Experiment: Wenn viele mitmachen, entste
 
 ### Ziel
 
-Persönlichen Transfer sichern, Selbstverpflichtung fördern, erste konkrete Handlungsplanung
+Persönlichen Transfer sichern, Selbstverpflichtung fördern, konkreten Auslöser-Reaktion-Plan formulieren
 
 *Digitale Gesundheitskompetenz:* Die Lernenden übersetzen ihr Wissen in eine selbstbestimmte Handlungsabsicht – der erste Schritt zu einer bewussten digitalen Abendroutine (dGK 3 – Sicher navigieren).
 
@@ -499,7 +499,7 @@ Persönlichen Transfer sichern, Selbstverpflichtung fördern, erste konkrete Han
 | Zeit   | Element                         | Sozialform   | Material                                   | Durchführung                                                                                                                                                                                                                                                                                                                                |
 | ------ | ------------------------------- | ------------ | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 4 Min. | **Meinungslinie**               | Plenum       | Linie im Raum oder imaginäre Linie         | Lehrkraft liest These vor: *„Ich werde heute Abend mein Handy früher weglegen."* Lernende positionieren sich zwischen „stimme voll zu" und „stimme gar nicht zu". 3–4 Lernende begründen ihre Position. Ein Positionswechsel nach einem überzeugenden Argument ist ausdrücklich willkommen – als Zeichen von Reflexion, nicht von Schwäche. |
-| 4 Min. | **Persönliche Planung**         | Einzelarbeit | Notizzettel (oder Rückseite AB 4A / AB 4B) | Jede und jeder notiert anonym: **(1)** Mein konkretes Ziel für diese Woche (z. B. „Handy ab 22 Uhr in einem anderen Zimmer"). **(2)** Was könnte schwierig werden? **(3)** Was hilft mir dabei? Die Notizzettel werden nicht geteilt – sie begleiten die Lernenden und können ins Schlafprotokoll gelegt werden.                            |
+| 4 Min. | **Mein Wenn-Dann-Satz**         | Einzelarbeit | Notizzettel (oder Rückseite AB 4A / AB 4B) | Jede und jeder schreibt einen einzigen Satz anonym auf: *„Wenn [auslösende Situation], dann [meine konkrete Alternative]."* Beispiele: *„Wenn ich ins Bett gehe, lege ich das Handy auf den Schreibtisch."* / *„Wenn ich nach dem Abendessen auf die Couch gehe, nehme ich mein Buch."* Der Notizzettel wird nicht geteilt – er kann ins Schlafprotokoll gelegt werden.                            |
 | 2 Min. | **Optionale Klassen-Challenge** | Plenum       | –                                          | Lehrkraft stellt vor: *„Wer möchte, kann an der Klassen-Challenge teilnehmen: ‚Bildschirmfreie Stunde vor dem Schlafen' – eine Woche lang. Wir werten das im Follow-up gemeinsam aus."* Handzeichen (freiwillig, ohne Druck).                                                                                                               |
 
 ### Differenzierung Sek. I / Sek. II
@@ -507,22 +507,25 @@ Persönlichen Transfer sichern, Selbstverpflichtung fördern, erste konkrete Han
 **Variante A (Sek. I):**
 
 - Meinungslinie: einfache, konkrete These; Begründungen dürfen kurz und intuitiv sein
-- Persönliche Planung: Satzanfänge als Hilfe angeboten (*„Mein Ziel ist: …"*, *„Schwierig wird: …"*, *„Das hilft mir: …"*)
-- Fokus auf kleine, sofort umsetzbare Schritte; externe Stützen benennen (Timer, Absprache mit Eltern, Handy-Ablageort)
+- Wenn-Dann-Satz: Satzmuster an der Tafel oder auf dem Notizzettel vorgeben (*„Wenn ich …, dann …"*); konkrete Alltagssituationen als Starthilfe nennen (ins Bett gehen, nach dem Essen, vor dem Einschlafen)
+- Fokus auf den einen, kleinen Auslöser – nicht das ganze Abendritual noch einmal planen
 
 **Variante B (Sek. II):**
 
 - Meinungslinie kann um eine zweite These erweitert werden: *„Plattformen haben eine Mitverantwortung für unsere Schlafprobleme."*
-- Persönliche Planung: offen, SMART-Kriterien wenn gewünscht; Reflexion über gesellschaftliche Verantwortung neben der individuellen
+- Wenn-Dann-Satz: offen, ohne Vorgabe; optional zweiter Satz auf struktureller Ebene (*„Wenn Plattformen standardmäßig einen Abendmodus hätten, dann …"*)
 - Diskussion: Reicht individuelle Verhaltensänderung – oder braucht es strukturelle Lösungen (z. B. standardmäßige Abendmodus-Funktionen, Altersregulierung)?
 
 ### Didaktischer Kommentar
 
 **Transfer ≠ Reflexion:**
-Diese Phase ist handlungsorientiert. Die Meinungslinie bringt die Lernenden in eine körperliche Position zu ihrem Vorsatz. Der Notizzettel sichert die Handlungsplanung schriftlich – ohne sie zu erzwingen. Die Reflexion folgt in Phase 6.
+Diese Phase ist handlungsorientiert. Die Meinungslinie bringt die Lernenden in eine körperliche Position zu ihrem Vorsatz. Der Wenn-Dann-Satz sichert die Handlungsabsicht schriftlich – ohne sie zu erzwingen. Die Reflexion folgt in Phase 6.
 
 **Warum Meinungslinie zu einem konkreten Vorhaben?**
 Eine konkrete These (*„Ich werde heute Abend …"*) erzeugt mehr Commitment als eine abstrakte Frage. Die körperliche Positionierung im Raum macht die eigene Haltung sichtbar – das erhöht die Wahrscheinlichkeit, dass der Vorsatz nach der Stunde noch präsent ist.
+
+**Warum Wenn-Dann statt freier Planung?**
+In Phase 4 haben die Lernenden bereits ein Abendritual entworfen – also den Inhalt ihres neuen Verhaltens. Der Wenn-Dann-Satz geht einen Schritt weiter: Er verknüpft einen konkreten Auslöser mit der geplanten Alternative. Statt „Ich will weniger scrollen" heißt es: „Wenn ich nach dem Abendessen die Küche verlasse, lasse ich das Handy auf dem Tisch." Diese Technik (Implementation Intention) ist gut belegt – sie erhöht die Wahrscheinlichkeit, dass ein Vorsatz tatsächlich umgesetzt wird, weil die kritische Situation gedanklich bereits geprobt wurde.
 
 **Positionswechsel erwünscht:**
 Explizit ansagen: Ein Positionswechsel nach einem Argument ist keine Schwäche, sondern zeigt, dass man zuhört. Das signalisiert eine offene Lernhaltung und entkrampft die Situation.
@@ -535,8 +538,9 @@ Nicht aufdrängen. Wer teilnimmt, hat eine Peer-Group, die dasselbe tut – das 
 - Notizzettel nie einsammeln
 - Challenge nicht als Pflicht framen: *„Wer macht mit?"* statt *„Ich erwarte, dass alle …"*
 - Meinungslinie: keine „richtige" Position; beide Enden der Linie sind valide
+- Wenn-Dann-Satz nicht mit dem Abendritual aus Phase 4 verwechseln lassen: Hier geht es um den Auslöser-Moment, nicht um das gesamte Ritual
 
-**dGK-Bezug:** Meinungslinie und Handlungsplanung stärken dGK 3 (Sicher navigieren): Die Lernenden treffen eine selbstbestimmte Entscheidung über ihre digitale Abendroutine.
+**dGK-Bezug:** Meinungslinie und Wenn-Dann-Satz stärken dGK 3 (Sicher navigieren): Die Lernenden treffen eine selbstbestimmte Entscheidung über ihre digitale Abendroutine und verankern sie in einer konkreten Alltagssituation.
 
 ### Erwartete Antworten der Lernenden
 
@@ -558,12 +562,13 @@ Nicht aufdrängen. Wer teilnimmt, hat eine Peer-Group, die dasselbe tut – das 
 - „Teilweise – ich lege das Handy früher weg, aber nicht ganz"
 - „Wenn ich müde bin, schaffe ich das – wenn nicht, nicht"
 
-**Persönliche Planung – typische Ziele:**
+**Wenn-Dann-Satz – typische Formulierungen:**
 
-- „Handy ab 22 Uhr auf dem Schreibtisch, nicht neben dem Bett"
-- „Letzte halbe Stunde: nur noch Buch"
-- „Netflix-Timer setzen: nach einer Folge ist Schluss"
-- „Morgen fange ich an" (ehrlich und realistisch)
+- „Wenn ich ins Bett gehe, lege ich das Handy auf den Schreibtisch."
+- „Wenn ich nach dem Abendessen auf die Couch gehe, nehme ich mein Buch statt das Handy."
+- „Wenn ich merke, dass ich anfange zu scrollen, stelle ich mir einen 10-Minuten-Timer."
+- „Wenn meine Lieblingsserie zu Ende ist, lege ich das Handy weg – egal wie spät."
+- „Wenn ich nicht einschlafen kann, höre ich Musik statt Videos zu schauen."
 
 ---
 
