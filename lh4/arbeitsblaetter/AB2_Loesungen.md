@@ -1,4 +1,5 @@
 # AB 2 – Lösungen zu den Fallbeispielen
+
 **LH4: „Schlaf gut! – Wie digitale Geräte unseren Schlaf beeinflussen"**
 
 *Lehrkräftehandreichung | DURCHBLICKT! – Digital in eine gesunde Zukunft | BARMER / Klett MEX*
@@ -9,16 +10,16 @@
 
 ## Gliederung
 
-| AB | Fall | Zielgruppe |
-|----|------|-----------|
-| [AB 2aA](#ab-2aa--lena--sek-i) | Lena | Sek. I |
-| [AB 2aB](#ab-2ab--lena--sek-ii) | Lena | Sek. II |
-| [AB 2bA](#ab-2ba--malik--sek-i) | Malik | Sek. I |
-| [AB 2bB](#ab-2bb--malik--sek-ii) | Malik | Sek. II |
-| [AB 2cA](#ab-2ca--sarah--sek-i) | Sarah | Sek. I |
-| [AB 2cB](#ab-2cb--sarah--sek-ii) | Sarah | Sek. II |
-| [AB 2dA](#ab-2da--jonas--sek-i) | Jonas | Sek. I |
-| [AB 2dB](#ab-2db--jonas--sek-ii) | Jonas | Sek. II |
+| AB                               | Fall  | Zielgruppe |
+| -------------------------------- | ----- | ---------- |
+| [AB 2aA](#ab-2aa--lena--sek-i)   | Lena  | Sek. I     |
+| [AB 2aB](#ab-2ab--lena--sek-ii)  | Lena  | Sek. II    |
+| [AB 2bA](#ab-2ba--malik--sek-i)  | Malik | Sek. I     |
+| [AB 2bB](#ab-2bb--malik--sek-ii) | Malik | Sek. II    |
+| [AB 2cA](#ab-2ca--sarah--sek-i)  | Sarah | Sek. I     |
+| [AB 2cB](#ab-2cb--sarah--sek-ii) | Sarah | Sek. II    |
+| [AB 2dA](#ab-2da--jonas--sek-i)  | Jonas | Sek. I     |
+| [AB 2dB](#ab-2db--jonas--sek-ii) | Jonas | Sek. II    |
 
 ---
 
@@ -55,11 +56,13 @@ Lena erlebt kurzfristig Ablenkung, die sich wie Entspannung anfühlt. Tatsächli
 **Frage 4: Was könnte Lena konkret ändern – und was macht das schwer?**
 
 **Mögliche Änderungen:**
+
 - Handy 30–60 Minuten vor dem Schlafen weglegen
 - Handy aus dem Schlafzimmer verbannen oder auf Flugmodus stellen
 - Instagram durch eine ruhigere Abendbeschäftigung ersetzen (Buch, ruhige Musik, Tagebuch)
 
 **Was das schwer macht:**
+
 - Instagram ist für Lena ein konditioniertes Abendritual – das Gehirn erwartet dieses Signal als Tagesabschluss
 - Soziale Bestätigung und FOMO (Angst, etwas zu verpassen) erzeugen Anreize, weiterzuscrollen
 - Kurzfristig fühlt sich Instagram befriedigend an – langfristige Schlaffolgen sind weniger sichtbar
@@ -102,11 +105,13 @@ Lena verwechselt Stimulation mit Entspannung. Instagram aktiviert das mesolimbis
 **Frage 4: Was könnte Lena konkret ändern – und was macht das schwer?**
 
 **Mögliche Änderungen:**
+
 - Handy 60 Minuten vor dem Schlafen weglegen (keine Halbmaßnahme: Flugmodus oder anderes Zimmer)
 - Instagram durch echte Entspannungsrituale ersetzen
 - Notifications dauerhaft deaktivieren oder zeitgesteuert stummschalten
 
 **Was das schwer macht:**
+
 - Konditioniertes Ritual: Das Gehirn erwartet Instagram als Übergang in den Schlaf
 - Algorithmen sind auf maximale Verweildauer optimiert – das Aufhören wird bewusst erschwert
 - Soziale Norm: Viele Gleichaltrige machen dasselbe – abweichendes Verhalten fühlt sich seltsam an
@@ -122,6 +127,7 @@ Durch tägliche Wiederholung hat Lenas Gehirn eine Assoziation gebildet: *Handy 
 **Frage 6: Welche Rolle spielt der Algorithmus in Lenas Situation? Ist das allein ihr Problem?**
 
 Nein, es ist nicht allein Lenas Problem. Der Instagram-Algorithmus ist darauf ausgelegt, maximale Verweildauer zu erzeugen – durch:
+
 - Personalisierte Inhalte, die emotionale Reaktionen auslösen
 - Infinite Scroll: kein natürliches Ende
 - Dopamin-Micro-Rewards (Likes, neue Posts, überraschende Inhalte)
@@ -138,14 +144,14 @@ Das Plattformdesign nutzt psychologische Mechanismen aus, die beim Menschen biol
 
 **Frage 1: Was macht Malik anders als Lena? Listet die Unterschiede auf.**
 
-| Lena | Malik |
-|------|-------|
-| Scrollt 1 Std. Instagram im Bett | Liest ein Buch (Print) |
-| Handy leuchtet hell ins Gesicht | Handy liegt auf dem Schreibtisch, lautlos |
-| Schläft gegen 1 Uhr ein | Schläft gegen 22 Uhr ein |
-| Dreht sich lange hin und her | Schläft in 15–20 Min. ein |
-| Fühlt sich morgens nie erholt | Fühlt sich morgens „okay" |
-| Bildschirmlicht direkt vor Augen | Kein Bildschirm vor dem Schlafen |
+| Lena                             | Malik                                     |
+| -------------------------------- | ----------------------------------------- |
+| Scrollt 1 Std. Instagram im Bett | Liest ein Buch (Print)                    |
+| Handy leuchtet hell ins Gesicht  | Handy liegt auf dem Schreibtisch, lautlos |
+| Schläft gegen 1 Uhr ein          | Schläft gegen 22 Uhr ein                  |
+| Dreht sich lange hin und her     | Schläft in 15–20 Min. ein                 |
+| Fühlt sich morgens nie erholt    | Fühlt sich morgens „okay"                 |
+| Bildschirmlicht direkt vor Augen | Kein Bildschirm vor dem Schlafen          |
 
 ---
 
@@ -161,6 +167,7 @@ Das Plattformdesign nutzt psychologische Mechanismen aus, die beim Menschen biol
 **Frage 3: Was können wir von Maliks Abend für unseren eigenen übernehmen?**
 
 Mögliche Übertragungen (offene Antwort, Schüler benennen eigene Ideen):
+
 - Handy spätestens 30–60 Min. vor dem Schlafen weglegen – ins andere Zimmer oder auf Flugmodus
 - Etwas Ruhiges tun: lesen, Musik hören, zeichnen
 - Dem Körper zuhören: wenn die Augen schwer werden, wirklich aufhören und schlafen gehen
@@ -179,6 +186,7 @@ Mögliche Übertragungen (offene Antwort, Schüler benennen eigene Ideen):
 **Frage 1: Was macht Malik anders als Lena?**
 
 Malik hat (unbewusst) eine Reihe von Schlafhygieneregeln umgesetzt, die in der Schlafforschung als wirksam gelten:
+
 - Keine Bildschirmnutzung vor dem Schlafen (kein Blaulicht, keine kognitive Aktivierung)
 - Handy aus der Schlafumgebung entfernt (kein Trigger für Notification-Check)
 - Ruhige, non-digitale Abendbeschäftigung (Print-Lesen: kognitiv aktiv, aber nicht aufwühlend)
@@ -211,11 +219,13 @@ Gewohnheiten entstehen nicht durch bewusste Entscheidungen, sondern durch Wieder
 **Frage 5: Buch lesen gilt als klassische Einschlafhilfe. Warum – welche biologischen und psychologischen Mechanismen wirken dabei?**
 
 **Biologisch:**
+
 - Buchlicht (Lampe mit warmem Licht) hemmt Melatonin kaum – im Gegensatz zu Bildschirmlicht
 - Gemäßigte Augenarbeit fördert die natürliche Ermüdung der Augenmuskeln
 - Ruhige Körperhaltung (liegend/sitzend) fördert Parasympathikus-Aktivierung
 
 **Psychologisch:**
+
 - Lesen erfordert konzentriertes Folgen einer Handlung → Gedanken „verlangsamen" sich
 - Keine sozialen Reize, keine Notifications, keine Vergleiche → kognitive Entlastung
 - Repetitive, ruhige Handlung → konditionierter Schlafanker über Zeit
@@ -242,11 +252,13 @@ Gewohnheiten entstehen nicht durch bewusste Entscheidungen, sondern durch Wieder
 **Frage 2: Welche Faktoren stören Sarahs Schlaf – welche Rolle spielen Netflix und das Smartphone?**
 
 **Netflix:**
+
 - Bildschirmlicht hemmt Melatonin → Einschlafen verzögert
 - Spannende Serien aktivieren das Gehirn (Spannung, Neugier auf die nächste Folge)
 - Autoplay verhindert den natürlichen Stopp-Moment → sie schaut länger als geplant
 
 **Smartphone:**
+
 - Benachrichtigungen unterbrechen den Schlaf nachts
 - Wenn Sarah aufwacht und sofort aufs Handy schaut, wird das Gehirn sofort aktiviert → Wiedereinschlafen dauert lang
 - Das Smartphone neben dem Bett ist ein Signal für „immer erreichbar sein" → permanente Alertness
@@ -283,6 +295,7 @@ Wichtig: Keine Schuldzuweisung – Sarah ist sich des Zusammenhangs nicht bewuss
 **Frage 1: Was sind Sarahs konkrete Schlafprobleme?**
 
 Sarahs Schlafproblematik ist mehrschichtig:
+
 - Einschlafverzögerung (Blaulicht + Inhalte-Aktivierung)
 - Durchschlafstörungen (Benachrichtigungen als nächtliche Unterbrechungen)
 - Reaktionsreflex beim Aufwachen (sofortiges Handychecken → kognitive Aktivierung mitten in der Nacht)
@@ -319,6 +332,7 @@ Der Attributionsfehler ist psychologisch erklärbar: Wenn Ursache und Wirkung ze
 **Frage 5: Sarah ist im „Always-on-Modus" – auch im Schlaf. Was bedeutet das für das Nervensystem?**
 
 Das autonome Nervensystem hat zwei Äste:
+
 - **Sympathikus** (Aktivierung, Alarmbereitschaft, Fight-or-Flight)
 - **Parasympathikus** (Ruhe, Regeneration, Rest-and-Digest)
 
@@ -347,6 +361,7 @@ Konsequenz: „Nur noch eine Folge" ist kein persönliches Versagen, sondern das
 Jonas legt nach den Hausaufgaben sein Handy auf den Schreibtisch (nicht neben das Bett). Ab 21:30 Uhr hört er eine ruhige Playlist, manchmal mit Atemübung. Er geht gegen 22 Uhr schlafen.
 
 Das wirkt, weil:
+
 - Kein Blaulicht → Melatonin kann ungehindert ansteigen
 - Ruhige Musik und Atemübung aktivieren den Entspannungsmodus des Körpers
 - Das Ritual ist ein klares, tägliches Signal: *„Jetzt kommt der Schlaf"*
@@ -374,6 +389,7 @@ Musterantwort (für 90-Sekunden-Präsentation geeignet):
 **Frage 4: Was von Jonas' Ritual könnt ihr für euch übernehmen?**
 
 Offene Antwort – Schüler wählen eigene Elemente. Zentrale Prinzipien, die immer gelten:
+
 - Handy weglegen (nicht neben das Bett)
 - Etwas Ruhiges, Regelmäßiges tun (Musik, Lesen, Atmen, Zeichnen…)
 - Jeden Abend dasselbe tun → Gewohnheit bildet sich
@@ -422,6 +438,7 @@ Dein Ritual kombiniert mehrere Wirkmechanismen: biologische (Melatonin, Parasymp
 **Klassische Konditionierung (nach Pawlow):** Ein zunächst neutraler Reiz (Lofi-Playlist) wird durch wiederholte Kopplung mit einer unkonditionierten Reaktion (Schlaf) zum konditionierten Reiz, der diese Reaktion selbst auslöst.
 
 **Übertragung auf neue Rituale:**
+
 1. Neues Signal wählen (z. B. Atem-App, bestimmte Teesorte, Leselampe)
 2. Ritual täglich zur selben Zeit durchführen
 3. Immer mit Schlafen enden – die Kopplung muss bestehen bleiben
@@ -435,12 +452,12 @@ Wichtig: Wenn das alte Ritual (z. B. Handy) gelöscht werden soll, muss ein neue
 
 Das autonome Nervensystem reguliert unbewusste Körperfunktionen über zwei antagonistische Äste:
 
-| Sympathikus | Parasympathikus |
-|-------------|-----------------|
+| Sympathikus                    | Parasympathikus    |
+| ------------------------------ | ------------------ |
 | Aktivierung, Alarmbereitschaft | Ruhe, Regeneration |
-| Adrenalin, Cortisol | Acetylcholin |
-| Herzfrequenz ↑ | Herzfrequenz ↓ |
-| Fight or Flight | Rest and Digest |
+| Adrenalin, Cortisol            | Acetylcholin       |
+| Herzfrequenz ↑                 | Herzfrequenz ↓     |
+| Fight or Flight                | Rest and Digest    |
 
 Langsames, bewusstes Ausatmen (länger als Einatmen) aktiviert den **Vagusnerv** – den wichtigsten Nerv des Parasympathikus. Das senkt die Herzfrequenz und signalisiert dem Gehirn: *„Es ist sicher. Keine Gefahr. Schlaf ist möglich."*
 

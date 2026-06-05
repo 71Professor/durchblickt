@@ -147,6 +147,7 @@ Diese Aussage sollte etwas vorsichtiger formuliert werden.
 Die Studienlage legt nahe, dass verschiedene Nutzungsarten unterschiedlich wirken können. Es ist aber nicht in allen Quellen eindeutig belegt, dass passives Scrollen grundsätzlich stärker schlafstörend ist als aktive Kommunikation.
 
 **Empfohlene Formulierung:**  
+
 > „Neuere Forschung deutet darauf hin, dass nicht jede Bildschirmnutzung gleich wirkt. Neben der Dauer spielen auch Inhalt, Aktivierungsgrad, soziale Erwartungen und die Art der Nutzung eine Rolle. Passives Scrollen, FOMO und aufwühlende Inhalte können das Einschlafen besonders erschweren.“
 
 Diese Formulierung ist wissenschaftlich vorsichtiger und passt besser zur heterogenen Evidenzlage.
@@ -158,6 +159,7 @@ Diese Formulierung ist wissenschaftlich vorsichtiger und passt besser zur hetero
 Diese Aussage ist grundsätzlich richtig, sollte aber weiterhin im Kann-Modus bleiben.
 
 **Empfohlene Formulierung:**  
+
 > „Blaues Licht kann die Melatoninproduktion hemmen und den Schlaf-Wach-Rhythmus verschieben – wie stark dieser Effekt ist, hängt jedoch von Dauer, Intensität, Zeitpunkt und individueller Empfindlichkeit ab.“
 
 So bleibt die Aussage korrekt, ohne deterministisch zu wirken.
@@ -169,6 +171,7 @@ So bleibt die Aussage korrekt, ohne deterministisch zu wirken.
 Diese Aussage ist passend. Noch stärker wäre sie, wenn die Handreichung klar macht, dass Rituale individuell unterschiedlich funktionieren.
 
 **Empfohlene Ergänzung:**  
+
 > „Nicht jedes Ritual wirkt für alle gleich. Entscheidend ist, dass es regelmäßig wiederholt wird, realistisch bleibt und dem Körper ein verlässliches Signal zum Abschalten gibt.“
 
 ---

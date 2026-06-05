@@ -19,6 +19,8 @@ Alle URLs wurden geprüft (Stand: Juni 2026).
 
 ### Blaues Licht, Melatonin & zirkadianer Rhythmus
 
+Check:
+
 **Chang, A. M., Aeschbach, D., Duffy, J. F. & Czeisler, C. A. (2015).** Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness. *Proceedings of the National Academy of Sciences, 112*(4), 1232–1237.
 → https://www.pnas.org/doi/10.1073/pnas.1418490112
 
@@ -26,15 +28,18 @@ Alle URLs wurden geprüft (Stand: Juni 2026).
 
 ---
 
-**Hida, A. et al. (2023/2025).** Partial blue light blocking glasses advanced sleep phase and reduced daytime irritability, disruptive behavior and improved morning mood, but did not alter salivary melatonin secretion in Japanese male schoolchildren. *Sleep* (vorab online 2023, Print 2025).
-→ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12574898/
+Check: **
+
+Maeda-Nishino, N. J., Yoshimoto, R., Ono, T., Chiba, S., & Nishino, S. (2025).** Partial blue light blocking glasses at night advanced sleep phase and reduced daytime irritability, disruptive behavior and improved morning mood, but did not alter salivary melatonin secretion in Japanese male schoolchildren. *PloS one*, *20*(10), e0332877. https://doi.org/10.1371/journal.pone.0332877
+
 
 *Neuere Forschung: Blaulicht-Blockerbrillen verbesserten Schlafzeiten bei Schulkindern – der Effekt war aber nicht über Melatonin vermittelt. Bestätigt: Der Zusammenhang zwischen Licht und Schlaf ist komplexer als oft dargestellt (vgl. Infobox 1, LH4).*
 
 ---
 
-**Hester, L. et al. (2021).** Interventions to reduce short-wavelength ("blue") light exposure at night and their effects on sleep: A systematic review and meta-analysis. *SLEEP Advances, 2*(1), zpaa002.
-→ https://academic.oup.com/sleepadvances/article/1/1/zpaa002/5851240
+Check:
+
+**Ari Shechter, Kristal A Quispe, Jennifer S Mizhquiri Barbecho, Cody Slater, Louise Falzon***, Interventions to reduce short-wavelength (“blue”) light exposure at night and their effects on sleep: A systematic review and meta-analysis, *SLEEP Advances*, Volume 1, Issue 1, 2020, zpaa002, https://doi.org/10.1093/sleepadvances/zpaa002
 
 *Systematisches Review und Meta-Analyse: Maßnahmen zur Reduzierung von blauem Abendlicht verbessern Schlafparameter – jedoch mit unterschiedlich starken Effekten je nach Intervention. Differenzierte Einschätzung der Blaulicht-Wirkung.*
 
@@ -42,12 +47,16 @@ Alle URLs wurden geprüft (Stand: Juni 2026).
 
 ### Social Jetlag & Chronotypen
 
+Check:
+
 **Roenneberg, T., Allebrandt, K. V., Merrow, M. & Vetter, C. (2012).** Social Jetlag and Obesity. *Current Biology, 22*(10), 939–943.
 → https://www.cell.com/current-biology/fulltext/S0960-9822(12)00325-9
 
 *Grundlagenpaper zum Social Jetlag: Die Diskrepanz zwischen biologisch bevorzugtem Schlafzeitpunkt (Chronotyp) und gesellschaftlich vorgegebenen Zeiten (Schule, Arbeit) ist messbar und hat gesundheitliche Folgen. Roenneberg, LMU München, gilt als Begründer des Konzepts.*
 
 ---
+
+Check:
 
 **Roenneberg, T., Wirz-Justice, A. & Merrow, M. (2003).** Life between clocks: Daily temporal patterns of human chronotypes. *Journal of Biological Rhythms, 18*(1), 80–90.
 → https://pubmed.ncbi.nlm.nih.gov/12568247/
@@ -58,21 +67,26 @@ Alle URLs wurden geprüft (Stand: Juni 2026).
 
 ### Digitale Medien & Schlaf (FOMO, Bildschirmzeit, Scrollen)
 
+Check:
+
 **Bauducco, S., Pillion, M., Bartel, K., Reynolds, C., Kahn, M. & Gradisar, M. (2024).** A bidirectional model of sleep and technology use: A theoretical review. *Sleep Medicine Reviews, 76*, 101941.
-→ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11964217/
+→ https://pubmed.ncbi.nlm.nih.gov/38657359/
 
 *Aktuelles theoretisches Review von Gradisar et al.: Passives Scrollen wirkt schlafstörender als aktive Kommunikation (z. B. Schreiben mit Freunden) – der Inhalt und die Art der Nutzung entscheiden, nicht nur die Bildschirmzeit. Grundlage für Infobox 1 (LH4). Vgl. Phase 3, Variante B.*
 
 ---
 
-**Baminiwatta, A. et al. (2025).** Digital Devices Use and Sleep in Adolescents: An Umbrella Review. *International Journal of Environmental Research and Public Health, 22*(10), 1517.
-→ https://www.mdpi.com/1660-4601/22/10/1517
+Check:
+
+**Fiore, M., Arena, D., Crisafi, V., Grieco, V., Palella, M., Timperanza, C., Conti, A., Cuffari, G., & Ferrante, M. (2025)**. Digital Devices Use and Sleep in Adolescents: An Umbrella Review. *International Journal of Environmental Research and Public Health*, *22*(10), 1517. https://doi.org/10.3390/ijerph22101517
 
 *Dachreview über sieben Systematische Reviews und Meta-Analysen (127 Primärstudien, 867.000 Teilnehmende): Smartphones und Social-Media-Nutzung zeigen die stärksten negativen Effekte auf Schlafdauer, Einschlafzeit und Schlafqualität bei Jugendlichen.*
 
 ---
 
-**Cheng, L. J. et al. (2024).** Bedtime Screen Use Behaviors and Sleep Outcomes in Early Adolescents: A Prospective Cohort Study. *Journal of Adolescent Health, 75*(4), 631–638.
+Check:
+
+**Nagata, Cheng, et al. (2024).** Bedtime Screen Use Behaviors and Sleep Outcomes in Early Adolescents: A Prospective Cohort Study. *Journal of Adolescent Health, 75*(4), 631–638.
 → https://www.jahonline.org/article/S1054-139X(24)00289-1/fulltext
 
 *Längsschnittstudie: Abendliche Bildschirmnutzung (passives Scrollen, besonders Social Media) ist mit späterem Einschlafen, kürzerer Schlafdauer und schlechterer Schlafqualität bei Jugendlichen assoziiert.*
@@ -81,8 +95,11 @@ Alle URLs wurden geprüft (Stand: Juni 2026).
 
 ### Schlaf & psychische Gesundheit
 
-**Scott, H. et al. (2021).** Bedtime media use and sleep: evidence for bidirectional effects and associations with attention control in adolescents. *Sleep Health, 7*(5), 567–573.
-→ https://www.sleephealthjournal.org/article/S2352-7218(21)00110-8/abstract
+Check:
+
+**Leonard H, Khurana A, Hammond M (2021)**. Bedtime media use and sleep: evidence for bidirectional effects and associations with attention control in adolescents. *Sleep Health: Journal of the National Sleep Foundation*, 2021; 7, 491-499
+
+→ https://pubmed.ncbi.nlm.nih.gov/34023235/)
 
 *Bidirektionaler Zusammenhang zwischen Mediennutzung am Abend und Schlafqualität: Schlechter Schlaf fördert mehr abendliche Bildschirmnutzung – und umgekehrt. Zusätzlich: Zusammenhang mit reduzierter Aufmerksamkeitskontrolle.*
 
@@ -96,6 +113,8 @@ Alle URLs wurden geprüft (Stand: Juni 2026).
 ---
 
 ### Verhaltensänderung & Wenn-Dann-Pläne
+
+Check:
 
 **Gollwitzer, P. M. (1999).** Implementation Intentions: Strong Effects of Simple Plans. *American Psychologist, 54*(7), 493–503.
 

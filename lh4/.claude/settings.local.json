@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pandoc DURCHBLICKT_LH4_Schlaf_MK.docx -t plain)",
+      "Bash(pandoc LH4_Arbeitsblaetter.docx -t plain)",
+      "Bash(pandoc --version)",
+      "Bash(python3 *)"
+    ]
+  }
+}

@@ -1,4 +1,5 @@
 # LH4 – Arbeitsblätter
+
 **„Schlaf gut! – Wie digitale Geräte unseren Schlaf beeinflussen"**
 
 *Lehrkräftehandreichung | DURCHBLICKT! – Digital in eine gesunde Zukunft | BARMER / Klett MEX*
@@ -7,30 +8,30 @@
 
 ## Übersicht
 
-| AB | Titel | Phase | Sozialform | Zielgruppe |
-|----|-------|-------|-----------|-----------|
-| AB 1A | Schaubild: Licht → Gehirn → Melatonin → Schlaf | 2 | Partnerarbeit | Sek. I |
-| AB 1B | Schaubild: Licht → Gehirn → Melatonin → Schlaf | 2 | Partnerarbeit | Sek. II |
-| AB 2aA | Fallbeispiel: Lena *(Pflicht)* | 3 | Gruppenarbeit | Sek. I |
-| AB 2aB | Fallbeispiel: Lena *(Pflicht)* | 3 | Gruppenarbeit | Sek. II |
-| AB 2bA | Fallbeispiel: Malik *(Pflicht)* | 3 | Gruppenarbeit | Sek. I |
-| AB 2bB | Fallbeispiel: Malik *(Pflicht)* | 3 | Gruppenarbeit | Sek. II |
-| AB 2cA | Fallbeispiel: Sarah *(optional / Vertiefung)* | 3 | Gruppenarbeit | Sek. I |
-| AB 2cB | Fallbeispiel: Sarah *(optional / Vertiefung)* | 3 | Gruppenarbeit | Sek. II |
-| AB 2dA | Fallbeispiel: Jonas *(optional / Vertiefung)* | 3 | Gruppenarbeit | Sek. I |
-| AB 2dB | Fallbeispiel: Jonas *(optional / Vertiefung)* | 3 | Gruppenarbeit | Sek. II |
-| AB 3A | Mein Abendritual | 4 | Partnerarbeit | Sek. I |
-| AB 3B | Mein Abendritual | 4 | Partnerarbeit | Sek. II |
-| AB 4A | Schlafprotokoll (7 Tage) | 4 + Follow-up | Einzelarbeit | Sek. I |
-| AB 4B | Schlafprotokoll (7 Tage) | 4 + Follow-up | Einzelarbeit | Sek. II |
-| PS AB 1 | Warum braucht mein Körper Schlaf? | 3 (GS) | Einzelarbeit + Sitzkreis | GS Kl. 3–4 |
-| PS AB 2 | Sortierspiel: Mein Abendritual | 4 (GS) | 2er-Paare | GS Kl. 3–4 |
-| AB 5aA | Blaues Licht & Nachtmodus *(optional / Projekttag)* | – | Gruppenarbeit | Sek. I |
-| AB 5aB | Blaues Licht & Nachtmodus *(optional / Projekttag)* | – | Gruppenarbeit | Sek. II |
-| AB 5bA | Inhalte, Aufregung & FOMO *(optional / Projekttag)* | – | Gruppenarbeit | Sek. I |
-| AB 5bB | Inhalte, Aufregung & FOMO *(optional / Projekttag)* | – | Gruppenarbeit | Sek. II |
-| AB 5cA | Warum ist Schlaf so wichtig? *(optional / Projekttag)* | – | Gruppenarbeit | Sek. I |
-| AB 5cB | Warum ist Schlaf so wichtig? *(optional / Projekttag)* | – | Gruppenarbeit | Sek. II |
+| AB      | Titel                                                  | Phase         | Sozialform               | Zielgruppe |
+| ------- | ------------------------------------------------------ | ------------- | ------------------------ | ---------- |
+| AB 1A   | Schaubild: Licht → Gehirn → Melatonin → Schlaf         | 2             | Partnerarbeit            | Sek. I     |
+| AB 1B   | Schaubild: Licht → Gehirn → Melatonin → Schlaf         | 2             | Partnerarbeit            | Sek. II    |
+| AB 2aA  | Fallbeispiel: Lena *(Pflicht)*                         | 3             | Gruppenarbeit            | Sek. I     |
+| AB 2aB  | Fallbeispiel: Lena *(Pflicht)*                         | 3             | Gruppenarbeit            | Sek. II    |
+| AB 2bA  | Fallbeispiel: Malik *(Pflicht)*                        | 3             | Gruppenarbeit            | Sek. I     |
+| AB 2bB  | Fallbeispiel: Malik *(Pflicht)*                        | 3             | Gruppenarbeit            | Sek. II    |
+| AB 2cA  | Fallbeispiel: Sarah *(optional / Vertiefung)*          | 3             | Gruppenarbeit            | Sek. I     |
+| AB 2cB  | Fallbeispiel: Sarah *(optional / Vertiefung)*          | 3             | Gruppenarbeit            | Sek. II    |
+| AB 2dA  | Fallbeispiel: Jonas *(optional / Vertiefung)*          | 3             | Gruppenarbeit            | Sek. I     |
+| AB 2dB  | Fallbeispiel: Jonas *(optional / Vertiefung)*          | 3             | Gruppenarbeit            | Sek. II    |
+| AB 3A   | Mein Abendritual                                       | 4             | Partnerarbeit            | Sek. I     |
+| AB 3B   | Mein Abendritual                                       | 4             | Partnerarbeit            | Sek. II    |
+| AB 4A   | Schlafprotokoll (7 Tage)                               | 4 + Follow-up | Einzelarbeit             | Sek. I     |
+| AB 4B   | Schlafprotokoll (7 Tage)                               | 4 + Follow-up | Einzelarbeit             | Sek. II    |
+| PS AB 1 | Warum braucht mein Körper Schlaf?                      | 3 (GS)        | Einzelarbeit + Sitzkreis | GS Kl. 3–4 |
+| PS AB 2 | Sortierspiel: Mein Abendritual                         | 4 (GS)        | 2er-Paare                | GS Kl. 3–4 |
+| AB 5aA  | Blaues Licht & Nachtmodus *(optional / Projekttag)*    | –             | Gruppenarbeit            | Sek. I     |
+| AB 5aB  | Blaues Licht & Nachtmodus *(optional / Projekttag)*    | –             | Gruppenarbeit            | Sek. II    |
+| AB 5bA  | Inhalte, Aufregung & FOMO *(optional / Projekttag)*    | –             | Gruppenarbeit            | Sek. I     |
+| AB 5bB  | Inhalte, Aufregung & FOMO *(optional / Projekttag)*    | –             | Gruppenarbeit            | Sek. II    |
+| AB 5cA  | Warum ist Schlaf so wichtig? *(optional / Projekttag)* | –             | Gruppenarbeit            | Sek. I     |
+| AB 5cB  | Warum ist Schlaf so wichtig? *(optional / Projekttag)* | –             | Gruppenarbeit            | Sek. II    |
 
 ---
 
@@ -191,6 +192,7 @@ ABENDS: BILDSCHIRMLICHT
 ### Lösungshinweise für Lehrkräfte (AB 1A / AB 1B)
 
 **Schaubild-Lösung:**
+
 - Zirkadianer Rhythmus nimmt das Licht wahr (über spezialisierte Ganglienzellen in der Netzhaut, die direkt mit dem suprachiasmatischen Kern verbunden sind)
 - Signal: „Es ist noch Tag"
 - Melatonin wird gehemmt
@@ -223,20 +225,20 @@ Wenn sie das Handy endlich weglegt, dreht sie sich noch lange hin und her. Manch
 ### Analysefragen
 
 1. Was macht Lena vor dem Schlafen – und warum ist das problematisch?
-
-   _______________________________________________
+   
+   ---
 
 2. Welche biologischen Prozesse werden durch ihr Verhalten gestört? (Nutzt, was ihr in Phase 2 gelernt habt)
-
-   _______________________________________________
+   
+   ---
 
 3. Lena denkt, Instagram entspannt sie. Was könnte wirklich passieren?
-
-   _______________________________________________
+   
+   ---
 
 4. Was könnte Lena konkret ändern – und was macht das schwer?
-
-   _______________________________________________
+   
+   ---
 
 ---
 
@@ -265,19 +267,19 @@ Wenn sie das Handy endlich weglegt, dreht sie sich noch lange hin und her. Manch
 ### Analysefragen
 
 1. Was macht Lena vor dem Schlafen – und warum ist das problematisch?
-
+   
    _______________________________________________
 
 2. Welche biologischen Prozesse werden durch ihr Verhalten gestört? (Nutzt, was ihr in Phase 2 gelernt habt)
-
+   
    _______________________________________________
 
 3. Lena denkt, Instagram entspannt sie. Was könnte wirklich passieren?
-
+   
    _______________________________________________
 
 4. Was könnte Lena konkret ändern – und was macht das schwer?
-
+   
    _______________________________________________
 
 5. Lena hat Instagram als Einschlafritual konditioniert. Was bedeutet das – und warum ist es schwer, das aufzugeben?
@@ -324,15 +326,15 @@ Er schläft meistens innerhalb von 15–20 Minuten ein. Morgens wacht er ohne We
 ### Analysefragen
 
 1. Was macht Malik anders als Lena? Listet die Unterschiede auf.
-
+   
    _______________________________________________
 
 2. Warum schläft Malik schneller ein? Welche biologischen Prozesse helfen dabei?
-
+   
    _______________________________________________
 
 3. Was können wir von Maliks Abend für unseren eigenen übernehmen?
-
+   
    _______________________________________________
 
 ---
@@ -362,15 +364,15 @@ Er schläft meistens innerhalb von 15–20 Minuten ein. Morgens wacht er ohne We
 ### Analysefragen
 
 1. Was macht Malik anders als Lena? Listet die Unterschiede auf.
-
+   
    _______________________________________________
 
 2. Warum schläft Malik schneller ein? Welche biologischen Prozesse helfen dabei?
-
+   
    _______________________________________________
 
 3. Was können wir von Maliks Abend für unseren eigenen übernehmen?
-
+   
    _______________________________________________
 
 4. Maliks Ritual ist unbewusst entstanden – er hat nie „beschlossen", kein Handy abends zu nutzen. Was sagt das darüber, wie Gewohnheiten entstehen?
@@ -388,6 +390,7 @@ Person → Verhalten → Schlafqualität → Erklärung → Was können wir mitn
 ### Lösungshinweise für Lehrkräfte (AB 2bA / AB 2bB)
 
 **Warum Malik gut schläft:**
+
 - Kein Blaulicht: Buch (Print) sendet kein Licht aus; Umgebungslicht ist warm und gedämpft
 - Beruhigende Inhalte: Lesen ist kognitiv aktiver als scrollen, aber weniger emotional aufwühlend; bremst das Tempo der Gedanken
 - Klare Grenze: Handy weg = keine sozialen Notifications; kein FOMO
@@ -419,19 +422,19 @@ Morgens ist sie erschöpft. Sie erklärt das damit, dass sie „einfach keinen g
 ### Analysefragen
 
 1. Was sind Sarahs konkrete Schlafprobleme?
-
+   
    _______________________________________________
 
 2. Welche Faktoren stören ihren Schlaf – welche Rolle spielen Netflix und das Smartphone?
-
+   
    _______________________________________________
 
 3. Sarah sieht keinen Zusammenhang. Was würdet ihr ihr sagen?
-
+   
    _______________________________________________
 
 4. Was könnte Sarah konkret und sofort ändern?
-
+   
    _______________________________________________
 
 ---
@@ -463,19 +466,19 @@ Morgens ist sie erschöpft. Sie erklärt das damit, dass sie „einfach keinen g
 ### Analysefragen
 
 1. Was sind Sarahs konkrete Schlafprobleme?
-
+   
    _______________________________________________
 
 2. Welche Faktoren stören ihren Schlaf – welche Rolle spielen Netflix und das Smartphone?
-
+   
    _______________________________________________
 
 3. Sarah sieht keinen Zusammenhang. Was würdet ihr ihr sagen?
-
+   
    _______________________________________________
 
 4. Was könnte Sarah konkret und sofort ändern?
-
+   
    _______________________________________________
 
 5. Sarah ist im „Always-on-Modus" – auch im Schlaf. Was bedeutet das für das Nervensystem?
@@ -527,19 +530,19 @@ Er weiß nicht genau, warum sein Ritual so gut funktioniert – er macht es einf
 ### Analysefragen
 
 1. Was macht Jonas in seinem Abendritual – und warum wirkt das?
-
+   
    _______________________________________________
 
 2. Welche biologischen Prozesse werden durch sein Ritual unterstützt?
-
+   
    _______________________________________________
 
 3. Jonas weiß nicht genau, warum es funktioniert. Könnt ihr es ihm erklären?
-
+   
    _______________________________________________
 
 4. Was von Jonas' Ritual könnt ihr für euch übernehmen?
-
+   
    _______________________________________________
 
 ---
@@ -571,19 +574,19 @@ Er weiß nicht genau, warum sein Ritual so gut funktioniert – er macht es einf
 ### Analysefragen
 
 1. Was macht Jonas in seinem Abendritual – und warum wirkt das?
-
+   
    _______________________________________________
 
 2. Welche biologischen Prozesse werden durch sein Ritual unterstützt?
-
+   
    _______________________________________________
 
 3. Jonas weiß nicht genau, warum es funktioniert. Könnt ihr es ihm erklären?
-
+   
    _______________________________________________
 
 4. Was von Jonas' Ritual könnt ihr für euch übernehmen?
-
+   
    _______________________________________________
 
 5. Jonas' Ritual ist ein Beispiel für **Konditionierung**: Das Gehirn assoziiert die Playlist mit Schlaf. Erklärt diesen Mechanismus und zeigt, wie er sich auf neue Rituale übertragen lässt.
@@ -601,6 +604,7 @@ Person → Verhalten → Schlafqualität → Erklärung → Was können wir mitn
 ### Lösungshinweise für Lehrkräfte (AB 2dA / AB 2dB)
 
 **Warum Jonas' Ritual wirkt:**
+
 - Kein Blaulicht: Handy weggelegt, keine Bildschirmnutzung mehr
 - Ruhige Musik: senkt Herzfrequenz, entspannt Muskulatur; kein kognitiver Input
 - Atemübung: aktiviert parasympathisches Nervensystem (Rest & Digest) → Gegengewicht zu Sympathikus (Fight & Flight)
@@ -643,18 +647,19 @@ Wähle aus der Liste oder füge eigene Ideen hinzu:
 
 **Schritt 2: Mein konkretes Ritual**
 
-| Uhrzeit | Was ich mache | Warum das hilft |
-|---------|--------------|----------------|
-| Ab ______ Uhr | Handy weglegen / auf Schreibtisch | Kein Blaulicht, keine Notifications |
-| ______ – ______ Uhr | | |
-| ______ – ______ Uhr | | |
-| ______ Uhr | Schlafen gehen | |
+| Uhrzeit             | Was ich mache                     | Warum das hilft                     |
+| ------------------- | --------------------------------- | ----------------------------------- |
+| Ab ______ Uhr       | Handy weglegen / auf Schreibtisch | Kein Blaulicht, keine Notifications |
+| ______ – ______ Uhr |                                   |                                     |
+| ______ – ______ Uhr |                                   |                                     |
+| ______ Uhr          | Schlafen gehen                    |                                     |
 
 ---
 
 **Schritt 3: Austausch mit der Partnerin / dem Partner**
 
 Zeigt euch eure Rituale. Besprecht:
+
 - Was klingt gut umsetzbar?
 - Was könnte schwierig sein?
 - Habt ihr Ideen füreinander?
@@ -683,13 +688,13 @@ _______________________________________________
 
 **SMART-Ziel:**
 
-| | Mein Ziel |
-|---|---|
-| **S**pezifisch (Was genau?) | |
-| **M**essbar (Woran merke ich es?) | |
-| **A**ttraktiv (Warum will ich das?) | |
-| **R**ealistisch (Ist das machbar?) | |
-| **T**erminiert (Ab wann?) | |
+|                                     | Mein Ziel |
+| ----------------------------------- | --------- |
+| **S**pezifisch (Was genau?)         |           |
+| **M**essbar (Woran merke ich es?)   |           |
+| **A**ttraktiv (Warum will ich das?) |           |
+| **R**ealistisch (Ist das machbar?)  |           |
+| **T**erminiert (Ab wann?)           |           |
 
 ---
 
@@ -736,25 +741,25 @@ Das ist kein Test. Es geht nicht darum, „richtig" zu schlafen. Es geht darum, 
 
 ### Schlafqualität: Skala 1–5
 
-| 1 | 2 | 3 | 4 | 5 |
-|---|---|---|---|---|
+| 1                                           | 2                         | 3                              | 4                       | 5                                   |
+| ------------------------------------------- | ------------------------- | ------------------------------ | ----------------------- | ----------------------------------- |
 | Sehr schlecht – kaum geschlafen, total müde | Schlecht – wenig, unruhig | Okay – weder gut noch schlecht | Gut – erholt aufgewacht | Sehr gut – tief und lang geschlafen |
 
 ---
 
 ### Das Protokoll
 
-| | Tag 1 | Tag 2 | Tag 3 | Tag 4 | Tag 5 | Tag 6 | Tag 7 |
-|-|-|-|-|-|-|-|-|
-| **Datum** | | | | | | | |
-| **Einschlafzeit** *(geschätzt)* | | | | | | | |
-| **Aufwachzeit** | | | | | | | |
-| **Schlafdauer** *(geschätzt)* | | | | | | | |
-| **Bildschirm in letzter Stunde vor Schlaf?** ☐ Ja / ☐ Nein | | | | | | | |
-| **Falls ja: Was?** *(Instagram, Netflix, Handy…)* | | | | | | | |
-| **Falls ja: Wie lange?** | | | | | | | |
-| **Schlafqualität (1–5)** | | | | | | | |
-| **Notiz** *(was war heute besonders?)* | | | | | | | |
+|                                                            | Tag 1 | Tag 2 | Tag 3 | Tag 4 | Tag 5 | Tag 6 | Tag 7 |
+| ---------------------------------------------------------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| **Datum**                                                  |       |       |       |       |       |       |       |
+| **Einschlafzeit** *(geschätzt)*                            |       |       |       |       |       |       |       |
+| **Aufwachzeit**                                            |       |       |       |       |       |       |       |
+| **Schlafdauer** *(geschätzt)*                              |       |       |       |       |       |       |       |
+| **Bildschirm in letzter Stunde vor Schlaf?** ☐ Ja / ☐ Nein |       |       |       |       |       |       |       |
+| **Falls ja: Was?** *(Instagram, Netflix, Handy…)*          |       |       |       |       |       |       |       |
+| **Falls ja: Wie lange?**                                   |       |       |       |       |       |       |       |
+| **Schlafqualität (1–5)**                                   |       |       |       |       |       |       |       |
+| **Notiz** *(was war heute besonders?)*                     |       |       |       |       |       |       |       |
 
 ---
 
@@ -763,23 +768,23 @@ Das ist kein Test. Es geht nicht darum, „richtig" zu schlafen. Es geht darum, 
 Schau dir dein Protokoll an und beantworte die Fragen:
 
 1. An welchen Tagen hast du am besten geschlafen? Was hast du an diesen Abenden gemacht?
-
+   
    _______________________________________________
 
 2. An welchen Tagen hast du am schlechtesten geschlafen? Was hast du an diesen Abenden gemacht?
-
+   
    _______________________________________________
 
 3. Gibt es einen Zusammenhang zwischen deiner Bildschirmzeit und deiner Schlafqualität? Was beobachtest du?
-
+   
    _______________________________________________
 
 4. Was hat dich überrascht?
-
+   
    _______________________________________________
 
 5. Was nimmst du aus diesem Experiment mit?
-
+   
    _______________________________________________
 
 ---
@@ -814,25 +819,25 @@ _______________________________________________
 
 ### Schlafqualität: Skala 1–5
 
-| 1 | 2 | 3 | 4 | 5 |
-|---|---|---|---|---|
+| 1                                           | 2                         | 3                              | 4                       | 5                                   |
+| ------------------------------------------- | ------------------------- | ------------------------------ | ----------------------- | ----------------------------------- |
 | Sehr schlecht – kaum geschlafen, total müde | Schlecht – wenig, unruhig | Okay – weder gut noch schlecht | Gut – erholt aufgewacht | Sehr gut – tief und lang geschlafen |
 
 ---
 
 ### Das Protokoll
 
-| | Tag 1 | Tag 2 | Tag 3 | Tag 4 | Tag 5 | Tag 6 | Tag 7 |
-|-|-|-|-|-|-|-|-|
-| **Datum** | | | | | | | |
-| **Einschlafzeit** *(geschätzt)* | | | | | | | |
-| **Aufwachzeit** | | | | | | | |
-| **Schlafdauer** *(geschätzt)* | | | | | | | |
-| **Bildschirm in letzter Stunde vor Schlaf?** ☐ Ja / ☐ Nein | | | | | | | |
-| **Falls ja: Was?** *(Instagram, Netflix, Handy…)* | | | | | | | |
-| **Falls ja: Wie lange?** | | | | | | | |
-| **Schlafqualität (1–5)** | | | | | | | |
-| **Notiz** *(was war heute besonders?)* | | | | | | | |
+|                                                            | Tag 1 | Tag 2 | Tag 3 | Tag 4 | Tag 5 | Tag 6 | Tag 7 |
+| ---------------------------------------------------------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| **Datum**                                                  |       |       |       |       |       |       |       |
+| **Einschlafzeit** *(geschätzt)*                            |       |       |       |       |       |       |       |
+| **Aufwachzeit**                                            |       |       |       |       |       |       |       |
+| **Schlafdauer** *(geschätzt)*                              |       |       |       |       |       |       |       |
+| **Bildschirm in letzter Stunde vor Schlaf?** ☐ Ja / ☐ Nein |       |       |       |       |       |       |       |
+| **Falls ja: Was?** *(Instagram, Netflix, Handy…)*          |       |       |       |       |       |       |       |
+| **Falls ja: Wie lange?**                                   |       |       |       |       |       |       |       |
+| **Schlafqualität (1–5)**                                   |       |       |       |       |       |       |       |
+| **Notiz** *(was war heute besonders?)*                     |       |       |       |       |       |       |       |
 
 ---
 
@@ -841,23 +846,23 @@ _______________________________________________
 Schau dir dein Protokoll an und beantworte die Fragen:
 
 1. An welchen Tagen hast du am besten geschlafen? Was hast du an diesen Abenden gemacht?
-
+   
    _______________________________________________
 
 2. An welchen Tagen hast du am schlechtesten geschlafen? Was hast du an diesen Abenden gemacht?
-
+   
    _______________________________________________
 
 3. Gibt es einen Zusammenhang zwischen deiner Bildschirmzeit und deiner Schlafqualität? Was beobachtest du?
-
+   
    _______________________________________________
 
 4. Was hat dich überrascht?
-
+   
    _______________________________________________
 
 5. Was nimmst du aus diesem Experiment mit?
-
+   
    _______________________________________________
 
 Hat sich deine Hypothese bestätigt? Was erklärt das?
@@ -1033,16 +1038,16 @@ Ihr seid die Expert:innen-Gruppe für Inhalte, Aufregung und FOMO. Bearbeitet di
 
 Bewertet die folgenden Abendmedien: Macht euch jede Aktivität eher schläfriger oder wacher? Kreuzt an und begründet.
 
-| Abendaktivität | eher wach | eher müde | Begründung |
-|---------------|-----------|-----------|-----------|
-| TikTok-Feed scrollen | ☐ | ☐ | |
-| Spannende Serie schauen | ☐ | ☐ | |
-| Entspannende Playlist hören | ☐ | ☐ | |
-| WhatsApp-Gruppe mitverfolgen | ☐ | ☐ | |
-| Videospiel spielen (online, kompetitiv) | ☐ | ☐ | |
-| Ruhiges Buch lesen (Print) | ☐ | ☐ | |
-| Nachrichten lesen | ☐ | ☐ | |
-| Entspannungs-Podcast hören | ☐ | ☐ | |
+| Abendaktivität                          | eher wach | eher müde | Begründung |
+| --------------------------------------- | --------- | --------- | ---------- |
+| TikTok-Feed scrollen                    | ☐         | ☐         |            |
+| Spannende Serie schauen                 | ☐         | ☐         |            |
+| Entspannende Playlist hören             | ☐         | ☐         |            |
+| WhatsApp-Gruppe mitverfolgen            | ☐         | ☐         |            |
+| Videospiel spielen (online, kompetitiv) | ☐         | ☐         |            |
+| Ruhiges Buch lesen (Print)              | ☐         | ☐         |            |
+| Nachrichten lesen                       | ☐         | ☐         |            |
+| Entspannungs-Podcast hören              | ☐         | ☐         |            |
 
 ---
 
@@ -1063,15 +1068,15 @@ FOMO = **Fear of Missing Out** – die Angst, etwas zu verpassen.
 Beantwortet die Fragen:
 
 1. Wie zeigt sich FOMO vor dem Schlafen? (Beispiele aus dem Alltag)
-
+   
    _______________________________________________
 
 2. Warum legt man das Handy trotzdem nicht weg, obwohl man weiß, dass man schlafen sollte?
-
+   
    _______________________________________________
 
 3. Was könnte helfen, FOMO vor dem Schlafen zu reduzieren?
-
+   
    _______________________________________________
 
 ---
@@ -1102,16 +1107,16 @@ Ihr seid die Expert:innen-Gruppe für Inhalte, Aufregung und FOMO. Bearbeitet di
 
 Bewertet die folgenden Abendmedien: Macht euch jede Aktivität eher schläfriger oder wacher? Kreuzt an und begründet.
 
-| Abendaktivität | eher wach | eher müde | Begründung |
-|---------------|-----------|-----------|-----------|
-| TikTok-Feed scrollen | ☐ | ☐ | |
-| Spannende Serie schauen | ☐ | ☐ | |
-| Entspannende Playlist hören | ☐ | ☐ | |
-| WhatsApp-Gruppe mitverfolgen | ☐ | ☐ | |
-| Videospiel spielen (online, kompetitiv) | ☐ | ☐ | |
-| Ruhiges Buch lesen (Print) | ☐ | ☐ | |
-| Nachrichten lesen | ☐ | ☐ | |
-| Entspannungs-Podcast hören | ☐ | ☐ | |
+| Abendaktivität                          | eher wach | eher müde | Begründung |
+| --------------------------------------- | --------- | --------- | ---------- |
+| TikTok-Feed scrollen                    | ☐         | ☐         |            |
+| Spannende Serie schauen                 | ☐         | ☐         |            |
+| Entspannende Playlist hören             | ☐         | ☐         |            |
+| WhatsApp-Gruppe mitverfolgen            | ☐         | ☐         |            |
+| Videospiel spielen (online, kompetitiv) | ☐         | ☐         |            |
+| Ruhiges Buch lesen (Print)              | ☐         | ☐         |            |
+| Nachrichten lesen                       | ☐         | ☐         |            |
+| Entspannungs-Podcast hören              | ☐         | ☐         |            |
 
 ---
 
@@ -1132,15 +1137,15 @@ FOMO = **Fear of Missing Out** – die Angst, etwas zu verpassen.
 Beantwortet die Fragen:
 
 1. Wie zeigt sich FOMO vor dem Schlafen? (Beispiele aus dem Alltag)
-
+   
    _______________________________________________
 
 2. Warum legt man das Handy trotzdem nicht weg, obwohl man weiß, dass man schlafen sollte?
-
+   
    _______________________________________________
 
 3. Was könnte helfen, FOMO vor dem Schlafen zu reduzieren?
-
+   
    _______________________________________________
 
 4. Welche psychologischen Bedürfnisse stecken hinter FOMO? (Zugehörigkeit, Anerkennung, Kontrolle…)
@@ -1212,17 +1217,17 @@ Schlafmangel beeinflusst Hunger-regulierende Hormone (Ghrelin ↑, Leptin ↓) �
 ### Aufgabe
 
 1. **Markiert die drei Fakten, die euch am meisten überrascht haben.** Schreibt sie hier auf:
-
+   
    1. _______________________________________________
    2. _______________________________________________
    3. _______________________________________________
 
 2. **Erklärt einen dieser Fakten mit eigenen Worten** – so, dass auch jemand, der den Text nicht gelesen hat, ihn versteht:
-
+   
    _______________________________________________
 
 3. **Warum ist Schlafmangel für Jugendliche besonders problematisch?** (Nutzt mindestens zwei Informationen aus der Infografik)
-
+   
    _______________________________________________
 
 ---
@@ -1274,17 +1279,17 @@ Schlafmangel beeinflusst Hunger-regulierende Hormone (Ghrelin ↑, Leptin ↓) �
 ### Aufgabe
 
 1. **Markiert die drei Fakten, die euch am meisten überrascht haben.** Schreibt sie hier auf:
-
+   
    1. _______________________________________________
    2. _______________________________________________
    3. _______________________________________________
 
 2. **Erklärt einen dieser Fakten mit eigenen Worten** – so, dass auch jemand, der den Text nicht gelesen hat, ihn versteht:
-
+   
    _______________________________________________
 
 3. **Warum ist Schlafmangel für Jugendliche besonders problematisch?** (Nutzt mindestens zwei Informationen aus der Infografik)
-
+   
    _______________________________________________
 
 4. Welche Erkenntnisse aus der Infografik sind für euch persönlich am relevantesten – und warum?
@@ -1306,6 +1311,7 @@ Schlafmangel beeinflusst Hunger-regulierende Hormone (Ghrelin ↑, Leptin ↓) �
 ### Lösungshinweise für Lehrkräfte (AB 5cA / AB 5cB)
 
 **Häufig überraschende Fakten:**
+
 - Gehirn „reinigt" sich nachts (Glymphsystem) – den meisten unbekannt
 - 4× höheres Erkältungsrisiko bei 6h Schlaf – Zahl wirkt überzeugend
 - Schlaf konsolidiert Gelerntes – hat direkte Relevanz für Schule
@@ -1430,8 +1436,8 @@ Die Zettel werden auf das Plakat geklebt.
 Sortiert die Karten in zwei Gruppen:
 
 | 😴 Macht eher müde | ⚡ Hält eher wach |
-|-------------------|--------------------|
-| | |
+| ------------------ | ---------------- |
+|                    |                  |
 
 ---
 
@@ -1439,31 +1445,31 @@ Sortiert die Karten in zwei Gruppen:
 
 *(Ausdrucken, ausschneiden oder als Liste vorlesen)*
 
-| Karte | Aktivität |
-|-------|----------|
-| 📚 | Buch lesen (Print) |
-| 📱 | Auf dem Handy scrollen |
-| 🎮 | Videospiel spielen (online mit Freunden) |
-| 🎵 | Ruhige Musik hören (leise, kein Gesang) |
-| 📺 | Aufregende Serie schauen |
-| 🤗 | Kuscheln / Gute-Nacht-Geschichte hören |
-| 💬 | Mit Freunden chatten / auf Nachrichten warten |
-| 🌙 | Ruhig liegen und atmen |
-| 🎧 | Laute Musik hören |
-| ✏️ | Zeichnen oder Malen |
-| 👾 | Ruhiges Einzelspieler-Spiel (ohne Online) |
-| 💡 | Alle Lichter anlassen und viel los |
+| Karte | Aktivität                                     |
+| ----- | --------------------------------------------- |
+| 📚    | Buch lesen (Print)                            |
+| 📱    | Auf dem Handy scrollen                        |
+| 🎮    | Videospiel spielen (online mit Freunden)      |
+| 🎵    | Ruhige Musik hören (leise, kein Gesang)       |
+| 📺    | Aufregende Serie schauen                      |
+| 🤗    | Kuscheln / Gute-Nacht-Geschichte hören        |
+| 💬    | Mit Freunden chatten / auf Nachrichten warten |
+| 🌙    | Ruhig liegen und atmen                        |
+| 🎧    | Laute Musik hören                             |
+| ✏️    | Zeichnen oder Malen                           |
+| 👾    | Ruhiges Einzelspieler-Spiel (ohne Online)     |
+| 💡    | Alle Lichter anlassen und viel los            |
 
 ---
 
 ### Nach dem Sortieren: Besprecht gemeinsam
 
 1. **Welche Karte war schwierig einzusortieren?** (z. B. ruhiges Videospiel, Podcast)
-
+   
    _______________________________________________
 
 2. **Was macht der Unterschied?** (Warum macht manches müde und anderes wach?)
-
+   
    _______________________________________________
 
 ---
