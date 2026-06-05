@@ -177,6 +177,26 @@ Die Gegenüberstellung von „gut geschlafen" und „Handy dabei" macht den mög
 
 **Startervideo – Videokonzept**
 
+Nachträglich eingefügte Beschreibung (05.06.26):
+
+ Videoinhalt – VORSCHLAG: Der Abend davor
+
+  Der Clip zeigt einen Jugendlichen spät nachts im Bett: Smartphone in der Hand, das Zimmer in blaues Licht getaucht,
+  die Uhr zeigt kurz vor Mitternacht. Parallel läuft eine Animation: Im Gehirn beginnt Melatonin zu steigen – das Signal
+  zum Einschlafen. Doch jedes Aufleuchten des Displays sendet das Gegensignal: „Es ist noch Tag." Der Melatonin-Spiegel
+  fällt. Das Einschlafen zieht sich hin.
+
+  Zweite Szene: Derselbe Jugendliche am nächsten Morgen. Schwere Augenlider. Ein verpasster Bus. Ein kurzer, verlorener
+  Blick in den Spiegel – ohne zu verstehen, warum.
+
+  Kein Kommentar, keine Wertung. Nur die Beobachtung: Zwischen dem Bildschirm und dem Schlaf passiert etwas
+  Biologisches. Etwas, das sich nicht von selbst erklärt.
+
+  Abschluss-Einblender: „Was passiert eigentlich in deinem Körper und Gehirn, wenn du abends am Bildschirm bist?"
+
+  Das Video erzeugt Neugier ohne Schuldzuweisung und öffnet die Einheit mit einer Frage, die sich die meisten Lernenden
+  selbst stellen könnten.
+
 Das Video ist bewusst stimmungsbildend, nicht informierend. Es soll Wiederkennen und Betroffenheit erzeugen – keine Erklärung liefern, kein Urteil fällen.
 
 *Arbeitstitel:* „Noch wach?" | *Länge:* ca. 60–90 Sek. | *Format:* 16:9 (Beamer) oder 9:16 (Portrait-Variante für Mobilformat)
